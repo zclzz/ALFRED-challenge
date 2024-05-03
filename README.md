@@ -10,18 +10,18 @@
 
 ## Setting up the environment
 
-Please follow [Prompter](https://github.com/hitachi-rd-cv/prompter-alfred) repository and directions for setting up the environment which my system is based on. My code is a fork of Prompter 
+Please follow [Prompter](https://github.com/hitachi-rd-cv/prompter-alfred) repository and directions for setting up the environment which my system is based on. You should ensure that your environment has the packages sepcified by requirements.txt
 
-PLease make sure that you are using **Python 3.6** and **AI2THOR ver. 2.1.0**.
+Make sure that you are using **Python 3.6** and **AI2THOR version 2.1.0**. In my experience, using other versions were not compatible.
 
 ### Dataset
 
 
 Please download the [dataset](https://github.com/askforalfred/alfred/tree/master/data) from here.
 
-   - Follow the instructions in the [FILM](https://github.com/soyeonm/FILM) repo to get started ensuring that your files are structured in a similar manner
+   - Follow the instructions in the [FILM](https://github.com/soyeonm/FILM) repo to get started, ensure that your files are structured in a similar manner
 
-   - The last step asks to create a soft link from `json_2.1.0` to `alfred_data_all`. However, in my experience I had to link from `alfred_feat_2.1.0`.
+   - The last step asks to create a soft link from `json_2.1.0` to `alfred_data_all`. However, in my experience, I had to link from `alfred_feat_2.1.0`. This step is important as it pulls the images and features using the soft link for the simulation runs, ensure that you set it up properly. Amend the following line:
      ```bash
      # before
      ln -s $ALFRED_ROOT/data/json_2.1.0 $FILM/alfred_data_all
@@ -44,9 +44,9 @@ Please download the [dataset](https://github.com/askforalfred/alfred/tree/master
       ```
 
 
-## Training / Evaluation
+## Training
 
-My agent relies on the pre-trained segmentation models, however, the large language models for language understanding were self-trained and fine-tuned.
+My agent relies on the pre-trained segmentation models, however, large language models for language understanding were self-trained and fine-tuned. I have also stored the top 5 generations of the beam search algorithm used to obtain the top k promising action sequences.
 
 If you plan on using some pre-trained language models trained by FILM, please follow the instructions below:
 
@@ -65,6 +65,7 @@ If you plan on using some pre-trained language models trained by FILM, please fo
 ## Acknowledgements
 
 My agent's system is based on [Prompter's repository](https://github.com/hitachi-rd-cv/prompter-alfred) and [FILM's repository](https://github.com/soyeonm/FILM).
+Please remember to cite their work as well, should you decide to build upon my repo.
 
 
 
