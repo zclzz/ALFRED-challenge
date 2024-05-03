@@ -2,7 +2,7 @@
 
 [Strategic Task Execution: Integrating Large Language Models, POMDP, and Customized Reordering Policy for Sequence Selection
 ](https://zclzz.github.io/alfred_blog/)<br />
-Chao Zhou Lim(https://zclzz.github.io/portfolio/), advised by Dr. Kim Jung-Jae and Dr. Goh Shen Tat<br />
+[Chao Zhou Lim](https://zclzz.github.io/portfolio/), advised by Dr. Kim Jung-Jae and Dr. Goh Shen Tat<br />
 
 ![example](./miscellaneous/coffee_edited-ezgif.com-optimize.gif)
 
