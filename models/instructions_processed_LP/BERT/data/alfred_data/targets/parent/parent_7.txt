@@ -1,0 +1,460 @@
+move the keys from the table to the sofa 6
+bring the keys to the couch 7
+put keys on the couch 8
+moving the keys to the sofa 9
+move a set of keys to the couch 10
+move the keys from the coffee table to the couch 11
+move keys to a couch  12
+move keys to the sofa 13
+move the keys from the coffee table to the couch 14
+move a credit card to the checkered couch 33
+put credit card on couch 34
+move the credit card to the couch  35
+move a credit card from a coffee table to a sofa 36
+put a credit card on the couch 37
+move the credit card to the couch 38
+put a credit card on a couch 39
+move a credit card to the checkered couch 40
+put credit card on couch 41
+to move two remotes from the living room table to the couch 211
+put two remotes on the couch 212
+to move two remotes to the couch  213
+place two remote controllers on the couch 214
+to move two remotes to the couch  215
+putting two remotes on a sofa 216
+putting two remotes on the blue sofa 217
+put two remotes on the couch 218
+to move two remotes from the living room table to the couch 219
+pick up the keys and put them on the gray couch 1639
+move the keys from the desk to the couch 1640
+put the keys on the couch 1641
+move a set of keys to the couch 1642
+move keys from table to couch 1643
+move keys from the coffee table to the couch 1644
+put the keys on the couch 1645
+put the keys on the sofa 1646
+put car keys on the couch 1647
+put a box with a remote control in it on a couch 1889
+place a box with a remote in it on the sofa with a remote on it 1890
+put a remote in the box and move them to the couch 1891
+put the remote away in the box on the couch 1892
+put the box with remote on the loveseat 1893
+place the remote in the box and move them to the couch 1894
+put the remote in the box put the box on the couch 1895
+put the box with remote on the sofa 1896
+put a box with a remote control in it on the couch 1897
+put two newspapers on the couch 1910
+gather the newspapers and place them in the middle of the couch 1911
+put two papers on the couch 1912
+move two newspapers to the sofa 1913
+to move two newspapers to the middle cushion of the green couch  1914
+put two papers on the couch 1915
+to move two newspapers from the living room table to the couch 1916
+place two newspapers on a couch 1917
+put two newspapers on the couch 1918
+put the credit cards on the blue sofa 2082
+put two credit cards on a couch cushion 2083
+place two cards on the sofa next to the laptop 2084
+put two credit cards on the couch 2085
+place two credit cards on a couch 2086
+pick up the two credit cards put them on the couch 2087
+place two credit cards on a couch 2088
+gathering credit cards to a safer place  2089
+put two credit cards on the sofa 2090
+move both remotes to the sofa seat 2100
+place two remotes on a couch 2101
+place two remote controls on the sofa with the open box 2102
+place the two tv remotes to the right of the red pillow on the green sofa 2103
+move two remotes to the couch 2104
+move two remote controllers to a sofa 2105
+move two remotes to the green sofa  2106
+place two remotes on a couch 2107
+put two remotes on the couch 2108
+place a set of keys on a couch 2760
+put the keys on the couch 2761
+move a set of keys to the couch  2762
+put a set of keys onto a sofa 2763
+pick up the car keys and put them on the black couch 2764
+put the keys on the couch 2765
+move a set of keys to the loveseat  2766
+put keys on a couch 2767
+place a set of keys on a couch 2768
+put a box containing a credit card on the couch  2883
+put a cardboard box with a credit card in it on the couch 2884
+put a box with a credit card in it on the red couch  2885
+put a box with a credit card in it on a couch 2886
+place a box with a credit card in it on the couch 2887
+put a box with card on the red couch  2888
+put a box with a credit card in it on the couch 2889
+put a cardboard box with a credit card inside on the couch 2890
+put a credit card in a box and move it to a sofa 2891
+put two sets of keys on a sofa 3115
+move two sets of keys from the coffee table to the couch 3116
+put two sets of keys on a couch 3117
+move two sets of keys to the left cushion of the loveseat 3118
+move two sets of keys to the blue couch 3119
+move two sets of keys to a sofa 3120
+put a box on a couch 3613
+place a box on a couch 3614
+move an empty box from the floor to a sofa 3615
+place a box on a couch 3616
+put the box between the cushion and the remote 3617
+put box on couch 3618
+move the laptop from the desk to the center of the sofa 3664
+place a laptop on the couch cushions 3665
+move the laptop from the desk to the sofa 3666
+place a laptop on the couch 3667
+put the computer on the sofa 3668
+place laptop on the couch 3669
+move the laptop from the desk to the couch 3670
+place a closed laptop onto the seat of a couch 3671
+put the lap top onto the couch 3672
+put the box with keys on the sofa  3760
+put a box with keys on the red couch  3761
+put keys into a white box and put the white box onto the red couch 3762
+put the box with keys on the sofa 3763
+place a box filled with keys on a red sofa 3764
+put a box with keys on the red couch  3765
+put a cardboard box containing keys on a couch 3766
+put a box with keys in it on the table 3767
+put a box with keys in it on the couch 3768
+put a book on the couch 4633
+pick up the green book and put it on the black couch 4634
+put a book on a sofa 4635
+move a book from the dining table to the couch  4636
+move a book from table to couch 4637
+move a book to a couch 4638
+move the book from the dining table to the couch  4639
+move book from table to couch 4640
+move the book from the table to the sofa 4641
+move two newspapers to the sofa  4924
+place two newspapers on a couch 4925
+find two newspapers and place them on the black sofa 4926
+place newspapers on a couch 4927
+place two newspapers on top of the black sofa 4928
+placing newspaper onto the sofa 4929
+put the newspapers on the couch 4930
+place two newspapers on couch in front of laptop 4931
+place two newspaper on the couch 4932
+place two newspapers in front of a computer on a couch 4933
+put two newspapers on to the sofa 5697
+move two newspapers to the couch 5698
+put two newspapers on a couch 5699
+place two newspapers on a couch 5700
+bring the two newspaper to the couch 5701
+move two newspapers to the sofa  5702
+move two newspapers to a couch 5703
+pick up two newspapers put them on the white couch 5704
+place two newspapers on the right cushion of the gray sofa 5705
+move the newspapers to the couch 5796
+move two newspapers to the seat of a couch 5797
+place two news papers onto the couch 5798
+put two newspapers on the couch with the laptop on it 5799
+put two newspapers on couch 5800
+put the newspapers on the chair 5801
+move two newspapers to a couch 5802
+put 2 newspapers on top of the black sofa 5803
+drop two news papers on the table 5804
+place newspaper on couch 6294
+put a newspaper on a couch 6295
+put a newspaper on the couch 6296
+place the newspaper on the couch 6297
+place a newspaper on the couch 6298
+place a newspaper on a couch 6299
+move a credit card to the couch 7165
+place a credit card on a couch 7166
+put credit card on couch 7167
+to move a card from the dresser to the right side of the couch 7168
+move the credit card from the tv stand to the couch 7169
+place a credit card on a couch 7170
+place two newspapers on the couch standing vertically 7428
+put two newspapers on the loveseat 7429
+put two newspapers on the couch 7430
+put two newspapers on a couch 7431
+put 2 newspapers on top of a big black couch 7432
+put two newspapers on the sofa 7433
+put two newspapers on a sofa 7434
+move two newspapers to the couch  7435
+put two newspapers on the sofa 7436
+put the pillow on the couch  8786
+place a pillow on the couch 8787
+move the pillow from the chair to the couch 8788
+move a red cushion from the chair to the sofa 8789
+move a bolster pillow from a chair to a sofa 8790
+stand a pillow on the newspaper on the couch  8791
+put the pillow on top of the newspaper on the sofa 8792
+put a pillow on a couch 8793
+move the pillow from the chair to the couch 8794
+move a pillow from a chair to an adjacent sofa 8795
+to move the basket to the couch 8796
+move a cushion from the chair to the couch  8797
+put a credit card on a couch 8831
+put the credit card on the sofa under the blue cushion 8832
+put a credit card on the couch  8833
+move a credit card from the table to couch 8834
+putting a credit card on a sofa 8835
+move a card from the table to the sofa to hide it 8836
+put a credit card on a couch  8837
+move the credit card from the shelf to the sofa 8838
+move a credt card from a shelf to the couch 8839
+put two newspapers on the couch 9108
+place two newspapers on the sofa 9109
+put two papers on the couch 9110
+to put the newspapers on the couch 9111
+to put two newspapers down on the brown couch  9112
+put two papers on the couch 9113
+move the book from the table by the window to the sofa 10114
+robot should move the book to the couch  10115
+move a book from a table to a sofa 10116
+put a book on the couch  10117
+move a book from a chair to a sofa 10118
+put a book on a couch cushion 10119
+put keys on a couch 10293
+move a key chain from a small shelf to a sofa 10294
+find keys and put on sofa 10295
+move the leftmost set of keys from the lounge chair to the couch 10296
+move a set of keys to the blue couch 10297
+put keys on a chair 10298
+put the keys on the couch 10299
+put the keys on the sofa 10300
+place the keys down on top of the sofa 10301
+take two magazines from the table and place them on the couch 10389
+put two books on a couch 10390
+retrieve two books from the coffee table put the books on the couch 10391
+move two books from the long brown table to the couch 10392
+put two books on couch 10393
+to move two books to the couch  10394
+move two books to the couch 10395
+put two books on a couch 10396
+put the two books on the sofa 10397
+put the remote on the couch 10772
+move a remote to the couch 10773
+move the remote from the desk to the couch 10774
+move a remote to the couch 10775
+place a remote on a couch 10776
+move remote from tv stand to couch 10777
+place a remote on the sofa 10778
+take the remote from the table to the couch 10779
+put a remote control on a couch 10780
+put keys inside a box and move it to the couch 10940
+gather they keys and put them in the box 10941
+put a box with keys in it on a couch 10942
+get keys from coffee table put them in the box on the table and place box on sofa 10943
+place a cardboard box with keys in it on the sofa 10944
+place the keys in the box on the sofa 10945
+place a box with keys in it down on the red sofa 10946
+place a box with keys in it on the couch  10947
+place a box with keys in it on the right side of the red couch 10948
+place a closed box with a set of keys inside on the red couch 10949
+close a cardboard box with keys inside 10950
+move the keys over to the sofa in a box 10951
+bring the keys box to the red couch  10952
+place the keys in the box take the box to the red couch 10953
+place two credit cards down on top of the couch 11142
+put the two credit card together on the sofa 11143
+put two credit cards on the couch  11144
+put two credit card on the sofa 11145
+move two credit cards to the seat of the couch 11146
+find two credit cards and place on the couch 11147
+move two credit cards to the couch  11148
+place two red credit cards on couch by blue pillow 11149
+put two red credit cards on the couch  11150
+put a book on the couch 11419
+put the book from the center table going to the sofa 11420
+move a book from the coffee table to the couch 11421
+move a book from a coffee table to a sofa 11422
+place book on couch 11423
+place a book on a couch 11424
+move the cell phone and box to the couch 12206
+put a box containing a cell phone on the couch 12207
+put the box with cellphone on the sofa 12208
+put the box with cell phone on the sofa 12209
+put a cardboard box with a phone in it on the couch 12210
+put a smartphone in a box and put the box on the sofa 12211
+put the box with cell phone on the sofa 12212
+put a cardboard box with a phone in it on the couch 12213
+put a phone in a box on a sofa 12214
+take the box from the table put it on the couch 13243
+put the box on the couch 13244
+move a box from the coffee table to the sofa 13245
+move an empty box from a coffee table to a sofa 13246
+move an empty box to the green sofa 13247
+move a box from the coffee table to the couch 13248
+move a box from the coffee table to the couch 13249
+move the box from the coffee table to the couch 13250
+put a box on a couch 13251
+put two keys on a couch 13357
+put two set of keys on the couch  13358
+put two sets of keys on a couch 13359
+put two sets of keys on the couch 13360
+take the keys from the coffee table and the tv stand place on the love seat 13361
+put two sets of keys on couch 13362
+move two sets of keys to the seat of a couch 13363
+move two keys to the sofa  13364
+put two sets of keys on sofa 13365
+move the pillow from the chair to the couch 13774
+put a pillow on the couch  13775
+move a pillow from an armchair to a sofa 13776
+put a box with a remote in it on the couch 13909
+place a cardboard box containing a remote control on the couch 13910
+put the remote in the box on the green couch  13911
+place a box down on the couch with a remote in it 13912
+put a box with remote in it on the green couch  13913
+place a cardboard box containing a remote on the couch 13914
+put the box with remote on the the green couch  13915
+store a remote control on the green couch 13916
+place a cardboard box with a remote in it on top of the couch cushion 13917
+place the box with one of the phones on the sofa 14012
+place a box with a cellphone in it down on the couch 14013
+put the cell phone in the box 14014
+put a box with a phone in it on a couch 14015
+put a box with a cell phone in it on top of the grey couch 14016
+set the box with the cell phone in it down on the couch  14017
+put a box with a cell phone in it on the couch  14018
+put a box with a phone in it on a couch 14019
+put a box with a phone in it on the couch  14020
+place a remote on a couch 14273
+place a remote on a couch 14274
+move remote from tv stand to couch 14275
+take the remote from the table put it on the couch 14276
+get the remote from the tv stand and lay it on the couch cushion 14277
+carry a remote to the sofa 14278
+place a remote control on a couch 14279
+take the remote from the table put it on the couch 14280
+put a remote on the couch 14281
+place two pairs of keys on the couch 14392
+move two keys to a black couch 14393
+gather up the keys and get them into the same place 14394
+put keys on a couch 14395
+to move all keys in the room to a spot on the couch in front of a box 14396
+place two key rings on the dark gray couch 14397
+put two sets of keys on the couch cushion closet to the door 14398
+getting the keys to the couch 14399
+put two keys on a couch 14400
+move two credit cards to the couch 14401
+put two credit cards on the couch 14402
+to move two card to the center of the couch 14403
+put two credit cards on the right cushion of the couch 14404
+to move two cards from the kitchen table to the couch 14405
+pick up two credit cards and place on the couch 14406
+move both credit cards to the couch 14407
+putting two credit cards on a sofa 14408
+place both credit cards from the end table on the sofa cushion 14409
+put a remote on the couch 14815
+put a remote control on the couch 14816
+move a remote to the long black couch by the blue pillow 14817
+place a remote on the sofa 14818
+place the remote on the couch 14819
+move the remote from the table to the couch 14820
+to move two remotes to the couch  14900
+move two remotes to the couch 14901
+move two remote controls to the sofa  14902
+move two remotes to the couch 14903
+putting two remotes on the black sofa 14904
+to move two remotes to the couch  14905
+place a box with a credit card in it on a couch 15526
+putting a card inside a box 15527
+move a credit card inside a box and place it on the couch 15528
+put a card into a box on the couch 15529
+place the box with the credit card to the left of the pillow on the sofa 15530
+put the card in the box place it on the sofa 15531
+put a box with a credit card in it on a couch cushion 15532
+to move the keys to the couch 15610
+place two sets of keys on the couch 15611
+put two sets of keys on the couch 15612
+place one set of keys from the brown chair along with the other set from the tv stand on to the long grey sofa 15613
+move 2 sets of keys from a chair  tv stand to the right hand side of the sofa  15614
+pick up two key fobs in different parts of the room place them on the sofa 15615
+move 2 sets of keys from 2 different rooms to the couch in the blue room 15616
+put two sets of keys on the couch 15617
+putting two sets of keys on the sofa 15618
+to move a set of keys to the couch  16435
+put the keys on the couch 16436
+move the keys to the couch  16437
+put the keys on the sofa 16438
+move a set of keys to a couch 16439
+
+take the keys from the coffee table put them on the couch 16440
+move two cell phones to the sofa 17360
+put two phones on the couch 17361
+place two cell phones on a couch 17362
+put two phone on the couch 17363
+move two phones to the couch 17364
+place two phones on the couch cushion 17365
+to gather 2 media devices and place them on the right side of the couch 17366
+place two cell phones on the grey  sofa 17367
+place two smartphones on the couch 17368
+put a book on the blue couch  17604
+move the book from the white sofa to the grey sofa 17605
+move the book from the chair to the couch 17606
+put a book on a couch 17607
+move a book from the chair to the couch 17608
+move a book from the chair to the couch 17609
+to put the book on the couch  17610
+place a book on top of a couch 17611
+move the deep learning book from the striped chair to the blue couch adjacent to the left of it 17612
+collect a book to read on the sofa 17613
+put a book on the couch 17614
+move the book from the table to the couch 17615
+move two remotes to the couch 18360
+find two remotes to place on the sofa 18361
+put two remotes on the couch 18362
+put two remotes on the couch 18363
+move two remote controls to the left cushion of the couch 18364
+drop two remotes on the sofa 18365
+putting two remotes on the sofa 18366
+put the two remote on the sofa 18367
+move two remotes to a sofa 18368
+move a box with keys inside to the sofa 18494
+move a box with keys to the sofa  18495
+put keys inside a box and place on top of a sofa 18496
+put a box with keys in it on the sofa 18497
+put the box with keys on the sofa 18498
+put a box with keys in it on the couch 18499
+move the box and keys to the couch  18500
+put the box with keys on the sofa 18501
+put a box with keys in it on the sofa 18502
+put two cell phones on the sofa 18770
+put two cells phones on the sofa  18771
+move the phones to the sofa 18772
+take both phones from the dresser and set them on the sofa 18773
+move two cell phones to a couch 18774
+put two phones on the couch to the left of the door 18775
+put two phones on a couch 18776
+put two cell phones on the sofa 18777
+drop two phones on the sofa 18778
+move a newspaper from a tv stand to a sofa 19552
+carry a newspaper to the sofa 19553
+put the newspaper on the sofa 19554
+move the newspaper from the entertainment center to the couch 19555
+put a newspaper on a couch 19556
+move a newspaper from the coffee table to the sofa  19557
+move a newspaper from a table to a couch 19558
+move a newspaper to the couch 19559
+put the newspaper on the couch  19560
+place the newspaper next to the remote on the sofa 19561
+put a newspaper on the couch 19562
+move the newspaper to the couch 19563
+place a newspaper under a pillow on the sofa 19564
+move a newspaper to the sofa 19565
+place a newspaper on a couch 19566
+move the newspaper from the entertainment center to the couch 19567
+move the newspaper in the living room to the couch 19568
+move the two remote controls from the kitchen table to the couch 20310
+put the two remote on the sofa 20311
+move two remotes to a sofa 20312
+to move two remotes to the couch  20313
+put two remote controls on the red couch 20314
+move two remotes to a sofa 20315
+to move two remotes to the couch  20316
+put two remote controls on to the brown leather sofa 20317
+put both remote controls on the brown sofa 20318
+take the box from the kitchen table put it on the red couch 20963
+move an empty box to the sofa 20964
+put a box on the couch 20965
+move a box from the floor to the couch 20966
+move the box from the floor to the couch 20967
+put a box on the right side of the couch  20968
+move an empty box to the sofa 20969
+move a cardboard box from a kitchen table to a couch 20970
+put a box on the couch next to the laptop 20971

@@ -1,0 +1,68 @@
+put a vase on a table 3924
+place a vase on a kitchen island 3925
+put a vase on the island  3926
+put a glass pitcher on the island  3927
+put a vase on a table 3928
+put a vase on a kitchen island 3929
+put a glass vase on a table 3930
+move the vase from the counter to the table 3931
+move a vase from the counter to the table 3932
+move a vase from the table to the counter top 4627
+put a vase on the counter 4628
+move the vase from the kitchen island to the kitchen sink counter 4629
+place a vase on the green counter next to the martini glass 4630
+transfer the vase from the green table to the counter 4631
+place a vase on a counter 4632
+put two wine glasses in the fridge 7848
+put two glass bottles in the fridge 7849
+place two bottles one from the trash can one from the sink in the refrigerator 7850
+place the two glass vases in the fridge 7851
+place two glass jars inside a fridge 7852
+place two vases inside of the fridge 7853
+put the vases into the fridge 7854
+place two vases inside of the fridge 7855
+place both glass jars inside of the refrigerator 7856
+put two vases on the brown shelf 8189
+put two vases on the middle shelf of the wooden rack  8190
+move two glass bottles to the shelf 8191
+put the glass jars on the shelf 8192
+to move two vases from various locations to a shelf 8193
+put two vases on the brown shelf 8194
+place two vases down on the middle shelf in the corner of the room 8195
+put two vases on a shelf 8196
+place two glass vases on the shelf with the hand on it 8197
+place the chilled glass in the cabinet 14839
+place a chilled glass in a cabinet 14840
+put a vase in a cabinet 14841
+move a vase from the fridge to the cupboard 14842
+place a glass of wine in the cabinet 14843
+put a milk jug in the cupboard 14844
+put a vase in a cabinet 14845
+take the vase from the fridge put it in the cabinet 14846
+put the glass pitcher into the kitchen cabinet 14847
+place a container in a cabinet under the counter 14848
+put the glass jar in the refrigerator inside the brown cabinet near the salt 14849
+put away the glass vase in the kitchen cabinet 14850
+put the glass vase in the cupboard 14851
+put a bottle in a cabinet 14852
+put a vase in a cabinet  14853
+place the vase inside the cabinet 14854
+move a glass bottle from a dining table to a cabinet 14855
+put a vase in a fridge  15792
+place a vase into a fridge 15793
+place a glass jar in the fridge 15794
+put a jug in the refrigerator  15795
+put a vase in the fridge 15796
+place a vase in a fridge 15797
+put a pitcher in the refrigerator  15798
+place a bottle in a fridge 15799
+put a vase in the fridge 15800
+place two bottles from the fridge into the sink 16317
+move two bottles from refrigerator to the sink 16318
+place two containers in the sink 16319
+place two glasses in a sink 16320
+put two vases in sink 16321
+put two vases in the sink 16322
+put two carafes in the sink 16323
+put two vases in the sink 16324
+gathering containers to fill with cold water  16325

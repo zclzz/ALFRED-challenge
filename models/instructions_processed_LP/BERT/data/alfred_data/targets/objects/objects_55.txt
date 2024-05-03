@@ -1,0 +1,319 @@
+put a pot in a sink 61
+move a pot to the sink 62
+move a pot from a counter top to a sink 63
+put a pot with a knife in it in a sink 64
+carry a pot with a knife to the sink 65
+put pot with knife in the sink 66
+put a put with a knife down on a table 229
+put a pot with a knife in it on a table 230
+put a knife inside a pan and move both objects to a table 231
+put the bowl with the knife on the table with the tomato 232
+placing a pan containing a knife onto the counter from the stove  233
+put a pot with a knife in it on a table 234
+put a pot with a knife in it on the table 235
+put the knife and pot on the table 236
+to get a pan to slice tomatoes  237
+put a knife in a pot on the table 238
+put a pot with a knife inside on the table in front of the sink 239
+put a large metal pot with a knife in it on a white table 240
+pick up knife put it in container on stove top put the container on the white table next to tomato 241
+get a yellow knife put it in the sink then return it to its spot 1025
+move and wash a knife 1026
+to clean a knife and put it back in its spot on the edge of the left side of the sink 1027
+place a clean knife on the counter  1028
+put a cleaned knife on the counter in front of the sink  1029
+place a clean knife on the counter  1030
+wash and move a knife 1031
+place a clean knife by the sink 1032
+put a clean knife on the counter 1033
+wash the knife to place it in the drawer 1073
+clean the knife on the counter to place it in a drawer 1074
+put a clean knife from the counter into a drawer 1075
+put the washed knife in the drawer  1076
+place a clean knife in a drawer  1077
+put a clean knife in the drawer 1078
+place a cleaned knife in a drawer 3148
+put a clean knife in a drawer 3149
+wash the yellow knife in the sink put it in the drawer next to the fridge 3150
+find and clean a knife before placing it in a drawer 3151
+wash the yellow knife put it in the drawer next to the fridge 3152
+put a cleaned knife in a drawer 3153
+put the clean knife in the drawer 3154
+move knife from counter clean it and put it in a drawer 3155
+get a knife from the table to soak it and put it in the drawer 3156
+place a pot with a yellow handle knife in it on the green table 4091
+place the square pan with a yellow knife on the table 4092
+place a pot with a knife inside it on the green table by the egg 4093
+put a metal bowl with a knife inside of it on the kitchen island 4094
+put a pot with a green knife in it on a table 4095
+put a pot with a knife in it on the table 4096
+put a knife in a pot on the table 4097
+to put a knife plus a pan on the table 4098
+place a pan with a knife in it on the table 4099
+put a pot with a knife in it on the table 4100
+place a pan with the knife on the green table 4101
+place a pot with a yellow knife in it in front of the glass vase on the green table 4102
+put a plate containing a knife in the sink  4681
+put the plate with the knife on it in the sink  4682
+put plate and knife into sink 4683
+place the knife and plate in the sink 4684
+place the white plate with the knife on it in the sink 4685
+move a knife and plate to the sink 4686
+put a plate with a knife on it in the sink 4687
+place a plate with a knife in a sink 4688
+move a plate and knife to the sink  4689
+move a plate from the black table to the white table 4699
+place gray try on white table 4700
+move a plate to a white table 4701
+put a plate with a knife on it on a table 4702
+to put a knife on a plate and put it down on the black table  4703
+place a plate with a knife on a table 4704
+place a bowl with a knife on the black table 4705
+put a knife in bowl on the end table in front of the fridge 4706
+put a bowl with a knife in it on the table 4707
+put a bowl with a knife in it on the black table 4708
+to put a knife in a bowl as well as move the bowl to the black table 4709
+move the container from the table to the shelves  4710
+put a bowl with a knife on the black end table 4711
+put the yellow knife and blue bowl on to the black table 4712
+place a knife inside of a chilled mug on the table  5060
+place the knife inside of the chilled black mug 5061
+get the cup from the refrigerator and put the big knife in it  5062
+place a mug with a knife on the table 5063
+put a mug with a knife in it on a dining table 5064
+move a knife into a mug on a kitchen table 5065
+put a mug with a knife in it on the table 5066
+put a cup with a knife in it on the table  5067
+put a mug with knife in it on the table 5068
+put mug and sharp knife on kitchen counter 5762
+find a coffee cup put a knife inside place on counter 5763
+put the mug with knife on the counter 5764
+to put a knife in the chilled mug and put the knife on the counter  5765
+move a knife in a mug to the counter by the stove 5766
+put a mug with a knife in it on a counter 5767
+put a cup from the refrigerator with a knife in it on the counter by the stove 5768
+put a cold coffee cup with a knife inside on the counter next to the coffee maker 5769
+put a white mug with a large metal knife in it on the counter 5770
+get knife clean knife put in apple on table 6555
+wash the knife in the sink and put it away 6556
+put a clean knife in a tomato  6557
+wash the knife in the sink  6558
+stand a washed knife on the table  6559
+wash a knife and put it back 6560
+rinse off the knife and place it on the white table  6561
+place a clean knife in a bowl on a kitchen table  6562
+place a knife inside of a pan on the kitchen table 6563
+put a large clean knife in a drawer 6591
+put a clean knife in the drawer 6592
+put a clean knife in the drawer 6593
+put a clean knife in the drawer 6594
+rinse a knife and place it in a drawer 6595
+wash a knife and put it away 6596
+put a clean spatula away in a drawer 6597
+put a large clean knife in a drawer 6598
+wash a knife and put it away in a drawer 6599
+place a rinsed knife on a counter 7437
+place a clean knife on the coffee maker 7438
+rinse a knife and put it in front of the coffee maker 7439
+put washed knife on counter 7440
+put a clean knife on the counter 7441
+stand the knife up in front of the coffee maker  7442
+put a rinsed knife on the counter 7443
+rinse a knife with water 7444
+put a knife on the counter 7445
+take the yellow knife and plate from under the sink put them in the sink 8138
+place a knife on a pan in the sink 8139
+place the plate with knife in the sink 8140
+put a plate with a knife in the sink 8141
+washing the dirty dishes 8142
+move the pan from under the sink to the sink 8143
+put a knife with a plate in the sink 8144
+put a pan with a knife in it in to a sink 8145
+move a pan with a knife to the sink  8146
+place a cup with a knife on microwave table 8995
+put a mug with a knife in it on the table 8996
+put a mug with a knife in it on the counter 8997
+put a mug with knife on the black table  8998
+take a mug with a knife to the microwave 8999
+put the mug with knife on the counter 9000
+move a knife in a mug to the microwave cart 9001
+put a chilled mug and knife near the microwave 9002
+put a cup on a counter with a knife 9003
+put a mug with a knife on a counter 9004
+place a cup with  a knife in it beside the microwave 9005
+place the white cup with a knife behind the pepper shaker 9006
+place the cup with a knife on the table 9007
+put a cup with a knife inside it next to the microwave 9008
+put a knife in a cup and place it next to the microwave  9009
+place a cup with the knife to the left of the microwave 9010
+put a coffee cup with a knife in it onto the microwave stand 9011
+put washed knife in drawer 9045
+put a clean large knife in a drawer 9046
+put a clean knife in the third drawer 9047
+put a washed knife in a drawer 9048
+place a rinsed knife in a drawer 9049
+place a clean knife in a drawer under the table 9050
+put a clean knife in a drawer 9051
+place a cleaned knife in a drawer 9052
+place cleaned knife in bottom drawer to left of dishwasher 9053
+clean the knife in the sink and put it back on the table 10459
+stand a cleaned knife on the table  10460
+rinse a knife and place it on the counter 10461
+wash knife and return to table 10462
+pick up knife clean it return knife 10463
+put a clean knife on a table 10464
+rinse a knife and place it on the counter 10465
+rinse off a yellow handled knife 10466
+wash a knife and put it back 10467
+put a washed knife into a drawer 11037
+put a cleaned knife in the drawer left if the sink  11038
+put a clean knife in the kitchen drawer  11039
+put a clean knife in the drawer 11040
+put a large clean knife in a drawer 11041
+put the clean knife in the sink drawer 11042
+put a clean knife in a drawer 11043
+put a clean metal knife in a drawer 11044
+place a rinsed knife in a drawer 11045
+place a pan with a knife in it to the right of the sink 11070
+place a metal pan with a large metal knife in it onto the kitchen counter 11071
+place knife in pot in refrigerator place pot on counter 11072
+put the deep copper pan with a knife in it in the corner of the counter top 11073
+grab a pan on the stove to put in the sink 11074
+pick up knife pick up trash can place into sink 11075
+place a pan with a knife in it on the kitchen countertop 11076
+place a pot with a knife on it on a counter 11077
+put a metal pan with a knife in it on the counter 11078
+put a mug with a knife in to the sink 11552
+place a cup with a knife in the sink 11553
+put the mug with knife in the kitchen sink 11554
+put a mug with a knife in to the sink 11555
+move a mug containing a knife from a table to a sink 11556
+place a mug with a knife in it in the sink 11557
+put a mug with a knife in to the sink 11558
+place a mug containing a knife into the sink  11559
+put a knife in a mug in the sink 11560
+put pan with knife on the sink counter 11612
+put a pan with a knife on it on the counter to the right of the sink 11613
+place a fry pan with a knife inside it on the kitchen counter  11614
+put the knife in the rear left pan move the pan to the counter by the sink 11615
+put knife in pan move pan near the sink 11616
+put a knife on a plate on the counter 11617
+put a pan with a knife on the counter 11618
+place a knife in a pan on the counter top 11619
+move a knife with a bowl to the counter 11620
+put a knife in a bowl on the counter 11621
+gather the dishes and place them by the sink 11622
+place a chilled bowl with a yellow knife in it on the counter above the dishwasher 11623
+put a cleaned knife on the table next to the microwave  12314
+place a clean knife in front of the microwave 12315
+wash the yellow knife put it by the microwave 12316
+put a washed knife on a counter 12317
+wash the knife and put the knife by the microwave 12318
+clean knife put away by microwave 12319
+place the knife next to the spoon  13268
+place a knife on a counter 13269
+move the knife from counter to the microwave table 13270
+place two knives in a drawer 13511
+put two knives in a drawer  13512
+move two knives into a drawer 13513
+place two knifes from the table in the pullout drawer of the kitchen cabinets 13514
+move two knives to a drawer by the stove 13515
+place the two yellow knives from the table into the drawer below the toaster 13516
+place knives into a drawer 13517
+put two knives in a drawer  13518
+put two knives on the cabinet drawer 13519
+put two knives in a drawer 13520
+move two knives into a drawer 13521
+place a metal pan with a knife in it onto the black table 14918
+put a pan with a knife on a table 14919
+place a pan with a knife in it on a table 14920
+put a pan with a knife in it on the table 14921
+put a pan with a knife inside on the table with the plant 14922
+drop the pan on the table with a knife inside it 14923
+move a pan under a knife on the table 14924
+placing a pan with a knife pointed down in it upon a dinner table 14925
+put a frying pan with a knife in it on the table 14926
+grab a knife and a cooking pot from the kitchen and place them on the table  14927
+put a pan with a knife on a table 14928
+place a pan with a knife in it on the round table behind the lettuce 14929
+placing a pan with a knife on a table 14930
+place a pan containing a knife on the table 14931
+put a pan containing a knife on the table  14932
+put a plate with a knife on it on a table 14933
+move a pan from the stove to the table 14934
+place the knife on the plate to put it on the table 14935
+putting a clean knife of the white table 15269
+put washed knife on white table 15270
+put a clean knife on the table  15271
+put a clean metal knife on a plate on the table 15272
+place a clean knife on a dirty plate 15273
+rinse off the knife and put the knife down on the plate  15274
+rinse a knife and place it on the table 15275
+wash a knife and replace it 15276
+place a rinsed knife on a table 15277
+put a pan with a knife in it on the round table  15686
+place a pan with a knife in it down on the kitchen table 15687
+put a deep pan with a large knife in it on a black table 15688
+place a pan with a knife inside it on the white table 15689
+put a pot with a knife in it on a table 15690
+move a knife and pot to a table 15691
+move a pot with a knife to the round table  15692
+move a pot and knife to the table 15693
+to put a knife in a pan and place it on the kitchen table 15694
+put a pan with a large knife in it on a white table 16157
+move a pan and knife to the table 16158
+drop a plate on the table with a knife on it 16159
+place a pan with a knife on a table 16160
+move a pan with a knife in it to the kitchen table  16161
+put a knife into a pan and move the pan from the counter to the kitchen table 16162
+put the pan with knife in it on the table  16163
+put a skillet with a chefs knife in it on the table 16164
+drop the plate with a knife in it on the table 16165
+put the knife in the mug 16628
+get white mug place on white table pick up knife place knife into white mug on white table 16629
+place a knife in the mug on top of the table 16630
+put a mug with a knife in it on the kitchen table 16631
+put a knife into a cup in the fridge put them on the table 16632
+put knife into white mug and place on white table 16633
+put the mug with knife in the sink 16951
+place a mug with a knife in it in a sink 16952
+gather white mug with knife it in to be placed in the sink 16953
+put a measuring cup containing a knife in the sink 16954
+move a knife in a mug to the sink 16955
+put a glass with a knife in it in the sink 16956
+put a mug with a large metal knife in it in the sink 16957
+place a cup with a knife in it in the sink  16958
+put a mug with a knife in it inside a sink basin 16959
+take the yellow knife and put it in the sink 17580
+place a knife in a sink 17581
+put a knife in the sink 17582
+place a knife in a sink 17583
+put a large metal knife in the sink 17584
+move knife from counter to sink 17585
+move the chefs knife from the black table to the kitchen sink 17586
+put the knife on the table in the sink 17587
+take the yellow knife from the kitchen table put it in the sink 17588
+put a mug with a knife in it in the sink 18232
+get a cup with a knife in it inside the sink 18233
+put a cup holding a knife into the kitchen sink 18234
+place the cup with a knife in the sink 18235
+put the mug with knife in the sink  18236
+place a mug with a large metal knife in it into the kitchen sink 18237
+move the mug with the knife in it to the kitchen sink  18238
+the robot will comb for the knife with introduce an coffee mug matching color 18239
+grab knife place into mug place in sink for cleaning 18240
+move the knife in front of the sink to the sink 19283
+place a knife in a sink 19284
+move a knife to the sink 19285
+move a knife to the sink basin 19286
+place a knife in the sink 19287
+put a knife in the sink 19288
+wash knife and return to shelf 20195
+wash a knife to put it away 20196
+rinse a knife and place it on the table 20197
+put a clean knife on a table 20198
+wash the knife on the counter put it back 20199
+place a clean knife on a shelf 20200
+put a clean knife on a table 20201
+put a washed knife on the small black table 20202
+put a clean knife on the shelf 20203

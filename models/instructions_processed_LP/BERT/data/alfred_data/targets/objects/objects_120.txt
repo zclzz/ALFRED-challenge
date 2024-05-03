@@ -1,0 +1,177 @@
+put a blue vase in a safe  795
+put a blue object in the safe on the floor 796
+put a container in a safe 797
+put a blue vase in the safe on the floor  798
+put the disk in the safe 799
+move the blue bottle on the table to the white box on the floor 800
+put the blue vase into the safe 801
+place the blue vase in the safe on the floor 802
+put a vase in a safe 803
+to move two vases from the fire mantle to the black shelf  3870
+put two vases on a end table 3871
+to move two spheres from the mantle to a black end table to the left of the couch 3872
+move two glass vases onto the end table 3873
+put two vases on a end table 3874
+move the bowls from the mantle to the cabinet 3875
+moving two vases from the fireplace to a side table 3876
+move two vases to an end table 3877
+put two vases down on a table 3878
+put a red round object a silver vase on the white table 4212
+clean up a container and jar and put them onto the table 4213
+put a two vases on the dining table  4214
+put a vase and a lid on a table  4215
+put the vase and the red disk on the table  4216
+place a funnel with a glass bowl on the table 4217
+place a red and goldcolored disk near the cardboard box on the white table 4218
+move two objects to a table 4219
+place two colored disks on top of the dining room table 4220
+examine the bowl in the light of the tall lamp  4603
+to turn on the lamp while holding a bowl 4604
+examine a vase in the light of a lamp 4605
+examine a glass bowl using the light from a floor lamp 4606
+view a vase by lamp light  4607
+grab the pot turn on the floor lamp 4608
+view a vase by the light of a lamp 4609
+examine a glass vase in the light of a lamp 4610
+inspect a vase near a lit lamp 4611
+put the glass vase on the coffee table 4621
+pick up a vase place it on the coffee table 4622
+move the bowl from the tv stand to the coffee table 4623
+move a golden vase to the coffee table 4624
+move a vase to the coffee table 4625
+place a vase on a coffee table 4626
+examine a piece of a vase by the light of a floor lamp 4732
+grab a vase from the dining table and examine the vase under a lamps light 4733
+to retrieve the blue object to hold up against the lamp 4734
+turn on the lamp while holding the blue candle holder 4735
+examine a blue vase by the light of the tall lamp  4736
+turn on a floor lamp with a blue disk in hand 4737
+turn on the corner light 4738
+examine a vase by the light of a floor lamp 4739
+examine a vase in lamp light 4740
+place two yellow containers on the night stand  5000
+move two lids from the dresser to the nightstand  5001
+put two object on a night stand 5002
+examine the vase in the light by the couch  5399
+grab the white vase on the right side turn on the lamp on the end table 5400
+turn on the lamp on the nightstand while holding a white dish 5401
+grab the white vase on tv cabinet turn on the lamp on the end table 5402
+grab the vase on the table to your left turn on the lamp residing on the end table 5403
+examine a vase by the light of a lamp 5404
+move vase from the entertainment center to the coffee table 5432
+move a vase from the tv stand to the coffee table 5433
+move the green vase from the television table to the brown table  5434
+move the round gold object from the shelf to the coffee table 5435
+move the gold ornament from the shelf to the coffee table  5436
+place a gold bottle on a coffee table 5437
+move a round gold object to the coffee table  5438
+put the gold disc on the coffee table 5439
+move the gold object from the tv console to the coffee table 5440
+place a box with a yellow object inside on top of the dining table 6640
+place a yellow vase in the box on the table 6641
+put the yellow vase in the box 6642
+put a cardboard box with a yellow vase inside of it on the glass table 6643
+put a box with a yellow bowl in it on the table  6644
+put a vase in a box on the table 6645
+put vase in box to put on table 6646
+put the white box  with yellow vase in it beside the lap top on the dining table  6647
+put a box with a vase inside on the dining table near the door 6648
+to put a vase in a box on the table  6649
+place a box with the golden vase on a table 6650
+carry a box containing a yellow vase to the table 6651
+store the funnel in the box on the dining table 6652
+examine a blue vase by the light of a floor lamp 9543
+to see the decoration in the light 9544
+look at the blue vase under the light of the floor lamp 9545
+examine a blue vase by the light of a floor lamp 9546
+examine the vase by the light of the lamp 9547
+to look at the decorative glass in the lighting  9548
+examine a blue vase next to the light of a tall lamp 9549
+hold a blue vase up to the light of a lamp 9550
+pick up the blue vase in the living room turn on the lamp in the corner 9551
+move two containers from the dresser to the coffee table  9842
+move two items from a counter table to a center table 9843
+place a bowl and a pot onto a coffee table 9844
+place two objects on top of the coffee table 9845
+put a green vase and golden disk onto the coffee table 9846
+place the vase and gold top on the table in front of the sofa 9847
+place a two objects on the coffee table 9848
+move candle holder vase to a long cocktail table  9849
+put the gold disk as well as the green vase onto the coffee table 9850
+examine the yellow vase by the light of the lamp on the table  10129
+look at the yellow vase using the light from the lamp 10130
+turn the lamp on the desk on while holding a yellow object 10131
+carry a vase while turning on a lamp 10132
+inspect a gold disk with the light on the desk next to the bed 10133
+inspect a yellow plate under the light of a lamp  10134
+examine the yellow cover by the light of the lamp 10135
+examine a vase by the light of a desk lamp 10136
+pick up lid while turning on lamp 10137
+place a bowl and vase on a coffee table 10528
+move two vases to the coffee table 10529
+move the vase and blue dish from the shelf to coffee table 10530
+put a vase and a blue round item on the coffee table 10531
+place two vases on a table 10532
+move the blue bottle and glass jar from the dresser to the coffee table  10533
+put two vases on the coffee table 10534
+put a jar and plate on a table 10535
+place two objects on two different tables 10536
+put a blue container in a box and place the box on the table  13439
+put a box with a vase in it on the table 13440
+put a vase in a box and move to a different table 13441
+place box with bowl on table 13442
+put the box with container on the table 13443
+put  the lamp into the box 13444
+carry a vase while turning on a lamp 15572
+carry a vase to turn on the lamp 15573
+collect a vase to look at it under the lamp 15574
+put blue lid in box and placed on kitchen table 15756
+put box with blue dish on table 15757
+put a box with a blue vase in it on a table 15758
+place a box with a bottle on a table 15759
+move a box and plate to the coffee table  15760
+place box with golden piece on the white table 15761
+place a box with a plate on a table 15762
+put a box with a red dish on a table 15763
+to put a red container in a box and put it on the table  15764
+grab the yellow bottle on the coffee table turn on the light behind the tv 16052
+turn on the living room floor lamp while holding a gold glass statue 16053
+pick up a gold candle holder and turn on a lamp 16054
+examine the lamp in the light of the tall lamp  16055
+turn a lamp on while holding a vase 16056
+carry a vase while turning on a lamp 16057
+move a vase to a different table 17255
+place a vase on a table 17256
+put a vase on the stand 17257
+place a glass on a table 17258
+put a gold decoration on the end table  17259
+put the gold jar on to the small table 17260
+put the gold ornament from the coffee table to the end table  17261
+move a brass candle holder from a coffee table to an end table 17262
+place a funnel on a stool 17263
+put a cardboard box with a lid inside of it on the glass table 18830
+move a boxed item from one room to a coffee table in a different room  18831
+put the bowl in the box on the coffee table  18832
+move a box with a bowl inside to the coffee table 18833
+put a box with a vase in it on the coffee table 18834
+put a box with a bowl in it on a table 18835
+find black round object put into box and put the box onto a glass table 18836
+place a bowl in a box and move them both to a table 18837
+put a box with a bowl in it on the coffee table 18838
+place a white and a gold bottle on the desk 19161
+move both vases from the coffee table to the desk 19162
+move a two vases from the coffee table to the desk 19163
+place two bottles on a desk 19164
+place two glass bottles on the desk in the living room 19165
+place two vases on the desk 19166
+move two vases to the black desk 19167
+move two vases to the black desk  19168
+put two different vases on the black desk 19169
+move the two vases to the black desk  19170
+move two candle holders to the computer desk 19171
+to move a red and a blue candle holder to the living room table 19596
+to move a blue container and a red vase to the round table  19597
+move two vases to the coffee table 19598
+put two dishes on the coffee table 19599
+to move a blue and red lid to the living room table 19600
+retrieve a blue item and a red vase from the shelves place them on the coffee table  19601

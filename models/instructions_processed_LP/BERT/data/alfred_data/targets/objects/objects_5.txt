@@ -1,0 +1,61 @@
+put a bat on a bed 4783
+move a baseball bat from the floor to a bed 4784
+move a baseball bat from the ground to a bed 4785
+move a bat from the floor to the bed 4786
+place a baseball bat on a bed 4787
+move a baseball bat to the bed  4788
+move a wooden bat from the ground to a bed 4789
+put a bat on the bed 4790
+carry the baseball bat to the bed  4791
+move the baseball bat from floor to the bed 8204
+put the baseball bat on the bed 8205
+place the bat from the floor onto the bed 8206
+put a metal metal bat on the bed  8207
+pick a bat from the ground to the bed 8208
+put the baseball bat on the bed 8209
+place a paddle on a bed 8210
+put a bat on a bed 8211
+place a bat on a bed 8212
+move a bat across the room to the bed 8213
+place bats on a bed 9886
+move the baseball bats to the bed  9887
+put 2 baseball bats on a bed 9888
+move two black bats to the bed 9889
+put two bats on the bed 9890
+place two baseball bats on the bed 9891
+place baseball bats on a bed 9892
+place bats on a bed 9893
+put two bats on a bed 9894
+turn a light on with a bat in hand 14713
+turn on the bedside lamp while holding a base ball bat 14714
+examine a baseball bat by the light of a desk lamp 14715
+turn on the lamp while carrying a baseball bat 14716
+look at the baseball bat using the lamp light 14717
+grab the base ball bat on the floor turn on the lamp on the night stand 14718
+move the bat from the floor to the bed 15595
+get a bat from the floor and stand it up on the bed 15596
+place a bat on a bed 15597
+put a bat on the bed 15598
+place a bat on a bed 15599
+put the baseball bat on the bed 15600
+to turn on the lamp while holding the bat 16447
+examine the bat by the light on the desk  16448
+collect a baseball bat turn on a lamp 16449
+examine the bat in by the light on the desk  16450
+examine a baseball bat using the light from a desk lamp 16451
+turn the light on 16452
+turn on the lamp on the table  16453
+examine a bat by the light of a lamp 16454
+examine a baseball bat by the light of a table lamp 16455
+examine the baseball bat using the lamp light 21007
+inspect a baseball bat using the light of a lamp  21008
+inspect a bat with a lamp 21009
+pick up a baseball bat turn on a lamp on the desk 21010
+turn on the desk lamp while holding the baseball bat 21011
+carry a pan to turn on a lamp 21012
+turn on the lamp to examine the bat 21013
+examine a baseball bat next to the light of a desk lamp 21014
+carry a baseball bat while turning on a desk lamp 21015
+pick up the baseball bat from the corner turn on the desk lamp 21016
+take the bat over to the lamp to turn it on 21017
+examine a baseball bat by the light of a desk lamp 21018

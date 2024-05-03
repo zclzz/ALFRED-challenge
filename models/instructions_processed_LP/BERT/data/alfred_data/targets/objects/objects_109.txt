@@ -1,0 +1,205 @@
+look at a box of tissues in the light 15
+examine a box of tissue by the desk lamp 16
+examine a tissue box by the light of a desk lamp 17
+hold a box of tissues in front of a lit lamp 18
+turn on desk lamp and pick up tissue box 19
+pick up a box of tissue from a lit desk 20
+turn on a desk lamp pick up a box of tissues 21
+examine a tissue box with a lamp 22
+inspect the tissue with the lamp on the desk 23
+place a paper box in the bin  606
+put tissues in a trash can 607
+move a box of tissue to the waste bin 608
+move tissues to the trash bin 609
+put the tissue box in the trash 610
+put tissues in the trash can 611
+place a paper box in the trash can 612
+put a box of tissues in the garbage 613
+move a box of tissue to the waste bin  614
+move the tissue box from the bottom right drawer to the dresser top 887
+place a tissue box on the top of a white dresser 888
+place a box of tissues on top of the dresser 889
+to take out the tissue box to place it on top of drawers 890
+put a tissue box on the dresser  891
+place a box of tissues on top of the dresser 892
+put the tissue box on the top of the dresser  893
+place tissues on top of the dresser 894
+place the tissue box on top of the dresser 895
+place two tissue boxes on a shelf 1554
+place both tissue boxes from the vanity on the stop of the silver shelf 1555
+put two boxes of tissues on the silver rack 1556
+put two tissue boxes on a rolling cart 1557
+both boxes of tissue will be moved from the vanity to the shelving unit  1558
+the robots goal is to carry two tissue boxes to the shelving unit across the room 1559
+put all the boxes of tissues on the barred rack 1560
+place two boxes of tissue on the top shelf of the metal rack 1561
+move two tissue boxes to the top shelf of a metal shelving unit 1562
+put two boxes of tissues on the top shelf of the metal rack 1563
+place all the tissue boxes on the metal shelf in the bathroom 1564
+putting two tissue boxes on the bathroom rack 1565
+place two tissue boxes on the metal rack 1566
+put two boxes of tissues on the rack to the left of the sink 1567
+put two boxes of tissues on a rack 1568
+put two tissue boxes on a cart 1569
+place tissue boxes on the top metal rack next to the sink 1570
+put both tissue boxes on the metal shelf 1571
+place two tissue boxes on dining table next to box 2435
+place two paper boxes on the dining 2436
+put two boxes of tissues on the table 2437
+move the boxes of tissues from the tv stand to the dining table  2438
+move the tissue boxes from the tv stand to the table 2439
+put two tissue boxes on dining table 2440
+move two tissue boxes to the kitchen table 2441
+move two boxes of tissues to a large wooden table 2442
+place two tissue boxes on the table 2443
+hold the tissue box near the lighted lamp on the end table 4531
+look at the tissue box in the light  4532
+examine a box of tissues by the light of a desk lamp 4533
+examine the tissue box by the light of the lamp on the table  4534
+hold a box of tissues while turning on a lamp 4535
+look at the tissue box on the light  4536
+turn the lamp on the end table on 4537
+examine a tissue box with a lamp 4538
+inspect a box of tissues using the light of a lamp  4539
+move a box of tissues from the dresser to the lid of the toilet tank 5357
+place a box of tissues on top of the back side of the toilet 5358
+put a box of tissues on the toilet 5359
+put a box of tissues on top of the toilet 5360
+put a box of tissues on the back of the toilet 5361
+put a box of tissues on top of the toilet tank 5362
+turn on the green lamp while holding a box of tissues 7126
+examine a tissue box by the light of a floor lamp 7127
+examine the tissue box by the light of the tall lamp on the floor  7128
+to look at the box of tissue in the light  7129
+examine a tissue box by the light of a floor lamp 7130
+examine a box of tissues by the light of a tall lamp 7131
+to look at the tissue in the light  7132
+look at the tissue box by the light of the floor lamp 7133
+grab the tissue box on the coffee table turn on the floor lamp 7134
+examine the tissue box in the light of the lamp on the dresser  7141
+get box of tissues out of drawer and turn on lamp 7142
+carry a tissue box while turning on a lamp 7143
+take the box of tissues from the shelf turn on the lamp 7144
+carry a tissue box while turning on a lamp 7145
+inspect a tissue box by lamp light 7146
+examine a tissue box with a lamp 7147
+inspect a box of tissues with a lamp 7148
+inspect tissues by lamplight 7149
+move two boxes of tissues to the coffee table 7557
+put two boxes of tissue paper on a table 7558
+move the kleenex box to the coffee table 7559
+put 2 tissue boxes on top of the coffee table 7560
+to move two tissue boxes to the living room table 7561
+putting two tissue boxes on the white coffee table 7562
+put two boxes of tissues on the coffee table 7563
+put two boxes of tissue on the white table in front of the couch 7564
+drop two paper boxes on the table 7565
+to put two tissue boxes on the night stand 10428
+move two tissue boxes to a small black table 10429
+put two tissue boxes on the end table 10430
+put two boxes of tissues on the nightstand 10431
+move two boxes of tissue to bedside table 10432
+put two tissue boxes on a end table 10433
+move two tissue boxes to a small black table 10434
+place two tissue boxes on the nightstand 10435
+place two tissue boxes on bedside table to the left of lamp 10436
+put a box of tissues on the coffee table 10847
+move a tissue box from the dining table to the coffee table 10848
+move a box of tissues to the coffee table 10849
+move a box of tissues to the coffee table 10850
+to put the box of tissue on the coffee table  10851
+put a box of tissues on the coffee table 10852
+move the tissue box from the dining table to the coffee table 10853
+place a tissue box on a coffee table 10854
+move tissue box from one table to the next 10855
+examine a tissue box next to the light of a tall lamp 12759
+examine a tissue box by the light of a floor lamp 12760
+look at a box of tissues by the lamp 12761
+to see the tissue box in the lamp light  12762
+examine a tissue box by the light of a floor lamp 12763
+carry tissues while turning on a floor lamp 12764
+examine a box of tissues by the light of a tall lamp 12765
+look at a tissue box in the light of a floor lamp 12766
+carry a box of tissues while turning on a floor lamp 12767
+move a box of tissues to a small table  13777
+to move the tissue 13778
+drop a paper box on the table 13779
+move to table pick up tissue box and place on table with pen on it 13780
+put the tissue box on the small table 13781
+put tissues down on a table 13782
+move tissue box from one table to another 13783
+move tissue box from coffee table to a small table 13784
+place a tissue box on a table 13785
+put two boxes of tissues on the back of the toilet 13885
+to move two tissue boxes to the back of the toilet  13886
+put two tissue boxes on the back of the toilet 13887
+move two boxes of tissues from a bathroom counter to the back of a toilet 13888
+put two boxes of tissues on the back of the toilet 13889
+retrieve two tissue boxes from the dresser and put on the toilet tank 13890
+turn on a light as you hold a box of tissues 14261
+examine a tissue box by the light of a lamp 14262
+turn on the lamp next to the couch while holding a box of tissues 14263
+examine the tissue box in the light of the lamp  14264
+grab the tissue box on the tv cabinet turn on the lamp on the side table 14265
+pick up a box of tissues turn on a lamp 14266
+put two tissue boxes from the table in the trash can 14788
+put two boxes of tissues into recycle bin 14789
+put two boxes of tissues in the bin 14790
+place two boxes of tissues from the table into the blue recycling container 14791
+put two boxes of tissues in the recycle bin 14792
+place two boxes of tissue in a container 14793
+put two tissue boxes in the recycling can 14794
+throw two paper boxes in the bin 14795
+move two boxes of tissues into a blue bin 14796
+place two boxes of kleenex in a drawer on the counter 16202
+put two boxes of tissues in a drawer  16203
+place two tissues boxes inside of the bathroom cabinet 16204
+move two boxes of tissues into a drawer 16205
+move two boxes of tissues from the top of the dresser to the drawer 16206
+place two tissue boxes from the dresser into the left drawer of the dresser 16207
+put two tissue boxes in drawer 16208
+move two tissue boxes from dresser to lower right drawer 16209
+put two boxes of tissues in to the drawer 16210
+to put two boxes of tissue into the drawer on the left side of the dresser 18616
+to move two boxes of tissues to a drawer  18617
+put the two tissue box in the drawer 18618
+move two boxes of tissues to the shelf 18619
+put two boxes of tissues in to the drawer of the tall table 18620
+put two tissue boxes into drawer 18621
+place the tissue boxes in the right side drawer of the cabinet  18622
+move two boxes of tissues into a drawer 18623
+put two boxes of tissues in a drawer 18624
+place two tissue boxes on the shelf just below the keys on the small table 18730
+to get both boxes of tissue off of desk putting them on the small cabinet 18731
+put two tissue boxes on the short shelf 18732
+put two tissues boxes on a stand 18733
+put two boxes of tissues on a shelf  18734
+move two boxes of tissues to the shelf  18735
+move two tissue boxes from the desk to a low cabinet 18736
+put two boxes of tissue on the shelf 18737
+put two boxes of tissue from the desk on the shelving counter 18738
+put two tissue boxes on a shelf on a stand 18739
+place the tissue box in the cabinet 18740
+put two boxes of tissues on a shelf 18741
+place two boxes of tissues on the shelf 18742
+put two boxes of tissues on the table 19401
+move two boxes of tissues to the coffee table  19402
+put two boxes of tissue on a table 19403
+to move two tissue boxes to the living room table 19404
+place two tissue boxes on a table 19405
+move two boxes of tissues to the coffee table 19406
+move two boxes of tissues to a wooden table 19407
+put two tissue boxes on the tv stand 19408
+move two tissue boxes to the tv stand 19409
+put a box of tissue on the toilet  20253
+put a tissue box on top of a toilet tank 20254
+put a box of tissues on the toilet 20255
+put a box of tissue on the toilet  20256
+place a box of tissues on a toilet tank 20257
+put a box of tissues on the toilet 20258
+move the plate from the coffee table to the dining table put the tissue box in the plate 20864
+put a box of tissue on its end on the plate on the kitchen table 20865
+get a plate from the coffee table 20866
+place one tissue box on the plate on the table 20867
+put tissues on a plate on a table 20868
+put the tissue box near window on the plate from the black table on the dining table 20869

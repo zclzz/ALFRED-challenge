@@ -1,0 +1,394 @@
+place a rinsed plate on a shelf 998
+wash the plate and put it away 999
+place a clean plate on a shelf 1000
+put washed plate on shelves 1001
+place a clean plate on a shelf 1002
+put a clean plate on the shelf 1003
+put a clean plate on the shelf 1004
+put clean plate on a shelf 1005
+put washed plate on shelves 1006
+clean a plate and put on the dining table 1312
+clean a plate and place it on the table 1313
+put a clean grey plate on a table 1314
+take plate to sink clean it move to table 1315
+put the clean plate on the table 1316
+to rinse off a plate and put it on the table  1317
+put a clean grey plate with a sponge on it on a round wooden table 1318
+put a clean plate with a clean sponge on it on the table 1319
+put a clean plate on the table 1320
+place a chilled plate on a table 1479
+put a chilled grey plate on a white table 1480
+put a chilled plate on the white table with shelves 1481
+put a chilled plate on the table  1482
+put chilled plate on table 1483
+put a chilled plate on the table with shelves 1484
+put chilled plate on the table 1485
+place a chilled plate on a table 1486
+put the plate from the counter on the table 1487
+place a microwaved plate into the upper cabinet  1533
+put a heated plate in the cabinet right of the microwave  1534
+moving the plate to a cabinet 1535
+wash the plate to put in the fridge 2253
+wash the dirty plate on the counter put it in the refrigerator 2254
+put the cleaned plate in the fridge 2255
+wash a plate to put it in the fridge 2256
+place the clean dish from the sink into the fridge 2257
+clean the plate on the counter sink to the next place the plate inside the refrigerator 2258
+wash the plate from the cabinet put it in the refrigerator 2259
+put a clean plate in the fridge 2260
+put a cleaned plate in the fridge  2261
+put the two plates on the coffee table 3194
+put two plates on the coffee table 3195
+put the two plates on the coffee table  3196
+place two plates on a coffee table 3197
+place two plates on to the coffee table 3198
+move some plates to the coffee table 3199
+put two plates on a table  3200
+put two plates on the coffee table 3201
+move two plates to a coffee table 3202
+put a heated blue plate on the counter 3263
+put a hot plate on a counter 3264
+place a heated plate on a counter 3265
+put a heated plate on a counter 3266
+put a warm plate on the counter 3267
+place a heated blue plate on the counter 3268
+put a heated plate on the counter left of the stove  3269
+warm a plate and put it on the counter 3270
+place a heated plate on a counter 3271
+heat the tray on the bed stool 4076
+warm a tray up to put on the table 4077
+place the warmed up tray back on the shelf 4078
+put the hot plate on the small dark table 4079
+heat up plate to place on table 4080
+place a heated plate on a table 4081
+warm plate place on table warm dog state place on table 4350
+heat the plate and the statue in the microwave put them on the dining table 4351
+put a heated plate with a statue on it on the round table 4352
+put a heated plate on the table 4353
+place a warmed plate on the circular table in the corner 4354
+get a plate to warm up in the microwave to place it on the table  4355
+put a heated plate on the dining table  4356
+put a heated plate on a wooden table 4357
+place a plate on the table that you picked up off of the counter and microwaved 4358
+place a clean plate with spatula on it on the shelf 4876
+wash a dish in the sink to put it on the bookshelf 4877
+wash a knife and plate and put them away  4878
+wash the dirty dish on the table with clean water and put it on the shelf 4879
+put a washed plate onto a shelving unit 4880
+pick up dirty plate clean it and finally put it away 4881
+put a clean plate in the cabinet 6622
+put a clean plate in the cupboard 6623
+to clean a plate and put it in the cabinet  6624
+put a clean plate in the cabinet 6625
+put a plate away in the cabinet under the toaster  6626
+wash the plate and put it away  6627
+place a clean plate in the cabinet 6628
+put a clean plate in the cabinet 6629
+put a rinsed plate in the cabinet below the toaster 6630
+place a hot plate on top of the shelves in the corner of the kitchen 6808
+put a warm dish on a shelf  6809
+put a heated plate on the wooden rack  6810
+place a warmedup plate on the shelf 6811
+put the plate from the sink onto the shelf 6812
+place a heated plate on the shelf 6813
+warm the plate place it on the top shelf 6814
+place a hot plate on the wooden rack 6815
+place a microwaved plate on a shelf 6816
+put a warm plate on the counter 6817
+place a heated plate on a counter 6818
+heat a plate and put it by the sink 6819
+place a heated plate on a counter 6820
+put heated plate on kitchen counter 6821
+place a hot plate on a counter top 6822
+microwave the white plate to set it down by the sink 6823
+heat a plate up and put it on the counter 6824
+put a warm platter on the counter to the left of the sink  6825
+heat up a plate from the shelf in the microwave to put in the fridge 6893
+put a heated plate in the fridge 6894
+move plate from shelf to microwave heat plate put plate in refrigerator 6895
+cook a plate of food then put it into the fridge 6896
+put a warm plate in the fridge 6897
+put a heated plate in the fridge 6898
+put a heated grey plate in the fridge 6899
+place a heated plate in a fridge 6900
+retrieve plate from cupboard insert it into microwave take the plate to the fridge 6901
+put a chilled plate on the middle shelf in the corner 7566
+put a chilled plate on the wooden shelf 7567
+place a chilled gray plate on the brown shelves 7568
+put a chilled plate on the brown tiered shelving unit 7569
+put a chilled plate onto the wooden shelf in the kitchen 7570
+place a cooled plate on the wooden shelves 7571
+put a chilled plate on the shelf 7572
+put the round plate on the wooden shelf 7573
+place a cooled off black plate on the middle brown shelf in the corner of the room 7574
+put a cold plate in the microwave 7691
+put a cold plate in the microwave 7692
+put a plate inside the microwave 7693
+place a chilled plate in a microwave 7694
+place a cold plate in the oven 7695
+put a cold plate in the microwave 7696
+put a clean plate on a shelf 8174
+put a clean plate on a shelf 8175
+to clean the plate  8176
+put a clean plate on the wooden shelf 8177
+place a clean plate on a shelf 8178
+place the cleaned plate on the shelves 8179
+put a cleaned plate on a shelf in the kitchen 8180
+place a clean plate on the brown shelf with a kettle on it 8181
+clean the dirty plate on the sink going to the shelf 8182
+put the cleaned plate from under the sink on the wooden self 8183
+put a cleaned plate on the middle wooden rack  8184
+put a washed plate on the shelf 8185
+put a cleaned plate on the wooden shelf 8186
+put a clean plate on a shelf 8187
+place a clean plate on a shelf 8188
+put a cold plate in the sink 8538
+put a chilled plate back into the sink where it came from  8539
+put a warmed plate in the sink 8540
+place a cooled plate in the sink 8541
+put a cold plate in the sink 8542
+get the plate in the fridge going to the sink 8543
+putting the plate from the sink to the fridge putting it back to the sink 8544
+put a plate in the refrigerator place it back in the sink 8545
+put a cold plate in the sink 8546
+put the warm plate on the counter 9156
+pick up plate cook in microwave and put on counter top 9157
+place a warmed plate on a counter 9158
+warm up plate in microwave 9159
+place a warmed plate on the counter near the refrigerator 9160
+place a heated plate onto the counter  9161
+put a warm plate on the counter 9162
+put a heated plate on the counter between the fridge and the stove 9163
+place a warm tray on the counter next to he spoon 9164
+examine the plate under the light of the lamp 10217
+examine the blue plate next to the light of the tall lamp 10218
+examine the blue tray in the light of the tall lamp  10219
+examine blue plate with the lamp 10220
+examine a plate by the light of a floor lamp 10221
+turning a lamp on 10222
+grab the blue plate from the table turn on the floor lamp 10223
+turn on a lamp with a plate in hand 10224
+grab the blue plate from the table turn on the floor lamp 10225
+to look at the dish in the lamp light 10226
+put a chilled plate into the cabinet 11906
+place a chilled plate in a cabinet 11907
+chill a plate and put it in the cabinet 11908
+place a chilled plate in a cabinet 11909
+cool down a plate in the fridge 11910
+put a chilled plate in a cabinet  11911
+put a plate in the refrigerator back to the bottom cabinet  11912
+put a chilled plate in a cabinet 11913
+move a plate from a cabinet to a fridge  11914
+to put a cold plate away 11915
+place a chilled plate in a cabinet 11916
+place a chilled plate underneath the sink 11917
+put a chilled gold plate on the table 11927
+put a chilled plate on the table  11928
+chill a gold plate to put on the kitchen island countertop 11929
+place a chilled plate on the table 11930
+place a chilled plate on a table 11931
+chill a plate and put it back on the table 11932
+put a clean plate in the fridge 12393
+put clean plate inside the fridge 12394
+pick up the plate and wash and put it away 12395
+to heat a plate and put it in the sink  12456
+place the hot plate in the sink  12457
+heat a plate to put in the sink 12458
+place a warm plate in the sink 12459
+put a warm plate in the sink  12460
+place a black plate in the sink 12461
+put a warm plate in the sink 12462
+put a heated plate in the sink 12463
+place the plate in the sink 12464
+place a warm plate in a tall cabinet 12545
+heat the plate from the cabinet above put it in the cabinet in the corner 12546
+put a warmed plate in the cabinet to the left of the stove 12547
+put a warmed pan in a cabinet 12548
+heat and replace the plate in the cabinet to the left of the stove 12549
+place a warmed plate in a cabinet 12550
+place the warm plate inside the cabinet 12551
+retrieve a plate from a cabinet and heat it up so you can return it to its original location 12552
+put a warm plate in the cabinet 12553
+warm a plate then put it away 12554
+place a black plate in the cabinet to the bottom left of the stove 12555
+put a warmed plate in the cabinet next to the stove 12556
+put a heated plate in the fridge  13014
+put a warm plate in a fridge 13015
+put a warm plate in the fridge 13016
+place a heated plate in a fridge 13017
+place a heated plate into a fridge 13018
+put a warmed plate in the fridge 13019
+place a microwaved plate inside of the fridge 13044
+place a warmed blue plate inside the fridge 13045
+chill a heated plate in the fridge  13046
+put a heated blue plate inside the fridge 13047
+put a hot plate in the fridge 13048
+heat a cold plate to chill in the fridge 13049
+place a microwaved plate inside of the refrigerator 13050
+put a warm plate in the fridge 13051
+place a warm blue plate inside the fridge 13052
+hold a plate while turning on a lamp 13168
+examine a plate with a lamp 13169
+examine the black plate by the lamp light 13170
+turn a lamp on with keys in hand 13171
+pick up a plate and turn on the lamp 13172
+examine a black plate with a lamp 13173
+look at a plate by the light of a lamp 13174
+examine a plate by the light of a desk lamp 13175
+go to the table in the corner to turn on the lamp pick up the black plate 13176
+to cool a plate plus place it in the sink 13522
+put a chilled plate in the sink 13523
+put a cold plate in the sink 13524
+put a cold plate in the sink 13525
+place a chilled plate in a fridge 13526
+put a cold plate in the sink 13527
+put chilled plate in the sink 13528
+put chilled plate in sink 13529
+put a chilled grey plate in the sink 13530
+place the microwaved dish on top of the counter next to the toaster 13618
+get a plate from the cupboard place the plate to the left of the toaster 13619
+put a heated grey plate on the counter 13620
+put a hot plate on a counter top 13621
+put a a warm plate on the counter 13622
+to heat a plate and place it on the counter 13623
+put a plate on the the tv stand 13900
+move the plate by the phone to the tv cabinet 13901
+put a black plate on top of the light brown cabinet 13902
+place the plate from the table on the tv stand 13903
+put the dark plate on the left side of the tv stand 13904
+pick the grey plate up from the kitchen table and leave it over on the television table  13905
+move the grey plate on the end table to the tv cabinet 13906
+place a grey plate onto the dresser in the living room 13907
+move black plate from table to television cabinet 13908
+put a heated plate down in a corner cabinet  14177
+put a warm plate in a cabinet 14178
+place a slightly heated blue container from the refrigerator into a cabinet 14179
+put a heated plate in the corner cabinet  14180
+place a warm blue plate in the cabinet beneath the wine bottle 14181
+take out the blue plate place it in the microwave to put it away again 14182
+put a warmed plate in the cupboard 14183
+put a hot plate in a cabinet 14184
+put a warm plate in the cabinet 14185
+to examine a plate by lamp light 14347
+turn on the living room light  14348
+hold a plate and turn on the lamp 14349
+examine a plate by the light of the tall lamp 14350
+hold a plate and turn on the lamp 14351
+examine plate with a lamp 14352
+examine a plate with the lamp 14353
+inspect a plate in lamp light 14354
+look at the tray in the lamp light  14355
+put a clean pan in the microwave 14497
+put a cleaned plate in the cabinet above the microwave 14498
+get the dirty plate from the wooden shelves wash it in the sink put the clean plate in the microwave 14499
+put a clean plate in the microwave 14500
+put a washed plate in the microwave  14501
+drop a clean plate inside the microwave 14502
+put a clean pan in a microwave 14503
+place a cleaned plate in a microwave 14504
+put the washed plate in the microwave 14505
+place a cooled plate in a cabinet  14614
+put a chilled black plate in a kitchen cabinet 14615
+place a chilled black plate in the right cabinet below the sink 14616
+place a cooled plate in the cupboard beneath the sink 14617
+put a cold plate in the cupboard 14618
+place a chilled black plate in the right cabinet below the sink 14619
+put a plate on bottom shelf in a cabinet 14620
+put a clean plate in the cabinet 14621
+put a chilled plate in a cabinet 14622
+examine a plate in the light of a tall lamp 14728
+examine the plate by the light of the tall lamp  14729
+turn on a lamp while holding a plate 14730
+grab the plate on the dining table turn on the floor lamp 14731
+inspect a plate in the light of a floor lamp 14732
+examine a plate in the light of a tall lamp 14733
+view a plate by lamp light 14734
+examine a plate in the light of a tall lamp 14735
+grab the plate from the coffee table turn on the floor lamp 14736
+put a chilled plate on the counter left of the sink  14963
+place a chilled plate on the kitchen counter 14964
+place a cold plate in the sink 14965
+put the chilled plate down on the counter to the left of the sink  14966
+put a cold plate on the counter next to the sink 14967
+place a cooled plate to the left of the kitchen sink 14968
+put the chilled plate in the sink cabinet 14969
+chill a plate and place it in the cabinet 14970
+put cold plate in a cabinet  14971
+put a chilled plate in the left cabinet under the sink  14972
+put the chilled plate in the cabinet 14973
+put a chilled baking pan in the cupboard under the sink 14974
+put a chilled pan in a cabinet 14975
+move a chilled spatula and spoon to a cabinet  14976
+move a chilled pan to the cabinet under the sink  14977
+clean the dirty plate on the table using the sink 15263
+put a clean grey plate on the counter 15264
+take the dirty pie plate from the table wash it in the sink then put it on the counter 15265
+put a clean plate on the counter 15266
+put a clean plate on the counter 15267
+wash the dirty pan in the cabinet then put it on the counter 15268
+place the plate in the fridge 15342
+to chill the plate  15343
+warm up the plate on the shelves 15344
+place a cool plate on the wooden shelf 15345
+put a chilled plate on the shelf 15346
+take the plate from the microwave to place it on the shelf 15347
+put a cold plate on the shelf 15348
+cool the plate in the refrigerator put the plate on the shelf 15349
+put a chilled plate on a shelf 15350
+place a cooled plate on the wooden shelves 15351
+put a chilled grey plate on a wooden shelving unit 15352
+put the chilled plate on the wooden shelf 15353
+put a cold plate in the cabinet below the counter 15853
+chill the grey plate and place it in the cupboard underneath the sink 15854
+put a cold plate underneath the sink 15855
+place a chilled plate inside the second cabinet on the left 15856
+put a chilled plate in to the cabinet 15857
+place a chilled plate in a cabinet 15858
+warm up the tray and place on the table 16695
+microwave a plate and set it down on a kitchen table 16696
+warm a plate in the microwave put the plate on the table 16697
+place a heated plate on a table 16698
+place a heated plate on the round table 16699
+heat the plate in the microwave put the plate on the table 16700
+place a heated plate on the counter 17138
+put a heated grey plate on the counter 17139
+place a microwaved plate down on the kitchen counter 17140
+put warm plate on counter 17141
+place a heated plate on a counter 17142
+put a warm plate on the counter 17143
+place a warmed plate on a counter 17144
+put a warm plate on the counter 17145
+place a heated plate on a counter 17146
+taking the plate out of the microwave to put it away in the cabinet 17156
+heat tray in microwave put in cabinet 17157
+put a tray into a microwave  putting it inside a cabinet 17158
+put a warmed plate in the cupboard 17159
+put a heated tray in the cabinet  17160
+put a warm plate in the cupboard 17161
+put the chilled plate on the shelf 19464
+place a cold plate on the shelf 19465
+put a chilled plate on the wooden shelf 19466
+place a chilled plate on a shelf 19467
+place a cold plate on the shelf 19468
+chill a plate and place it on a shelf 19469
+put a chilled plate on the wooden rack  19470
+put the chilled plate on the shelf 19471
+place a chilled plate on the shelf 19472
+put a heated plate in the sink  19647
+heat a plate and place it in the sink 19648
+put a warm plate in the kitchen sink  19649
+put the hot plate in the sink  19650
+heat a plate and place it in the sink 19651
+cook the dish in the cupboard and put it in the sink 19652
+put a cold plate in the leftmost cabinet under the sink 19840
+chill a plate and put it in the cabinet 19841
+put a chilled plate in a cabinet 19842
+place a cold plate into the cabinet below the sink 19843
+put a chilled grey plate in a cabinet 19844
+put a chilled plate in the cabinet 19845
+put two plates on the coffee table 20909
+put two plates on a table 20910
+to move two black plates to the coffee table  20911
+put two black plates on the table 20912
+move two plates to the coffee table  20913
+move two grey plates to the coffee table 20914

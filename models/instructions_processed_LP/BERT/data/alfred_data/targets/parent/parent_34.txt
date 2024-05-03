@@ -1,0 +1,855 @@
+move pen from desk to shelf 24
+put a pen in the cubby hole above the desk 25
+move a blue pen from the desk to the cabinet above it 26
+put a pen in the cubby hole above the desk 27
+place a pen on the shelf 28
+place a pen on a desk 29
+move pen from desk to shelf 30
+put a pen on the shelf 31
+put a pen inside a shelf 32
+wet a sponge and put it away on a shelf  164
+put a cleaned sponge on a shelf  165
+place a rinsed sponge on a shelf 166
+put a cleaned sponge on a top shelf  167
+put a clean sponge on the shelf rack 168
+place a wet sponge on the shelf 169
+put a cleaned sponge on the shelf 170
+put a clean sponge on the shelf  171
+
+drop a wet sponge on the shelf 172
+heat the cup from refrigerator with microwave put it on the shelf 529
+put a heated mug on a shelf 530
+put the warmed mug on the wooden shelf 531
+put the heated mug on the wooden rack  532
+put a warm cup on the shelf  533
+place the warmed cup on the wooden shelf 534
+put the white mug on the wooden shelf 535
+put a heated mug on the wooden shelf  536
+place the heated cup on the top shelf 537
+move the clock from the table to the dresser 687
+put a clock on the dresser  688
+place a clock on the wooden dresser 689
+to put the lunchbox on the desk  690
+move the lunch box from the night stand to the desk shelf 691
+move an alarm clock from an end table to a desk 692
+place a clock on a shelf 693
+put a clock on the the upper shelf of the desk  694
+place an alarm clock on the top shelf of a desk 695
+move a clock from the desk top to the desk shelf 696
+move the box to the top shelf of the desk 697
+move a box from the desktop to the top shelf of the desk 698
+put the plate with credit card on the lower shelf 821
+move credit card and plate to a shelf 822
+get the credit card on a plate and next to the box 823
+put a plate with a credit card on it on a bench 824
+put a white plate with a credit card on it on the bench 825
+put a plate with a credit card on it on the shelf 826
+place a plate with a credit card on top of it on the shelf 827
+put a plate with a credit card on it on a bench 828
+put a plate with a credit card on it on a black platform 829
+put a white plate with a credit card on it on a bench 830
+move the white plate with the credit card on top of it the right side of the black bench 831
+put an ash tray with a credit card on it on the grey table 832
+move a credit card and plate to a bench 833
+set a plate with a credit card on it onto the shelf with the statue 834
+put a plate with a credit card on the shelf 835
+put the credit card on a plate on a bench 836
+place the credit card on the plate to place it in front of the trophy 837
+put a plate with a credit card on a black platform 838
+to clean a tea pot and put it on the shelf 972
+put a clean tea pot on the shelf 973
+wash the kettle in the sink put the kettle on the shelf 974
+place a clean tea kettle on the shelf 975
+place a washed kettle on a shelf 976
+place a washed tea pot on the shelf 977
+put a cleanly washed kettle on the second shelf in the kitchen 978
+take the kettle from the stove wash it  put it on the shelf in the corner 979
+to clean a tea pot and store it on the second shelf from the bottom on the wall 980
+put a clean tea pot on a shelf 981
+place a clean kettle on a shelf 982
+clean the kettle to place it on the shelf 983
+place a clean tea kettle on a shelf 984
+put a teapot on the shelf 985
+place a cleaned kettle on a shelf 986
+put a washed kettle on a shelf 987
+place the clean teapot on the second shelf  988
+place a rinsed plate on a shelf 998
+wash the plate and put it away 999
+place a clean plate on a shelf 1000
+put washed plate on shelves 1001
+place a clean plate on a shelf 1002
+put a clean plate on the shelf 1003
+put a clean plate on the shelf 1004
+put clean plate on a shelf 1005
+put washed plate on shelves 1006
+place a credit card inside a box and take the box to a shelf 1016
+place a box with a credit card on a bench 1017
+place a box with a credit card in it on a shelf 1018
+to put a credit card inside a box and move the box to the shelf  1019
+move credit card from table to coffee table place it in a box pick up box with credit card move both to shelf 1020
+put the cardboard box with credit card on the dark bench 1021
+place a box with a credit card in it on the short table 1022
+put box and credit card on living room shelf 1023
+put a credit card in a cardboard box to put on a black shelf 1024
+put two salt shakers on a shelf 1079
+put two salt shakers on a shelf 1080
+place two salt shakers on the middle wooden shelf in the corner of the room 1081
+put two salt shakers on a shelf 1082
+place two salt shakers on a shelf 1083
+move two salt shakers to the shelf of a wooden shelving unit 1084
+place salt shakers on a shelf 1085
+put two salt shakers on a shelf 1086
+place the two shakers on the middle shelf 1087
+put the salt pepper on the wooden rack  1088
+drying the coffee cup and putting it away 1279
+put a heated mug on the middle rack  1280
+heat the cup with microwave put the cup on the shelf 1281
+heat up the cup on the wooden shelf 1282
+to heat up the water in the cup 1283
+place a microwaved cup down on the kitchen shelf 1284
+put the heated cup on the shelf 1285
+put a heated mug on the middle wooden rack  1286
+place a warm white cup on the middle brown shelf in the corner of the room 1287
+put a chilled glass on the middle wooden shelf  1380
+put a cold glass on a shelf 1381
+put a chilled glass on the shelf 1382
+put the chilled glass on the shelf  1383
+put a cooled glass on the shelf 1384
+put a refridgerated wine glass on the brown shelf 1385
+put away a glass cup on a shelf 1386
+putting a wine glass on the brown shelf 1387
+cool the wine glasses on the counter in the refrigerator move it to the shelf 1388
+place a chilled glass on the shelf 1389
+place a chilled glass on a wooden shelf 1390
+put the pot in the fridge 1461
+cool the pan from shelf in the refrigerator put it back on the shelf 1462
+put the chilled pot on the wooden shelf 1463
+put a cold black pot to the wooden shelf at the second rack from the bottom  1464
+move a kettle to a wooden rack 1465
+place a cold pot on the shelf 1466
+place a cooled pot on the brown shelf 1467
+place chilled put on the shelf 1468
+put a cold pot on a wooden shelf 1469
+put a cup with a pencil on a shelf 1708
+put a mug with a pencil in it on the shelf 1709
+put a coffee cup with a pencil in it next to the tissues on the cabinet 1710
+put a mug with a pencil in it on the shelf 1711
+put a mug holding a pencil into an open cabinet 1712
+put the mug with pencil on the drawer 1713
+put a mug with the pencil on it on a shelf 1714
+place a coffee cup containing a pencil on the shelf of the end table to the left of the desk  1715
+put the pencil in the cup put it in the shelf 1716
+place a mug with a pencil on a shelf 1717
+put a mug on a shelf of a stand 1718
+place a coffee cup containing a pencil on the shelf of a small table 1719
+move the clock from the table to the cabinet above 1729
+put a clock on a shelf 1730
+place a clock in a cabinet 1731
+place the clock from the table onto the top shelf 1732
+move a clock from the desk top to the desk shelf 1733
+place a clock on a wooden shelf 1734
+put the clock on the desk 1735
+take clock from top of the desk onto the middle of it 1736
+move an alarm clock 1737
+put two cell phones on a desk shelf 1747
+move two phones to a shelf above a desk 1748
+put both cell phones next to each other on the shelf 1749
+move two cell phones from the bed to the dresser  1750
+place two cell phones on the dresser 1751
+place two cell phones on a dresser 1752
+stack two cell phones screen sides facing on the top shelf of the desk 
+ 1753
+pick up two phones to be placed together on the top shelf of the desk  1754
+place two phones on the top desk shelf 1755
+put two rags on the shelf 1756
+pick up two cloths on the floor and place on cabinet 1757
+put black and yellow cloth on the top shelf  1758
+to move two rags from the counter to the shelf  1759
+to place two rags that are black and white onto two shelves 1760
+move two cloths to the shelf 1761
+put two rags yellow and black on a shelf 1762
+move two rags to a shelf 1763
+put two rags on the floor on the shelves  1764
+place a glass on a shelf 1946
+place a cleaned wine glass on the shelf 1947
+place cleaned glass on brown shelves 1948
+put a clean glass on the shelf 1949
+put a clean glass on the shelf 1950
+put a clean glass on the brown shelf with a bowl and a sponge  1951
+place a washed glass on a shelf 1952
+put a clean glass cup in the dish rack 1953
+place a clean glass on a shelf 1954
+put keys on a shelf of a cabinet 2673
+move the keys to a lower shelf of the cabinet 2674
+move keys to lower shelf 2675
+put the keys under the top of the shelf  2676
+place keys on left side of shelf of black cabinet 2677
+move the keys from the top of the cabinet to a lower shelf 2678
+put the keys in the small shelf  2679
+place some keys on a shelf 2680
+place keys on a nightstand  2681
+put a bowl with a watch in it on the shelf  2784
+place a bowl with a watch on a shelf 2785
+put a grey bowl with a watch in it on a shelf 2786
+put a bowl with a watch in it on a shelf in a desk 2787
+put a bowl with a watch in it on the shelf 2788
+place a bowl with a watch in it on a shelf 2789
+put two bars of soap on a shelf  2790
+to move two bars of soap to the shelf  2791
+put two soap bars inside a dresser in the second shelf 2792
+put two pink bars of soap on the bottom shelf 2793
+place two bars of soap onto the lowest shelf 2794
+place two bars of soap on a shelf 2795
+move two bars of soap from the white box to the shelf 2796
+move both soaps from the basket to the shelf  2797
+put two bars of soap on the shelf 2798
+put the glasses away on the shelf 3236
+place two glasses on a shelf 3237
+to move two glasses from the cabinet above the wine bottle to the second shelf from the bottom of the shelves 3238
+to move two glass to the second shelf from the top of the shelves 3239
+put two glasses on the shelf 3240
+move two glasses to a shelf 3241
+to put the cups away  3242
+place two glass cups on the shelf 3243
+put two cups on the shelf 3244
+move the pencil from the top of the stand to the shelf on the left of the stand 3551
+to move a pen from the top shelf to the second shelf  3552
+put the pencil in the second layer of the drawer 3553
+put the pencil in the drawer 3554
+place a pencil in a small cabinet 3555
+move pencil from desk to shelf 3556
+move a pencil to a different area  3557
+move a pencil to a small end table 3558
+place a pencil on a shelf 3559
+place a plate with keys on it on the small table in the corner of the room 3790
+put a white plate with keys on it on a bench 3791
+put white plate and keys on black shelf 3792
+put a plate with some keys on it on a bench 3793
+move a plate and keys to a bench 3794
+to put keys on a plate and place them on a platform next to an empty box 3795
+to put keys on a plate and place them on the platform in the corner of the room 3796
+move a plate and keys to a counter  3797
+move a plate beneath keys on a bench 3798
+put a warm mug on a shelf 4194
+place the warmed up cup on the top shelf 4195
+place a heated mug on a shelf 4196
+heat the white cup from table in the microwave put it on the shelf 4197
+place a heated mug on a shelf 4198
+place a heated mug on the top shelf of the shelving unit 4199
+put a heated coffee cup on the top shelf 4200
+cook a cup in the microwave to be put on top of the shelves in the corner of the room 4201
+put a heated mug on the wooded rack  4202
+put the bowl on the middle wooden shelf  4227
+grab a bowl chill it place it on a shelf 4228
+placed the cooled bowl on the shelf 4229
+put a cold bowl on a shelf 4230
+place a cooled bowl on the shelves in the corner of the kitchen 4231
+place a chilled bowl on a shelf 4232
+get the bowl from the shelf put it in the refrigerator take it out put it back on the shelf 4233
+chill a bowl in the fridge 4234
+put a chilled bowl on the wooden rack  4235
+put the pen on the wooden shelf 4429
+put a pen on a shelf 4430
+put a pen on the shelf 4431
+move pen from the dresser to the shelves 4432
+move a pen from a dresser to a square shelf 4433
+place a pen on the bottom shelf 4434
+put a pen in a box 4435
+place a pen in a box 4436
+move pen from desk to shelf 4437
+move a cd to the desk cubby area 4438
+put a disc on a shelf on a desk 4439
+move cd to the shelf 4440
+move a disc from the desk to the  shelf 4441
+move the disc from on the table to the shelf underneath 4442
+put a disc on the shelf of a desk 4443
+put a cd on a desk shelf 4444
+move a cd to the desk cubby 4445
+move the disc from back of the desk to the shelf underneath 4446
+move a wine bottle to the shelf 4507
+move a wine bottle from the kitchen counter to the second shelf from the bottom in the kitchen  4508
+put a bottle on a shelf 4509
+grab the wine bottle from the sink under the sink put it on the shelf 4510
+move a bottle of wine from a cabinet to a shelf  4511
+move a bottle from the cabinet to a shelf 4512
+place two salt shakers on the brown shelf in the corner of the kitchen 4819
+to move the salt from the counter to the brown shelf 4820
+place two salt shakers between the two objects on the shelf 4821
+put two salt shakers on a shelf 4822
+put two salt shakers on a shelf 4823
+place two salt shakers the middle shelf of a wooden shelving unit 4824
+put the salt shakers from the counter and cabinet onto the wooden self 4825
+place two salt shakers next to each other on a shelf in the corner of the room 4826
+place the two salt shakers on the wooden shelf 4827
+place a clean plate with spatula on it on the shelf 4876
+wash a dish in the sink to put it on the bookshelf 4877
+wash a knife and plate and put them away  4878
+wash the dirty dish on the table with clean water and put it on the shelf 4879
+put a washed plate onto a shelving unit 4880
+pick up dirty plate clean it and finally put it away 4881
+clean a bowl and fill it with water to display on a shelf 4955
+place a clean bowl on a shelf 4956
+place a cleaned bowl on a shelf 4957
+place a cleaned bowl on a shelf 4958
+clean a bowl and fill it with water place it on a shelf 4959
+put the bowl with water on the shelf rack 4960
+wash bowl and place on shelf 4961
+place a clean container on a shelf 4962
+put the clean bowl with water on  the shelf rack 4963
+move a cloth from the floor to a shelf 5321
+move a rag from the floor to a shelf 5322
+get the rag from the floor and put it on the shelf 5323
+pick up the black rag and put it next to the black mug 5324
+move a rag from the floor to a shelf 5325
+take the black cloth from the desk put it on the desk shelf 5326
+put a gray rag on the shelf 5327
+put a black cloth in a cubby 5328
+place a towel on a shelf 5329
+put the cd on the upper shelf 5348
+take the cd to place it on top of the shelf 5349
+move the disc from the dresser to the top shelf 5350
+place a cd on a shelf 5351
+place the cd next to the alarm clock 5352
+place a disk on a shelf 5353
+place a disc on the shelf 5354
+put the cd down on the shelf next to the clock  5355
+place a cd on a bookshelf 5356
+move a tea pot from the stove to a shelf 5381
+put the tea kettle on the shelf 5382
+placed tea pot on shelf  5383
+move the kettle thats on the back left burner to the middle wooden shelf 5384
+move teapot to the brown shelf 5385
+move the kettle with blue handle in the back on the stove to the second shelf in the corner 5386
+put a kettle on the shelf  5387
+put a kettle on the middle shelf of the wooden rack  5388
+place a kettle on the shelf 5389
+put two candles on the shelf to the left of the toilet 5447
+put the candles on a shelf 5448
+place two candles on a shelf 5449
+put candles on the shelf of a dresser 5450
+move both candles from the bathtub to the shelf 5451
+place two candlesticks on a cabinet shelf 5452
+move two alarm clocks to the shelf below the desk  5453
+moved both alarm clocks to the first shelf of the desk 5454
+move two digital clocks to a shelf 5455
+move the alarm clocks on the desk to the drawer shelf  5456
+move two clocks from the desk to the shelf  5457
+put two clocks on shelf under desk top 5458
+move two credit cards from the dresser to the book shelf  6321
+put the credit cards on the shelf 6322
+take two credit cards from dresser and place on shelf next to dresser 6323
+drop two cards on the shelf 6324
+move two credit cards to a shelf 6325
+move credit cards from the dresser to the shelf 6326
+take the rags out of of the tub and to the hamper 6345
+put two rags on the shelf to the right of the sink 6346
+pick up two green rags from the bath tub and place them on a shelf under the towel rack 6347
+move two cloths from the tub to a bathroom shelf 6348
+put the green cloths on the small white cabinet 6349
+move two wash cloths from the tub to the top of the cabinet  6350
+put two rags on the shelf to the right of the sink 6351
+move two wash cloths from the tub to the cabinet 6352
+to move two green rags to the white shelf next to the sink  6353
+to clean a glass and put it on the shelf  6459
+put a clean glass on a shelf 6460
+fill the glass with water and put it in the cabinet 6461
+place a washed glass on a shelf 6462
+clean a glass cup and place it on the shelf 6463
+drop a clean glass cup on the shelf 6464
+place a cleaned cup on a shelf 6465
+clean a glass and put it on the shelf 6466
+put a clean glass on the shelf 6467
+place a washed sponge on shelf 6495
+put a wet sponge on the shelf 6496
+wash a sponge and place on a shelf 6497
+put a clean sponge on the shelf 6498
+place a rinsed sponge on a shelf 6499
+wash the sponge for 3 seconds put it on the shelf 6500
+clean a sponge and store it in a shelf 6501
+stand a cleaned sponge on the middle shelf  6502
+put a clean sponge on a shelf 6503
+place a hot plate on top of the shelves in the corner of the kitchen 6808
+put a warm dish on a shelf  6809
+put a heated plate on the wooden rack  6810
+place a warmedup plate on the shelf 6811
+put the plate from the sink onto the shelf 6812
+place a heated plate on the shelf 6813
+warm the plate place it on the top shelf 6814
+place a hot plate on the wooden rack 6815
+place a microwaved plate on a shelf 6816
+put a cup with a pen on a shelf 7278
+put a mug with a pen in it on the shelf 7279
+move a mug and pencil to the bookshelf 7280
+put a cup with a pencil in it on the shelf 7281
+put a cup with a pen inside on the side to the left of the mirror 7282
+place a mug with a pen in it on a book case shelf 7283
+move the pen and mug to the bookcase 7284
+move the coffee cup from the desk to the bookshelf  7285
+put a cup with a pen in it on the shelf in a bookcase 7286
+place a box containing a remote onto a shelf 7323
+place a carton with a remote in it on the stand 7324
+put the box with remote on the corner 7325
+put a chilled plate on the middle shelf in the corner 7566
+put a chilled plate on the wooden shelf 7567
+place a chilled gray plate on the brown shelves 7568
+put a chilled plate on the brown tiered shelving unit 7569
+put a chilled plate onto the wooden shelf in the kitchen 7570
+place a cooled plate on the wooden shelves 7571
+put a chilled plate on the shelf 7572
+put the round plate on the wooden shelf 7573
+place a cooled off black plate on the middle brown shelf in the corner of the room 7574
+put a chilled bowl on a shelf 7657
+refrigerate the bowl for some time 7658
+put a chilled bowl on the shelf 7659
+put the chilled bowl on the wooden shelf 7660
+place a cold bowl on the shelf 7661
+put a bowl on a shelf 7662
+to chill a bowl and place it on the shelf  7663
+put the chilled bowl on the shelf rack 7664
+place a chilled bowl on the brown shelves in the corner of the room 7665
+microwave a glass  place it on the shelf 7715
+place a heated glass on a shelf 7716
+put a warm glass on the shelf 7717
+put the heated glass on the shelf  7718
+put a heated glass on the wooden rack  7719
+place a hot glass cup on the shelf 7720
+place a warm glass cup on the wooden shelf 7721
+putting away a container  7722
+put a heated glass on the shelf  7723
+relocate the glass cup from the sink to the wooden rack 7724
+put a cd on the book shelf  7950
+put the cd onto the shelf 7951
+place a disk at the bottom of  the shelf 7952
+move the cd from the dresser to the entertainment center 7953
+put a disc on a shelf 7954
+move a cd to the shelving unit 7955
+put a cd in the book shelf  7956
+move a cd to the shelving unit 7957
+put a cd on the shelf 7958
+place the pen in the bowl on the table 8066
+place a bowl with a pen in it down on top of the dresser 8067
+put a bowl with a pen in it on the shelf on the desk  8068
+place the bowl with the pen in it onto the top shelf of the desk  8069
+put a pen in a bowl on the shelf above the lap top 8070
+put a bowl with a pen in it on the top shelf of the desk  8071
+go pick up pen place it onto bowl then put bowl on top of desk 8072
+place the bowl with a pen on the desk 8073
+place a glass bowl with a pen in it on top of the top shelf of the wooden desk 8074
+move a glass bowl with a sponge to the shelves in the corner  8105
+place bowl with green sponge on middle brown shelf 8106
+move a sponge and bowl to a shelf 8107
+pick up a sponge put it in a bowl put the bowl on a shelf 8108
+move a bowl with a sponge to the shelves in the corner  8109
+place a bowl with a sponge inside on the shelf 8110
+put a bowl with a sponge in it on the shelf 8111
+put a bowl containing a sponge on the shelf  8112
+move the bowl with the green sponge to the shelf  8113
+put a clean plate on a shelf 8174
+put a clean plate on a shelf 8175
+to clean the plate  8176
+put a clean plate on the wooden shelf 8177
+place a clean plate on a shelf 8178
+place the cleaned plate on the shelves 8179
+put a cleaned plate on a shelf in the kitchen 8180
+place a clean plate on the brown shelf with a kettle on it 8181
+clean the dirty plate on the sink going to the shelf 8182
+put the cleaned plate from under the sink on the wooden self 8183
+put a cleaned plate on the middle wooden rack  8184
+put a washed plate on the shelf 8185
+put a cleaned plate on the wooden shelf 8186
+put a clean plate on a shelf 8187
+place a clean plate on a shelf 8188
+put two vases on the brown shelf 8189
+put two vases on the middle shelf of the wooden rack  8190
+move two glass bottles to the shelf 8191
+put the glass jars on the shelf 8192
+to move two vases from various locations to a shelf 8193
+put two vases on the brown shelf 8194
+place two vases down on the middle shelf in the corner of the room 8195
+put two vases on a shelf 8196
+place two glass vases on the shelf with the hand on it 8197
+place a heated cup on top of the wooden shelves 8467
+place a heated cup on a shelf 8468
+place a heated cup onto the top shelf of the wooden shelving unit 8469
+put a warm cup on the shelf  8470
+put a hot cup on top of the brown shelf in the corner of the kitchen 8471
+moving a bowl to the shelf 8472
+place a microwaved cup on the brown shelf 8473
+place a heated cup on the shelf 8474
+place a heated cup on a shelf 8475
+put a credit card on a shelf on a desk 8735
+place blue credit card on desk shelf 8736
+put a credit card on the shelf under the desk 8737
+place a credit card on a shelf 8738
+place a credit card on a shelf 8739
+putting a credit card under a desk 8740
+place the credit card into the desk shelf underneath the laptop 8741
+move the credit card to the shelf 8742
+place a card on the drawer under the table 8743
+put a clean tissue onto a shelf 8953
+place a clean rag on the shelf below the counter 8954
+put a cleaned rag on a shelf 8955
+put a clean cloth on the shelf 8956
+put the clean cloth on the second layer of the drawer 8957
+place a clean rag on a shelf 8958
+put a rinsed cloth on the shelf under the counter 8959
+place a clean cloth in the bathroom shelf 8960
+put a clean white rag on a shelf below a white table 8961
+rinse a bowl to put on the shelf 9036
+put the washed bowl on the wooden shelf 9037
+place a clean pan on a shelf 9038
+place a clean bowl on the shelf 9039
+wash a bowl from the counter then put it away 9040
+get bowl from counter put in sink and fill with water put the bowl on the shelves 9041
+place a clean bowl on the middle brown shelf in the corner of the room 9042
+place a clean bowl on a shelf 9043
+put a clean bowl on the shelf 9044
+place a cup with a pencil in it on a book case shelf 9449
+place a mug with a pencil on a shelf 9450
+place the cup inside a cabinet with a pencil in it 9451
+put a coffee cup with a pencil on the bookshelf 9452
+pick up pencil move it to coffee mug place both on book case 9453
+put a coffee cup with a pencil inside it on the dark brown bookshelf 9454
+put a white mug with a pencil in it on a shelf 9455
+move the mug with a pencil in it onto the book shelf  9456
+move a cup and pencil to the wall shelf 9457
+put a cd on a shelf 9636
+get a disc from the desk and put it in the other cabinet on the desk 9637
+moving a cd from one cabinet to another 9638
+put a cd back in its original spot  9639
+move a cd to a different part of the desk 9640
+move cd from cabinet to a shelf 9641
+place a cd in a cabinet 9642
+take the cd from the desk put it on the desk shelf 9643
+put a cd in a cabinet 9644
+cool the coffee cup 9824
+putting a cooled mug on a shelf 9825
+put a chilled mug on the shelf 9826
+put a chilled white mug on the middle shelf of a wooden shelving unit 9827
+put a cold mug on the shelf 9828
+place a chilled mug on a shelf 9829
+to chill a mug and place it on the shelf  9830
+put a chilled mug on the shelf 9831
+put the chilled mug on the shelf rack 9832
+to move two disks on the desk to the shelf on the bottom right of the desk 10245
+put two cds in the open area between the desk top and the drawers underneath 10246
+move two cds on the desk to the drawer shelf  10247
+place the cd under the desk 10248
+move two cds to the drawer shelf below the desk 10249
+put two cds in the open space above the drawer on the right side of the desk 10250
+put the two cd on the desk shelf 10251
+place two cds on the shelf on the bottom right part of the desk 10252
+put two cds on the shelf of the desk 10253
+warm up a mug in the microwave  10543
+heat a white mug in a microwave 10544
+put a heated cup on the shelf 10545
+place a warmed mug on a shelf 10546
+put a warmed mug on a shelf 10547
+place a warm mug on the top shelf 10548
+place a cup you got out of the fridge on top of the brown shelves 10549
+put a heated cup on a shelf 10550
+put a heated mug on the shelf 10551
+place a chilled mug next to the statue on the brown shelf 10576
+get white mug from coffee maker put in fridge chill take out mug and put it on shelves 10577
+put a chilled mug on the shelf 10578
+place a chilled mug on the top brown shelf next to the door 10579
+chill a mug and place it on the shelf 10580
+chill the coffee cup on the shelves 10581
+put a chilled mug on the shelf 10582
+put a chilled mug on the wooden shelf 10583
+put the chilled mug on the wooden shelf 10584
+put two pencils on a shelf on a desk 10781
+place two blue pencils on desk shelf with keys 10782
+move two blue pencils from the desktop to the shelf at the back of the desk 10783
+put two pencils on the hutch shelf one horizontal and one vertical 10784
+to move two pencils to the shelf of the desk with the statue 10785
+move pencil to the top self of the desk 10786
+move two pencils to a shelf 10787
+put two pencils on a shelf on a desk 10788
+move pencil to the top shelf of the desk 10789
+put two cloth under the shelf 11480
+move the wash cloths to the shelf 11481
+move two tissues to a shelf 11482
+move to white rags to a shelf 11483
+move two towels to a lower shelf in the bathroom 11484
+place two rags on the second shelf from the bottom of the shelves of a desk 11485
+move two cloths to a shelf 11486
+move two towels to an underneath shelf 11487
+put two dirty cloths on to the shelf under the counter 11488
+place clean sponge on black plate on second shelf 12239
+put a cleaned sponge on a dirty plate on the wooden rack  12240
+place the sponge on a plate on the lower shelf 12241
+put the sponge on the shelf 12242
+put a cleaned sponge on the shelf 12243
+put a sponge on a shelf 12244
+place a washed sponge on the plate on the shelves 12245
+put a clean sponge on the shelf of a wooden shelving unit 12246
+place a clean sponge on a plate on a shelf 12247
+chill the mug and put it back on the shelves 12474
+put a chilled mug on the shelf 12475
+chilling off a hot cup 12476
+chill the mug in the fridge and set it on the rack 12477
+put the cold mug on the shelf 12478
+put a chilled cup on the shelf 12479
+chill a mug and put it away on a shelf 12480
+put a warm cup on a shelf 12481
+get mug from microwave chill it put it on the second to last shelf next to the kitchen island 12482
+move a bowl from the microwave to a shelf 12483
+put a chilled glass bowl on the wooden shelving unit 12484
+place a bowl on a shelf 12485
+place a cooled bowl on a shelf in the kitchen 12486
+chill the bowl and set it back on the shelves 12487
+place a cold glass bowl on the shelf 12488
+put the cold bowl on the shelves 12489
+pick up a bowl refrigerate it place it on a shelf 12490
+put a chilled bowl on a shelf 12491
+put a chilled pot on the brown shelf  12539
+put a chilled pot on a shelf  12540
+place a cooled pot on the middle rack of the wooden shelves 12541
+put the pot on the middle shelf  12542
+put a cold pot on a shelf 12543
+place a cooled pot on the brown shelf in the kitchen 12544
+put a mug with a pen in it on top of the wooden desk 12672
+put mug with pen on top of the desk shelf 12673
+put a mug with a pen in it on the desk 12674
+grab and place a mug with the pencil in it on a shelf 12675
+place a mug with a pen in it on the top shelf of a desk 12676
+drop a mug on the table with a pen in it 12677
+put the pen inside the mug on top of the desk 12678
+put a mug with a pen inside it on the top shelf of a desk on top of a cd 12679
+move a mug and place a pen in it 12680
+put two pens on the bottom shelf of the desk 12681
+get two pens from the table put them on the shelf 12682
+put two pens on a shelf 12683
+put two pens on a shelf 12684
+move two pens to the bottom shelf of the desk 12685
+move two pens from the white table to the bottom shelf of the desk 12686
+put two pens on the bottom shelf of the desk 12687
+put two pens on the shelf 12688
+take blue two pens put them on the lowest shelf of the wood desk 12689
+place a washed pot on a shelf 12846
+put a clean pot on a shelf 12847
+place a cleaned pot on a shelf 12848
+place a pot with water on a shelf 12849
+put a clean metal pot of water on a shelf 12850
+put a cleaned pot full of water on the middle wooden rack  12851
+put a clean pot on a shelf 12852
+put the pot with water on the shelf rack 12853
+to fill a pot with water and place the pot on the shelf  12854
+place a washed kettle on the second shelf from the bottom across from the door 12885
+put a cleaned tea kettle on the wooden shelf 12886
+place a clean kettle on a shelf in a kitchen 12887
+wash the teapot and put it back on the rack 12888
+put a cleaned tea kettle on the wooden shelf 12889
+rinse a tea pot and put it away 12890
+move a phone to the shelf of an end table 13153
+put the cell phone on the second shelf of the drawer 13154
+place a cd on a shelf 13155
+put a phone on a shelf 13156
+take the phone from the desk and place it on the night stand underneath the cds 13157
+take the cell phone from the desk put it on the end table 13158
+cool a mug and put it on a wooden shelf 13624
+place a cold mug on the shelf 13625
+put a chilled mug on the wooden rack  13626
+cool down a mug for showcasing on a shelf 13627
+put the chilled mug on the shelf  13628
+put a chilled mug on a shelf 13629
+move the mug in the sink to the shelf  13630
+place a chilled mug on a shelf 13631
+put a chilled mug on a shelf 13632
+put 2 set of keys on top of a book shelf 13879
+move two sets of keys to a shelf 13880
+put two sets of keys on shelves 13881
+put two sets of key in an empty space under the tv desk 13882
+place two sets of keys on the dresser 13883
+place two sets of keys on a television stand 13884
+place two pots on the shelf 14003
+put two pots on the wooden shelf 14004
+put two pots on the brown shelf unit 14005
+put two pots on a shelf  14006
+move two pans to a shelf to the left of the counter  14007
+put two pots on a shelf 14008
+move two metal pots to the middle shelf of a shelving unit 14009
+place two pots on a shelf 14010
+put two pot on the wooden shelf 14011
+place a credit card on a book shelf 14234
+move a credit card from a desk to a shelf  14235
+take the bank card from the desk put it on the desk shelf 14236
+put a credit card on a book shelf 14237
+put a credit card on the shelf 14238
+place a credit card on a shelf 14239
+put the credit card from the table to  the book shelf 14240
+walk to the desk and pick up a credit card place the credit card on a wooden shelf  14241
+take the credit card from one desk and put it on the shelf of the other 14242
+place the plate in the fridge 15342
+to chill the plate  15343
+warm up the plate on the shelves 15344
+place a cool plate on the wooden shelf 15345
+put a chilled plate on the shelf 15346
+take the plate from the microwave to place it on the shelf 15347
+put a cold plate on the shelf 15348
+cool the plate in the refrigerator put the plate on the shelf 15349
+put a chilled plate on a shelf 15350
+place a cooled plate on the wooden shelves 15351
+put a chilled grey plate on a wooden shelving unit 15352
+put the chilled plate on the wooden shelf 15353
+put two candle on the shelf 15747
+place two candlesticks on the first white table closest to the toilet 15748
+put two candles on a cabinet 15749
+put two candles on a shelf 15750
+move the candlesticks from the toilet to the shelf  15751
+to move two candles from the back of the toilet to the dresser on the opposite end of the room from the sink 15752
+put two candles on the shelf 15753
+put two candle stick on bathroom radiator cover 15754
+put two candles on the shelf 15755
+put toilet paper rolls onto shelf 16456
+put the toilet paper and the empty tube on the shelf 16457
+put toilet paper and an empty toilet paper roll on the shelf 16458
+to move toilet paper and a tube to the shelf  16459
+place a new and an empty toilet paper roll on a shelf 16460
+move the toilet paper rolls to the shelves  16461
+taking the orange cup to place it on the brown shelf 16686
+put the cup from the table onto the shelf 16687
+chill orange cup place on shelves 16688
+put the chilled cup on the wooden shelf 16689
+chill a cup in a refrigerator 16690
+make a bowl cold by putting it in the refrigerator 16691
+cool down a cup from the shelf 16692
+place a chilled up on the shelf 16693
+place a chilled cup on a shelf  16694
+move the toilet paper to the shelf  16840
+put the toilet paper on the white shelf 16841
+move a roll of toilet paper from a holder to the top of a cabinet  16842
+pick up the toilet paper roll and put in on the counter with the yellow bottle 16843
+put the toilet paper roll on top of the white cabinet 16844
+put a cardboard tube on the righthand table 16845
+move the pepper shaker to a shelf  16909
+put a salt shaker on the wooden shelf 16910
+put a shaker on a shelf 16911
+get the salt shaker on the table going to the shelf rack 16912
+move a salt shaker to a shelf of the wooden shelving unit 16913
+drop a container on the cupboard 16914
+get salt shaker from island to put away on shelf 16915
+move a salt shaker to the shelf 16916
+put a salt shaker on a shelf 16917
+moving fragile items to be packed  17752
+move two watering cans to another table 17753
+place to white water spouts on top of the black cabinet on the floor 17754
+move the tea kettles from the coffee table to the display shelf 17755
+put pots on a platform 17756
+move to watering cans onto the bench 17757
+place two tea pots on the bench 17758
+place both of the water spouts on top of the black cabinet on the floor 17759
+put two tea kettle on the display shelf 17760
+rinse a bar of soap and place it on the shelf 17966
+wash off bar of soap and put on table beneath the towel 17967
+place a rinsed bar of soap on a dresser 17968
+put a clean bar of soap on a cabinet 17969
+place a rinsed bar of soap on a dresser 17970
+place a rinsed bar of soap on a cabinet 17971
+put a washed soap bar on radiator cover 17972
+place a rinsed bar of soap on a counter 17973
+put the bar of soap from the cabinet into the sink fill with water then return to the cabinet 17974
+place a watch on a shelf  18181
+move watch from top to second shelf of tv stand 18182
+put a watch on a shelf of a television stand 18183
+move the watch from on top of the cabinet to below 18184
+move a watch to a shelf on the television stand 18185
+place a watch on a shelf 18186
+put the watch on the shelf of the entertainment stand  18187
+put the wrist watch below the shelf of the tv stand 18188
+pick up the black watch and put it on the shelf of the entertainment center 18189
+put a plate with a credit card on the shelf in front of the couch 18482
+put a card on plate on a shelf  18483
+put a plate with a credit card on the counter 18484
+put a plate containing a credit card on the surface under the tv 18485
+place a credit card below the tv 18486
+put a plate with a credit card on it under the tv 18487
+put a plate holding a credit card on the ledge under the tv screen 18488
+put a plate with a credit card on it below a television 18489
+put a credit card on a plate put it in front of the tv 18490
+put a credit card in front of the television  18491
+place the credit card on the dish on the table under the television 18492
+place a plate with a credit card on it on the counter below the tv 18493
+cool the glass from the shelf so you can return it to a lower shelf 18688
+chill the glass in the fridge and return it to the shelf 18689
+chill a glass and put it away on the shelf 18690
+put a chilled glass on the second to the lowest shelf in the corner of the kitchen  18691
+chill a glass and put it on the shelf 18692
+put a chilled cup on a shelf 18693
+put a chilled glass on a shelf 18694
+put the cold glass on the shelf 18695
+put a chilled cup on the wooden self 18696
+place two tissue boxes on the shelf just below the keys on the small table 18730
+to get both boxes of tissue off of desk putting them on the small cabinet 18731
+put two tissue boxes on the short shelf 18732
+put two tissues boxes on a stand 18733
+put two boxes of tissues on a shelf  18734
+move two boxes of tissues to the shelf  18735
+move two tissue boxes from the desk to a low cabinet 18736
+put two boxes of tissue on the shelf 18737
+put two boxes of tissue from the desk on the shelving counter 18738
+put two tissue boxes on a shelf on a stand 18739
+place the tissue box in the cabinet 18740
+put two boxes of tissues on a shelf 18741
+place two boxes of tissues on the shelf 18742
+move a pencil to the desk shelf 18991
+place the pencil into the cabinet up top 18992
+take the pencil from the desk put it on the shelf 18993
+move a pencil from the desk to the desk shelf 18994
+put the yellow pencil on the upper shelf of the desk 18995
+put a pencil in a cabinet 18996
+place two wrist watches in the cabinet on the right side of the desk 19063
+place two watches on a shelf 19064
+move two watches to the inside of a desk 19065
+put watches on a shelf 19066
+place two wristwatches on the shelf 19067
+place both of the wrist watches in the cabinet on the right side of the desk 19068
+place both of the wrist watches on the desk inside the cabinet 19069
+place the two watches on top of the desk into the opening below 19070
+put two watches on a shelf 19071
+moving toilet paper rolls to a shelf 19310
+place a empty and a full roll of toilet paper on a shelf 19311
+place a toilet roll with a toilet roll holder on the shelf 19312
+place empty toilet paper roll and full toilet paper roll on bottom open shelf of cupboard 19313
+put a full and an empty roll of toilet paper on the shelf by the toilet 19314
+put an empty toilet paper roll along with a full toilet paper roll on to the shelf 19315
+place the toilet paper with the toilet paper roll on the shelf by the bathtub  19316
+place a full roll and an empty roll of toilet paper on the bottom shelf of the tall white cabinet 19317
+place toilet paper and an empty roll on the shelf 19318
+put the chilled plate on the shelf 19464
+place a cold plate on the shelf 19465
+put a chilled plate on the wooden shelf 19466
+place a chilled plate on a shelf 19467
+place a cold plate on the shelf 19468
+chill a plate and place it on a shelf 19469
+put a chilled plate on the wooden rack  19470
+put the chilled plate on the shelf 19471
+place a chilled plate on the shelf 19472
+take both cds from the dresser and put them on the book shelf 20388
+move two discs to a shelf 20389
+move two cds from the dresser to the shelf 20390
+move two discs to a wooden shelving unit on the wall 20391
+put two cds on the shelf 20392
+drop two disks on the shelf 20393
+put two cds on a shelf 20394
+put two discs on a shelf 20395
+move two cds to a shelf below some books  20396
+placing a bowl on the brown shelf 20531
+put a chilled bowl on the shelf 20532
+chill a bowl then put it away 20533
+put a chilled bowl on a shelf 20534
+put the chilled bowl on the wooden shelf 20535
+place a cooled mug onto a shelf  20536
+put a chilled bowl on the wooden shelf 20537
+put a chilled bowl on the shelf 20538
+move bowl in and out of fridge and place on shelf 20539
+place a cooled bowl down on the brown kitchen shelves 20540
+put a chilled bowl on the wooden rack  20541
+put a bowl on a shelf of a brown bakers rack 20542
+move the pen to the dresser 20564
+place a pen on a shelf 20565
+move the pen from the trash can to the tall dresser 20566
+move a pen to a bowl in a cabinet 20567
+to move a pen to the black shelf  20568
+move pen from dresser to a bowl on a shelf 20569

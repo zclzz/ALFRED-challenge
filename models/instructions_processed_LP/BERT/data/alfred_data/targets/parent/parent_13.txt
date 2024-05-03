@@ -1,0 +1,178 @@
+put two sponges on the metal shelf 499
+move two sponges to a metal shelving unit 500
+place two sponges on top of the towel rack cart 501
+place two sponges in the shelf rack 502
+put two sponges on the top shelf of a metal shelving unit 503
+put two sponges on a metal shelf 504
+place two tissue boxes on a shelf 1554
+place both tissue boxes from the vanity on the stop of the silver shelf 1555
+put two boxes of tissues on the silver rack 1556
+put two tissue boxes on a rolling cart 1557
+both boxes of tissue will be moved from the vanity to the shelving unit  1558
+the robots goal is to carry two tissue boxes to the shelving unit across the room 1559
+put all the boxes of tissues on the barred rack 1560
+place two boxes of tissue on the top shelf of the metal rack 1561
+move two tissue boxes to the top shelf of a metal shelving unit 1562
+put two boxes of tissues on the top shelf of the metal rack 1563
+place all the tissue boxes on the metal shelf in the bathroom 1564
+putting two tissue boxes on the bathroom rack 1565
+place two tissue boxes on the metal rack 1566
+put two boxes of tissues on the rack to the left of the sink 1567
+put two boxes of tissues on a rack 1568
+put two tissue boxes on a cart 1569
+place tissue boxes on the top metal rack next to the sink 1570
+put both tissue boxes on the metal shelf 1571
+place two white bottles on top metal shelf 2598
+move two bottles to a metal shelving unit 2599
+put two bottles on a metal rack 2600
+put two spray bottles on the metal rack 2601
+pick up two spray bottles off the toilet then place on metal rack 2602
+move two spray bottles from the toilet to a rack 2603
+clean up a rag inside the tub and put it on the shelf  3969
+place a towel on a wire shelf 3970
+move a black rag from the bathtub to the metal shelf 3971
+put a rag on the metal rack  3972
+pick up the black clothing from the toilet and bring to the cart 3973
+move a cloth to the storage cart 3974
+move a cloth from a bath tub basin to a steel rack 3975
+put a black rag on the silver rack 3976
+put one of the wash clothes on the metal rack  3977
+place a green sponge on the drying racks 7672
+put a clean sponge on the rack next to the sink 7673
+place a wet sponge on the metal rack  7674
+put a wet sponge on the metal rack  7675
+wash a sponge in the sink 7676
+put a clean sponge on the steel rack 7677
+clean and return a sponge to the shelf 7678
+rinse the sponge from the metal shelf 7679
+place a clean sponge in the towel rack 7680
+put a clean green sponge on a steel rack 7681
+move the spray bottle from the counter to the shelf 9129
+put a spray bottle on a rack 9130
+move spray bottle to shelf 9131
+put pumper bottle on shelves 9132
+place a spray bottle next to the empty roll on the top of the rack 9133
+place a perfume bottle on a shelf 9134
+move a bottle of soap from a counter top to a metal cart 9135
+put a bottle on the top shelf of the wire rack 9136
+move a bottle to the bathroom shelf 9137
+place the bar soap from the bin to the rack 9741
+place soap on a shelf 9742
+move a bar of soap from a bin onto a metal cart 9743
+move a bar of soap to a metal shelving unit 9744
+put the soap on the rack 9745
+put a bar of soap on a shelf 9746
+move bar of soap from the sink to the shelf 9747
+move a bar of soap from the sink to the shelf 9748
+put the soap on the shelf 9749
+put a wet sponge on the metal rack  11774
+put a clean sponge on the rack 11775
+place a clean sponge on the drying rack 11776
+put a wet sponge on the second rack of the metal shelf next to the sink  11777
+put a wet sponge on the metal rack  11778
+put a rinsed out sponge on the drying rack 11779
+place two spray bottles on top of the drying rack 11951
+move the spray bottles from the toilet to the silver rack 11952
+move two spray bottles to a metal shelving unit 11953
+put spray bottles on shelf 11954
+move two spray bottles from the toilet to a metal rack 11955
+move both blue spray bottles to the top of the metal shelves 11956
+put away spray bottles 11957
+place two spray bottles on a shelf 11958
+put the blue spray bottles on the metal shelf 11959
+pick up the dirty pink rag rinse it in the sink return it 12447
+clean the dirty towel on the metal rack 12448
+put a cleaned rag on the metal rack  12449
+put a clean cloth on a metal shelf 12450
+clean a cloth towel 12451
+clean the rag put it on the metal rack  12452
+put a clean rag on the top shelf of a barred rack 12453
+wash the pink towel on the shelf put it back on the shelf 12454
+clean a red cloth 12455
+place a candle on the shelf of a cart 13460
+place a candle on a metal rack 13461
+place a candle on a wire shelf 13462
+put a candle on a shelf 13463
+place a candle on a shelf 13464
+put a candle on the metal shelf  13465
+place a wet bar of soap on the wire shelf 14087
+wash the bar soap to put it in the middle metal shelf 14088
+to wash a bar of soap and place it on the middle metal shelf 14089
+move a clean bar of soap to a shelf 14090
+put the soap on the second shelf  14091
+place a wet soap on the drier 14092
+put a cleaned bar of soap on a metal rack 14093
+wash soap and put it on a shelf 14094
+place a washed bar of soap on a shelf 14095
+put the wet soap on the metal shelf 14096
+transfer the wet soap from the wall shelf to the metal shelf 14097
+put the soap on the second metal rack  14098
+place clean soap on the utility cart 14099
+place clean soap on the shelf 14100
+put a washed bar of soap on a metal rack 14101
+ put a wet soap near the blue bottle on the metal shelf at the corner of the room  14102
+put a clean bar of soap on a shelf 14103
+put a wet bar of soap on the silver rack 14104
+put two bottles on the rack 16745
+move two bottles of soap to a metal shelving unit 16746
+place two bottles on top metal shelf 16747
+put two pump bottles on a shelf 16748
+to move two lotion bottles to the second shelf from the top of the metal rack 16749
+move two soap dispensers to the shelves by the sink  16750
+clean up bottles and put them onto the shelf  16751
+put two pumper bottles on top of shelves 16752
+move two soap dispensers from the toilet to the rack of shelves  16753
+place all bars of soap on the shelf 16763
+put two bars of soap on a metal rack 16764
+put two bars of soap on the wire rack 16765
+putting two bars of soap on the steel rack 16766
+drop two soap bars on the rack 16767
+put two bars of soap on the metal shelf rack 16768
+move two bars of soap to a shelf 16769
+put two bars of soap on the metal shelf rack 16770
+place two pink sponges on middle metal shelf 16771
+place two sponges on a metal cart 16772
+to move two sponges to the metal shelves  16773
+place two sponges on a wire shelf 16774
+put two sponges on the cleaning cart 16775
+move two sponges to a storage cart 16776
+ put two sponge on the shelf rack 16777
+move both sponges to the second shelf  16778
+move two sponges to a storage cart 16779
+move two sponges to a rack 16780
+put the cleaned cloth on the metal shelf 17456
+put a clean rag on the top shelf of a shelving unit 17457
+put a clean rag on the rack 17458
+put a wet towel on top of the wire rack 17459
+place a clean rag on top of the metal rack 17460
+put a wet cloth on a shelf 17461
+put a wet wash cloth on the shelf 17462
+put a clean towel on a shelf 17463
+place a clean black towel on the metal rack 17464
+put clean soap on the rack 20052
+put a wet bar of soap from the silver rack on the silver rack 20053
+wash the pink bar from the shelf put it back on the shelf 20054
+place a washed bar of soap on a shelf 20055
+place a wet bar of soap on a shelf 20056
+rinse of the soap 20057
+place the clean soap on the rack 20058
+place a clean bar of soap on the towel rack 20059
+wash the top bar soap on the metal rack 20060
+place a clean bar of soap on a steel shelf 20061
+place clean soap on a rack 20062
+place wet soap on a shelf 20063
+take rinsed off sink to a shelf and put it there 20064
+rinse off a bar of soap and place it on a shelf 20065
+place a rinsed bar of pink soap behind the yellow spray bottles on the shelf 20066
+to move a sponge to the metal rack  20807
+place a sponge on a cart 20808
+place a sponge on a wire shelf 20809
+move a sponge from a garbage can to a steel rack 20810
+put a sponge on the metal rack  20811
+place a sponge on the shelf 20812
+move a candle to a bathroom rack 20813
+put a candle on the top rack  20814
+move the candle to a silver shelf 20815
+place a candle on top of the towel rack 20816
+move a candle to a shelf  20817
+move a candle to the top shelf of the metal shelving unit 20818

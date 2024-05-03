@@ -1,0 +1,640 @@
+move the keys from the table to the sofa 6
+bring the keys to the couch 7
+put keys on the couch 8
+moving the keys to the sofa 9
+move a set of keys to the couch 10
+move the keys from the coffee table to the couch 11
+move keys to a couch  12
+move keys to the sofa 13
+move the keys from the coffee table to the couch 14
+turn on the lamp while holding the keys 107
+pick up keys and turn a lamp on 108
+turn on the lamp while holding a bunch of keys 109
+pick up the keys on the table and view them in the lamp light 110
+examine a set of keys by the light of a tall lamp 111
+turn on floor lamp with keys in hand 112
+grab the keys and turn the lamp on 113
+examine a set of keys by the light of a tall lamp 114
+look at a key chain under the light of a lamp 115
+move keys from the shelf to the desk 765
+get the keys from the cabinet and place them onto the desk  766
+take the keys from the desk cabinet and place them on the desk 767
+place a set of keys on a desk 768
+move a set of keys to the desk 769
+put keys on a desk 770
+take a set of keys to the desk 771
+move a set of keys to a wooden desk 772
+move keys to the desk 773
+pick up the keys and put them on the gray couch 1639
+move the keys from the desk to the couch 1640
+put the keys on the couch 1641
+move a set of keys to the couch 1642
+move keys from table to couch 1643
+move keys from the coffee table to the couch 1644
+put the keys on the couch 1645
+put the keys on the sofa 1646
+put car keys on the couch 1647
+put the keys on the tv stand 1825
+move a set of keys to the television stand  1826
+put keys on the tv stand 1827
+to move the keys 1828
+place a set of keys on a tv stand 1829
+put the keys on the counter 1830
+move keys from the sofa to the tv stand 1831
+move keys from couch to tv stand 1832
+put the keys on the dresser  1833
+put two sets of keys on a chair 2052
+move two keys to a chair seat 2053
+place two sets of keys down on white chair 2054
+place two sets of keys down on the white chair 2055
+place two sets of keys on a chair 2056
+place both sets of keys on top of the armchair 2057
+put keys on a seats cushion 2058
+move two sets of keys onto a chair seat 2059
+place two key chains on a chair 2060
+put two sets of keys on the coffee table  2286
+bring two set of keys to the coffee table 2287
+put two keys on a coffee table 2288
+move two sets of keys from the chair to the coffee table  2289
+move two key chains from a chair to a coffee table 2290
+put two sets of keys on the coffee table 2291
+put two sets of keys on the coffee table 2292
+put both sets of keys on the coffee table 2293
+put two sets of keys on a table  2294
+put keys on a shelf of a cabinet 2673
+move the keys to a lower shelf of the cabinet 2674
+move keys to lower shelf 2675
+put the keys under the top of the shelf  2676
+place keys on left side of shelf of black cabinet 2677
+move the keys from the top of the cabinet to a lower shelf 2678
+put the keys in the small shelf  2679
+place some keys on a shelf 2680
+place keys on a nightstand  2681
+inspect keys near a lit lamp 2700
+examine the keys in the light on the dresser  2701
+turn on the lamp while holding keys 2702
+to get keys off the dresser and turn on the lamp on the dresser 2703
+examine a set of keys by the light of a table lamp 2704
+examine the keys by the light of a lamp 2705
+place a set of keys on a couch 2760
+put the keys on the couch 2761
+move a set of keys to the couch  2762
+put a set of keys onto a sofa 2763
+pick up the car keys and put them on the black couch 2764
+put the keys on the couch 2765
+move a set of keys to the loveseat  2766
+put keys on a couch 2767
+place a set of keys on a couch 2768
+put two sets of keys on a table  3106
+put the keys on the desk 3107
+move keys to the chest of drawers  3108
+put two pairs of keys on the desk 3109
+pick up two sets of keys from the chair and move them to the nightstand  3110
+place two set of keys on a desk 3111
+move two key fobs to the top of a chest of drawers 3112
+put two sets of keys on shelves 3113
+place two sets of keys on the table across from the door 3114
+put two sets of keys on a sofa 3115
+move two sets of keys from the coffee table to the couch 3116
+put two sets of keys on a couch 3117
+move two sets of keys to the left cushion of the loveseat 3118
+move two sets of keys to the blue couch 3119
+move two sets of keys to a sofa 3120
+take the keys from the arm chair put them on the night stand 3619
+move a set of keys to a small table 3620
+put keys on a table 3621
+put keys on a night stand 3622
+pick up the keys and put them on the black nightstand 3623
+put the keys on the night stand  3624
+move a set of keys to a small table  3625
+move the keys from the arm chair to the nightstand  3626
+move the leftmost keys on the armchair to the dresser 3627
+put the keys on the ottoman 3628
+move the keys to the ottoman 3629
+move the keys from the table to the ottoman 3630
+move a set of keys to the ottoman 3631
+put keys on the ottoman 3632
+move the keys from coffee table to ottoman 3633
+move keys from coffee table to ottoman 3634
+move the keys on the table to the foot rest  3635
+place a set of keys on an ottoman 3636
+move keys from the couch to the chair 3706
+pick up the keychain from the bigger sofa and put it on the smaller sofa 3707
+place keys down on top of a chair 3708
+move keys from the coffee table to the armchair 3709
+place a set of keys on a chair 3710
+move keys to the chair 3711
+place a set of keys on a chair 3712
+move keys from coffee table to chair 3713
+move a set of keys to an armchair  3714
+put the box with keys on the sofa  3760
+put a box with keys on the red couch  3761
+put keys into a white box and put the white box onto the red couch 3762
+put the box with keys on the sofa 3763
+place a box filled with keys on a red sofa 3764
+put a box with keys on the red couch  3765
+put a cardboard box containing keys on a couch 3766
+put a box with keys in it on the table 3767
+put a box with keys in it on the couch 3768
+place a plate with keys on it on the small table in the corner of the room 3790
+put a white plate with keys on it on a bench 3791
+put white plate and keys on black shelf 3792
+put a plate with some keys on it on a bench 3793
+move a plate and keys to a bench 3794
+to put keys on a plate and place them on a platform next to an empty box 3795
+to put keys on a plate and place them on the platform in the corner of the room 3796
+move a plate and keys to a counter  3797
+move a plate beneath keys on a bench 3798
+putting two sets of keys on the armchair 3906
+put keys from a coffee table and a love seat respectively on a single sofa 3907
+put two pairs of keys in the chair 3908
+move two sets of keys to the seat of a chair 3909
+to move two sets of keys to the brown chair  3910
+place two sets of keys on a chair 3911
+to move two sets of keys to the chair  3912
+place two keychains on a couch 3913
+put two sets of keys on the chair 3914
+put keys on the dresser  4549
+move keys to the dresser 4550
+move keys from table to dresser 4551
+place a set of keys on a dresser 4552
+put the keys on the dresser  4553
+move the keys from the night stand to the dresser 4554
+move keys from a side table to a dresser  4555
+bring the keys to the dresser from the nightstand 4556
+place some keys on top of the dresser 4557
+take the keys from the footstool at the middle of the room put them on the switch of the light in the corner of the room turn the light on while doing so 4713
+grab the key chain from the ottoman turn on the floor lamp 4714
+look at keys in the light 4715
+turn on a lamp while holding keys 4716
+to look at the keys in the light 4717
+examine the keys under the light of the floor lamp 4718
+grab the key chain from the sofa turn on the floor lamp 4719
+pick up a set of keys and turn on a lamp 4720
+examine a set of keys in the light of a lamp 4721
+finding keys and turning on the lamp 4722
+move an empty box with keys in it to the tv stand 5583
+moving the keys to a counter 5584
+put a box of keys in front of a tv screen 5585
+to put the keys in a box  5586
+put a box with keys on the tv stand 5587
+put keys in box move keys and box to dresser 5588
+move keys and a box to a table 5589
+put the keys from the couch in the white box put the box in front of the tv 5590
+put the keys in the box on the entertainment center  5591
+place a set of keys on a chair 6237
+move the keys to a chair 6238
+pick up keys and put them on the chair  6239
+move the keys to the chair 6240
+move a key chain from a dresser to an armchair 6241
+place keys on a chair 6242
+move some keys from a desk to the floral armchair 6243
+place a set of keys on a chair 6244
+place keys on a chair 6245
+look at keys in the light of a lamp  6354
+examine keys in the light of a lamp 6355
+carry keys while turning on a lamp 6356
+look at keys under a tall lamp 6357
+examine keys with a lamp 6358
+look at the keys under the light 6359
+examine keys with a lamp 6360
+hold keys while turning on a lamp 6361
+turn on the lamo in the living room 6362
+put the keys into the dresser drawer 6729
+put two sets of keys in a chest of drawers 6730
+put two sets of keys in a drawer of a dresser 6731
+putting two sets of keys in a drawer 6732
+put two sets of keys in the dresser 6733
+place two sets of keys in the dresser  6734
+to put two key chains in the top right dresser drawer 6735
+move two sets of keys into a drawer 6736
+put both sets of keys in the top drawer of the dresser 6737
+put the two keys on the cabinet 6738
+place two sets of keys on top of the dresser 6739
+move a pen and keys to a dresser 6740
+to move two sets of keys to the dresser  6741
+put two keys on the cabinet 6742
+place keys on a dresser 6743
+put two set of keys on the cabinet 6744
+move two keys from the chair and lamp stand to the top of the dresser  6745
+put two sets of keys on the dresser 6746
+place the two keys at the lower level of the desk 8265
+move the keys to the desk from the shelf 8266
+rearrange the keys on the desk to the right of the bed 8267
+pick up two set of keys from the top shelf of a desk and place them onto the desk 8268
+move two pairs of keys to a desk 8269
+move the keys on the desk to the middle of the desk 8270
+move two sets of keys from the dresser to the white table 8271
+put two sets of keys on a table 8272
+put two sets of keys on the white table 8273
+place both sets of keys inside of the safe 8401
+move two sets of keys into a safe 8402
+putting keys inside a safe 8403
+put keys in a safe 8404
+place both keys in the safe on the ground 8405
+place two sets of keys in a safe 8406
+put two sets of keys from off the desk into the safe 8407
+place two sets of keys in the safe on the ground 8408
+put two sets of keys inside a safe 8409
+move keys to a drawer 8822
+put keys in a drawer 8823
+put keys in the drawer 8824
+move the keys from the top of the black table to the drawer inside 8825
+to put some keys in the drawer of the table they are on 8826
+move keys from top of table to drawer  8827
+put the keys in the drawer 8828
+put keys in a drawer 8829
+put keys away in a drawer  8830
+move a set of keys from a chair to a coffee table 8840
+move keys from the chair to the table 8841
+move keys to the coffee table 8842
+put keys on a table 8843
+place the keys from the couch on the bottom round black table  8844
+grab the key chain from the sofa put it at the bottom of the coffee table 8845
+put a set of keys on a coffee table 8846
+move keys to the coffee table 8847
+take the keys and put them on the coffee table 8848
+examine a key chain by the light of a floor lamp 8849
+examine keys with a lamp 8850
+turn a lamp on with keys in hand 8851
+carry keys while turning on a lamp 8852
+examine a set of keys by the light of a floor lamp 8853
+pick up a set of keys and turn on a lamp 8854
+put a plate with car keys on it on a coffee table 8962
+place a place with keys on it on top of the white table 8963
+move key to plate plate to coffee table 8964
+put a plate with keys on it on a coffee table 8965
+place a plate with keys on it onto the coffee table 8966
+put a plate with car keys on it on a coffee table 8967
+place a plate with keys down on the coffee table 8968
+locate keys to place them on the tray on top of the coffee table 8969
+putting the keys where they belong  8970
+put keys on night stand 9476
+place a set of keys on a night stand 9477
+place a set of keys on a nightstand 9478
+move keys from dresser to table 9479
+put keys on the bedside table 9480
+put keys on night stand 9481
+put a set of keys down on the nightstand 9482
+put keys on a night stand 9483
+place a pair of keys on the night stand 9484
+pick up some keys to look at them under a tall lit lamp 10263
+examine a set of keys by the light of a tall lamp 10264
+examine the keys by the light 10265
+turn on living room lamp with keys in hand 10266
+examine keys with a lamp 10267
+grab the set of keys from the shelf and turn the lamp next to the tv on 10268
+put keys on a couch 10293
+move a key chain from a small shelf to a sofa 10294
+find keys and put on sofa 10295
+move the leftmost set of keys from the lounge chair to the couch 10296
+move a set of keys to the blue couch 10297
+put keys on a chair 10298
+put the keys on the couch 10299
+put the keys on the sofa 10300
+place the keys down on top of the sofa 10301
+place a set of keys on a chair 10311
+move a key chain from a drawer to an armchair 10312
+put keys on a chair 10313
+place a set of keys on an armchair 10314
+move a set of keys to a chair  10315
+move keys from table to a chair 10316
+place a set of keys onto a arm chair 10317
+put keys from cabinet to the couch 10318
+move keys from the dresser to the armchair 10319
+turn on a lamp as you hold keys 10320
+to look at the keys in the light  10321
+examine a key chain by the light of a floor lamp 10322
+turn on the lamp  10323
+take keys from the black table leave them on the lamp when you turn it on 10324
+to see the keys in the light 10325
+get the keys from the round table  10326
+turn on a lamp while holding keys 10327
+examine the keys by the lamp 10328
+examine a set of keys by the light of a floor lamp 10329
+examine keys with the lamp 10330
+turn a lamp on with keys in hand 10331
+put keys inside a box and move it to the couch 10940
+gather they keys and put them in the box 10941
+put a box with keys in it on a couch 10942
+get keys from coffee table put them in the box on the table and place box on sofa 10943
+place a cardboard box with keys in it on the sofa 10944
+place the keys in the box on the sofa 10945
+place a box with keys in it down on the red sofa 10946
+place a box with keys in it on the couch  10947
+place a box with keys in it on the right side of the red couch 10948
+place a closed box with a set of keys inside on the red couch 10949
+close a cardboard box with keys inside 10950
+move the keys over to the sofa in a box 10951
+bring the keys box to the red couch  10952
+place the keys in the box take the box to the red couch 10953
+put two sets of keys on the nightstand 11115
+pick up two sets of keys in the house and place on nightstand 11116
+move two sets of keys to a nightstand 11117
+find two sets of keys place on nightstand 11118
+move two sets of keys to a nightstand 11119
+to place two sets of keys on the night stand between the beds 11120
+put two sets of keys on to the night stand 11121
+to place two sets of keys on the table between the beds 11122
+putting two sets of keys on a nightstand 11123
+examine keys with the lamp 11453
+turn a lamp on and pick up the keys on the table 11454
+look at some keys under the light of a lit lamp 11455
+examine keys with the lamp 11456
+examine a key chain by the light of a table lamp 11457
+turn on the lamp on the small stand and grab the keys on the small stand 11458
+inspect keys by lamp light 11459
+look at a set of keys under the light of a lamp 11460
+turn the lamp on and grab the keys 11461
+examine a key chain by the dim natural light of a living room 11498
+pick up keys and turn a lamp off 11499
+turn off a lamp while holding keys 11500
+look at some keys by the light of a tall lamp 11501
+examine a key chain by the dim natural light of a living room 11502
+bring keys to a lamp that is not lit 11503
+pick up the keys near the lamp to turn it off 11504
+examine a set of keys by the lack of light from a tall lamp 11505
+look at the keys with lamp turned off  11506
+placing two sets of keys on a foot stool in front of a chair 11603
+place two sets of keys on an ottoman 11604
+put two sets of keys on the ottoman to the left of the piano 11605
+put two sets of keys from different parts of the room on the coffee table 11606
+put two sets of keys on a ottoman 11607
+move two sets of keys to the ottoman 11608
+place two sets of keys on an ottoman 11609
+put two sets of keys on the ottoman  11610
+put two sets of keys on a ottoman 11611
+put two sets of keys in the drawer 11741
+put two keys in desk drawer 11742
+put two sets of keys in a drawer 11743
+place two sets of keys inside the desk drawer 11744
+put two keys in a desk drawer 11745
+place two sets of keys in desk drawer 11746
+put the two keys in the drawer 11747
+move two key rings from the tops of the tables into one drawer 11748
+put two sets of keys in the top drawer of the desk 11749
+examine keys using lamp light 12149
+get the keys from the sofa and look at them under the lamp across the room  12150
+examine a set of keys under the light of a floor lamp 12151
+look at keys by the illumination of a lamp 12152
+turn on a lamp while carrying keys 12153
+examine some keys under a lamps light 12154
+move the keys while turning on a lamp 12155
+take the keys from the couch turn on the lamp by the window 12156
+examine a set of keys by the light of a floor lamp 12157
+look at some keys under a lit tall lamp 12224
+pick up the keys and turn the lamp on 12225
+turn on the lamp in corner of the room while holding some keys 12226
+pick up keys and turn a lamp on 12227
+turn on the lamp in the office  12228
+examine a set of keys using the light of a floor lamp 12229
+to put a plate with keys on it on the table to the left of the tv 12248
+plate keys and put them next to the tv 12249
+put a plate with keys on it on the white table 12250
+to put keys on a plate as well as set them on the desk 12251
+put a plate with keys on it on a white table 12252
+put keys on a plate and return them to a table 12253
+put a plate with keys on it on the small table 12254
+put a plate with keys on it on the small white table  12255
+put keys into a plate put the plate on the desk 12256
+move keys from the desk to the table 12801
+put keys on the table 12802
+move a key chain from a desk to a small side table 12803
+move a set of keys to the bedside table  12804
+move a key chain from an armchair to a small side table 12805
+put keys on a table 12806
+move a pair of keys to a side table  12807
+move a set of keys to the bedside table  12808
+move keys to the side table 12809
+put two keys on a couch 13357
+put two set of keys on the couch  13358
+put two sets of keys on a couch 13359
+put two sets of keys on the couch 13360
+take the keys from the coffee table and the tv stand place on the love seat 13361
+put two sets of keys on couch 13362
+move two sets of keys to the seat of a couch 13363
+move two keys to the sofa  13364
+put two sets of keys on sofa 13365
+put 2 set of keys on top of a book shelf 13879
+move two sets of keys to a shelf 13880
+put two sets of keys on shelves 13881
+put two sets of key in an empty space under the tv desk 13882
+place two sets of keys on the dresser 13883
+place two sets of keys on a television stand 13884
+place two pairs of keys on the couch 14392
+move two keys to a black couch 14393
+gather up the keys and get them into the same place 14394
+put keys on a couch 14395
+to move all keys in the room to a spot on the couch in front of a box 14396
+place two key rings on the dark gray couch 14397
+put two sets of keys on the couch cushion closet to the door 14398
+getting the keys to the couch 14399
+put two keys on a couch 14400
+move a set of keys to a safe 14743
+put the keys in the safe  14744
+move keys from the dresser to the safe 14745
+pick up the car keys and put them in the white safe 14746
+move keys to the safe 14747
+place keys in a safe 14748
+move the keys from the desk to the safe 14749
+get the keys from the desk and put them on the dresser 14750
+put the keys in the safe 14751
+turn a lamp on in the living room 15128
+to examine a set of keys by lamplight 15129
+carry keys while turning on a lamp 15130
+examine keys with a lamp 15131
+pick up some keys and turn a lamp on 15132
+look at the keys in the light  15133
+examine a set of keys under the light of a lamp  15134
+turn on a living room light 15135
+pick up keys and turn a lamp on 15136
+examine a set of keys by the light of a floor lamp 15520
+examine keys with the lamp 15521
+examine keys by the light of a lamp 15522
+examine a set of keys by the light of a tall lamp 15523
+look at keys under the light of a lamp 15524
+turn on floor lamp with keys in hand 15525
+pick up keys turn on lamp 15533
+examine a set of keys in the light of a tall lamp 15534
+turn on the lamp in the corner  15535
+take key chain to lamp turn on lamp  15536
+pick up the set of keys in order to use the button on the keyring to turn on the lamp 15537
+look at keys by the light of the lamp 15538
+put a box with keys in it on the coffee table  15575
+put a box with keys in it on a coffee table 15576
+put a box with keys on the coffee table 15577
+place a box with keys in it on the coffee table 15578
+put a box with keys in it on the table 15579
+put a cardboard box with keys in it on the coffee table 15580
+place a box with keys in it on a table 15581
+place the keys in the box on the coffee table  15582
+put a box on a table 15583
+to move the keys to the couch 15610
+place two sets of keys on the couch 15611
+put two sets of keys on the couch 15612
+place one set of keys from the brown chair along with the other set from the tv stand on to the long grey sofa 15613
+move 2 sets of keys from a chair  tv stand to the right hand side of the sofa  15614
+pick up two key fobs in different parts of the room place them on the sofa 15615
+move 2 sets of keys from 2 different rooms to the couch in the blue room 15616
+put two sets of keys on the couch 15617
+putting two sets of keys on the sofa 15618
+put a box with keys in it on the chair 15765
+put a box containing a set of keys in a chair 15766
+place a box with a set of keys on a chair 15767
+put a cardboard box with keys in it on a red chair 15768
+to put a set of keys in a box as well as move them to the red arm chair 15769
+move keys to a box on the chair  15770
+put a box with keys in it on the chair 15771
+place box with keys on red chair 15772
+putting a cardboard box with a set of keys in it on the couch 15773
+move the keys from the desk shelf to the desk top 16034
+move a set of keys from the top shelf of a desk to the center portion of the desk 16035
+to move some keys from the top shelf to the bottom shelf of a desk 16036
+move keys from the desk shelf to the desk top 16037
+take the keys from the shelf put them on the desk 16038
+move keys to a wooden desk 16039
+place keys on the desk table 16040
+put keys on a desk 16041
+place a set of keys on the desk from the top shelf of the desk 16042
+examine a set of keys using the light of a floor lamp 16106
+inspect keys in lamp light 16107
+look at keys under a tall lamp 16108
+examine a set of keys under a tall lamp 16109
+turn on a lamp while holding keys 16110
+examine a key chain by the light of a floor lamp 16111
+examine a key chain by the light of a floor lamp 16112
+to examine keys by lamp light 16113
+look at keys under a lamps light 16114
+to put the keys on the table  16220
+pick up two sets of keys and place on round table 16221
+putting two sets of keys on a black table 16222
+bring two sets of keys to the coffee table 16223
+put two sets of keys on the table 16224
+place two sets of keys on a table 16225
+put two sets of keys on a table  16226
+place keys on the table 16227
+move two sets of keys to a side table 16228
+to move a set of keys to the couch  16435
+put the keys on the couch 16436
+move the keys to the couch  16437
+put the keys on the sofa 16438
+move a set of keys to a couch 16439
+
+take the keys from the coffee table put them on the couch 16440
+turn on a lamp while holding keys 16532
+inspect keys near a lit lamp 16533
+turn on a lamp with a set of keys  16534
+hold a set of keys and turn on a lamp 16535
+pick up keys and turn the lamp on 16536
+look at some keys under a tall lit lamp 16537
+pick up the keys to look at under a lit tall lamp 16538
+move keys while turning on a lamp 16539
+examine keys with a lamp 16540
+gather together two key rings and place them on top of the night stand 16619
+move two sets of keys to a nightstand 16620
+put two keys on a night stand 16621
+to move two cards from a chair to the side table 16622
+put two sets of keys on the nightstand 16623
+put two sets o keys on the night stand 16624
+take two sets of keys out of the bed side table drawer and place them on top of the table 16625
+move two keys onto a nightstand 16626
+move two keys to the nightstand by the bed  16627
+examine the keys with the lamp 17318
+examine the keys by the light of the tall lamp  17319
+turn on a lamp and take your keys 17320
+turn the lamp on while holding the keys 17321
+pick up keys and turn the lamp on 17322
+examine a key chain by the light of a floor lamp 17323
+pick up the keys and turn on the lamp  17324
+examine a key chain by the light of a floor lamp 17325
+examine a set of keys using the light of a floor lamp  17326
+put two sets of keys on the dresser 17465
+put 2 set of keys on top of a dresser  17466
+place two sets of keys on a dresser 17467
+place both keys on top of the black dresser 17468
+move keys to a table in your bedroom 17469
+drop two bunch of keys on the cupboard 17470
+put the keys on top drawer 17471
+move two sets of keys to the black dresser 17472
+place two keys on the mirror table 17473
+put the keys in a box to put on chair 17975
+put a box with keys in it on the chair 17976
+move keys to a box and move both to a chair 17977
+put a box with keys onto the chair 17978
+put the box with the keys inside onto the black chair 17979
+put a box with keys on it on the chair 17980
+put keys in box move box to chair 17981
+move a box with keys inside to a chair 17982
+place a cardboard box containing a set of keys on a chair 17983
+put the box of keys on the chair 17984
+place the key inside a box to put on the leather chair 17985
+put a box with keys on it on a chair 17986
+put a cardboard box with keys in it on the seat of a chair 17987
+move a cardboard box with keys inside onto a chair 17988
+put a cardboard box containing keys in a chair  17989
+put a box with keys in it on a chair 17990
+put the box with keys on the chair 17991
+place a cardboard box with keys inside onto a chair 17992
+to pick up the key chain to look at under the lamp 18271
+examine a set of keys at the light of a tall lamp 18272
+turn on the living room floor lamp with keys in hand 18273
+look at keys using the lamp 18274
+examine a set of keys at the light of a tall lamp 18275
+carry keys while turning on a lamp 18276
+pick up keys and view them in the lamp light 18473
+turn on floor lamp while holding keys 18474
+look at a set of keys by the light of a lamp 18475
+look at a set of keys under the light of a lamp 18476
+look at a set of keys by the light of a lamp 18477
+examine keys under a tall lamp 18478
+examine a set of keys by the light of a tall lamp 18479
+examine a set of keys in the light of a tall lamp 18480
+pick up keys and turn a lamp on 18481
+move a box with keys inside to the sofa 18494
+move a box with keys to the sofa  18495
+put keys inside a box and place on top of a sofa 18496
+put a box with keys in it on the sofa 18497
+put the box with keys on the sofa 18498
+put a box with keys in it on the couch 18499
+move the box and keys to the couch  18500
+put the box with keys on the sofa 18501
+put a box with keys in it on the sofa 18502
+move two sets of keys to the ottoman 18788
+put two sets of keys on an ottoman 18789
+place the two set of keys on the long sofa to the ottoman 18790
+to move two sets of keys to the ottoman  18791
+move two keys to the ottoman 18792
+retrieve two key rings and place on the foot stool 18793
+put two keys on a foot stool 18794
+place two sets of keys on top of the foot rest 18795
+place two sets of keys on the ottoman  18796
+putting a plate with a set of keys on top on a coffee table 19970
+put a plate with a key chain on it on a coffee table 19971
+put a plate with keys on the coffee table  19972
+place tray with keys on coffee table 19973
+place a plate with keys on it on top of the coffee table 19974
+put a plate with keys on it on a coffee table 19975
+move keys and a plate to the coffee table 19976
+put a plate with keys on it on the coffee table 19977
+pick up keys with plate off of kitchen table and move to coffee table 19978
+place a box with a set of keys from the dresser on the black sofa chair 20417
+put the keys in a box and put the box on the black chair  20418
+put a box with a watch on a arm chair 20419
+place a box with keys in it on the sofa chair 20420
+to put keys in a box as well as move them from the ottoman to the black chair 20421
+put a box that has keys in it on the chair 20422
+move keys and a box to a chair 20423
+put the keys in the box put the box on the black chair 20424
+place a carton with a key in it on the chair 20425
+put the keys on the middle chair  20930
+relocate the keys from the pink sofa to the brown sofa 20931
+move the keys from the red couch to the brown couch 20932
+move the key chain on the pink sofa chair to the brown sofa chair on the right 20933
+put the keys on the wicker chair 20934
+keys need to end up on the right side brown chair 20935
+pick up the keys and then turn the lamp on behind the blue chair 20972
+examine the keys under the light of the floor lamp 20973
+examine a set of keys by the light of the tall lamp 20974
+locate keys and turn on the lamp 20975
+turn on floor lamp while holding set of keys 20976
+look at a set of keys by the light of a lamp 20977

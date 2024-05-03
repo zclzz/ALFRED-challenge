@@ -1,0 +1,2252 @@
+look at a box of tissues in the light 15
+examine a box of tissue by the desk lamp 16
+examine a tissue box by the light of a desk lamp 17
+hold a box of tissues in front of a lit lamp 18
+turn on desk lamp and pick up tissue box 19
+pick up a box of tissue from a lit desk 20
+turn on a desk lamp pick up a box of tissues 21
+examine a tissue box with a lamp 22
+inspect the tissue with the lamp on the desk 23
+hold a statue and turn on a lamp 42
+examine the figurine under light of the desk lamp 43
+take the statue off the desk raise the statue up at the height of the desk hutch 44
+examine the statue under the light near the desk 45
+pick up a statue and turn a lamp on 46
+turn on desk lamp with statue in hand 47
+examine a statue by the light of a desk lamp 48
+pick up a statue and turn on the lamp 49
+examine a statue in the light of a small lamp 50
+examine the basketball in the light of the lamp  51
+look at a basketball by the illumination of a lamp 52
+turn on the lamp while holding a basketball 53
+examine a basketball by the light of a lamp 54
+examine the basketball by light of the lamp 55
+turn on the lamp while holding the basketball  56
+pick up a basketball turn on a lamp 57
+grab the basketball on the mat turn on the lamp on the white cabinet 58
+turn on a lamp while holding a basketball 59
+examine a basketball under a lamp 60
+look at a watering can in lamp light 67
+turn a lamp on with a pitcher in hand 68
+inspect a water pot with a lamp 69
+examine a watering can in the light of a small lamp 70
+carry the tea pot white turning on a lamp 71
+examine the watering can by the light 72
+turn a lamp on with a pitcher in hand 73
+inspect a watering can using the light of a lamp  74
+examine a tea pot by the light of a lamp 75
+turn on the lamp while holding the keys 107
+pick up keys and turn a lamp on 108
+turn on the lamp while holding a bunch of keys 109
+pick up the keys on the table and view them in the lamp light 110
+examine a set of keys by the light of a tall lamp 111
+turn on floor lamp with keys in hand 112
+grab the keys and turn the lamp on 113
+examine a set of keys by the light of a tall lamp 114
+look at a key chain under the light of a lamp 115
+examine a box by the light of a floor lamp 128
+carry a box to the lamp and turn it on 129
+hold a box and turn on the lamp 130
+pick up a box and turn a lamp on 131
+pick up an empty cardboard box turn on the tall lamp 132
+carry a box while turning on a lamp 133
+examine the box under the light of the floor lamp 134
+pick up a box and turn on a lamp 135
+turn on the living room lamp  136
+carry a cd while turning on a lamp 624
+look at a cd under the light of a lamp 625
+pick up the cd and turn on the light  626
+move a cd while turning on a lamp 627
+inspect a cd by lamp light 628
+pick up a disc and turn a lamp on 629
+look at a cd by the light of a lit lamp 630
+to pick up a cd and turn on the lamp  631
+examine a cd by the light of a lamp 632
+look at a cloth by the light of a lamp 633
+to see the towel in the light 634
+pick a towel up turn a light on 635
+examine the white rag by the light of the lamp on the desk  636
+examine the cloth by the light  637
+examine a white towel next to the light of a desk lamp 638
+inspect a cloth in the lamp light 639
+retrieve a cloth and bring it to a lit desk  640
+examine a pencil by the light of a lamp 650
+grab the pencil on the night stand turn on the lamp on the table 651
+pick the pencil from the night stand and turn on the desk lamp on the left side of the desk  652
+examine a pencil near the light of a small lamp 653
+examine the pencil by the light of the lamp  654
+turn on the lamp on the table grab the pencil 655
+turn on a lamp pick up a pencil 656
+use the pencil to turn on lamp on my desk 657
+examine the pencil by light of the table lamp 658
+examine the pencil in the light on the desk  659
+examine the middle pillow from the bed under the light of a small lamp 660
+grab the green pillow turn on the lamp on the table 661
+turn on a desk lamp 662
+grab the green pillow turn on the lamp 663
+examine the pillow in the light on the desk  664
+turn on the lamp while holding a pillow 665
+examine the pillow by the light on the desk  666
+grab the nearest green pillow turn on the lamp on the table 667
+turn on a lamp on the desk while holding a yellow pillow 668
+pick up a book and turn on a lamp 669
+examine the book by the light of a lamp 670
+turn on the lamp on the night stand  671
+read a book by lamp light 672
+examine a book with a lamp 673
+pick up a bed and turn a lamp on 674
+turn on the lamp while holding the book 675
+turn on the lamp on the nightstand  676
+pick up a book and turn on a lamp 677
+hold a bowl while turning a lamp on 678
+get a bowl and turn on a lamp 679
+pick up a bowl to hold up over a trash can 680
+carry a brown plate while turning on a lamp 681
+turn the light on behind the desk while holding the bowl 682
+get a bowl from the table to examine it under the lamp 683
+examine a bowl by the light of a desk lamp 684
+pick up bowl turn on light 685
+carry a bowl while turning on a lamp 686
+grab the basketball in the corner turn on the lamp 717
+turn on a lamp on a cabinet with a basketball in hand 718
+turning on a lamp across the room 719
+carry a basketball while turning on a lamp 720
+turn on the lamp while holding a basketball  721
+to see the basketball in the light  722
+examine a basketball in the light 723
+take a basketball to the table and turn the lamp on 724
+inspect the basketball with the lamp on the drawers 725
+inspect a cd by lamp light 756
+pick up the cd turn on the lamp 757
+grab the disc on the dresser turn on the lamp on the night stand 758
+turn on the lamp on the night stand grab the disc on the right 759
+turn on the bedside lamp and pick up a cd 760
+pick up the disc in the light 761
+turn a lamp on while holding a disc 762
+pick up the cd turn on the lamp in the corner 763
+examine a cd by the light of a night stand lamp 764
+look at the credit card in lamp light 789
+inspect a card with a lamp 790
+turn on the lamp while holding a card 791
+examine a credit card by the light of the tall lamp on the ground  792
+pick up a credit card and turn on a lamp 793
+look at the credit card on the sofa under the lamp  794
+look at a disk by the light of the lamp 812
+turn on the lamp in the bedroom 813
+turn on your bedside lamp 814
+pick up a disc and turn a lamp on 815
+put the cd in the night stand  816
+look at a cd with a lamps light 817
+examine the cd in the light of the lamp on the desk  818
+turn on the desk lamp while holding a disk 819
+look at the cd under a lamp 820
+examine a credit card by the light of a tall lamp 851
+view a credit card by the light of a lamp 852
+examine a credit card under the lamp 853
+pick up a credit card and turn a lamp on 854
+hold a credit card and turn on a lamp 855
+take the bank card from the coffee table turn on the lamp 856
+pick up the credit card and turn on the lamp 857
+pick up credit card off of table go to lamp and turn it on 858
+carry a cassette to a lamp and turn it on 859
+grab the watch from the table turn on the floor lamp 878
+look at a wrist watch in the light 879
+turn on a lamp while holding a wrist watch 880
+examine a watch by the light of a floor lamp 881
+to look at the watch in the light  882
+examine the watch under the light of the floor lamp 883
+look at the watch by the light of the floor lamp 884
+take watch to the lamp to examine it in the light  885
+examine the watch by the light of the tall lamp  886
+pick up a watch and turn a lamp on 920
+look at a watch under a lamp 921
+to examine a watch by lamp light 922
+examine the watch with the lamp 923
+hold a watch and turn the lamp on 924
+inspect a watch by lamp light 925
+examine a watch by the light of a tall lamp  926
+examine a watch by the light of a tall lamp 927
+examine a watch in the light of a tall lamp 928
+pick up a credit card to look at under a lit tall lamp 929
+turn on a lamp with a credit card  930
+look at a credit card under a lamp 931
+carry a credit card while turning on a lamp 932
+look at a red credit card under a lit tall lamp 933
+examine a credit card by the light of a tall lamp 934
+pick up a credit card and view it in the light of the lamp 935
+retrieve on credit card from couch turn on floor lamp behind chair 936
+turn on a lamp with a credit card  937
+examine a remote under a lamp 944
+examine a remote in the light of a tall lamp 945
+inspect a remote in lamp light 946
+examine a remote in the light of a tall lamp 947
+examine a remote control by the light of the lamp 948
+pick up a remote and turn a lamp on 949
+examine a remote control by the light of a tall lamp 950
+put a remote control under a lampshade to turn on the lamp 951
+look at the remote in the light of a lamp 952
+examine a box by the light of a small lamp 1681
+examine a box with the lamp 1682
+pick up the box and turn on the light 1683
+inspect a box by lamp light 1684
+to pick up a box and turn on a lamp  1685
+examine the box with the lamp 1686
+look at a box by the light of a lamp 1687
+examine a box by the light of a small lamp 1688
+carry a box while turning on a lamp 1689
+turn on a lamp  1690
+turning on a lamp 1691
+examine a clock by the light of a small lamp 1692
+turn a lamp on  1693
+examine a clock by the light of a small lamp 1694
+examine the alarm clock under the light of the lamp 1695
+take the clock to the desk and turn on the lamp 1696
+look at the alarm clock under light of the lamp 1697
+turn on a lamp while holding a clock  1698
+examine a statue by the light of a small lamp 1699
+turn on the light 1700
+turn on a lamp and pick up a gold figurine 1701
+move to table pick up statue and turn on light 1702
+hold a statue while turning on a lamp 1703
+examine a gold dog statue with the lamp 1704
+examine the figurine by the light 1705
+pick up a statue and turn the lamp on 1706
+examine a dog statue by the light of a table lamp 1707
+examine an alarm clock using the light of a lamp 1720
+examine an alarm clock by the light of a desk lamp 1721
+to shine alarm clock light on the table  1722
+examine a clock with a lamp 1723
+pick up a clock and turn a lamp on 1724
+examine a clock by the light of a lamp 1725
+examine the clock in the light of the lamp on the desk  1726
+pick up clock turn on lamp 1727
+turn on the desk lamp  1728
+pick up the box and turn the light on 1738
+pick up a box and turn a lamp on 1739
+hold a box and turn on a lamp 1740
+pick up box from shelves turn on table lamp 1741
+examine a box using the light of a lamp 1742
+take the white box from under the tv turn on the lamp 1743
+pick a box up and turn on a lamp 1744
+examine an empty box by the light of a table lamp 1745
+examine a box with a lamp 1746
+look at a box under the light of a lamp 1810
+examine a box by the light of a small lamp 1811
+carry a cardboard box to a wooden end table and turn on the lamp 1812
+turn on a lamp while holding a cardboard box 1813
+turn on the living room lamp  1814
+examine a box by the light of a small lamp 1815
+pick up the box and turn the lamp on that is on the brown side table 1816
+look at an empty cardboard box under a lit lamp 1817
+examine the box by the light of the lamp 1818
+pick up a cushion from the couch and turn on the lamp  1834
+examine a pillow by the light of a small lamp 1835
+look at the pillow under the lamp 1836
+examine the pillow by the light of the lamp on the black table 1837
+turn on the living room lamp  1838
+pick up a pillow and turn a lamp on 1839
+examine the pillow by the lamp 1840
+examine a pillow by the light of a small lamp 1841
+with a pillow turn on the lamp  1842
+examine the newspaper under the light of the floor lamp 1843
+pick up a newspaper walk to the lamp and turn it on 1844
+examine a newspaper in the light of a large abstract lamp 1845
+turn on the standing light with the newspaper at hand 1846
+examine a newspaper by the light of a floor lamp 1847
+turn on the tall lamp in the corner while carrying a newspaper 1848
+grab the newspaper from the chair turn on the floor lamp 1849
+pick up the newspaper 1850
+turn a lamp on with a newspaper in hand 1851
+find the newspaper and turn on the lamp 1852
+turn on the lamps light 1853
+turning on a lamp with a newspaper 1854
+examine a newspaper by the light of a floor lamp 1855
+inspect keys near a lit lamp 2700
+examine the keys in the light on the dresser  2701
+turn on the lamp while holding keys 2702
+to get keys off the dresser and turn on the lamp on the dresser 2703
+examine a set of keys by the light of a table lamp 2704
+examine the keys by the light of a lamp 2705
+turn on desk lamp with clock in hand 2706
+pick up a clock and turn a lamp on 2707
+inspect a clock by lamp light 2708
+examine a clock with a lamp 2709
+look at an alarm clock by the light of a lamp 2710
+turn lamp on to look at clock 2711
+carry a clock while turning on a lamp 2712
+examine a silver clock in the light of a small lamp 2713
+look at a paper weight under the light of a lamp 2714
+examine a pen using the light of a lamp 2715
+light up the lamp on the cabinet while holding a pen  2716
+get the pen from the dresser and examine it under the lamp 2717
+examine a pen by the light of the lamp that is sitting on the dresser 2718
+turn on the dresser lamp 2719
+examine a pen by the light of a lamp 2720
+turn on a lamp and pick up a pen 2721
+pick up a pen using the light of a lamp 2722
+pick up the pen on the dresser  2723
+examine a purple pillow by the light of a tall lamp 2724
+examine the pillow under the lamp 2725
+carry a purple cushion while turning on a lamp 2726
+examine a purple pillow in the light of a tall lamp 2727
+turn a light on with a pillow in hand 2728
+carry a purple cushion while turning on a floor lamp 2729
+find your credit card and turn on the den lamp  2739
+look at a credit card under a tall lit lamp 2740
+examine a credit card by the light of a tall lamp 2741
+turn on floor lamp with credit card in hand 2742
+look at a credit card by the light of a lamp 2743
+hold a credit card and turn on the lamp 2744
+turn on a lamp with a credit card  2745
+pick up a credit card and turn on the lamp 2746
+look at a credit card by the light of a lamp 2747
+look at a pillow under lamp light 2748
+turn on a lamp while holding a cushion 2749
+examine a pillow in the light of a small lamp 2750
+pick up a pillow and turn on a lamp  2751
+inspect a pillow with a lamp 2752
+examine a pillow with a lamp 2753
+inspect a box in the light of the floor lamp 2769
+take a box from the coffee table to the lamp by the door and turn it on 2770
+carry an empty box to the lamp 2771
+examine an empty box by the light of a floor lamp 2772
+examine a cardboard box using the light from a floor lamp 2773
+examine the box by the lamp 2774
+turn on a floor lamp while carrying a pencil 2799
+turn a lamp on with a pencil in hand 2800
+grab the pencil on the tv shelf turn on the floor lamp 2801
+take the yellow pencil from the bottom shelf hold the pencil turn on the light in the corner as you do this 2802
+grab the pencil from the shelf turn on the floor lamp 2803
+turn the tall lamp on while carrying a pencil 2804
+grab the pencil from the coffee table turn on the floor lamp 2805
+pick up a pencil in addition to turning on the light  2806
+turn on a lamp while holding a pencil 2807
+use the remote to turn the light on 2841
+turn on floor lamp with remote in hand 2842
+look at a remote control under the light of a lamp 2843
+pick up the remote and view it in the lamp light 2844
+pick up the remote and turn on the lamp 2845
+to examine a remote by lamp light 2846
+pick up the remote then turn off the floor lamp 2874
+turn off a lamp with a remote  2875
+examine a remote control by the dim natural light of a living room 2876
+pick up the remote and turn off the lamp 2877
+pick up the remote controller and turn off the lamp 2878
+examine a remote by the light of the tall lamp  2879
+with a remote turn on a lamp  2880
+turn off the lamp light with the remote 2881
+pick up a remote and turn the lamp off 2882
+carry a remote while turning on a lamp 2901
+examine a remote in the lamp light 2902
+grab the remote and turn the lamp on 2903
+turn on the lamp with a remote 2904
+turn on floor lamp while holding remote 2905
+look at a remote by the light of a lamp 2906
+pick up remote and turn lamp on to look at it 2907
+to pick up a remote and turn on the lamp  2908
+pick up the remote and turn on the light  2909
+grab the remote from the sofa chair turn on the floor lamp 2954
+taking the remote to turn on the lamp 2955
+turn on a lamp while holding a remote 2956
+turn a lamp on with a remote in hand 2957
+examine a remote control by the light of a floor lamp 2958
+turn on the lamp while holding the remote control 2959
+to turn a lamp on using a remote  2960
+examine the remote under the light on the floor lamp 2961
+examine a remote controller in the light of a corner lamp 2962
+inspect a remote control near a lit lamp 2963
+examine a tv remote next to the light of a tall lamp 2964
+turn on lamp with remote control 2965
+turn on desk lamp with box in hand 3589
+retrieve box from floor turn on desk lamp 3590
+turn on the desk lamp  3591
+turning on a lamp while holding a cardboard box 3592
+examine a cardboard box using the light of a lamp 3593
+examine a box by the light of the lamp on the desk  3594
+turn on the desk lamp 3595
+turn on the lamp on the dresser to inspect the empty box 3596
+examine the cardboard box under light of the desk lamp 3597
+inspect a book with a lamp 3607
+carry a book to turn on the lamp 3608
+to see the book in the light  3609
+use a text book to turn on a lamp  3610
+turning on a lamp with a book 3611
+read a book by the light of a lamp 3612
+carry a laptop while turning on a light 3637
+to get the lap top and turn the lamp on  3638
+pick up the lap top turn on the lamp 3639
+pick up the laptop and turn on the lamp 3640
+inspect a laptop with a lamp 3641
+examine the laptop by the light 3642
+hold a laptop and turn on the lamp 3643
+carry a laptop while turning on a lamp 3644
+examine a laptop by the light of the lamp on the dresser 3645
+examine the book by the light on the table  3673
+inspect a book by lamplight 3674
+get book from bed walk to table and turn on lamp on table 3675
+examine a book by the light of a lamp 3676
+grab the book on the bed turn on the lamp on the cabinet 3677
+examine the book under light of the lamp 3678
+read a book by lamp light 3679
+grab the book on the bed walk to the cabinet turn on the lamp 3680
+read the book under the lamp light 3681
+turn on a lamp while holding a newspaper  3682
+examine the newspaper under the light of the lamp 3683
+look at the newspaper under the lamp 3684
+turn on a lamp while holding a newspaper 3685
+pick up the newspaper and turn on the lamp 3686
+pick up a newspaper and examine it under lamp light 3687
+turn on a lamp while holding a newspaper  3688
+examine a newspaper by the light of a small lamp 3689
+turning on the lamp while holding a newspaper 3690
+grab the watch from coffee table turn on the floor lamp 3691
+look at a watch under the illumination of a lamp 3692
+view a watch by lamp light 3693
+take a watch with you to turn on the lamp 3694
+examine a watch in the light of a lamp 3695
+view a watch by lamp light  3696
+grab the watch on the coffee table turn on the floor lamp in the corner 3697
+get watch to turn lamp on 3698
+find the watch and turn on a lamp 3699
+pick up a remote and turn a lamp on 3700
+examine a remote by the light of a tall lamp 3701
+pick up remote turn on lamp 3702
+turn on the lamp with the remote control 3703
+pick up a remote and turn the lamp on 3704
+inspect a remote by lamp light 3705
+turn on the living room lamp 3799
+examine a silver statue in the light of a tall lamp 3800
+examine dog with a lamp 3801
+examine a figurine in lamp light 3802
+grab the statue on the coffee table turn on the floor lamp 3803
+turn a lamp on while holding a statue 3804
+turn on the lamp while holding the toy 3805
+pick up a statue and turn a lamp on 3806
+examine a statue by the light of a tall lamp 3807
+examine a bowl in the light of a lamp 4453
+turn on a lamp while holding a bowl 4454
+inspect a bowl by lamp light 4455
+examine a bowl under a lamp 4456
+inspect a bowl by lamp light 4457
+examine a plastic bowl by the light of a desk lamp 4458
+examine the bowl under light from the lamp 4459
+examine a bowl using the light of a lamp 4460
+pick up a clear container turn on a lamp 4461
+examine an alarm clock by the light of a desk lamp 4513
+examine a close by the light of a lamp 4514
+carry a red and yellow item clock to the lamp turn on the lamp 4515
+hold a clock while turning on a lamp 4516
+look at the clock in the light  4517
+pick up a clock and turn on a lamp 4518
+carry a clock while turning on a lamp 4519
+with a clock in hand turn the lamp on 4520
+get a stamp and turn on a lamp 4521
+carry a newspaper while turning on a lamp 4522
+read a newspaper in the light of a living room lamp 4523
+examine a newspaper in the light of a small lamp 4524
+pick up the newspaper and turn on the light 4525
+grab the newspaper on the small stand and turn on the lamp on the small stand 4526
+turn on lamp on side table with newspaper in hand 4527
+pick up newspaper turn on lamp 4528
+examine a newspaper by the light of a desk lamp 4529
+turn on lamp on side table while holding newspaper 4530
+hold the tissue box near the lighted lamp on the end table 4531
+look at the tissue box in the light  4532
+examine a box of tissues by the light of a desk lamp 4533
+examine the tissue box by the light of the lamp on the table  4534
+hold a box of tissues while turning on a lamp 4535
+look at the tissue box on the light  4536
+turn the lamp on the end table on 4537
+examine a tissue box with a lamp 4538
+inspect a box of tissues using the light of a lamp  4539
+examine a newspaper by the light of a small lamp 4540
+turn on a lamp with a newspaper  4541
+hold a newspaper and turn on the lamp 4542
+look at a newspaper under the light of a lamp 4543
+examine a newspaper with the lamp 4544
+turn on a lamp while holding a newspaper 4545
+examine a newspaper in the light of a small lamp 4546
+pick up a newspaper and turn a lamp on 4547
+carry a newspaper while turning on a lamp 4548
+examine a candle under a tall lamp 4567
+look at a candle by lamp light 4568
+move a candle over to the lamp to turn on the lamp 4569
+pick up candle and turn on floor lamp 4570
+turn a lamp on while holding a candle 4571
+grab the candle from the coffee table turn on the floor lamp 4572
+turn on the floor lamp with a candle in hand 4573
+grab the candle on the coffee table turn on the floor lamp 4574
+examine the nail polish under the lamp 4575
+look at a candle under a tall lamp 4576
+turn a lamp on with a bottle in hand 4577
+pick up the candle stick on the coffee table  4578
+turn on the lamp 4579
+turn on a floor lamp while holding a candle  4580
+carry a brown item while turning on the lamp 4581
+examine a notebook computer by the light of a lamp 4582
+carry a laptop while turning on a lamp 4583
+examine the laptop by the light of the lamp 4584
+take the computer from the bed to turn on the lamp 4585
+pick up laptop turn on lamp 4586
+carry a laptop while turning on a lamp 4587
+carry a laptop while turning on a lamp 4588
+inspect a laptop by the light of a lamp 4589
+turn on the bed lamp while holding a laptop
+ 4590
+examine the bowl in the light of the tall lamp  4603
+to turn on the lamp while holding a bowl 4604
+examine a vase in the light of a lamp 4605
+examine a glass bowl using the light from a floor lamp 4606
+view a vase by lamp light  4607
+grab the pot turn on the floor lamp 4608
+view a vase by the light of a lamp 4609
+examine a glass vase in the light of a lamp 4610
+inspect a vase near a lit lamp 4611
+turn on a lamp while holding a watch 4612
+turn on floor lamp while holding watch 4613
+examine a watch in the light of a tall lamp 4614
+turn on the living room lamp  4615
+turn the lamp on while holding the watch 4616
+examine a watch under a tall lamp 4617
+examine the watch under the light of the floor lamp 4618
+examine a watch under a lamp 4619
+look at a watched under a tall lamp 4620
+pick up remote and turn on lamp 4666
+get the remote from the couch take it to the lamp and turn the lamp on 4667
+look at the remote in the lamp  4668
+carry the remote while turning on a lamp 4669
+examine a remote control by the light of a floor lamp 4670
+get the remote from the dresser and look at it under the lamp 4671
+pick up the remote control turn on the floor lamp 4672
+move a remote while turning on a lamp 4673
+pick up remote and turn lamp on 4674
+examine a statue under a lamps light 4690
+look at a statue under a lamp 4691
+examine a statue by the light of a floor lamp 4692
+turn on the lamp 4693
+look at a figurine by lamp light 4694
+look at a statue under a lamp 4695
+examine a bronze statue in the light of a tall lamp 4696
+turn on a lamp with a statue  4697
+turn the lamp on with a statue in your hand 4698
+take the keys from the footstool at the middle of the room put them on the switch of the light in the corner of the room turn the light on while doing so 4713
+grab the key chain from the ottoman turn on the floor lamp 4714
+look at keys in the light 4715
+turn on a lamp while holding keys 4716
+to look at the keys in the light 4717
+examine the keys under the light of the floor lamp 4718
+grab the key chain from the sofa turn on the floor lamp 4719
+pick up a set of keys and turn on a lamp 4720
+examine a set of keys in the light of a lamp 4721
+finding keys and turning on the lamp 4722
+examine a piece of a vase by the light of a floor lamp 4732
+grab a vase from the dining table and examine the vase under a lamps light 4733
+to retrieve the blue object to hold up against the lamp 4734
+turn on the lamp while holding the blue candle holder 4735
+examine a blue vase by the light of the tall lamp  4736
+turn on a floor lamp with a blue disk in hand 4737
+turn on the corner light 4738
+examine a vase by the light of a floor lamp 4739
+examine a vase in lamp light 4740
+examine a candle by the light of a floor lamp 4765
+pick up a small bottle on a table then turn on a lamp 4766
+carry candle to the corner so the lamp can be turned on  4767
+view a candle by the light of a lamp 4768
+look at a candle with the lamp on 4769
+bring the candle to the lamp to turn on the lamp 4770
+investigate a candle using the light of a big lamp 4771
+look at a candle by the light of a lamp 4772
+inspect a candle with a lamp 4773
+examine the candle by the light of the tall lamp 4774
+look at a candle illuminated by a lamp 4775
+carry a candle to the floor lamp in the far corner of the living room 4776
+turn on the standing lamp with the candle 4777
+look at a candle with the illumination of a lamp 4778
+carry a green candle while turning on a lamp 4779
+inspect a candle by lamp light 4780
+turn the lamp on while holding a candle 4781
+move a candle to a shelf and light it  4782
+use a pillow to turn the lamp in the corner on  5363
+carry a cushion while turning on a lamp 5364
+pick up the pillow off of the couch and turn on the lamp 5365
+turn on a lamp while holding a red cushion 5366
+turn a lamp on with a pillow in hand 5367
+examine a pillow with a lamp 5368
+examine a pillow with a lamp 5369
+turn on the tall lamp while carrying a red cushion 5370
+examine a red throw pillow by the light of a floor lamp 5371
+look at a book by the light of a lamp 5372
+look at a book by the light of a lamp 5373
+to pick up a book and turn on the lamp  5374
+examine a book with the lamp 5375
+look at a book by the light of a lamp 5376
+pick up the book and turn on the light  5377
+pick a book up and turn a lamp on 5378
+turn on the lamp on the desk while holding a book 5379
+pick up a book on the bed and view it in the lamp light 5380
+examine the vase in the light by the couch  5399
+grab the white vase on the right side turn on the lamp on the end table 5400
+turn on the lamp on the nightstand while holding a white dish 5401
+grab the white vase on tv cabinet turn on the lamp on the end table 5402
+grab the vase on the table to your left turn on the lamp residing on the end table 5403
+examine a vase by the light of a lamp 5404
+examine a pillow using the light of a lamp 5423
+examine the cushion by the illuminated lamp on the night stand 5424
+look at a pillow by lamp light 5425
+turn on the bedroom lamp 5426
+pick up the brown pillow turn on the lamp 5427
+pick up the pillow from the bed then turn on the lamp next to the bed 5428
+walk across the room and pick up a pillow from the bed lastly turning the lamp on  5429
+turn on the bedroom lamp 5430
+examine a pillow with the lamp 5431
+examine a phone in the light of a tall lamp 5441
+hold a phone while turning on a lamp 5442
+turn on the lamp while holding a phone 5443
+turn on a lamp while carrying a phone 5444
+pick up a phone and turn a lamp on 5445
+examine a phone under a lamp 5446
+turn on a lamp while holding a watch 5459
+examine a watch by the light of a floor lamp 5460
+take the watch from behind the tv turn on the pink lamp 5461
+examine a watch by the light of a floor lamp 5462
+carry a watch while turning on a lamp 5463
+turn a lamp on with a watch in hand 5464
+look at a watch in the light of the lamp 5465
+pick up a watch and take it to turn on a lamp 5466
+to turn on a lamp with a watch  5467
+examine the cell phone under light of the floor lamp 5508
+examine the cellphone by the light of the tall lamp 5509
+grab the phone from the tv cabinet turn on the floor lamp in the corner 5510
+grab the phone on the tv cabinet turn on the floor lamp in the corner 5511
+view a cell phone by lamp light  5512
+examine the cell phone under light of the floor lamp 5513
+examine the phone in the light of the lamp  5514
+examine a cell phone by lamp light 5515
+turn on a lamp while holding a cell phone 5516
+inspect a watering can by the light of a tall lamp 5529
+use the lamp light to examine the watering can 5530
+examine a watering can in the light of a tall lamp 5531
+turn on the lamp while with the jug 5532
+examine a watering can by the light of a floor lamp 5533
+inspect a watering can by lamplight 5534
+grab the white water can in the tv shelf turn on the floor lamp 5535
+carry a tea pot while turning on a lamp 5536
+look at the watering can using light from the lamp 5537
+pick up cup while turning on lamp that is on dresser 6228
+grab the bowl from the dresser turn on the lamp 6229
+picking up a bowl from a dresser  6230
+turn on the lamp on the desk while holding the bowl 6231
+turn on the table lamp on the wooden drawer while holding a white bowl  6232
+grab the white bowl on the dresser turn on the lamp  6233
+pick up a bowl while turning on a lamp 6234
+turning a lamp on 6235
+grab the white bowl on the cabinet turn on the lamp 6236
+carry a pillow over to turn on a lamp 6246
+fetch a pillow and place it near a cabinet  6247
+examine the pillow with the lamp 6248
+turn a lamp on with a pillow in hand 6249
+carry a pillow while turning on a lamp 6250
+turn on the lamp while holding the pillow 6251
+turn on a lamp while holding a pillow 6252
+examine a pillow by the light of a lamp on a dresser 6253
+pick up a pillow and turn the lamp on 6254
+examine the tea pot under light of the table lamp 6255
+examine a watering can using the light of a table lamp 6256
+examine a vase in the light of the lamp on the table  6257
+examine a watering can by the light of a desk lamp 6258
+examine a tea pot by the light of a table lamp 6259
+grab a tea pot next to a fireplace taking it to the wooden table turning the lamp on 6260
+examine a watering can by the light of a desk lamp 6261
+turn the lamp on thats on the table while holding the tea kettle 6262
+look at the teapot by the light of the lamp 6263
+examine a watering can by the light of a lamp on a coffee table 6264
+turn the light on while holding the tea pot 6265
+turn on the lamp while holding the watering can 6266
+look at a pitcher by the light of a lamp 6267
+examine the tea pot under light of the lamp 6268
+examine a tea kettle using the light from a table lamp 6269
+look at a pitcher with the illumination of a lamp 6270
+examine a teapot near the light of a small lamp 6271
+examine a watering can by the light of a desk lamp 6272
+examine a pencil using the light of a desk lamp  6273
+pick up a pencil and turn on a lamp 6274
+turn on the bedroom lamp 6275
+turning on the lamp while holding a pencil 6276
+examine a pencil in the light of a small lamp 6277
+hold a pencil and turn on the lamp 6278
+examine a statue with a lamp 6279
+examine a small statue by the light of an end table lamp 6280
+look at a trophy by the light of a lamp 6281
+turn on a lamp and grab a statue from the end table 6282
+look at a statue under a lit lamp 6283
+examine a statue in the light of a small lamp 6284
+grab the white pot on the floor turn on the lamp on the end table 6315
+to look at the teapot in the light  6316
+turning a lamp on 6317
+turn on the lamp while holding a teapot  6318
+turn on the lamp while holding a water spout 6319
+look at  the tea pot by lamp light 6320
+look at keys in the light of a lamp  6354
+examine keys in the light of a lamp 6355
+carry keys while turning on a lamp 6356
+look at keys under a tall lamp 6357
+examine keys with a lamp 6358
+look at the keys under the light 6359
+examine keys with a lamp 6360
+hold keys while turning on a lamp 6361
+turn on the lamo in the living room 6362
+look at a purple pillow under a lit lamp 6435
+examine the pillow under the light of the lamp 6436
+turn on the lamp while holding a pillow 6437
+pick up a pillow and turn a lamp on 6438
+examine the pillow by the light 6439
+look at a purple pillow under a lit lamp 6440
+examine a purple pillow in the light of a small lamp 6441
+carry a cushion while turning on a lamp 6442
+examine a pillow by the light of a small lamp 6443
+examine the cd under the light of the small lamp 7072
+move a cd from the trash bin to the desk 7073
+take the cd out of the trash turn on the lamp 7074
+look at a cd by lamp light 7075
+grab the disc on the table turn on the lamp 7076
+take the cd from the desk turn on the lamp 7077
+take the cd out of the trash and turn the lamp on  7078
+examine a cd by the light of a desk lamp 7079
+examine the cd in the light of the lamp on the desk  7080
+look at a cd by the light of a lamp 7081
+examine a cd using the light from a lamp 7082
+examine a silver disc by the light of a small lamp 7083
+carry a cd while turning on the lamp 7084
+examine a cd in the light of the lamp on the dresser  7085
+look at the disk under the lamp 7086
+examine cd with a lamp 7087
+look at a cd by the light of a lamp 7088
+turn on lamp to see the cd 7089
+put the pencil on the basket next to desk  7108
+pick up a pencil and turn on a lamp 7109
+to take the pencil off the desk and turn on the lamp 7110
+examine a pencil by the light of a desk lamp 7111
+turn on the lamp while holding the pencil 7112
+examine a pencil by the light on the desk  7113
+carry a pencil while turning on a lamp 7114
+turn on the lamp on the desk 7115
+examine the blue pencil by the light of the lamp on the desk  7116
+pick up a disc and turn the lamp on 7117
+look at a cd under the light of a lamp 7118
+pick up the cd and turn on the lamp on the dresser 7119
+look at the disk under the lamp 7120
+examine a cd by the light of the lamp on the dresser 7121
+move forward to the desk and pick up the cd and then turn on the lamp 7122
+turn on the lamp while holding a disc 7123
+look at a cd under a lit lamp 7124
+grab a cd and turn on the lamp 7125
+turn on the green lamp while holding a box of tissues 7126
+examine a tissue box by the light of a floor lamp 7127
+examine the tissue box by the light of the tall lamp on the floor  7128
+to look at the box of tissue in the light  7129
+examine a tissue box by the light of a floor lamp 7130
+examine a box of tissues by the light of a tall lamp 7131
+to look at the tissue in the light  7132
+look at the tissue box by the light of the floor lamp 7133
+grab the tissue box on the coffee table turn on the floor lamp 7134
+pick up a book to look at under a lit lamp 7135
+inspect a book by lamp light 7136
+examine a book by the light of a small lamp 7137
+pick up the book from the bed and turn on the lamp on top of the cabinet  7138
+turn on lamp with book in hand 7139
+turn on a lamp while holding a book 7140
+examine the tissue box in the light of the lamp on the dresser  7141
+get box of tissues out of drawer and turn on lamp 7142
+carry a tissue box while turning on a lamp 7143
+take the box of tissues from the shelf turn on the lamp 7144
+carry a tissue box while turning on a lamp 7145
+inspect a tissue box by lamp light 7146
+examine a tissue box with a lamp 7147
+inspect a box of tissues with a lamp 7148
+inspect tissues by lamplight 7149
+pick up a bowl and view it in the lamp light on the dresser 7272
+look at a bowl under the light of a lamp 7273
+examine bowl with lamp 7274
+inspect a bowl by lamp light 7275
+pick up a bowl and turn a lamp on 7276
+look at a bowl under the lamp 7277
+examine a newspaper by the light of a floor lamp 7302
+examine the newspaper by the light of the tall lamp 7303
+examine the newspaper under the light of the floor lamp 7304
+examine a newspaper by the light of a tall floor lamp 7305
+turn on a lamp while holding a newspaper  7306
+read a newspaper by lamp light  7307
+examine the newspaper in the light of the lamp  7308
+grab the newspaper on the tv cabinet turn on the floor lamp 7309
+examine a newspaper using the light from a floor lamp 7310
+use the lamp to look at the credit card  7377
+turn on a lamp in the corner of the room while holding a credit card 7378
+examine a credit card under a tall lamp 7379
+inspect a credit card by lamp light 7380
+examine a credit card by the light of a tall lamp  7381
+turn on the lamp in the corner of the office  7382
+get a credit card from the couch and look at it under the lamp 7383
+pick up a credit card to look at under a tall lamp 7384
+while holding up a credit card turn on the standing lamp 7385
+examine a mug by the light of a desk lamp 7959
+inspect a black mug using the light of a lamp 7960
+examine a mug by the light  7961
+pick up a cup with the lamp on 7962
+go to the desk turn on the lamp pick up a mug 7963
+turn on the lamp and pick up a mug 7964
+turn on the lamp on the desk while holding the mug 7965
+turning on a lamp 7966
+turn on a lamp with a cup in hand 7967
+pick up a mug from a desk and turn on the lamp 7968
+examine a mug by the light of a small lamp 7969
+look at the mug in the lamp light 7970
+pick up a pencil and turn on a lamp 7977
+pick up a pencil and turn on a lamp 7978
+examine a pencil with the lamp 7979
+hold a pencil and turn on the lamp 7980
+inspect a pencil in lamp light 7981
+pick up a pencil and turn a lamp on 7982
+examine pencil with a lamp 7983
+examine a pencil by the light of a small lamp 7984
+examine a pencil by the light of a desk lamp 7985
+turn a lamp on with a basketball in hand 7986
+look at the basketball under the lamp light 7987
+turning on a lamp while holding a basketball 7988
+examine a basketball next to the light of a lamp 7989
+inspect a basketball near a lit lamp 7990
+turn a lamp on with a basketball in hand 7991
+examine a basketball by the light of a desk lamp 7992
+to see the basketball in the light 7993
+carry a basketball while turning on a lamp 7994
+grab the basketball under the desk turn on the lamp on the table 7995
+examine a cell phone using the light of a lamp  7996
+examine a phone in the light of a small lamp 7997
+examine the phone with light of the lamp 7998
+pick up a cell phone and turn on the lamp  7999
+hold a phone and turn on the lamp 8000
+examine the cell phone by the light 8001
+pick up a smartphone turn on a lamp 8002
+examine a cell phone by the light of a desk lamp 8003
+examine a phone by lamp light 8004
+turn on a light as you hold a green washcloth 8023
+pick up the green cloth by the window turn on the lamp on the night stand 8024
+examine the green cloth under the light of the table lamp 8025
+turn on the table light  8026
+examine a green rag in the light of a lamp 8027
+turn on the lamp on the nightstand while carrying a green rag 8028
+pick up cloth and turn on a lamp 8029
+examine the green cloth under light of the table lamp 8030
+pick up the green cloth on the floor turn on the lamp on the night stand 8031
+take a green rag to the left bedside lamp to turn it on 8032
+examine a cardboard box using the light of a lamp  8033
+examine an opened box by lamp light 8034
+turn on a lamp with a box in hand 8035
+turn on a lamp while holding a box 8036
+examine a box by the light of a small lamp 8037
+turn on the bedroom lamp  8038
+turn on a night table lamp while holding a box 8039
+examine an empty carton by the light of a table lamp 8040
+pick up a box and turn a lamp on 8041
+examine a box in the light 8042
+examine the box under the light of the floor lamp 8043
+examine the box in the light of the tall lamp in the corner  8044
+examine an empty box by the light of a floor lamp 8045
+inspect a box near a lit lamp 8046
+turn on the lamp  8047
+look at a computer by lamp light 8087
+look at a laptop by the light of a lamp 8088
+look at a laptop under the light of a lamp 8089
+to look at the laptop in the light  8090
+examine a laptop using the light of a floor lamp 8091
+take the laptop from the couch turn on the lamp 8092
+inspect a lap top near a lit lamp 8093
+turn on the living room lamp 8094
+pick up the laptop and bring it to the table and turn on a lamp 8095
+inspect a credit card near a lit lamp 8114
+grab the credit card on the coffee table turn on the floor lamp 8115
+ put the credit card on the desk 8116
+examine the credit card by light of the floor lamp 8117
+turn the lamp light on to see the card 8118
+examine a credit card in the light of a tall lamp 8119
+pick up a credit card to hold up to the light while turning it on 8120
+examine the credit card by the light of the lamp  8121
+turn a lamp on while holding a credit card 8122
+turn on the lamp 8123
+turn on the lamp while holding a remote controller 8124
+examine the remote under the light of the floor lamp 8125
+grab the remote on the tv cabinet turn on the floor lamp 8126
+examine the remote under the light of the floor lamp 8127
+examine the remote in the light  8128
+use the remote on the white shelf to turn on the lamp to the left of the couch 8129
+turn on a lamp while holding a remote control 8130
+examine the remote under the light of the floor lamp 8131
+examine a remote with a lamp 8132
+use the remote to turn on the standing light 8133
+turn a lamp on with a remote in hand 8134
+relocate the remote from the chair to the lamp 8135
+use a remote control to turn on a lamp 8136
+examine a remote with a lamp 8137
+retrieve remote from coffee table turn on lamp in the corner 8147
+examine a remote control by the light of a floor lamp 8148
+turn on a lamp while holding a remote 8149
+turn on the living room lamp  8150
+pick up a remote and turn a lamp on 8151
+examine a remote by the light of a tall lamp 8152
+examine a remote control using the light of a lamp  8153
+examine a remote control by the light of a floor lamp 8154
+examine a remote in the light of a lamp 8155
+turn on the lamp while holding a cell phone 8198
+grab the phone from the black cabinet turn on the floor lamp 8199
+with a phone in hand turn on the lamp 8200
+examine a cell phone next to the light of the tall lamp 8201
+turn a lamp on with a phone in hand 8202
+examine the cell phone by light of the floor lamp 8203
+examine the book under the light of the lamp 8753
+examine a book by the light over the desk 8754
+examine a book by the light of a small lamp 8755
+examine the book under the light of the lamp 8756
+pick up the book on the desk and observe it 8757
+put a book on the heating unit 8758
+turn on the desk lamp 8759
+pick up the brown book and turn on the light by the desk 8760
+pick up a notebook and turn on a lamp 8761
+turn the light on the desk on while holding a power bank 8771
+view a safe by lamp light 8772
+move a clock across the room turn on lamp 8773
+inspect a black object by a lit lamp 8774
+examine the black box under the light of the lamp 8775
+switch on the desk lamp while carrying a tray  8776
+examine a clock by the light of a small lamp 8777
+look at an alarm clock by the light of a lamp 8778
+turning on the lamp on the nightstand 8779
+examine a clock by the light of a small lamp 8780
+look at an alarm clock by the light of a lamp 8781
+look at a clock under a lamp 8782
+examine a clock under the lamp 8783
+turn on the lamp on the nightstand while holding a clock 8784
+turn on a lamp while holding a clock 8785
+examine a glass bowl by the light of a nightstand lamp 8798
+hold a bowl and turn on the lamp 8799
+inspect a bowl by lamp light 8800
+pick up a clear bowl to look at under the dresser lamp 8801
+pick up a bowl and turn on a lamp 8802
+carry a plate while turning on a lamp 8803
+examine a key chain by the light of a floor lamp 8849
+examine keys with a lamp 8850
+turn a lamp on with keys in hand 8851
+carry keys while turning on a lamp 8852
+examine a set of keys by the light of a floor lamp 8853
+pick up a set of keys and turn on a lamp 8854
+look at the cell phone under the light of the floor lamp 8864
+pick up a cell phone turn on the lamp light 8865
+inspect the phone using the light of the lamp  8866
+carry a phone while turning on a lamp 8867
+retrieve smart phone from couch and turn on some lights 8868
+to turn the lamp on  8869
+turn on the floor lamp while carrying a phone 8870
+examine a cell phone by the light of a floor lamp 8871
+examine a cell phone with light from a lamp 8872
+take a phone to the lamp to examine it in the light 9400
+to pick up the phone to turn on the lamp 9401
+grab the phone on the table turn on the lamp 9402
+examine a phone next to the light of a lamp  on the desk 9403
+carry a phone to the lamp turn on the lamp 9404
+turn a lamp on with a phone in hand 9405
+turn the lamp on on the desk while holding a cellphone 9406
+inspect a phone by lamplight 9407
+examine a cell phone by the light of a desk lamp 9408
+inspect a cd by a lit lamp 9409
+to see the cd in the light 9410
+look at the cd under the light on the desk 9411
+look at a basketball in the light 9412
+examine the basketball under the light of the lamp 9413
+examine a basketball by the light of a desk lamp 9414
+examine a basketball with a lamp 9415
+pick up the basketball from the floor to hold it above the trash can 9416
+attempt to throw the basketball into the bin 9417
+examine a basketball with a lamp 9418
+turn on the lamp 9419
+examine a basketball by the light of a desk lamp 9420
+pick up a ball from the floor then examine the ball under the lamp 9421
+pick up the basketball and turn on the light 9422
+carry the basketball to the other side of the room 9423
+view a basketball under illumination 9424
+examine a credit card under a lamp 9503
+look at the credit card under a lit lamp 9504
+look at a credit card by the light of a floor lamp 9505
+turn the living room lamp on  9506
+pick up a credit card and turn on a lamp 9507
+examine a credit card by the light of a tall lamp 9508
+move a credit card while turning on a lamp 9509
+turn on the lamp in the family room  9510
+pick up a credit card turn on a lamp 9511
+grab the box from the sofa turn on the lamp on the table by the window 9539
+inspect a cardboard box by lamplight 9540
+turn on the lamp with an empty box in hand 9541
+turn on the lamp while carrying a box 9542
+examine a blue vase by the light of a floor lamp 9543
+to see the decoration in the light 9544
+look at the blue vase under the light of the floor lamp 9545
+examine a blue vase by the light of a floor lamp 9546
+examine the vase by the light of the lamp 9547
+to look at the decorative glass in the lighting  9548
+examine a blue vase next to the light of a tall lamp 9549
+hold a blue vase up to the light of a lamp 9550
+pick up the blue vase in the living room turn on the lamp in the corner 9551
+pick up a cd with the light of a lamp 10120
+turn on a lamp to look at the disk 10121
+examine a cd by the light of a desk lamp 10122
+examine a silver disc by the light of a small lamp 10123
+grab a cd on the drawer cabinet and turn on the lamp on the drawer cabinet 10124
+inspect a cd by lamp light 10125
+examine a disc in the light of a small lamp 10126
+look at a cd by the light of a lamp 10127
+examine a cd using the light from a lamp 10128
+examine the yellow vase by the light of the lamp on the table  10129
+look at the yellow vase using the light from the lamp 10130
+turn the lamp on the desk on while holding a yellow object 10131
+carry a vase while turning on a lamp 10132
+inspect a gold disk with the light on the desk next to the bed 10133
+inspect a yellow plate under the light of a lamp  10134
+examine the yellow cover by the light of the lamp 10135
+examine a vase by the light of a desk lamp 10136
+pick up lid while turning on lamp 10137
+look at a blue pillow under a lit lamp 10153
+look at a mouse pad at the lamp 10154
+look at a pillow under the light of a lamp 10155
+look at a pillow by the light of a lamp 10156
+pick up blue pillow turn on lamp 10157
+examine a pillow by the light of a small lamp 10158
+move a blue pillow off a bed and turn on a desk lamp 10159
+look at a pillow by the light of a lamp 10160
+pick up pillow followed by turning on light 10161
+examine a credit card with a lamp 10181
+examine the credit card under light of the floor lamp 10182
+look at the credit card by lamp light 10183
+hold a credit card while turning on a lamp 10184
+examine a credit card in the light of a lamp 10185
+examine a credit card by the light of a floor lamp 10186
+inspect a credit card by the light of a lamp 10187
+examine the credit card under the light of the floor lamp 10188
+turn a lamp on with a credit card in hand 10189
+turn on a lamp while carrying a laptop 10190
+turn on the desk lamp with the laptop picked 10191
+turn a lamp on with a computer in hand 10192
+inspect a laptop by the light of the lamp  10193
+turn a lamp on with a computer in hand 10194
+move a laptop while turning on a lamp 10195
+examine a laptop by the light of a desk lamp 10196
+carry a laptop to turn on a lamp 10197
+pick up the laptop and turn on the light on the end table 10198
+pick up a book and light the room to read 10199
+use the lamp the inspect a book from the bed 10200
+turn a lamp on with a book in hand 10201
+look at a book using a lamp 10202
+turn a lamp on with a book in hand 10203
+examine a book by the light of a lamp 10204
+inspect a book using the light of a lamp  10205
+examine a book by the light of a lamp 10206
+grab the book on the bed turn on the lamp on the night stand 10207
+examine the plate under the light of the lamp 10217
+examine the blue plate next to the light of the tall lamp 10218
+examine the blue tray in the light of the tall lamp  10219
+examine blue plate with the lamp 10220
+examine a plate by the light of a floor lamp 10221
+turning a lamp on 10222
+grab the blue plate from the table turn on the floor lamp 10223
+turn on a lamp with a plate in hand 10224
+grab the blue plate from the table turn on the floor lamp 10225
+to look at the dish in the lamp light 10226
+pick up some keys to look at them under a tall lit lamp 10263
+examine a set of keys by the light of a tall lamp 10264
+examine the keys by the light 10265
+turn on living room lamp with keys in hand 10266
+examine keys with a lamp 10267
+grab the set of keys from the shelf and turn the lamp next to the tv on 10268
+examine a remote by the light of the tall lamp  10284
+turn on a lamp while holding a remote controller 10285
+examine the remote in the light of a lamp 10286
+examine a remote control using the light of a floor lamp  10287
+examine the remote under the light of the floor lamp 10288
+inspect a remote by lamp light 10289
+examine the remote with the lamp 10290
+carry a remote while turning on a lamp 10291
+examine the remote under the lamp 10292
+turn on a lamp as you hold keys 10320
+to look at the keys in the light  10321
+examine a key chain by the light of a floor lamp 10322
+turn on the lamp  10323
+take keys from the black table leave them on the lamp when you turn it on 10324
+to see the keys in the light 10325
+get the keys from the round table  10326
+turn on a lamp while holding keys 10327
+examine the keys by the lamp 10328
+examine a set of keys by the light of a floor lamp 10329
+examine keys with the lamp 10330
+turn a lamp on with keys in hand 10331
+to look at the laptop in the light  10377
+get the laptop turn the lamp on 10378
+carry a laptop while turning on a floor lamp 10379
+turn on a lamp while holding a laptop 10380
+pick up a computer look at it under the light 10381
+turn on the lamp in the corner while holding the laptop 10382
+turn on the bed lamp while holding the plate 10790
+examine a bowl in lamp light 10791
+turn on the lamp while holding the bowl 10792
+examine a bowl by the light of a night stand lamp 10793
+use the lamp light to examine the bowl 10794
+look at a bowl by the light of a lamp 10795
+look at a bowl by the light of a lamp 10796
+carry a bowl while turning on a lamp 10797
+with a bowl in hand turn on the lamp on the small table 10798
+grab the pen from the table turn on the floor lamp 10841
+examine the blue pen under the light of the floor lamp 10842
+turn on the lamp while holding the pen 10843
+turn the lamp on  in the corner  10844
+view a pen by lamp light 10845
+inspect a blue pen by the light of the lamp 10846
+grab the watch on the table turn on the floor lamp 11007
+look at a watch under the light of a lamp 11008
+examine a watch by the light of a tall lamp  11009
+turn the floor lamp on while holding a watch 11010
+look at a watch by the light of a lamp 11011
+grab the watch from the tv cabinet turn on the floor lamp 11012
+turning a lamp on 11013
+hold a watch up under the lamp light 11014
+examine a watch by the light of a tall lamp 11015
+inspect a newspaper by lamplight 11434
+look at a newspaper under a lit lamp 11435
+turn on the lamp to pick up the newspaper 11436
+pick up a newspaper and turn a lamp on 11437
+examine the newspaper with the lamp 11438
+look at the newspaper under the lamp light 11439
+look at a newspaper by the light of a lamp 11440
+examine a newspaper by the light of a small lamp 11441
+turn on a lamp while holding a newspaper 11442
+examine keys with the lamp 11453
+turn a lamp on and pick up the keys on the table 11454
+look at some keys under the light of a lit lamp 11455
+examine keys with the lamp 11456
+examine a key chain by the light of a table lamp 11457
+turn on the lamp on the small stand and grab the keys on the small stand 11458
+inspect keys by lamp light 11459
+look at a set of keys under the light of a lamp 11460
+turn the lamp on and grab the keys 11461
+examine a key chain by the dim natural light of a living room 11498
+pick up keys and turn a lamp off 11499
+turn off a lamp while holding keys 11500
+look at some keys by the light of a tall lamp 11501
+examine a key chain by the dim natural light of a living room 11502
+bring keys to a lamp that is not lit 11503
+pick up the keys near the lamp to turn it off 11504
+examine a set of keys by the lack of light from a tall lamp 11505
+look at the keys with lamp turned off  11506
+pick up a credit card and turn a lamp off 11534
+walk around living room with credit card turn off light 11535
+look at a credit card in lamp light and turn the lamp off 11536
+turn off the floor lamp while holding a credit card 11537
+turn off a light as you hold a credit card 11538
+look at a red credit card under a lit tall lamp 11539
+to pick up the red credit card and turn the tall lamp off  11540
+pick up a credit card and turn a lamp off 11541
+look at a credit card under the light of a lamp 11542
+grab the pot on the floor turn on the floor lamp 11594
+find the teapot and turn on the lamp 11595
+examine the white tea pot under light of the floor lamp 11596
+examine a watering can by the light of a tall lamp 11597
+use the watering can as a remote control to turn on the floor lamp 11598
+grab the coffee pot in the corner turn on the floor lamp 11599
+turn on a light as you hold a watering can 11600
+examine the white tea pot by light of the floor lamp 11601
+examine a watering can by the light of a tall lamp 11602
+turn a lamp off while holding a trophy  11624
+carry a gold statue while turning off a lamp 11625
+inspect a statue near a lamp 11626
+look at a statue by the lamp 11627
+examine a statue by the dim natural light of a living room 11628
+turn a lamp on with a statue in hand 11629
+carry a statue to turn off the lamp 11630
+turn off a floor lamp while holding a small statue 11631
+examine a trophy with a lamp 11632
+look at a cushion by the light of a lamp 12043
+pick up the purple pillow and turn on the lamp on the night stand 12044
+pick up a pillow and turn on a lamp 12045
+look at the pillow in the light 12046
+inspect a pillow by lamp light 12047
+examine a pillow under the lamp 12048
+inspect a pillow by lamp light 12049
+look at a pillow by the light of a lamp 12050
+examine a pillow by the light of a small lamp 12051
+turn on the desk lamp 12052
+examine the round pillow by the light of the lamp 12053
+hold a pillow and turn on a lamp 12054
+look at a pillow by the light of a lamp 12055
+turn on the desk lamp 12056
+inspect a pillow by lamp light 12057
+look at a cushion by the light of a lamp 12058
+examine a pillow under the lamp 12059
+take the pillow from the bed and look at it under the lamp 12060
+with a textbook turn on a lamp 12061
+turn on the desk lamp  12062
+turn on table lamp while holding a book 12063
+examine the book with the lamp 12064
+look at a book under a lit lamp 12065
+examine the book by the light of the lamp on the desk  12066
+pick up a book and turn a lamp on 12067
+with a textbook turn on a lamp 12068
+turn on the desk lamp  12069
+pick up a clock and turn on the lamp 12070
+examine the alarm clock with a lamp 12071
+look at the alarm clock by lamp light 12072
+pick up the alarm clock and turn on the lamp 12073
+carry an alarm clock while turning on a lamp 12074
+examine an alarm clock by the light of the lamp on the dresser 12075
+turn a lamp on with a clock in hand 12076
+carry a clock while turning on a lamp 12077
+grab the clock from white table turn on the lamp on cabinet by window 12078
+pick up a laptop then turn on the lamp 12118
+turn on a lamp with a laptop  12119
+turn on the dresser lamp  12120
+look at computer in lamp light 12121
+examine a laptop by the light of a desk lamp 12122
+look at a laptop using a lamps light 12123
+examine keys using lamp light 12149
+get the keys from the sofa and look at them under the lamp across the room  12150
+examine a set of keys under the light of a floor lamp 12151
+look at keys by the illumination of a lamp 12152
+turn on a lamp while carrying keys 12153
+examine some keys under a lamps light 12154
+move the keys while turning on a lamp 12155
+take the keys from the couch turn on the lamp by the window 12156
+examine a set of keys by the light of a floor lamp 12157
+examine the remote by the light 12194
+turn a lamp on with a remote in hand 12195
+use lamp light to look at the remote 12196
+carry a remote while turning on a lamp 12197
+look at the remote by lamp light 12198
+examine a remote control by the light of a lamp 12199
+inspect a remote with a tall lamp 12200
+examine the remote under the light of the floor lamp 12201
+look at the remote by the lamp 12202
+turn a lamp on while holding a remote 12203
+examine the remote in the light of the tall lamp  12204
+pick up a remote and turn on a lamp 12205
+look at some keys under a lit tall lamp 12224
+pick up the keys and turn the lamp on 12225
+turn on the lamp in corner of the room while holding some keys 12226
+pick up keys and turn a lamp on 12227
+turn on the lamp in the office  12228
+examine a set of keys using the light of a floor lamp 12229
+inspect a bowl by lamp light 12666
+examine a bowl by the light of desk lamp 12667
+examine the bowl by the light 12668
+examine a wooden bowl in the light of a small lamp 12669
+examine a bowl in the lamp light 12670
+examine a bowl using the light from the lamp on the desk 12671
+examine a cloth by the light of a desk lamp 12690
+turn on the bed lamp while holding a cloth 12691
+look at the rag in the light  12692
+examine a towel with a lamp 12693
+inspect a cloth by lamp light 12694
+carry a napkin while turning on a lamp 12695
+examine a credit card in the light 12738
+turn a lamp on while holding a credit card 12739
+turn on the  lamp while holding the card 12740
+examine a tissue box next to the light of a tall lamp 12759
+examine a tissue box by the light of a floor lamp 12760
+look at a box of tissues by the lamp 12761
+to see the tissue box in the lamp light  12762
+examine a tissue box by the light of a floor lamp 12763
+carry tissues while turning on a floor lamp 12764
+examine a box of tissues by the light of a tall lamp 12765
+look at a tissue box in the light of a floor lamp 12766
+carry a box of tissues while turning on a floor lamp 12767
+examine a trophy with a lamp 12774
+pick up a statue and turn on a lamp 12775
+inspect a trophy using the light of a lamp  12776
+examine the figurine by the light 12777
+picking up a statue and then turning the lamp on 12778
+to turn on the lamp with the sculpture  12779
+examine a trophy with a lamp 12780
+pick up the orange statue and turn on the light 12781
+turn the lamp on with a statue in hand 12782
+turning a lamp on 12783
+look at the tv remote under the lamp 12784
+carry the remote to the lamp turn on the lamp 12785
+turn on the lamp with remote in hand 12786
+examine the tv remote next to the light of a tall lamp 12787
+turn on the lamp  12788
+turn on the lamp at the end of the room while holding a remote controller 12789
+turn a lamp on with a remote 12790
+carry a remote while turning on a floor lamp 12791
+examine the basketball under the light of the lamp 13159
+to see the basketball in the light 13160
+turn on the lamp with a basketball in hand 13161
+examine the ball by the light of the lamp 13162
+examine a basketball by the light of a desk lamp 13163
+to view the basketball in the lamp light  13164
+grab the basketball on the floor turn on the lamp 13165
+turn on a light with a ball in hand 13166
+turn on the light to examine the basketball 13167
+hold a plate while turning on a lamp 13168
+examine a plate with a lamp 13169
+examine the black plate by the lamp light 13170
+turn a lamp on with keys in hand 13171
+pick up a plate and turn on the lamp 13172
+examine a black plate with a lamp 13173
+look at a plate by the light of a lamp 13174
+examine a plate by the light of a desk lamp 13175
+go to the table in the corner to turn on the lamp pick up the black plate 13176
+turn on the light on the desk 13177
+to see the pillow in the light  13178
+examine a pillow by the light of a small lamp 13179
+examine the pillow by the light of the lamp on the table  13180
+carry a green pillow while turning on a desk lamp 13181
+examine a pillow next to the light of a lamp 13182
+turn on the light while holding a pillow  13183
+turn on a light as you hold a pillow 13184
+examine a pillow at the light of a lamp 13185
+view a math book in the light of a desk lamp 13186
+pick up geometry book and turn on lamp 13187
+grab the book on the table turn on the lamp 13188
+pick up a book and turn on a lamp 13189
+turn on the lamp while holding a book 13190
+reading a book by the lamp light 13191
+grab the newspaper on the sofa turn on the lamp in the corner 13252
+examine a newspaper using the light from a table lamp 13253
+examine the newspaper by the light of the lamp on the table  13254
+read the newspaper by the light of the lamp 13255
+look at the newspaper under the light of the table lamp 13256
+bring the newspaper to the table with the lamp on it 13257
+take the newspaper and turn on the light 13258
+grab the newspaper on the coffee table turn on the lamp on side table 13259
+while holding the newspaper turn on the light on the table 13260
+examine a cardboard box better by turning off the light from a floor lamp 13261
+grab the box on the table turn off the floor lamp by the sofa 13262
+examine the box next to the light of a tall lamp 13263
+examine a cardboard box in the dark 13264
+turn off the lamp while holding the box 13265
+turn off the lamp next to the red sofa while carrying a box 13266
+carry a box on the table to the light flip the switch to turn off the light 13267
+turn on a floor lamp with remote in hand 13309
+turn on a lamp while holding a remote 13310
+inspect a remote by lamp light 13311
+turn on a lamp with a remote  13312
+inspect a remote by lamp light 13313
+examine a remote control my the light of a lamp 13314
+examine a remote in the light of the tall lamp  13315
+examine a remote control under a tall lamp 13316
+examine a remote control using the light of a floor lamp  13317
+grab the newspaper and turn on the lamp 13327
+grab the newspaper from the coffee table turn on the floor lamp 13328
+turn the light on to see the newspaper 13329
+turn on a lamp while holding a news paper 13330
+view a newspaper by lamp light  13331
+turn on studio light against a newspaper 13332
+hold a disc and turn on a lamp 13693
+examine a cd by the light of a lamp 13694
+carry a cd while turning on a lamp 13695
+look at a cd by the light of a lamp 13696
+examine a cd by the light of the lamp on the dresser  13697
+grab the disc at the rear of the dresser turn on the lamp on the dresser 13698
+turn on the lamp on the dresser while carrying a cd 13699
+turn on a lamp while carrying a cd 13700
+examine a cd in the light 13701
+turn on a lamp 13702
+turn on the desk lamp 13703
+grab the blue pen on the floor turn on the lamp on the table 13704
+pick up the pen from the desk and turn on the light 13705
+pick up a pencil and examine it by the light of a lamp 13706
+pick up a pen and turn on a lamp 13707
+view a watch by lamp light  13708
+examine the watch by the light of the lamp on the table  13709
+turn on the lamp before picking up a wrist watch 13710
+turn on a lamp on a black desk while holding a wrist watch 13711
+grab the watch on the table turn on the lamp 13712
+drop a watch under a bed lamp and turn on the bed lamp 13713
+view a watch by lamp light  13714
+turn on the lamp while holding a watch 13715
+look at the watch by the light of a table lamp 13716
+pick up the phone and turn on the lamp 13717
+take the cell phone from the desk turn on the lamp 13718
+turn on the desk lamp 13719
+pick up a phone and turn a lamp on 13720
+pick up the smartphone and turn on the lamp 13721
+examine a cell phone by the light of the lamp on the desk 13722
+look at the cell phone in the lamp light 13723
+examine a phone in the light of a small lamp 13724
+examine a phone by the light of a lamp on a shelf  13725
+inspect a cd with a lamp on the desk 13735
+carry a cd while turning on the lamp 13736
+turn on the  will light while holding a disk  13737
+turn on a lamp while holding a cd 13738
+inspect a cd with a lamp on the desk 13739
+take the cd from the desk turn on the lamp 13740
+examine a cd by the light of a desk light 13741
+look at a cd in the light 13742
+examine a cd by the light of a desk lamp 13743
+take the computer to the lamp to examine 13744
+turn on the desk lamp  13745
+examine a laptop under a lamp 13746
+pick up the watch and turn on the lamp 13786
+inspect a watch by lamp light 13787
+pick a watch up and turn a lamp on 13788
+take the watch from the pink arm chair turn on the pink lamp 13789
+pick up the watch and turn on the lamp 13790
+look at a watch by the light of a lamp 13791
+examine a watch by the light from a lamp 13792
+examine the wrist watch by the light 13793
+examine the watch under the lamp 13794
+examine a credit card with the lamp light 13808
+examine a red credit card in the light of a tall lamp 13809
+inspect a credit card by lamp light 13810
+pick up a credit card and turn a lamp on 13811
+examine a credit card by the light of a floor lamp 13812
+pick up a credit card from the sofa turn on a lamp 13813
+with a credit card turn on the lamp  13814
+retrieve a credit card from the table turn on the floor lamp in the corner 13815
+turn on the living room lamp  13816
+examine a trophy under a tall lamp 13826
+view a trophy by the light of a floor lamp 13827
+examine the statue under the light of a tall lamp 13828
+turn on the lamp while holding a trophy 13829
+examine a statue by the light of the tall lamp 13830
+turn a lamp on while holding a statue under it 13831
+view a trophy by the light of a lamp 13832
+examine a trophy by the light of a tall lamp 13833
+examine a statue by the light of a floor lamp 13834
+turn on a lamp while holding a statue 13835
+examine a trophy by the light of a floor lamp 13836
+examine a statue under a tall lamp 13837
+examine a statue by the light of a floor lamp 13838
+examine the statue by the light of the lamp in the corner  13839
+look at a trophy illuminated by a lamp 13840
+examine the trophy by the light of the floor lamp 13841
+examine a trophy by the light of a tall lamp 13842
+look at a credit card under the light of a lamp 13843
+pick up a credit card and turn a lamp on 13844
+carry  a credit card while turning on a lamp 13845
+pick up a credit card and turn on a lamp 13846
+examine a credit card by the light of a tall lamp 13847
+grab the credit card and turn on the lamp in the corner of the room 13848
+examine a credit card by the light of a tall lamp 13849
+pick up a credit card and view it in the lamp light 13850
+pick up a credit card and turn a lamp on 13851
+grab the tennis bat on the floor turn on the lamp on the table by the sofa 13870
+examine a tennis racket by the light of a lamp 13871
+take tennis racket to turn on a lamp 13872
+grab a tennis racket between beds turn on the lamp 13873
+turn on the lamp on top of the desk while holding a tennis racket 13874
+grab the tennis bat on the floor turn on the lamp on the table 13875
+examine the racket with the light of the desk lamp  13876
+examine a tennis racket in the light of a small lamp 13877
+turn on the table lamp with the bat 13878
+pick up a newspaper and turn a lamp on 13891
+turn on the living room lamp  13892
+get ready to read the newspaper on the couch 13893
+examine a newspaper under the light of a lamp 13894
+examine a newspaper by the light of a floor lamp 13895
+turn the living room lamp on 13896
+pick up a newspaper and turn a lamp on 13897
+read a newspaper in lamp light 13898
+pick up the newspaper and turn on the light  13899
+pick up the newspaper and turn on the lamp on the desk 13950
+examine a newspaper under the lamp 13951
+read a newspaper by the light of a lamp 13952
+examine a newspaper in the light of a tall lamp 13953
+read the newspaper under the lamp  13954
+look at a newspaper under a lamp 13955
+use the lamp to read the newspaper 13956
+inspect a newspaper by lamp light 13957
+examine the newspaper by the light of the tall lamp in the corner  13958
+turn on a light as you hold a box of tissues 14261
+examine a tissue box by the light of a lamp 14262
+turn on the lamp next to the couch while holding a box of tissues 14263
+examine the tissue box in the light of the lamp  14264
+grab the tissue box on the tv cabinet turn on the lamp on the side table 14265
+pick up a box of tissues turn on a lamp 14266
+turn a lamp on with a statue in hand 14311
+examine a statue by the light of a floor lamp 14312
+examine a statue by light of a floor lamp 14313
+examine a small statue of a man by the light of a floor lamp 14314
+turn a lamp on with a statue in hand 14315
+examine the figurine by the light 14316
+turn a lamp on with a statue in hand 14317
+examine the figurine by the light 14318
+carry a statue while turning on a lamp 14319
+pick up the credit card on the table and view it in the light of the lamp 14320
+examine a credit card under a tall lamp 14321
+carry a credit card while turning on a lamp 14322
+look at a credit card under a lit tall lamp 14323
+examine a credit card by the light of a tall lamp  14324
+turn on floor lamp while holding credit card 14325
+examine a credit card by the light of the tall lamp  14326
+look at a credit card by the light of a tall lamp 14327
+pick up the credit card and turn the light on 14328
+to examine a plate by lamp light 14347
+turn on the living room light  14348
+hold a plate and turn on the lamp 14349
+examine a plate by the light of the tall lamp 14350
+hold a plate and turn on the lamp 14351
+examine plate with a lamp 14352
+examine a plate with the lamp 14353
+inspect a plate in lamp light 14354
+look at the tray in the lamp light  14355
+examine the statue using the lamp light 14377
+grab the statue from white table turn on the floor lamp 14378
+turning on the lamp 14379
+examine a statue in the light of a tall lamp 14380
+carry a statue while turning on a lamp 14381
+inspect the statue from the end table to the left of the tv with a lamp 14382
+inspect a figurine using the light of a lamp  14383
+carry a statue across room and turn on lamp 14384
+examine the statue by the lamp 14385
+inspect the statue on the end table next to the tv with a lamp 14386
+turn a lamp on with a statue in hand 14387
+examine the statue under the light of the floor lamp 14388
+examine a statue by the light of a floor lamp 14389
+to look at the statue in the light  14390
+carry a statue while turning on a lamp 14391
+pick up a pencil after turning the light on  14689
+pick up a pencil using the light of a lamp 14690
+turn on the lamp and pick up a pencil 14691
+examine a pencil by the light of a desk lamp 14692
+examine the pencil with the lamp 14693
+examine a pencil by the light of a small lamp 14694
+turn on desk lamp while holding pencil 14695
+examine a pencil by the light of a small lamp 14696
+examine the pencil in the light of the lamp on the table  14697
+to turn on a lamp and pick up a pen  14704
+to turn on the lamp and pick a pencil up 14705
+inspect a pen by lamp light 14706
+hold a pen and turn the lamp on 14707
+turn a bedside lamp on while holding a pen  14708
+turn on table lamp with pen in hand 14709
+examine a pen by the light of a lamp on a small table 14710
+look at a black pen under a lit lamp 14711
+turn on the bedroom lamp  14712
+turn a light on with a bat in hand 14713
+turn on the bedside lamp while holding a base ball bat 14714
+examine a baseball bat by the light of a desk lamp 14715
+turn on the lamp while carrying a baseball bat 14716
+look at the baseball bat using the lamp light 14717
+grab the base ball bat on the floor turn on the lamp on the night stand 14718
+examine a plate in the light of a tall lamp 14728
+examine the plate by the light of the tall lamp  14729
+turn on a lamp while holding a plate 14730
+grab the plate on the dining table turn on the floor lamp 14731
+inspect a plate in the light of a floor lamp 14732
+examine a plate in the light of a tall lamp 14733
+view a plate by lamp light 14734
+examine a plate in the light of a tall lamp 14735
+grab the plate from the coffee table turn on the floor lamp 14736
+carry a tennis racket while turning on a lamp 14752
+examine a tennis racket with  a lamp 14753
+take the white tennis racket turn on the pink lamp 14754
+examine a tennis racket by the light of a desk lamp 14755
+examine tennis racket with a lamp 14756
+carry a tennis racket while turning on a light 14757
+find the racket and turn on the lamp 14758
+inspect a racket with a lamp on a desk 14759
+carry a tennis racket while turning on a lamp 14760
+pick up a credit card and turn a lamp on 14770
+examine a credit card using the light from a floor lamp 14771
+turn on floor lamp while holding credit card 14772
+examine a credit card by the light of a tall lamp 14773
+examine the credit card with the light of the tall lamp 14774
+look at a credit card by the light of a lamp 14775
+pick up a credit card and view it in the lamp light 14776
+look at a credit card under a tall lamp 14777
+look at a credit card by the light of a lit lamp 14778
+look at a credit card under a tall lit lamp 14797
+turn on floor lamp while holding credit card 14798
+take credit card to light to look at it 14799
+turn on a lamp while holding a credit card 14800
+pick up a credit card and turn a lamp on 14801
+carry a credit card while turning on a lamp 14802
+look at the credit card under the lamp light 14803
+look at a credit card under a lit tall lamp 14804
+examine a credit card with a lamp 14805
+pick up the tennis bat on the floor turn on the lamp on the dresser 14856
+look at the tennis racket by the light of the table lamp 14857
+look at the racket in the lamp light  14858
+look at the tennis racket under the light of the table lamp 14859
+examine a tennis racket by the light of a desk lamp 14860
+grab the tennis bat on the floor turn on the lamp on the dresser 14861
+examine a pencil under the lamp 15086
+turn on  a lamp while holding a pen 15087
+put pen on table and nightstand and turn the light on 15088
+pick up the blue pen and put it on the wooden desk 15089
+look at the pen in the lamp light 15090
+turn on the desk lamp 15091
+turn on the desk lamp  15092
+pick up the blue pen and put it on the wooden desk 15093
+turn on a lamp while holding a pencil 15094
+look at the credit card under the lamp 15104
+examine a credit card by the light of a tall lamp 15105
+pick up a credit card and turn a lamp on 15106
+examine a credit card by the light of a tall lamp 15107
+examine a credit card by the light of the lamp in the corner  15108
+take the red credit card from the coffee table and turn on the floor lamp 15109
+examine a credit card by the light of a floor lamp 15110
+examine a credit card under the light of a floor lamp 15111
+pick up a credit card and turn a lamp on 15112
+turn a lamp on in the living room 15128
+to examine a set of keys by lamplight 15129
+carry keys while turning on a lamp 15130
+examine keys with a lamp 15131
+pick up some keys and turn a lamp on 15132
+look at the keys in the light  15133
+examine a set of keys under the light of a lamp  15134
+turn on a living room light 15135
+pick up keys and turn a lamp on 15136
+to look at the credit card in the light 15245
+examine a card under a lamp 15246
+pick up a credit card and turn on a lamp 15247
+examine a credit card by the light of a tall lamp 15248
+pick up the credit card and turn the lamp on 15249
+pick up a credit card and turn the lamp on  15250
+look at a credit card by the light of a lamp 15251
+examine a credit card using the light of the floor lamp 15252
+examine a credit card with a lamp 15253
+examine the pillow by the light of the lamp on the small table  15496
+examine a pillow by the light of a small lamp 15497
+to examine a pillow by lamp light 15498
+examine the pillow with the light of the lamp 15499
+look at a purple pillow by a lit lamp 15500
+pick a pillow up and turn a lamp on 15501
+walk by a bed pick up an empty box turn on a light 15511
+grab the box in the corner turn on the night stand 15512
+inspect a box in front of a lit lamp 15513
+examine a box by the light of a lamp 15514
+turn on the lamp on the desk while holding a box 15515
+examine a box in the light of a lamp 15516
+examine an open empty box by the light of a table lamp 15517
+turn on a lamp after picking up a box from the floor 15518
+turn on the lamp on the dresser  15519
+examine a set of keys by the light of a floor lamp 15520
+examine keys with the lamp 15521
+examine keys by the light of a lamp 15522
+examine a set of keys by the light of a tall lamp 15523
+look at keys under the light of a lamp 15524
+turn on floor lamp with keys in hand 15525
+pick up keys turn on lamp 15533
+examine a set of keys in the light of a tall lamp 15534
+turn on the lamp in the corner  15535
+take key chain to lamp turn on lamp  15536
+pick up the set of keys in order to use the button on the keyring to turn on the lamp 15537
+look at keys by the light of the lamp 15538
+grab the computer from the sofa turn off the floor lamp 15566
+examine a laptop by the dim light of a living room 15567
+turning off a lamp 15568
+examine a laptop by the dim light of a living room 15569
+turn off the lamp with a laptop in hand 15570
+carry a computer to the lamp turn the lamp off 15571
+carry a vase while turning on a lamp 15572
+carry a vase to turn on the lamp 15573
+collect a vase to look at it under the lamp 15574
+examine the pen on the light 15938
+examine a pen by the light of a desk lamp 15939
+turn on a lamp while holding a pen 15940
+pick up a pen while turning on a lamp on the night stand 15941
+look at the pen under the lamp 15942
+pick up a pen and turn on a lamp 15943
+pick up a pen on the table to turn on the lamp 15944
+turn a light on with a pen in hand 15945
+turn on a lamp while holding a pen 15946
+examine a pen next to the light of a lamp 15947
+pick up a pencil to turn on the lamp while carrying a pencil 15948
+examine a pen by the light of a small lamp 15949
+examine a cd using the light from a desk lamp 15950
+examine the cd in the light on the table  15951
+examine a cd next to the light of a lamp 15952
+pick up the cd behind the clock  15953
+turn on the lamp on the table take the cd near the clock 15954
+pick up a cd 15955
+take a cd to a new desk 15956
+examine a cd by the light of a table lamp 15957
+examine a cd by the light of a lamp 15958
+take a clock from a desk with a lit lamp 15959
+examine a clock by the light of a small lamp 15960
+pick up a clock from an illuminated desk 15961
+look at a clock in the light of a lamp 15962
+pick up clock turn on lamp 15963
+look at the clock under the lamp 15964
+examine an alarm clock by the light of a lamp on a night stand 15965
+examine a clock by the light of a small lamp 15966
+look at a clock by a lit lamp 15967
+examine a clock using the light of a lamp  15968
+turn on the lamp on the chest of drawers by the door  15969
+pick a clock up and turn a lamp on 15970
+inspect a clock by lamp light 15971
+examine an alarm clock by the light of a lamp on a night stand 15972
+examine a clock with a lamp 15973
+look at the pen under light from the floor lamp 15995
+inspect a pen under the light of a lamp  15996
+examine the pen by the light 15997
+carry a pen while turning on a lamp 15998
+get the pen from the table and go turn on the floor lamp 15999
+turn on the lamp across from the desk where you go the pen  16000
+examine a pen by the light of a floor lamp 16001
+examine a pen with a lamp 16002
+examine a pen by the light of a tall lamp 16003
+examine a pillow in the light of a small lamp 16004
+examine a pillow by the light of a small lamp 16005
+look at a striped pillow under a lit lamp 16006
+look at a striped pillow under a lit lamp 16007
+examine a pillow by the light of a small lamp 16008
+inspect a pillow by lamp light 16009
+look at a pillow in the light 16010
+turn the lamp on by knocking it over with a pillow 16011
+grab the pillow on the bed turn on the lamp and knock it down 16012
+get a pillow from the bed take it to the nightstand and turn on the lamp 16013
+examine a pillow by the light of a dresser lamp 16014
+look at a pillow in the light of a lamp on a dresser 16015
+examine a computer with a lamp 16025
+turn on the desk lamp 16026
+pick up a laptop and turn on a lamp 16027
+examine a computer with a lamp 16028
+pick up the laptop and turn on the lamp 16029
+turn on the desk lamp 16030
+pick up laptop and turn on lamp 16031
+carry a laptop across the room to turn on a lamp 16032
+examine a closed laptop in the light of a small lamp 16033
+grab the yellow bottle on the coffee table turn on the light behind the tv 16052
+turn on the living room floor lamp while holding a gold glass statue 16053
+pick up a gold candle holder and turn on a lamp 16054
+examine the lamp in the light of the tall lamp  16055
+turn a lamp on while holding a vase 16056
+carry a vase while turning on a lamp 16057
+examine a laptop computer by the light of a small lamp 16058
+examine a laptop using the light of a lamp  16059
+examine the computer in the lamp light 16060
+inspect a laptop by lamp light 16061
+examine a computer with a lamp 16062
+examine a computer by the light of the lamp in the corner  16063
+pick up a laptop on the bed to look at under a lamp 16064
+examine a closed laptop in the light of a small lamp 16065
+inspect a laptop by lamp light 16066
+view a computer by lamp light  16076
+pick up laptop turn on lamp 16077
+grab the black box on the white cabinet turn on the floor lamp in the corner 16078
+look at the laptop under the light from the floor lamp 16079
+turn on a lamp while holding a laptop 16080
+examine the computer by the light of the lamp  16081
+examine a set of keys using the light of a floor lamp 16106
+inspect keys in lamp light 16107
+look at keys under a tall lamp 16108
+examine a set of keys under a tall lamp 16109
+turn on a lamp while holding keys 16110
+examine a key chain by the light of a floor lamp 16111
+examine a key chain by the light of a floor lamp 16112
+to examine keys by lamp light 16113
+look at keys under a lamps light 16114
+examine a remote control by the light of a tall lamp 16151
+pick up a remote to go turn on the tall lamp 16152
+pick up remote turn on lamp 16153
+examine a remote control by the light of a floor lamp 16154
+examine a remote control by the light of a tall lamp 16155
+look at a remote using a lamp 16156
+get cd to turn the light on 16441
+examine a cd by the light of a desk lamp 16442
+carry a cd while turning on a lamp 16443
+with the cd in hand turn on the lamp on the desk 16444
+to see the cd in the light  16445
+carry a cd while turning on a lamp 16446
+to turn on the lamp while holding the bat 16447
+examine the bat by the light on the desk  16448
+collect a baseball bat turn on a lamp 16449
+examine the bat in by the light on the desk  16450
+examine a baseball bat using the light from a desk lamp 16451
+turn the light on 16452
+turn on the lamp on the table  16453
+examine a bat by the light of a lamp 16454
+examine a baseball bat by the light of a table lamp 16455
+turn on the lamp on the night stand  16468
+look at a pillow by the light of a lamp 16469
+pick a pillow up and turn a lamp on 16470
+look at a pillow with the lamp light 16471
+pick up a pillow and turn a light on 16472
+carry a pillow while turning on a lamp 16473
+carry the laptop to turn on the lamp on a table  16514
+carry a laptop while turning on a lamp 16515
+turn on the bed lamp with the laptop at hand 16516
+pick up the laptop then turn on the lamp 16517
+turn a lamp on with a computer in hand 16518
+pick up a laptop and turn on a lamp 16519
+pick up the computer turn on the lamp 16520
+examine a computer with a lamp 16521
+carry a laptop while turning on a lamp 16522
+turn on a lamp while holding keys 16532
+inspect keys near a lit lamp 16533
+turn on a lamp with a set of keys  16534
+hold a set of keys and turn on a lamp 16535
+pick up keys and turn the lamp on 16536
+look at some keys under a tall lit lamp 16537
+pick up the keys to look at under a lit tall lamp 16538
+move keys while turning on a lamp 16539
+examine keys with a lamp 16540
+turn a lamp on and pick up a book 16831
+pick up a book 16832
+inspect a book with a lamp 16833
+read a book by lamp light 16834
+look at a book under a lamp 16835
+ pick up a book and turn the lamp on 16836
+pick up the book and look at it under the light 16837
+examine a book under a lamp 16838
+pick up a book and turn on a lamp 16839
+turn the lamp on and pick up a clock 16846
+turn on a lamp and pick up an alarm clock  16847
+use the light of a lamp to pick up an alarm clock 16848
+inspect a clock near a lit lamp 16849
+examine the alarm clock by the light 16850
+examine a grey box by the light of a nightstand lamp 16851
+examine a clock by the light of a small lamp 16852
+turn on the bedroom lamp  16853
+examine the alarm clock by the light of the lamp on the night stand 16854
+examine a pillow by the light of a lamp 16855
+inspect a pillow by lamp light 16856
+examine the pillow with the lamp 16857
+examine a pillow in the light of a lamp 16858
+turn on the bedroom lamp  16859
+examine a pillow with the lamp 16860
+examine a pillow under a lamp 16861
+inspect a pillow by lamp light 16862
+turn on the lamp on the dresser  16863
+walk to the table with a lamp on it turn of the lamp pick up the clock 16900
+pick up the alarm clock 16901
+examine a clock under a lamp 16902
+examine an alarm clock by the light of a table lamp 16903
+examine a clock in the light of a lamp  16904
+grab the clock from the table turn on the lamp on the end table 16905
+look at a clock by the light of a lamp 16906
+pick up a clock and turn a lamp on 16907
+inspect a clock with a lamp 16908
+examine a tennis racket under the light of a lamp 16918
+turn on the lamp on the night stand 16919
+carry a racket while turning on a lamp 16920
+examine a tennis racket using the light of a lamp 16921
+turn on a light after picking up a tennis racquet 16922
+examine a tennis racket by the light of a green lamp 16923
+examine a tennis racket by the light of a lamp 16924
+examine a tennis racket by the light of a green lamp 16925
+pick up a tennis racket and turn on a lamp 16926
+carry a tennis racket while turning on a lamp 16927
+view the tennis racket in the light  16928
+examine a tennis racket using the light of a lamp 16929
+examine a tennis racket by the light of a table lamp 16930
+look at a tennis rack by the light of a lamp 16931
+examine the tennis racket by light of the lamp 16932
+examine a tennis racket by the light of a green lamp 16933
+look at a racket by the light of a lamp 16934
+hold a racket and turn a lamp on 16935
+examine a statue by the light of a table lamp 16936
+inspect a trophy using the light of a lamp  16937
+turn on a lamp while holding a trophy 16938
+to look at the statue in the light  16939
+grab the statue on the dresser turn on the lamp 16940
+turn on a lamp while carrying a green statue 16941
+inspect the statue by lamp light  16942
+carry a statue to the lamp turn on the lamp 16943
+examine the statue next to the light of the lamp 16944
+grab the pencil from the coffee table turn on the floor lamp 17002
+view a pencil by lamp light 17003
+turn on the lamp in the corner of the room while holding a pencil 17004
+view a pencil by the light of a lamp 17005
+look at the pencil by the light of the tall lamp in the corner 17006
+to turn on the standing lamp in the corner 17007
+examine the pencil by the light of the lamp  17008
+grab the pencil on the coffee table turn on the floor lamp in the corner 17009
+pick up a pencil with the lamp on 17010
+pick up the pen from the dresser and turn the lamp on 17240
+pick up pen turn on lamp 17241
+pick up pen from end of table return to other end of table to turn on light 17242
+get the pen and turn on the light 17243
+look at a pen under a lit lamp 17244
+look at a pen by the light of a lamp 17245
+pick up a pen and turn a lamp on 17246
+pick up a pen to look at under a lit lamp 17247
+turn on the bedroom lamp  17248
+examine the credit card under light of the floor lamp 17249
+turn on a floor lamp while holding a credit card 17250
+turn the lamp on 17251
+grab your credit card while turning on a lamp 17252
+examine the credit card under light of the floor lamp 17253
+take the credit card over to the lamp to turn it on 17254
+look at a pillow under the lamp on the nightstand 17264
+examine the pillow under the light of the lamp 17265
+while carrying a pillow around the bed turn on the lamp 17266
+examine a pillow using the light of a lamp  17267
+examine a pillow by the light of a lamp on a night stand 17268
+examine a pillow under a light 17269
+examine a pillow by the light of the lamp  17270
+examine a pillow under a lamp 17271
+pick up right pillow turn on lamp  17272
+examine the keys with the lamp 17318
+examine the keys by the light of the tall lamp  17319
+turn on a lamp and take your keys 17320
+turn the lamp on while holding the keys 17321
+pick up keys and turn the lamp on 17322
+examine a key chain by the light of a floor lamp 17323
+pick up the keys and turn on the lamp  17324
+examine a key chain by the light of a floor lamp 17325
+examine a set of keys using the light of a floor lamp  17326
+turn a lamp on with a racket in hand 17652
+examine a tennis racket by the light of a lamp 17653
+get a tennis racket from the floor to examine it with a lamp 17654
+pick up a tennis racquet and then turn on the desk lamp 17655
+pick up a tennis racket turn on the lamp on the desk 17656
+examine the racket by the light 17657
+turn on the desk lamp while holding a tennis racket 17658
+turn a lamp on with a racket in hand 17659
+turn the light on thats on the desk  17660
+use the light from the lamp to look at the tennis racket 17661
+to see the racket in the light 17662
+examine a racket in the light of the lamp  17663
+turn on a lamp while holding a tennis racket 17664
+examine a statue in the light of a tall lamp 17710
+examine a broken statue by the light of the tall lamp 17711
+pick up a statue in the living room turn on a lamp 17712
+turn on the lamp to the left of the lounge chair to inspect the dog statue 17713
+examine a figurine using the light of a floor lamp  17714
+examine a statue by the light of a floor lamp 17715
+turn on a floor lamp with sausage sculpture in hand 17716
+carry a statue while turning on a lamp 17717
+inspect a statue in lamp light 17718
+examine a credit card using the light from a table lamp 17910
+look at a credit card next to the light of a small lamp 17911
+turn a lamp on with a credit card in hand 17912
+examine the credit card by the light of the table lamp 17913
+to pick up a card and turn on the lamp 17914
+view a credit card illuminated by a lamp 17915
+pick up the blue bank card turn on the lamp 17916
+examine a credit card next to the light of the desk lamp 17917
+hold a credit card near a lamp that is also turned on 17918
+look at the credit card 17919
+look at a credit card illuminated by a lamp 17920
+examine the credit card by the light of the table lamp 17921
+look at a credit card by the light of a lamp 17922
+to pick up a card and turn on the lamp 17923
+carry a credit card while turning on a lamp on the dresser 17924
+examine a credit card by the light of a desk lamp 17925
+pick up a credit card and turn on a lamp 17926
+get the pencil and look at it under the lamp 17933
+to look at the pen in the light 17934
+examine a pen by the light of a small lamp 17935
+examine a pen with the lamp 17936
+take the red pen from the desk turn on the lamp 17937
+look at a pen by the lamp light 17938
+examine a pen with a lamp 17939
+pick up the red pen and turn on the lamp 17940
+take the red pen from the night stand turn on the lamp 17941
+turn a lamp on with a bowl in hand 18190
+pick up the bowl and turn on the lamp 18191
+inspect a bowl with a lamp 18192
+turn a lamp on with a vase in hand 18193
+examine a bowl by the light of a table lamp 18194
+examine a glass bowl under by the light of a lamp 18195
+inspect a bowl by lamplight 18196
+examine a bowl in the light of a lamp 18197
+look at the bowl in the lamp light 18198
+turn the lamp on the night stand on while holding a book 18199
+turn on a lamp while holding a book 18200
+carry a book to turn on a lamp on the nightstand  18201
+inspect a book from the bed with a light 18202
+carry a book while turning on a lamp 18203
+turn on a lamp while holding a book 18204
+examine the book by the light 18205
+inspect the book on the bed with a lamp 18206
+examine the book by lamp light 18207
+grab the disc on the table turn on the lamp on the table 18217
+turn the lamp on 18218
+examine a disk in the light of a small lamp 18219
+view a cd by the light of a lamp 18220
+grab the cd on the ac turn on the lamp on the table 18221
+examine a cd by the light of a lamp 18222
+examine the computer with the lamp 18241
+turn on a lamp with a lap top  18242
+pick up a laptop on the bed to turn on a lamp 18243
+pick a computer up and turn a lamp on 18244
+carry a laptop while turning on a lamp 18245
+examine a computer under a lamp 18246
+to pick up the key chain to look at under the lamp 18271
+examine a set of keys at the light of a tall lamp 18272
+turn on the living room floor lamp with keys in hand 18273
+look at keys using the lamp 18274
+examine a set of keys at the light of a tall lamp 18275
+carry keys while turning on a lamp 18276
+grab remote  proceed to the light to turn it on 18283
+turn on a light as you hold a remote 18284
+inspect a remote control near a lit lamp 18285
+examine the remote under the light of the lamp 18286
+examine the remote control by the light of the tall lamp 18287
+turning a lamp on 18288
+examine a remote in the lamp light 18289
+examine the remote under the light of the tall lamp  18290
+inspect a remote by lamp light 18291
+examine a pencil by the light of a small lamp 18431
+examine a pencil by the light of the lamp on the table  18432
+inspect a pencil by lamp light 18433
+examine a pencil by the light of a small lamp 18434
+turn on a lamp with a pencil  18435
+inspect a pencil by lamp light 18436
+examine a pencil by the light of a desk lamp 18437
+examine a pencil by the light of the lamp on the smaller desk 18438
+turn on the desk lamp  18439
+look at a watch by the light of a lamp 18449
+examine watch with the lamp 18450
+examine a watch by the light of a lamp on a dresser 18451
+grab a watch and turn a lamp on 18452
+look at a watch under the light of a lamp 18453
+look at a watch by the light of a lit lamp 18454
+carry a watch while turning on a lamp 18455
+examine a watch by the light of a small lamp 18456
+pick a watch up and turn a lamp on 18457
+to look at the credit card in the light  18467
+look at the credit card 18468
+hide the credit card underneath the lamp shade 18469
+sticking a credit card on a window 18470
+take the credit card from the coffee table put it behind the blinds on the window 18471
+to use the light to see the credit card  18472
+pick up keys and view them in the lamp light 18473
+turn on floor lamp while holding keys 18474
+look at a set of keys by the light of a lamp 18475
+look at a set of keys under the light of a lamp 18476
+look at a set of keys by the light of a lamp 18477
+examine keys under a tall lamp 18478
+examine a set of keys by the light of a tall lamp 18479
+examine a set of keys in the light of a tall lamp 18480
+pick up keys and turn a lamp on 18481
+examine a credit card by the light of the lamp  18503
+look at a credit card in the lamp light 18504
+turn on the living room lamp  18505
+turn on the lamp while holding the credit  card 18981
+while holding a credit card turn on the lamp 18982
+look at a credit card under the light of a desk lamp 18983
+examine the credit card under light of the lamp 18984
+use a light to read the credit card 18985
+grab the credit card on the table turn on the lamp 18986
+examine a credit card by the light of the lamp on the desk  18987
+turn a lamp on while holding a credit card 18988
+grab the credit card on the cabinet turn on the lamp on the cabinet 18989
+the robot should move the card from under the pen on the desk to the right corner of the desk and turn on the lamp on the desk  18990
+turn on the light  19006
+examine a alarm clock by the light of a green lamp 19007
+pick up a clock and turn on the lamp 19008
+pick up a clock and turn on a lamp 19009
+examine a clock by the light of a desk lamp 19010
+pick up clock from desk place on table turn lamp on 19011
+view the black and brown object in the light  19012
+examine a notebook in the light of a small lamp 19013
+look at a clock by the light of a lamp 19014
+turn the lamp on while holding a package 19015
+look at a book under the light of a desk lamp 19016
+examine the book under the light of the lamp 19017
+examine alarm clock with a lamp 19018
+carry a clock while turning on a lamp 19019
+examine the alarm clock by the light of the small lamp 19020
+grab an alarm clock turn on the green lamp  19021
+turn on the light on the desk as you hold an alarm clock 19022
+examine an alarm clock by the light of a lamp 19023
+move the pencil and hold it above the garbage bin 19024
+pick up a pencil and turn a lamp on 19025
+examine the pencil under the light of the desk lamp 19026
+inspect a pencil by lamp light 19027
+turn on the desk lamp  19028
+examine a pencil by the light of a desk lamp 19029
+hold a clock and turn on a lamp 19039
+examine an alarm clock by the light of a lamp 19040
+examine the round container by the light of the table lamp 19041
+examine the round container by the light of the lamp on the desk 19042
+pick up an object and turn on a lamp 19043
+look at an alarm clock in the light 19044
+inspect a clock by lamp light 19045
+examine an alarm clock by the light of a desk lamp 19046
+turn on the desk lamp  19047
+examine a pencil by the light of a lamp 19054
+pick up pencil from shelf turn on dresser lamp 19055
+take the pencil from the book shelf turn on the lamp 19056
+turn on the dresser lamp  19057
+pick up the pencil from the desk and turn the lamp on 19058
+look at a pencil under the lamp light 19059
+pick up a pencil and view it in the light of the lamp 19060
+examine a pencil with a lamp 19061
+examine a short pencil in the light of a small lamp 19062
+examine the remote by the light 19072
+examine a remote in lamp light 19073
+inspect a remote by lamp light 19074
+to pick up the remote from the couch and turn the tall floor lamp next to the couch on 19075
+turn on a lamp while holding a remote controller 19076
+turn on a lamp with a remote 19077
+look at a mug under a lamp 19271
+examine a coffee mug under a lamp 19272
+turn on the lamp to see the mug 19273
+inspect a mug with a lamp 19274
+pick up a mug and turn a lamp on 19275
+look at a coffee mug under a lamp 19276
+carry a remote while turning on the lamp 19329
+turn a lamp on with a remote in hand 19330
+examine a remote control under a lamp 19331
+look at the remote by the lamp 19332
+grab the remote control from the coffee table turn on the floor lamp 19333
+inspect remote with a tall lamp 19334
+examine a pillow in the light of the lamp  19516
+examine the pillow with a lamp 19517
+carry a blue pillow while turning on a lamp 19518
+examine a pillow with a lamp 19519
+pick up a blue pillow to look at under the desk lamp 19520
+turn on a table lamp with cushion in hand 19521
+holding a pillow and turn on a lamp 19522
+examine a pillow by lamp light 19523
+pick up the blue pillow turn on the desk lamp 19524
+turn on a light while holding a clock 19534
+take the alarm clock off the shelf turn on the lamp 19535
+examine an alarm clock by the light of a desk lamp 19536
+examine a clock by the light of a desk lamp 19537
+inspect an alarm clock using the light of a lamp  19538
+turn a lamp on with a clock in hand 19539
+inspect a clock under a lamp 19540
+examine an alarm clock by the light of a desk lamp 19541
+examine the clock under the light of the lamp 19542
+turn the light on with a pencil in hand 19543
+examine the pencil under the light of the table lamp 19544
+grab the pencil on the night stand turn on the lamp on the table 19545
+turn on a lamp while holding a laptop 19743
+examine a notebook computer by the light of a floor lamp 19744
+turn on a lamp with a computer in hand 19745
+inspect a laptop with a tall lamp 19746
+turn on the lamp in the right corner of the room while holding a lap top  19747
+turn on the floor lamp using the console as a remote control 19748
+examine the tennis racket under the light of the table lamp 19749
+inspect a tennis racket using the light of a lamp  19750
+carry a tennis racket while turning on a lamp 19751
+pick up a tennis racket and turn on a lamp 19752
+look at the tennis racket under the light of the lamp 19753
+inspect a tennis racket using the light of a lamp  19754
+pick up a phone and turn a lamp on 19922
+look at a cell phone by the light of a lamp 19923
+examine a phone under a lamp 19924
+examine the cell phone under the light of the floor lamp 19925
+examine the cellphone by the light of the floor lamp 19926
+examine a phone under a lamp 19927
+to look at the cell phone in the light  19928
+turn on a lamp by the television 19929
+take the white cell phone from the desk turn on the lamp 19930
+get a ring and turn on a lamp 19931
+turn on a lamp while holding a watch 19932
+put on a lamp stand while holding a watch 19933
+turn on a lamp with a watch 19934
+inspect a watch with a tall lamp 19935
+carry a watch while turning on a lamp 19936
+examine a watch by the light of a floor lamp 19937
+examine the watch by the light of the tall lamp 19938
+turn on a lamp while holding a watch 19939
+take a mat from the bed and turn on the table lamp 20112
+pick up a pillow to look at it under a lit lamp 20113
+examine a cushion using the light of a lamp  20114
+examine a pillow by the light of a lamp 20115
+pick up a cushion and turn on a lamp 20116
+examine a pillow by the light of a desk lamp 20117
+pick up a box and turn on the lamp 20118
+examine a pillow in the light of a small lamp 20119
+look at a pillow by the light of a lamp 20120
+pick up the box and turn on the lamp 20127
+use the lamp to see inside the box  20128
+examine a cardboard box in the light of a small lamp 20129
+examine a box in the light of the lamp on the table  20130
+inspect a box by lamp light 20131
+pick up a box and turn on a lamp 20132
+walk from one room to another to pick up a brown box ending by turning the lamp on bright    20133
+pick up the box and turn on the lamp 20134
+pick up a box and turn on the lamp  20135
+examine a clock with the lamp 20259
+look at a clock under a lit lamp 20260
+examine a clock with a lamp 20261
+inspect a clock by lamp light 20262
+look at the clock under the lamp 20263
+examine a clock in the light of the lamp on the dresser  20264
+turn on light on bureau top while holding clock 20265
+pick up a clock and turn a lamp on 20266
+pick up a clock and turn a lamp on 20267
+turn the lamp on while holding the newspaper 20274
+get the newspaper from the desk to read it at the lamp 20275
+look at a newspaper illuminated by a lamp 20276
+carry a newspaper while turning on a lamp 20277
+inspect a newspaper by lamp light 20278
+look at a newspaper by the light of a tall lamp 20279
+use the lamp to read the newspaper 20280
+inspect a newspaper by lamp light 20281
+pick up the paper from the table and turn on the lamp 20282
+turn on a desk lamp with a box in hand 20483
+turn on the desk lamp  20484
+examine a box by the light of a small lamp 20485
+get an empty box from under the desk and look at it with the lamp on 20486
+inspect a box by lamp light 20487
+examine a box with a lamp 20488
+carry a box while turning on a lamp 20489
+inspect a box by lamp light 20490
+turn on the desk lamp 20491
+examine a debit card under a tall lamp 20492
+hold a credit card while turning on a lamp 20493
+turn on a lamp while holding a credit card 20494
+turn a lamp on with a credit card in hand 20495
+look at the credit card in the light  20496
+inspect a credit card using the light of a lamp  20497
+pick up the red credit card and turn on the lamp 20498
+examine a credit card by the light of a floor lamp 20499
+examine a credit card with a lamp 20500
+get a book from the desk then turn the lamp on 20631
+read a book using the light of a lamp 20632
+pick up book and turn on lamp 20633
+carry a book while turning on a lamp 20634
+look at a book by the light of lamp 20635
+examine a book in the light of a small lamp 20636
+study a hand sculpture by the light of a lamp 20640
+look at the golden hand under the lamp 20641
+examine the gold hand with a lamp 20642
+examine a golden statue in the light of a tall lamp 20643
+carry a statue while turning on a lamp 20644
+examine a statue under a tall lamp 20645
+turn off the floor lamp with a watch in hand  20670
+examine a watch by the dim natural light of a living room 20671
+pick up watch from table turn off lamp 20672
+turn off a lamp while holding a watch 20673
+hold a watch while turning off a lamp 20674
+inspect a watch by lamp light 20675
+examine a watch by the dim natural light of a living room 20676
+pick up watch and turn off lamp 20677
+examine a watch next to the light of a tall lamp 20678
+examine a cushion using the light from a floor lamp 20784
+examine a pillow near a tall lamp 20785
+examine a pillow by the light of a tall lamp 20786
+examine a cushion by the light of a lamp  20787
+look at the cushion under the light of the tall lamp 20788
+look at a pillow under the lamp 20789
+examine a pillow near the light of a tall lamp 20790
+pick up the keys and then turn the lamp on behind the blue chair 20972
+examine the keys under the light of the floor lamp 20973
+examine a set of keys by the light of the tall lamp 20974
+locate keys and turn on the lamp 20975
+turn on floor lamp while holding set of keys 20976
+look at a set of keys by the light of a lamp 20977
+examine the cd under the light of the table lamp 21001
+turn on the lamp on the night stand 21002
+to look at the cd in the light 21003
+look at the cd in the light  21004
+turn on a lamp while holding a cd 21005
+look at the cd by light of the table lamp 21006
+examine the baseball bat using the lamp light 21007
+inspect a baseball bat using the light of a lamp  21008
+inspect a bat with a lamp 21009
+pick up a baseball bat turn on a lamp on the desk 21010
+turn on the desk lamp while holding the baseball bat 21011
+carry a pan to turn on a lamp 21012
+turn on the lamp to examine the bat 21013
+examine a baseball bat next to the light of a desk lamp 21014
+carry a baseball bat while turning on a desk lamp 21015
+pick up the baseball bat from the corner turn on the desk lamp 21016
+take the bat over to the lamp to turn it on 21017
+examine a baseball bat by the light of a desk lamp 21018
+grab the computer on the table turn on the floor lamp 21019
+examine a notebook computer by the light of a floor lamp 21020
+look at the laptop in the light  21021

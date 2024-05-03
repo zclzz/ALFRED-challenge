@@ -1,0 +1,382 @@
+pick up a book and turn on a lamp 669
+examine the book by the light of a lamp 670
+turn on the lamp on the night stand  671
+read a book by lamp light 672
+examine a book with a lamp 673
+pick up a bed and turn a lamp on 674
+turn on the lamp while holding the book 675
+turn on the lamp on the nightstand  676
+pick up a book and turn on a lamp 677
+put a book on the desk  2832
+move a book to the desk 2833
+place a book on a desk 2834
+put a book on the desk 2835
+put the book on the desk 2836
+move a book to a desk 2837
+get the book from the bed and put it on the desk 2838
+move the book from the bed to the desk 2839
+take the book from the bed put it on the desk 2840
+inspect a book with a lamp 3607
+carry a book to turn on the lamp 3608
+to see the book in the light  3609
+use a text book to turn on a lamp  3610
+turning on a lamp with a book 3611
+read a book by the light of a lamp 3612
+examine the book by the light on the table  3673
+inspect a book by lamplight 3674
+get book from bed walk to table and turn on lamp on table 3675
+examine a book by the light of a lamp 3676
+grab the book on the bed turn on the lamp on the cabinet 3677
+examine the book under light of the lamp 3678
+read a book by lamp light 3679
+grab the book on the bed walk to the cabinet turn on the lamp 3680
+read the book under the lamp light 3681
+drop two books on the bed 3993
+put two books on the bed 3994
+put 2 books on top of the bed 3995
+place books on the bed 3996
+place two books on the bed 3997
+place two books on bed 3998
+put two books on the bed 3999
+put two books on bed 4000
+place two books beside each other on the bed 4001
+put a book on the couch 4633
+pick up the green book and put it on the black couch 4634
+put a book on a sofa 4635
+move a book from the dining table to the couch  4636
+move a book from table to couch 4637
+move a book to a couch 4638
+move the book from the dining table to the couch  4639
+move book from table to couch 4640
+move the book from the table to the sofa 4641
+look at a book by the light of a lamp 5372
+look at a book by the light of a lamp 5373
+to pick up a book and turn on the lamp  5374
+examine a book with the lamp 5375
+look at a book by the light of a lamp 5376
+pick up the book and turn on the light  5377
+pick a book up and turn a lamp on 5378
+turn on the lamp on the desk while holding a book 5379
+pick up a book on the bed and view it in the lamp light 5380
+put two books in a desk drawer 5787
+putting two books in a drawer on the desk 5788
+put two books in the top drawer of the large desk 5789
+put two books in the bottom drawer of the large desk 5790
+move two books to the lower rightmost drawer of the right desk 5791
+place two books in bottom desk drawer 5792
+move two books into a drawer 5793
+put two books in the drawer 5794
+place two books in the drawer 5795
+moving the book from the desk to the bed 6387
+move the book from the desk to the bed 6388
+put a book on the bed 6389
+move the book from the night stand to the bed 6390
+grab the book from the table to place on the bed 6391
+transferring a book from a desk to a bed  6392
+put a geometry book on the bed 6393
+take a book from the desk to the bed 6394
+put a book on a bed 6395
+pick up a book to look at under a lit lamp 7135
+inspect a book by lamp light 7136
+examine a book by the light of a small lamp 7137
+pick up the book from the bed and turn on the lamp on top of the cabinet  7138
+turn on lamp with book in hand 7139
+turn on a lamp while holding a book 7140
+put a book on to the bed 7287
+move a book to the bed  7288
+move a book from a desk to a bed 7289
+put a book on the bed  7290
+pick up a book from the desk and take it to the bed  7291
+put a book on the bed 7292
+place a book on a bed 7293
+move a book from the desk to bed 7294
+move a book from the desk to the bed 7295
+put a book on a chair 8096
+place a book from the coffee table on top of the dark brown chair 8097
+removing the book from the table to place it on the chair 8098
+place a book on a chair 8099
+put a book on an armchair 8100
+place a book on the brown lounge chair 8101
+place the book beside the remote on the chair 8102
+put a book on the chair  8103
+pick up the dvd case to place it on the chair 8104
+examine the book under the light of the lamp 8753
+examine a book by the light over the desk 8754
+examine a book by the light of a small lamp 8755
+examine the book under the light of the lamp 8756
+pick up the book on the desk and observe it 8757
+put a book on the heating unit 8758
+turn on the desk lamp 8759
+pick up the brown book and turn on the light by the desk 8760
+pick up a notebook and turn on a lamp 8761
+move the book from the table by the window to the sofa 10114
+robot should move the book to the couch  10115
+move a book from a table to a sofa 10116
+put a book on the couch  10117
+move a book from a chair to a sofa 10118
+put a book on a couch cushion 10119
+pick up a book and light the room to read 10199
+use the lamp the inspect a book from the bed 10200
+turn a lamp on with a book in hand 10201
+look at a book using a lamp 10202
+turn a lamp on with a book in hand 10203
+examine a book by the light of a lamp 10204
+inspect a book using the light of a lamp  10205
+examine a book by the light of a lamp 10206
+grab the book on the bed turn on the lamp on the night stand 10207
+take two magazines from the table and place them on the couch 10389
+put two books on a couch 10390
+retrieve two books from the coffee table put the books on the couch 10391
+move two books from the long brown table to the couch 10392
+put two books on couch 10393
+to move two books to the couch  10394
+move two books to the couch 10395
+put two books on a couch 10396
+put the two books on the sofa 10397
+move a book from the bed to the desk 10823
+place a book on a desk 10824
+move a book to a wooden desk 10825
+place a book on the desk 10826
+move a book to the desk 10827
+move book from bed to desk 10828
+put a book on a desk 10829
+put a book on the desk 10830
+take the book from the end table put it on the desk 10831
+move books from the bed to the dresser 11016
+to move two books from the bed to the desk 11017
+pick both magazine off of the bed and place them on the counter 11018
+move two textbooks from the cabinets to the desk 11019
+place two books on the cabinet to the right of the laptop 11020
+move two books to a white dresser 11021
+retrieve two books from the bed and place the books on the dresser 11022
+move two books from bed and place on dresser 11023
+put two engineering books on the desk 11024
+put a book on the couch 11419
+put the book from the center table going to the sofa 11420
+move a book from the coffee table to the couch 11421
+move a book from a coffee table to a sofa 11422
+place book on couch 11423
+place a book on a couch 11424
+put a book on a desk 11489
+place the book in front of the laptop on the bed on the desk 11490
+move a magazine from the bed to the desk 11491
+move a book to a wooden desk 11492
+place a book on the desk 11493
+take a book from the table to the desk 11494
+move book from bed to desk 11495
+move the book to the desk 11496
+move a book from the bed to the wooden desk 11497
+with a textbook turn on a lamp 12061
+turn on the desk lamp  12062
+turn on table lamp while holding a book 12063
+examine the book with the lamp 12064
+look at a book under a lit lamp 12065
+examine the book by the light of the lamp on the desk  12066
+pick up a book and turn a lamp on 12067
+with a textbook turn on a lamp 12068
+turn on the desk lamp  12069
+move one of the book on the bed to the dresser by the key chain 12167
+place the book from the bed to the dresser 12168
+take a magazine to the dresser 12169
+put the book on the dresser 12170
+put a book on top of the dresser drawer 12171
+put a book on the dresser 12172
+grab magazine from bed place onto desk  12173
+move a book from the bed to the drawers 12174
+put a textbook on the dresser 12175
+put two books on a dresser 12329
+to move two books from the bed to the dresser  12330
+move two books from the bed to the dresser 12331
+move two books from the bed to the dresser 12332
+put two books on the top of a drawer 12333
+put two books on the dresser 12334
+put two books on the dresser  12335
+put two books on a dresser 12336
+move the books to the dresser 12337
+put 2 books on a bed 12891
+move two books from the desk to the bed 12892
+move two books from the desk to the bed  12893
+put two books on the bed 12894
+put the books on the bed 12895
+put two books from the desk onto the bed 12896
+put two books on a bed  12897
+place two books on the bed 12898
+move the books to the bed 12899
+putting the books on the bed 12900
+move two books from the desk to the bed 12901
+put two books on the bed 12902
+put two books on the bed 12903
+move two books from the desk to the bed 12904
+put the two books from the back of the desk onto the bed 12905
+put two books on the bed  12906
+put two books on the desk 12950
+place two copies of a book on the desk 12951
+put two magazines on the desk  12952
+place two books on a desk 12953
+grab two books from bed place them onto the desk  12954
+place two books on the desk 12955
+place the two books from the bed to the desk 12956
+move two books from the bed to the desk 12957
+get the two books off the bed to place on the desk 12958
+view a math book in the light of a desk lamp 13186
+pick up geometry book and turn on lamp 13187
+grab the book on the table turn on the lamp 13188
+pick up a book and turn on a lamp 13189
+turn on the lamp while holding a book 13190
+reading a book by the lamp light 13191
+place two books in a drawer 13531
+moving two books into a drawer of the desk 13532
+put two books in a desk drawer 13533
+to put the books away 13534
+put two books in the desk drawer  13535
+move two books into a drawer 13536
+place two books in the middle desk drawer 13537
+place two book inside the desk drawer 13538
+place two books in a drawer 13539
+put a book on a table 13852
+move a book or magazine from the seat cushion to the coffee table 13853
+take the book from the brown arm chair put it on the coffee table 13854
+move a book to the coffee table 13855
+put a book on the table  13856
+pick up magazine from chair and put on table 13857
+move a magazine from a chair to a table 13858
+put a book on the table  13859
+put a book on the coffee table 13860
+put both books on the desk 14030
+to move two books to the table at the foot of the bed 14031
+place magazines on the table 14032
+move two books to a table 14033
+to move two books to the desk  14034
+move two books from the bed to a table 14035
+put two books on a table 14036
+put two books on a table 14037
+move two magazines from the bed to the end table  14038
+transfer the two books from the desk to the bed 14045
+move the two books from the desk to the bed 14046
+to put two books on the bed 14047
+put two books on the bed 14048
+move the two books on the desk to the bed 14049
+put the books on the bed 14050
+place two books on a bed 14051
+move two books from the desk to the bed  14052
+move two books from the desk to the bed 14053
+put two books on the bed from the desk 14054
+move two books from the desk to the bed 14055
+move the books from the desk to the bed  14056
+put two books on the bed 14057
+place two books on the bed 14058
+move two books from the desk to the bed  14059
+move a book into a cabinet 15236
+to move a book from the bed to the cabinet  15237
+put the book from the bed in the upper left cabinet over the desk 15238
+move book from desk to cabinet 15239
+put a book in the cabinet  15240
+take the book from the desk put it in the desk cabinet 15241
+put the book in the desk cabinet 15242
+move a book from the bed to a cabinet 15243
+put a book in a cabinet 15244
+put two books on a bed 15664
+put two books on the bed 15665
+put the two books on the desk 15666
+to move two books from the computer desk to the bed 15667
+move two books from a desk and put on bed 15668
+put two books on a bed 15669
+to move two books to the bed  15670
+place the two books on top of the bed  15671
+put two books on a bed 15672
+place a book on a night stand 16462
+put a book on a night stand 16463
+bring the book on the bed to the nightstand 16464
+put a book on the night stand  16465
+place a book on a dresser 16466
+move the book from the bed to the night stand 16467
+turn a lamp on and pick up a book 16831
+pick up a book 16832
+inspect a book with a lamp 16833
+read a book by lamp light 16834
+look at a book under a lamp 16835
+ pick up a book and turn the lamp on 16836
+pick up the book and look at it under the light 16837
+examine a book under a lamp 16838
+pick up a book and turn on a lamp 16839
+move book from coffee table to chair 16891
+put a book in the chair 16892
+put the book on the recliner 16893
+put a book on a chair 16894
+move a book from a dresser to an armchair 16895
+move a book to the chair 16896
+put a book on top of an armchair 16897
+place a book on a chair 16898
+move book from coffee table to chair 16899
+to move two books and place them on the desk  17032
+place two clean code handbooks on the desk 17033
+put two books on top of the desk 17034
+move 2 books from the bed to black desk 17035
+put two books on a desk 17036
+put two books on the desk 17037
+put a book on the blue couch  17604
+move the book from the white sofa to the grey sofa 17605
+move the book from the chair to the couch 17606
+put a book on a couch 17607
+move a book from the chair to the couch 17608
+move a book from the chair to the couch 17609
+to put the book on the couch  17610
+place a book on top of a couch 17611
+move the deep learning book from the striped chair to the blue couch adjacent to the left of it 17612
+collect a book to read on the sofa 17613
+put a book on the couch 17614
+move the book from the table to the couch 17615
+turn the lamp on the night stand on while holding a book 18199
+turn on a lamp while holding a book 18200
+carry a book to turn on a lamp on the nightstand  18201
+inspect a book from the bed with a light 18202
+carry a book while turning on a lamp 18203
+turn on a lamp while holding a book 18204
+examine the book by the light 18205
+inspect the book on the bed with a lamp 18206
+examine the book by lamp light 18207
+move book to the desk 18247
+move the book from the bed to the desk 18248
+put a book on the desk 18249
+move the book to the desk 18250
+place a book on a desk 18251
+put a book on a desk 18252
+move the book from the bed to the desk 18253
+move a book to the desk top 18254
+move a book from the bed to the desk 18255
+move book from dresser to chair 18440
+move a book from the desk to the floral armchair 18441
+place a book on a chair 18442
+place the book on the sofa seat 18443
+place a book on the couch 18444
+take the book from the desk to the chair 18445
+put a book on the chair 18446
+put a book on a chair  18447
+put a book in the flower print chair 18448
+put two books on a dresser 20397
+move two books from the bed to the dresser  20398
+move two books from a bed to a dresser top 20399
+move two books to the dresser 20400
+move two books to a wooden dresser 20401
+place two books on the dresser 20402
+take two books from bed and place them on the dresser 20403
+to move two books to the dresser 20404
+move two books from the bed to a dresser 20405
+move two books from the bed to the desk 20507
+put two books on a desk 20508
+transfer two books on the bed to the desk 20509
+place two books from the bed on top of the computer desk 20510
+place two books on the desk 20511
+moved the two books from the bed to the desk 20512
+put the books on the desk 20513
+place two books on the wooden desk 20514
+put 2 books side by side near the bowl on the yellow desk  20515
+move two books to desk 20516
+put two books on a desk 20517
+move two books to the desk 20518
+get a book from the desk then turn the lamp on 20631
+read a book using the light of a lamp 20632
+pick up book and turn on lamp 20633
+carry a book while turning on a lamp 20634
+look at a book by the light of lamp 20635
+examine a book in the light of a small lamp 20636

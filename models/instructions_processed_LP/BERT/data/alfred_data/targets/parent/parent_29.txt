@@ -1,0 +1,1329 @@
+place a spray bottle in a trash bin 0
+move a spray bottle to the trash can 1
+move spray bottle from back of toilet to trash can 2
+put a spray bottle in the bin  3
+place a spray bottle in the trash can 4
+take the bottle from the toilet and put it in the trash 5
+place two pink sponges in black bin 116
+throw away two soap bars into the trash 117
+throw away two bars of soap 118
+trash a cold tomato slice 547
+put a tomato in a trash can 548
+put a cold slice of tomato in the trash 549
+slice the tomato take a slice put it in the fridge take it out put it in the trash can 550
+put a chilled slice of tomato in a bin 551
+chill a knife and slice of tomato put tomato slice in recycling bin 552
+slice a tomato refrigerate it carry it to the recycling bin 553
+place a chilled piece of tomato into the recycling bin in the corner 554
+throw away a chilled slice of tomato  555
+cool a piece of apple and place it in the trash can 556
+throw out a chilled piece of cut apple  557
+put a cooled piece of apple in the trash can 558
+place a cooled slice of apple in the black bin 559
+put a chilled apple slice in a black bin 560
+place a chilled cut piece of apple in a trash bin 561
+put the apple slice in the trash 562
+put cold apple in a garbage can 563
+place a cold apple slice in the bin 564
+place a paper box in the bin  606
+put tissues in a trash can 607
+move a box of tissue to the waste bin 608
+move tissues to the trash bin 609
+put the tissue box in the trash 610
+put tissues in the trash can 611
+place a paper box in the trash can 612
+put a box of tissues in the garbage 613
+move a box of tissue to the waste bin  614
+place soap into a bin 708
+move a bottle of lotion into a green bin 709
+throw away a bottle of soap 710
+move lotion from the counter to the trash 711
+move a soap dispenser from the counter to the trashcan  712
+throw away a soap dispenser 713
+put a bottle of soap in the trash 714
+place a soap bottle in a container 715
+throw away the bottle of lotion 716
+put a heated potato in the recycling bin  1297
+put a cooked potato in the recycling can 1298
+to cook the potato  1299
+put a heated potato in a green bin 1300
+place a heated potato in a recycling bin 1301
+put a heated potato in the trash 1302
+to heat a potato and place it in the trash can 1303
+place a heated potato in a garbage bin 1304
+microwave a potato from the green trash bin 1305
+place a slice of chilled tomato into the trash 1605
+place the chilled tomato slice inside the trash can at the end of the counter 1606
+place a chilled slice of tomato in the trash can 1607
+throw out the paring knife and chilled slice of tomato  1608
+place chilled tomato slice in silver bin 1609
+slice a tomato chill it and throw it out 1610
+discard a chilled slice of tomato in a kitchen wastebasket 1611
+place the refrigerated tomato slice into the silver trash can at the end of the counter 1612
+place a slice of tomato into the trash  1613
+put a pencil in a bin 1648
+put the pencil in the trash bin 1649
+put the pencil into the trash bin 1650
+put a pencil in the garbage 1651
+move a pencil to the trash 1652
+put a pencil in the bin 1653
+throw the egg away 2408
+throw away a cooled egg 2409
+throw out a chilled egg 2410
+throw the white object from the sink into the trash 2411
+removing an orange from the sink for cooling and throwing away 2412
+put a cold egg in the trash  2413
+place a chilled egg from the microwave into the bin 2414
+put a chilled egg in the trash can  2415
+cool the egg in the refrigerator throw the egg away in the trash bin 2416
+throw away a heated slice of bread 2526
+put cooked bread in a garbage can  2527
+trash a heated bread slice 2528
+put a hot slice of bread in a bin 2529
+place a cooked slice of bread in the trash 2530
+place a heated slice of bread in a container 2531
+heat up a tomato to throw away 2532
+place microwaved tomato slice in green can 2533
+warm up a tomato slice to throw it away 2534
+discard a cooked tomato slice 2535
+put a slice of warm tomato into the trash bin 2536
+use a knife to slice a tomato cook it in the microwave  discarding the tomato in the trash bin  2537
+put a cooked slice of tomato in a bin 2538
+throwing away a cooked tomato 2539
+put a cooked tomato slice in the trash bin 2540
+throw away a microwaved slice of potato 2637
+throwing a potato slice in the trash can 2638
+throw out a heated slice of potato  2639
+put a knife and cooked potato in a garbage can  2640
+throw away the end of the potato  2641
+place a heated slice of potato into a trash can 2642
+put cooked potato in a garbage can 2643
+to heat up a slice of potato 2644
+slice the potato inside the fridge cook a slice in the microwave put slice of cooked potato in the trash 2645
+put a bar of soap into the trash can 2664
+throw away the soap that is on top of the toilet 2665
+put a soap in the trash  2666
+move a bar of soap to the trash bin  2667
+place a bar of soap in a garbage bin 2668
+move a bar of soap to the trash 2669
+put a bar of soap in the trash 2670
+put a bar of soap in a garbage can 2671
+throw away the soap on the toilet tank 2672
+throw two bars of soap into the trash can 2856
+put 2 pink soaps in the green trash can next to the toilet  2857
+move two bars of soap to a bin 2858
+put 2 soap bars inside the green trash can 2859
+put two bars of soap in the trash bin 2860
+place soap into a trash bin  2861
+to move two bars of soap to the green bin  2862
+put two bars of soap in to the trash can 2863
+put two bars of soap into a garbage can 2864
+place a bar of soap into a trash can 2919
+put a wet bar of soap in the trash can 2920
+rinse a bar of soap and throw it away 2921
+put wet soap in the bink 2922
+place the bar of soap in the garbage can  2923
+put wet soap in the trash can  2924
+put a clean bar of soap in a bin 2925
+put the clean soap on the trash bin 2926
+place a rinsed bar of soap in a trash bin 2927
+place a washed head of lettuce in the waste basket 3014
+wash and move lettuce to a green bin  3015
+throw a clean head of lettuce away in a kitchen waste bin 3016
+place clean lettuce inside the waste basket 3017
+put a clean head of lettuce in a green bin 3018
+throw away freshly washed lettuce  3019
+put the clean potato in the trash bin  3130
+put a clean potato in a white bin 3131
+put a clean potato in to the trash can 3132
+put a cleaned potato in the trash can  3133
+move a clean potato to the trash bin 3134
+place a rinsed potato in a container 3135
+place a rinsed potato into the garbage can 3136
+clean off a dirty potato and put it back in the trash 3137
+putting a potato in the trash can 3138
+put a warm egg in the trash 3254
+place a cooked egg inside the garbage bin 3255
+microwave an egg to throw it away 3256
+place a cooked egg inside the waste basket 3257
+put a cooked egg in a garbage can 3258
+cook the egg from the sink and then throw it in the trash can  3259
+put a warm egg in the garbage can  3260
+heat up egg and put in trash can 3261
+place a hot potato in the metal bin 3262
+to heat a tomato slice and place it in the trash can 3389
+pick up knife cut tomato cook in microwave place in the trash 3390
+ throw a slice of hot tomato into the trash bin 3391
+throw away a slice of heated tomato in the trash bin 3392
+pick up knife cut tomato cook in microwave place into trash can 3393
+throw out a heated slice of tomato  3394
+put a knife under the sink and a warm tomato slice in the garbage  3395
+heat up a tomato slice in the microwave and put it in the trash can 3396
+throw out the heated tomato slice  3397
+put a slice of bread from the loaf on the island in the fridge put it in the trash 3452
+put a cold slice of bread in a garbage can 3453
+slice a piece of bread cool it down dispose of it in the garbage 3454
+put a cold slice of bread in the trash 3455
+slice a loaf of bread throwing a slice of bread and the knife in the trash can 3456
+put a knife and a cold slice of bread in the garbage  3457
+put a chilled slice of bread in the trash can 3458
+place a slice of chilled bread in the garbage can 3459
+to cool a bread slice and place it in the trash can 3460
+cut a head of lettuce place a slice in the refrigerator put the lettuce slice in the trash can 3470
+put cold lettuce in a garbage can 3471
+put the cabbage in the trash 3472
+put the slice of lettuce in the trash can 3473
+place a cooled lettuce slice inside of the garbage bin 3474
+put a chilled piece of sliced lettuce in a small bin 3475
+place a cool slice of lettuce in the grey bin 3476
+place a chilled piece of lettuce in the trash can 3477
+put a slice of cold lettuce in a garbage can 3478
+put a chilled slice of lettuce in the garbage 3479
+put a chilled piece of lettuce in a silver bin 3480
+place a cooled slice of lettuce in the grey bin 3481
+toss cooled lettuce into the waste basket  3482
+throw out a piece of chilled cabbage  3483
+place a chilled slice of lettuce in a container 3484
+move the soap from the white drawers to the trash can 3542
+put a bottle of lotion in the trash can 3543
+put a bottle in a trash can 3544
+put the soap container in the trash 3545
+place a bottle of soap into a trash can 3546
+put a soap dispenser in the trash 3547
+throw away a bottle 3548
+put a soap bottle in the trash 3549
+put a bottle in the trash can 3550
+move two spray bottles into a small silver bin 3769
+put two spray bottles in the trash 3770
+put two spray bottles in a metal bin 3771
+place the spray bottle in the can 3772
+put two spray bottles in a trash bin 3773
+throw out two spray bottles on the sink  3774
+put two spray bottles into a bin 3775
+put two white spray bottles in the trash can 3776
+place spray bottle in trash bin 3777
+take out an apple from the microwave chilled it and put it in the bin 4136
+chill an apple and put it in the red bin  4137
+chill the apple from the microwave in the fridge and put it in the red bin 4138
+put a chilled apple in the trash can 4139
+place a cold apple in a trash can 4140
+place chilled red apple in red bin 4141
+put a cold apple in a garbage can 4142
+put a cold apple in the garbage 4143
+place a cooled off apple inside of the garbage bin 4144
+put a cold bread in the trash can  4396
+throw away a chilled slice of bread in the trash can 4397
+put a cold slice of bread in the garbage can 4398
+put a chilled slice of bread in a silver bin 4399
+place chilled bread slice in silver bin 4400
+place a chilled piece of bread into the gray trash can 4401
+slice a loaf of bread put it inside the refrigerator onto to the trash can 4402
+slice a piece of bread chill it and throw it away 4403
+slice the bread grab a slice of bread put it in the fridge after in the trash can 4404
+put two yellow spray bottles in the trash can  4723
+put two bottles in a trash can 4724
+put two spray bottles in bin 4725
+place two sprayers in the trash can 4726
+retrieve two spray bottles from bathroom and put into the trash can next to the sink 4727
+place two yellow bottles in a waste basket 4728
+put both bottles of cleaner in the trash can by the toilet 4729
+put two spray bottles in bin 4730
+move two yellow spray bottles into a small bin 4731
+place chilled washed tomato in white bin 4900
+put a clean tomato in the sink 4901
+put a washed tomato into a garbage bin 4902
+place a washed tomato in the waste basket 4903
+put a clean tomato in a grey bin 4904
+put a washed tomato in a trash bin 4905
+put a clean cold tomato in the trash can 4906
+put a clean tomato in the garbage 4907
+put a clean tomato in the trash 4908
+place a slice of microwaved tomato into the trash can 5258
+putting a sliced tomato in the trash can 5259
+place a heated tomato slice on the dining table 5260
+throw away a slice of tomato  5261
+putting a tomato slice in the trash can 5262
+place a warm slice of tomato in the bin and the knife in the cabinet 5263
+put a cooked slice of tomato in a garbage bin 5264
+place a cooked slice of a tomato in a waste basket 5265
+get a heated slice of tomato 5266
+slice a tomato microwave a slice place the slice in the gray bin 5267
+slice a tomato heat a slice place the slice in the bin 5268
+putting a tomato slice in the trash can 5269
+put a cooked tomato slice in the trash 5270
+place a hot tomato slice in the trash can 5271
+put a cooked slice of tomato in a garbage can 5272
+put wet soap in the trash can  5592
+put the washed soap bar in the trash bin 5593
+place a bar of soap in water and throw it away in the trash can 5594
+put a clean bar of soap in the trash can 5595
+throw away the wet soap  5596
+wet a bar of soap and throw it in the trash 5597
+place a rinsed off bar of soap inside of the garbage bin 5598
+place a cleaned soap in the metal bin 5599
+put a clean bar of soap in the waste basket 5600
+put a heated egg in the trash can  5904
+to heat an egg and place it in the trash can 5905
+to heat an egg and put it inside the silver bin  5906
+put a cooked egg in the garbage 5907
+put a heated egg in a silver bin 5908
+put heated egg inside trash bin 5909
+microwave an egg to put in the trash 5910
+heat an egg and put it back in the trash can 5911
+put cooked egg in trash can 5912
+place a chilled slice of tomato into a bin 5940
+throw out the chilled slice of tomato with the knife  5941
+place a chilled slice of tomato in the bin 5942
+place a chilled slice of tomato in a bin 5943
+drop the chilled  slice tomato in the trash bin 5944
+put the knife and a chilled tomato slice in the trash bin 5945
+put the chilled sliced tomato in trash bin 5946
+throw out a chilled slice of tomato along with the knife  5947
+put a slice of tomato inside the trash can 5948
+throw away an apple that you put in the fridge 5994
+put a chilled apple in the trash can  5995
+place a chilled green apple inside a short white trashcan 5996
+put a chilled apple in the trash 5997
+put the apple from the fridge into the trash can 5998
+put a cold apple in a bin 5999
+place a slice of cabbage into the trash 6030
+put a clean slice of lettuce in the garbage can 6031
+to wash a slice of lettuce as well as put it in the trash can 6032
+place a knife and a slice of cabbage into the trash   6033
+put a knife and clean lettuce in a garbage can 6034
+to put a knife plus a slice of lettuce in a trash can 6035
+to clean a slice of lettuce and place it in the trash can 6036
+put a knife in a trash bin put a clean slice of lettuce in a trash bin 6037
+throw away clean lettuce 6038
+putting bread in a trash can 6096
+throw a warm piece of bread in the trash can 6097
+cut a piece of bread and warm it up to get ready to eat 6098
+cut into slices a loaf of bread take some slices heat them up throw them to the garbage 6099
+put a slice of heated bread in the trash 6100
+put a heated slice of toast in a silver bin 6101
+place a hot slice of bread in a steel trash can 6102
+warm a knife and slice of bread throw bread in the garbage 6103
+put a microwaved bread slice in the trash can 6104
+put a heated slice of bred in a bin 6105
+place a slice of warmed bread in the trash can 6106
+throwing sliced bread into the trash can 6107
+put a heated slice of the bread in a garbage can 6108
+put a heated slice of bread in a grey bin 6109
+slice microwave and throw away some bread 6110
+toast a slice of bread in the microwave and place in bin 6111
+throw away a slice of heated bread 6112
+putting a piece of bread in the trash 6113
+place a knife and a slice of microwaved bread into the garbage can 6114
+slice a piece of bread and cook it then put it in the trash 6115
+put a microwaved slice of bread in the trash 6116
+put the heated piece of bread in the trash bin 6117
+slice bread cook a slice in the microwave put it in the trash can 6118
+putting a slice of bread in the trash 6119
+place a spray bottle into a trash can 6219
+put a bottle in a trash can 6220
+put a bottle in a bin 6221
+place an empty spray bottle into a trash can 6222
+put a bottle in a trash can 6223
+throw away the spray bottle 6224
+throw away a spray bottle 6225
+move a spray bottle from a counter top to a garbage can 6226
+put a yellow spray bottle in the trash can 6227
+put the tomato in the trash can  6766
+put a cold tomato in the garbage 6767
+place a cooled tomato inside a grey bin 6768
+place a cool tomato in the bin 6769
+place a cooled tomato inside of the garbage bin 6770
+place a chilled tomato in a tall container 6771
+place a tomato in a trash can 6772
+place a cooled tomato inside of the garbage bin 6773
+place a cooled tomato in the grey bin 6774
+place a hot slice of tomato inside the trash can 6978
+throw away a tomato slice that was cooked in the microwave 6979
+throw away the heated up tomato slice  6980
+to heat a tomato slice and place it in the trash can 6981
+throw a cooked tomato slice into the trash can 6982
+cut a slice of tomato heat it as well as put the tomato slice in the trash can 6983
+cook a tomato slice to throw away in the trash 6984
+put a hot piece slice of tomato microwaved with a knife inside the trash can 6985
+put the knife and tomato slice in the microwave throw the tomato slice away 6986
+put a bottle in a waste basket 7048
+put a spray bottle in the trash can  7049
+throw away the spray bottle in the trash bin 7050
+throw away the spray bottle on the counter 7051
+throw away the spray bottle that is on the counter by the mirror 7052
+move a spray bottle from a counter top to a garbage can 7053
+move spray bottle from counter to a box 7054
+throw away a spray bottle in the trash basket 7055
+place a spray bottle inside the gray bin 7056
+move a spray bottle from the toilet to the trash 7057
+throw away the grey spray bottle that is sitting on the toilet 7058
+place a spray bottle in the garbage bin 7059
+throw away a spray bottle in a waste basket 7060
+set the spray bottle in the grey bin 7061
+put the spray bottle in the trash bin 7062
+place bottle in the bin near the toilet 7338
+put two pumper bottles into a bin 7339
+take bottle off of counter place in trash can take bottle off of back of toilet put in trash can  7340
+
+place two soap dispensers in the garbage can  7341
+place a bottle in the can near the toilet 7342
+put two pumper bottles into a bin 7343
+putting two bottles of soap in the trash can 7344
+place two blue bottles in gray bin 7345
+put two bottles of lotion in the garbage can 7346
+put wet soap in the trash can  7353
+put a wet bar of soap in the cleaning bucket  7354
+put a wet bar of soap in the bin 7355
+put a cleaned bar of soap in a garbage can 7356
+to wash the sink 7357
+throw the wet pink paper towel at the trash bin 7358
+trash  a wet soap in the bin 7359
+put a clean bar of soap in a silver bin 7360
+move a clean bar of soap to the trash bin 7361
+put two slices of potato into the garbage can 7581
+put two slices of potato in the trash can 7582
+put two potato slices in a bin 7583
+put potatoes in the basket slice one of them 7584
+slice one of two potatoes that you put in the garbage 7585
+cut two eggs inside of a green bin 7586
+slice up two potatoes in a green waste basket 7587
+put potatoes in a bin and slice the potato with a knife 7588
+put two eggs in a bin and cut them with a knife 7589
+throwing away a bad tomato 7734
+cook a tomato in the microwave before placing it in the garbage 7735
+put a heated tomato in the trash 7736
+put a microwaved tomato in the garbage can 7737
+cook a tomato in the microwave to be placed into the trash bin  7738
+put a heated tomato in a silver bin 7739
+put a heated tomato in the trash can  7740
+put a heated tomato in the bin 7741
+put a microwaved tomato in the trash 7742
+put a tomato in the trash can  7743
+have a cooked tomato in the trash 7744
+throw away the tomato 7745
+put a heated tomato in the trash 7746
+place a cooked tomato in the garbage 7747
+carry a heated tomato to the trash 7748
+place a heated tomato in a trash bin 7749
+put a heated tomato in the bin 7750
+put the cooked tomato into the trash can 7751
+to heat a bread slice and place it in the trash can 7815
+place a cold bread slice inside the trash can 7816
+throw out a chilled slice of bread 7817
+cool a slice of bread and place it in the trash can 7818
+throw a cooled slice of bread into the trash bin  7819
+put a knife and cold bread in a garbage can 7820
+put a chilled slice of bread in the waste basket 7821
+slice a loaf of bread chill a slice place it in the green bin 7822
+drop a cold slice of bread in the bin 7823
+put a microwaved slice of bread in the oven 7884
+throw away a microwaved slice of bread 7885
+throw a warm bread slice in the waste basket  7886
+place a slice of warm bread into the trashcan 7887
+the robot slices the bread takes a piece to the microwave  heat it put it in the trash 7888
+throw a slice of cooked bread away into a red wastebasket 7889
+making toast to be thrown away 7890
+cut a slice of bread microwave it put it in the trash can 7891
+pick up knife slice  cook bread throw bread away in trash bin 7892
+put the towel in the green bin  8005
+put a towel in the garbage 8006
+take the white towel and put it in the green bin 8007
+take the hand towel and throw it away 8008
+put a towel in a trash can 8009
+move the towel to the green bin 8010
+put a towel in the garbage 8011
+put the hand towel in the trash can 8012
+put a towel in the green bin  8013
+place the rinsed off soap into the trash can 8156
+place a rinsed bar of soap into the rubbish bin 8157
+place a washed bar of soap in a trash can 8158
+place a washed soap bar in the trash 8159
+put a soap in the trash can  8160
+take the pink sponge near the mirror wash it in the sink put the sponge in the trash bin 8161
+the ro 8162
+put clean soap in the trash bin 8163
+rinse the bar soap from the tub to place it in a bin 8164
+to move two cds to the garbage bin  8165
+put two cds into the garbage can 8166
+put two cds in a garbage can  8167
+to move two cds to the garbage bin  8168
+place the two cds in the trash can 8169
+move two cds to a bin 8170
+put two cds in a trash bin 8171
+put two cds into a garbage can 8172
+to move two cds to the garbage bin  8173
+throw two red pens into the trash 8217
+put two pencils in a trash can 8218
+throw away two pens 8219
+place two pens in the garbage can in front of the desk  8220
+put two pens in the garbage can  8221
+throw two pencils into the trash 8222
+put two pens in the garbage 8223
+put two pencils in a trash can 8224
+put two pens from opposite sides of the desk into the garbage can  8225
+put egg in microwave and then throw it away 8442
+place a warm egg into a trash bin  8443
+heat an egg and throw it away 8444
+put a cooked egg in the trash 8445
+put a microwaved egg in the garbage 8446
+move a microwaved egg to the trashcan  8447
+put a warm egg in the garbage can  8448
+to heat an egg and place it inside the black bin  8449
+put a cooked egg in the garbage can 8450
+throw away a chilled potato 8485
+put chilled potato in trash bin 8486
+take the potato from the table to the refrigerator to the trash bin 8487
+chill a potato and throw it away 8488
+move potato from sink put in refrigerator  remove from refrigerator put in garbage 8489
+place a chilled potato in a garbage bin 8490
+put a cold potato in the garbage 8491
+put the chilled potato in the trash bin 8492
+put a cold potato in the trash 8493
+microwaving an apple slice 8512
+put a warmed up slice of apple inside the trash can 8513
+put a sliced potato that you cook into the trash can  8514
+to heat a piece of apple and place it in the microwave 8515
+put a cooked piece of apple in the trash can 8516
+put a cooked slice of apple in to the trash can 8517
+put a piece of cooked apple in the kitchen garbage 8518
+throw a microwaved apple slice in the trash 8519
+put the cooked apple slice in the trash 8520
+put cooked apple in a garbage can  8521
+cut the fruit cook the fruit with microwave throw it away into the trash bin 8522
+put a heated apple slice in the trash can 8523
+put the cooked apple slice in the trash can 8524
+put a heated apple piece in a garbage can 8525
+throw the cooked apple slice in the trash 8526
+to heat a piece of apple and place it in the trash can 8527
+throw away a microwaved apple slice 8528
+throw away a soap dispenser 8762
+move the bottle from the sink to the trash bin 8763
+put the soap dispenser in the garbage can  8764
+put the pump bottle in the garbage can  8765
+put a bottle in a trash can 8766
+put a pump bottle in a bin 8767
+putting a soap dispenser in the trash can 8768
+put a bottle on a toilet in a trash can 8769
+move a lotion bottle to the trash 8770
+move two spray bottles from the back of the toilet to the gray bin  8879
+put two spray bottles in the garbage can  8880
+place the spray bottle in the can on the right of the toilet 8881
+to move two spray bottles to the bin next to the toilet  8882
+take two sprayers off the toilet and put them in the gray can 8883
+put two spray bottles in the trash can  8884
+move two spray bottles from a bathroom sink to a waste bin 8885
+put two spray bottles in the garbage can  8886
+putting two spray bottles in the trash can 8887
+putting two bottles of soap in the trash can 8900
+move two bottles of lotion into a small green bin 8901
+put two brown toilet cleaners in a green can 8902
+move two bottles of lotion into a green bin 8903
+put two pump bottles in a green bin 8904
+put two bottles of soap in the trash 8905
+put two pumper bottles inside bin near toilet 8906
+throw two bottles in the trash 8907
+put two bottles of soap in the trash 8908
+to cool a potato slice plus place it in the trash can 9180
+cool a slice of potato and put it in the bin 9181
+trash a cold potato slice 9182
+place a cold potato slice in the bin 9183
+place a chilled slice of potato in a bin 9184
+put a chilled piece of sliced potato in a small back bin 9185
+put the heated potato in the trash bin 9295
+put a heated sweet potato into a blue bin 9296
+put a heated potato in a bin 9297
+cook the potato and put it into the recycle bin 9298
+place a heated potato in the garbage 9299
+heat up a potato and place it in the blue bin  9300
+put a heated potato in the blue bin  9301
+put a microwaved potato in the blue container next to the fridge 9302
+place a heated potato in a bin 9303
+retrieve two spray bottles and put them into the trash can 9606
+to move two spray bottles to the trash can 9607
+put two spray bottles in the trash 9608
+place two spray bottles inside of the garbage bin in the corner of the room 9609
+put two spray bottles in bin 9610
+place two green spray bottles in the gray trash bin 9611
+put a heated slice of potato in a green bin 9940
+put a slice of cooked potato in the microwave 9941
+throw away a slice of microwaved potato 9942
+place a heated slice of a potato into a recycling bin  9943
+cook the corner of a slice of bread then throw it out 9944
+put a cooked slice of potato in a bin 9945
+place a microwaved piece of potato into the green recycling bin 9946
+place a microwaved potato slice inside of the garbage bin 9947
+put a hot potato slice in the recycling bin 9948
+throw away a cooked slice of potato in the recycling bin which is across the fridge 9949
+throw away a piece of cooked potato 9950
+put a cooked piece of potato into a green recycle bin 9951
+place a heated potato slice into the recycling bin  9952
+put a warm potato slice in the recycle bin  9953
+move two discs into a small silver bin 10269
+to move two cds to the garbage bin  10270
+put two cds in a trash bin 10271
+place two cds in a trash bin 10272
+move two discs to the trash can 10273
+throw away two disks into garbage can 10274
+heat a slice of tomato and place it in the trash can 10594
+microwave the slice of tomato and throw it away 10595
+throw a warm tomato slice into the trash  10596
+throw out a heated slice of tomato  10597
+to heat a tomato slice and place it in the trash can 10598
+put a heated slice of tomato in the trash can 10599
+put the heated slice tomato in the trash bin 10600
+put a heated slice of tomato in the golden trash can  10601
+place a warmed tomato slice in the trash can 10602
+throw away a knife and a cooked slice of apple 10644
+throw away a piece of cooked apple 10645
+put a knife and cooked apple slice into the trash can 10646
+put a heated piece of apple in the trash can 10647
+to heat a piece of apple and place it in the trash can 10648
+slice an apple put in the microwave throw it in the trash can 10649
+put the heated slice apple in the trash bin 10650
+place the microwaved apple slice in the waste basket 10651
+trash a cooked apple slice in the bin 10652
+place a heated egg in a bin 11182
+put heated egg in trash bin 11183
+heat an egg and put it in the trash 11184
+put a cooked egg in the garbage 11185
+place a cooked egg in a trash bin 11186
+put a heated egg in the green bin  11187
+put heated egg in trash bin 11188
+place a cooked egg in a trash bin 11189
+warm up the egg and throw it away 11190
+put a cold tomato in the trash can at the corner of the room  11200
+place a chilled apple in a garbage bin 11201
+put a chilled apple in the trash can 11202
+put a chilled apple in the trash can 11203
+put a chilled apple in the trash can  11204
+place apple in fridge 11205
+to chill an apple and put it in a white bin  11206
+put a cold apple in the garbage 11207
+put a chilled apple in the trashcan  11208
+chill the potato and put it in the trash 11248
+put a cold potato in the trash can next to the refrigerator 11249
+put a cold potato in the garbage 11250
+put a cold potato in the trash bin 11251
+put a chilled potato in a small black bin 11252
+place a chilled potato in a bin 11253
+put a cold potato in the garbage 11272
+put a chilled potato into a kitchen garbage can 11273
+put a chilled potato in a bin 11274
+to cool a potato as well as place it in the trash can 11275
+put the chilled potato in the trash bin 11276
+place a chilled potato inside of a container 11277
+pick up potato from sink area put in refrigerator to cool put in garbage 11278
+place a chilled potato in the trash 11279
+put a chilled potato in the trashcan  11280
+put the pump bottle in the garbage can 11431
+put a bottle in a trash bin 11432
+put a bottle in a trash can 11433
+place a wet bar of soap in a waste basket 11543
+put the wet soap into the waste basket  11544
+rinse the bar of soap from the trash bin and put it back in the trash bin 11545
+put a rinsed bar of soap in to the trash can 11546
+put wash soap bar in garbage bin 11547
+rinse a bar of soap and throw it away 11548
+put a clean bar of soap in the trash 11549
+put a wet bar of soap in the garbage 11550
+wet and put a bar of soap in a trash can 11551
+put two newspapers in the garbage can  11750
+to gather two newspapers and place them in the trash can 11751
+put two papers in the bin 11752
+place the newspapers in the trash 11753
+put two papers in the bin 11754
+move two newspapers to a black bin  11755
+place two newspapers in a bin 11756
+to move two newspapers to the trash can 11757
+put two papers in a bin 11758
+put a chilled potato into a garbage bin 11846
+throw away a potato that has been chilled 11847
+put a chilled cooked potato into a garbage bin 11848
+place the potato in a fridge and a bin  11849
+throw away a chilled potato 11850
+put a chilled potato in the trash can 11851
+put a cooled potato in the trash 11852
+place chilled potato in red bin 11853
+place a chilled potato in the trash bin 11854
+place a microwaved piece of potato into the green trash can 11972
+cook a potato slice in the microwave throw the potato slice into the trash 11973
+throw away a slice of warmed roll  11974
+throw away a heated slice of potato 11975
+place a microwaved piece of potato into the green trash can 11976
+put a heated potato in the trash 11977
+throw away a cooked slice of potato  11978
+place microwaved slice of green fruit in green bin 11979
+drop a cooked  potato slice in the bin 11980
+put cold bread in recycling bin 11995
+put a cooled slice of bread in the recycling bin  11996
+ put a slice of bread into the re cycle bin 11997
+slice a bread cook a slice throw it in the bin 11998
+put a cold slice of bread in the recycling bin 11999
+slice the bread and cool it in the refrigerator to dispose of it in the trash bin 12000
+place a cardboard roll into a rubbish bin 12028
+throw out an empty toilet paper roll  12029
+move a cardboard toilet paper tube into a trash can 12030
+to throw away an empty toilet paper roll 12031
+pick up the empty paper roll throw it in the trash bin 12032
+place the cardboard roll in the trash bin 12033
+put two bottles in the bin from the end table 12176
+put two spray bottles in the green garbage 12177
+to put two spray bottles inside of a green waste basket  12178
+put two green spray bottles in to the trash can 12179
+move two bottles from the end table to the bin 12180
+throw away two spray bottles 12181
+place two spray bottles in the trash 12182
+put two spray bottles in the trash can by the toilet  12183
+put two bottles from the end table in the bin 12184
+place a cooled potato in a garbage bin 12420
+chill the potato in the fridge and then take it back to the trash 12421
+to put the potato in the fridge back to the trash can 12422
+put a chilled potato in the fridge 12423
+place a cooled potato in a trashcan 12424
+place a chilled potato in the garbage can under the kitchen window  12425
+cool the potato in the refrigerator put the potato in the trash bin 12426
+put a chilled potato in the trash can 12427
+put the cold potato in the trash bin 12428
+put two spray bottles in the trash can 12792
+to move two spray bottles to the black bin  12793
+place two spray bottles inside of the garbage bin in the corner of the room 12794
+move two spray bottles into a small black bin 12795
+place two spray bottles inside of the garbage bin 12796
+put two spray bottles in the trash can 12797
+put two spray bottles into the trash can 12798
+move two spray bottles into a small black bin 12799
+dispose of two spray can bottles from around the bathroom 12800
+place a cleaned bar of soap inside of the garbage bin 12837
+place a rinsed bar of soap in a bin 12838
+put a wet bar of soap in the garbage 12839
+put a clean bar of soap in a small green bin 12840
+put a wet bar of soap in the garbage 12841
+to rinse off a bar of soap and put it in the green bin  12842
+put washed soap bar into garbage can 12843
+put a wet bar of soap in the garbage 12844
+to rinse off a bar of soap and put it in the green bin  12845
+put a heated potato in the trash can  13029
+throw out a heated potato in the trash can 13030
+put a heated potato in the trash 13031
+place a cooked potato in the rubbish bin 13032
+heat a potato in the microwave and place it in the trash 13033
+place a heated potato in a trash bin 13034
+put a sliced lettuce inside the trash can 13053
+place a chilled slice of lettuce in the trash can 13054
+place a knife and a chilled slice of lettuce in a bin 13055
+put a chilled piece of sliced lettuce in a green bin 13056
+throw out a chilled slice of lettuce  13057
+trash a cool lettuce slice  13058
+put a heated slice of bread in the trash can 13086
+microwave a slice of bread and put it in the trash bin 13087
+place cooked bread into a trashcan 13088
+put cooked bread in the garbage can 13089
+put a knife and cooked slice of bread into the trash can 13090
+put a microwaved slice of bread in the garbage 13091
+throw out a microwaved slice of bread  13092
+throw away a heated slice of bread  13093
+place a heated slice of bread in a bin 13094
+move a soap bottle into a green bin 13192
+place a soap bottle into a trash bin 13193
+place a soap bottle in a garbage bin 13194
+put the pump bottle in the trash  13195
+put a soap bottle in the trash can  13196
+put a dispenser in the bin 13197
+place a soap pump into a garbage bin 13198
+throw away a bottle in a green waste basket 13199
+place a soap bottle in a trash bin 13200
+move a newspaper to the trash bin 13201
+throw away a newspaper in a waste basket 13202
+put a paper in a trash can 13203
+throw away a newspaper in the trash bin 13204
+place a newspaper in a garbage can 13205
+throw away a newspaper in a waste basket 13206
+place a newspaper in the garbage bin 13207
+trash the news paper 13208
+move a newspaper from a shelf to a garbage can 13209
+put two bars of soap in the toilet 13298
+place two bars of soap in a box 13299
+place both soaps inside of the trash can next to the toilet 13300
+place two bars of soap into a gray container 13301
+place two bars of soap in the garbage bin to the right of the toilet 13302
+put two bars of soap in the trash can 13303
+throw two bars of soap into the trash can 13304
+put two bars of soap in the trash 13305
+throw away two bars of soap from the sink area 13306
+put two bars of soap in the bin 13307
+throw the two soaps into the trash 13308
+place a piece of clean lettuce in the trash bin  13412
+rinse a vegetable and then throw it away 13413
+place a clean lettuce head in the bin 13414
+put clean lettuce in the bin 13415
+put clean lettuce in the trash 13416
+put a cleaned lettuce in the trash can 13417
+put a clean head of lettuce in the red trash bin 13418
+put clean lettuce in the sink 13419
+rinse a lettuce and throw it away 13420
+cut an apple and cook a piece of apple 13573
+put the heated sliced apple in the trash bin 13574
+place a warm apple slice in the green bin 13575
+put a hot apple slice in the recycle bin 13576
+put the warm  slice apple in the trash bin 13577
+throw away a heated slice of apple 13578
+to heat an apple piece plus place it in the trash can 13579
+put a cooked piece of apple in a green bin 13580
+throw away a heated slice of apple 13581
+put a chilled slice of lettuce in the trash can  13633
+put the chilled sliced cabbage in the trash bin 13634
+cut a slide of lettuce chill it and place in recycling bin 13635
+slice lettuce to put in fridge 13636
+place a chilled slice of lettuce in the blue bin 13637
+throw away a slice of cold lettuce 13638
+put the chilled sliced cabbage in the trash bin 13639
+put a chilled slice of lettuce in to the recycle can 13640
+place a cold lettuce slice in a blue waste basket 13641
+to heat a bread slice and place it in the trash can 13678
+put a heated slice of bread in the trash can 13679
+place a heated slice of bread in a bin 13680
+put a heated slice of bread in the trash can 13681
+to heat a slice of bread as well as place it in the trash can 13682
+put a heated slice of bread in a bin 13683
+put a cold slice of bread in a trash bin 14141
+putting cold sliced bread in the trash can 14142
+put a chilled slice of bread in the trash can  14143
+cool a bread slice plus place it in the trash can 14144
+slice a bread put a slice into the basket 14145
+put a cold slice of bread in the garbage  14146
+move the towel on the wall to the trash can 14292
+put the towel in the trash can  14293
+throw out a cloth  14294
+throw out the hand towel 14295
+put the hand towel in the trash can 14296
+throw a hand towel into the trash 14297
+throwing away a towel 14298
+put the small towel from the rack in the trashcan beside the shower 14299
+throw out a towel in the trash can  14300
+put a towel in the garbage 14301
+place two green sponges from sink into silver bin 14329
+put two sponges in a garbage can  14330
+put two sponges in a bin 14331
+put two sponges in the trash can 14332
+put two sponges in the garbage 14333
+discard two sponges in a bathroom wastebasket 14334
+put two green sponges in the silver trash can 14335
+put two sponges in the bathroom into the trash bin 14336
+put two sponges in the bin 14337
+put the washed lettuce piece in the recycling bin 14488
+wash a slice of lettuce and place in recycling bin 14489
+place a clean lettuce slice in the green bin 14490
+put the slice cabbage in the trash bin  under the counter 14491
+place a slice of lettuce in the bin 14492
+to wash a lettuce slice and place it in the trash 14493
+place clean lettuce in the green bin 14494
+put a clean slice of lettuce in the recycling bin 14495
+to clean a slice of lettuce and place it in the trash can 14496
+put a warmed apple in the trash can 14518
+put a warm apple in the trash 14519
+put a heated apple in the bin 14520
+place a cooked apple in a trash can 14521
+put a cooked apple into the trash can 14522
+throw away a cooked apple 14523
+cook the apple with microwave put the cooked apple in the trash bin 14524
+put a heated apple in the trash can 14525
+place a cooked apple in the bin 14526
+put a cold apple in the garbage 14527
+place a cooled apple inside of the recycling bin 14528
+put a chilled apple in the blue bin  14529
+put an apple in the garbage 14530
+put a chilled apple in a blue bin 14531
+chill a heated apple and trash it 14532
+put a chilled apple in a blue bin 14533
+throw away a cold apple 14534
+place a chilled apple in a garbage bin 14535
+warm a loaf of bread  14536
+heat a loaf of bread in a microwave 14537
+put cooked bread which was already thrown away back in the trash 14538
+put warm bread in the trash  14539
+place the warm bread in the gray bin 14540
+warm bread up to throw it in the trash 14541
+put warm bread in the trash 14542
+put heated bread in the trash  14543
+cook bread to be thrown in the trash 14544
+to heat a potato slice as well as place it in the trash can 14641
+throw out a microwaved slice of potato 14642
+place a cooked potato slice in a bin 14643
+put a microwaved slice of potato in the garbage 14644
+to hear a potato slice and place it in the trash can 14645
+put a cooked slice of potato in the trash can 14646
+put a cooked slice of potato in the trash can 14647
+to heat slice of potato and place it in the trash can 14648
+put a heated potato slice in a trash bin 14649
+put two tissue boxes from the table in the trash can 14788
+put two boxes of tissues into recycle bin 14789
+put two boxes of tissues in the bin 14790
+place two boxes of tissues from the table into the blue recycling container 14791
+put two boxes of tissues in the recycle bin 14792
+place two boxes of tissue in a container 14793
+put two tissue boxes in the recycling can 14794
+throw two paper boxes in the bin 14795
+move two boxes of tissues into a blue bin 14796
+pick up a bottle place it into the fridge take it back to the trash 15384
+place a chilled bottle of wine into the garbage bin 15385
+move the bottle from and back to the trash can 15386
+place a chilled wine bottle in the trash bin 15387
+put a chilled bottle of wine in the trash can 15388
+put the bottle in the trash can 15389
+chill bottle in refrigerator throw in trash can to front left of paper towels 15390
+put a chilled win bottle in a trash can 15391
+put cooled wine inside the garbage 15392
+put a cooked egg into a trash bin 15393
+take egg from counter microwave place egg in bin 15394
+heat up the egg by the sink in the microwave and put it in the green trash can 15395
+put a heated egg in the recycling bin  15396
+heat an egg and place in a green bin  15397
+put a warm egg in the recycle bin  15398
+put a warm egg in the recycle bin  15399
+put a heated egg in a green bin 15400
+heat an egg and place it in a green bin 15401
+discard incorrectly cooked food  15475
+put a cooked apple in a bin 15476
+throwing away a cooked apple 15477
+put a cooked piece of apple into a bin 15478
+place a microwaved apple slice inside of the garbage bin 15479
+place a warmed apple slice in the recycling bin 15480
+wash the bar soap from the silver bin 15539
+place a rinsed bar of soap in the rubbish bin 15540
+wash the pink towel in the trash bin and put it back  15541
+place the rinsed bar soap in the bin next to the toilet 15542
+put a wet bar of soap in the garbage 15543
+place a rinsed bar of soap in a rubbish bin 15544
+place a cooled lettuce in the red bin 15826
+throw away lettuce from the fridge 15827
+put the cabbage from the fridge going to the trash can 15828
+cool the cabbage in the refrigerator put the cabbage in the trash bin 15829
+put chilled lettuce in the trash can  15830
+put chilled lettuce in the trash can 15831
+throw away a cold lettuce leaf 15832
+throw a chilled head of lettuce away into a red wastebasket 15833
+put cold lettuce in the trash 15834
+heat up a slice of bread in the microwave to put in the trash can 15893
+put a knife in a cabinet and a warm slice of bread in the garbage  15894
+slice some bread and heat it up in the microwave next dispose of it 15895
+pick up knife cut bread cook bread in microwave place bread into the trash can 15896
+slice a bread cook a slice and put it in the bin 15897
+put a hot slice of bread in the trash 15898
+to heat a slice of bread and place it in the trash can 15899
+put a knife and a warm slice of bread in the garbage bin  15900
+throw out a heated slice of bread  15901
+put a cooked slice of tomato in the trash can 15926
+heat a chilled slice of tomato followed by putting it in the trash can 15927
+cook a slice of tomato and put it in the bin 15928
+trash a cooked tomato slice  15929
+put a cooked slice of tomato in the trash can 15930
+put cooked tomato in the garbage can 15931
+put toilet paper in the waste basket 15974
+throw away the toilet paper roll 15975
+place a roll of toilet paper into the green trash bin 15976
+throw away the roll of toilet paper 15977
+put a roll of toilet paper in the trash can 15978
+place the toilet paper from the holder into the green bin 15979
+throwing the cardboard tube in the trash 15980
+discard an empty toilet paper tube in a bathroom wastebasket 15981
+throw away the tube on back of the toilet 15982
+throw away a toilet paper roll 15983
+throw away an empty toilet paper roll 15984
+move a brown tube from the toilet to the trash 15985
+throw out the washed apple piece  16247
+place a cut and washed apple piece in a bin 16248
+putting a sliced apple in the trash can 16249
+to clean a piece of apple and place it in the trash can 16250
+cut wash and throw away an apple piece  16251
+put a slice of apple in the trash can 16252
+cut an apple wash a piece of apple 16253
+cut and wash a piece of apple next put it back in the trash 16254
+place a rinsed slice of apple in a gray bin 16255
+put a cooked slice of potato in a bin 16338
+put the potato in the trash  16339
+throw a cooked potato slice away  16340
+put a cooked slice of potato in a bin 16341
+put a potato slice in microwave put a knife in microwave heat them throw out potato slice 16342
+place a hot potato in a blue trash can 16343
+to cut a potato as well as place the potato slice plus the knife into the microwave 16344
+put a knife in the refrigerator and a cooked slice of potato in the garbage 16345
+place a cooked potato slice inside of the garbage bin 16346
+put a heated piece of sliced potato in a blue bin 16347
+place a cut up piece of microwaved potato into the blue trash can 16348
+throw out a cooked potato slice 16349
+put a browned slice of potato in the garbage 16350
+heat a tomato and throw it away 16360
+place a heated tomato in a container 16361
+throw a cooked tomato into the trash can 16362
+put a heated tomato in a bin 16363
+put a microwaved tomato in the garbage 16364
+place a cooked tomato in the waste basket 16365
+cook a tomato then throw it away in the trash can 16366
+put a heated tomato in a white bin 16367
+put a hot tomato in a garbage can 16368
+place a cooked piece of bread into the recycling bin 16390
+place a hot piece of bread in the recycling bin 16391
+place a heated slice of bread in the recycling bin  16392
+to heat a slice of bread as well as put the bread plus a knife into the trash bin 16393
+place a hot slice of bread in the recycling bin 16394
+cook a slice of bread in the microwave  16395
+warm up a slice of bread and put it in the recycling bin 16396
+throw the knife and bread into the trash bin 16397
+slice bread to warm up 16398
+throw away a warmed slice of bread 16399
+slice bread cook a slice put it in the trash 16400
+place a hot slice of bread in the recycling bin 16401
+slice the bread cook a slice put it in the trash 16402
+heat a piece of bread for the recycle bin  16403
+trash a hot bread slice 16404
+put a hot slice of bread in a bin 16405
+put two spray bottles in the trash 16483
+place two spray bottles in the rubbish bin 16484
+throw out two spray bottles on the dresser  16485
+move two spray bottles into a silver bin 16486
+put two spray bottles in the bathroom garbage  16487
+put the two spray bottles in the trash bin 16488
+putting a spray bottle in the trash can 16873
+put a spray bottle in a bin 16874
+throw away the spray bottle 16875
+place a spray bottle into a trashcan 16876
+place a spray bottle in a bin 16877
+put the yellow bottle in the trash  16878
+throw away the spray bottle 16879
+place a spray bottle in a bin 16880
+move a spray bottle to the trash 16881
+move towel from towel rack to trash can 16882
+put a towel in the trash can next to the toilet 16883
+move a wash cloth into a small silver bin 16884
+put a towel into a garbage can 16885
+throw away a towel 16886
+place a towel in a container 16887
+move a towel from a towel holder to a garbage bin 16888
+throw away a hand towel 16889
+remove a hanging towel and throw it away 16890
+put a cooked apple in the waste basket 17086
+warm up the apple in the microwave 17087
+put a cooked apple in the trash 17088
+place a microwaved green apple into the trash can 17089
+heat an apple in the microwave followed by throwing it away 17090
+put a heated apple in the trash can  17091
+cook the apple in the microwave and throw it away 17092
+place a microwaved apple inside of the kitchen cabinet 17093
+put a warmed apple in the trash bin 17094
+put a clean apple slice in the garbage bin  17095
+throw away a washed slice of apple 17096
+put a piece of washed sliced apple into the trash 17097
+throw away the cold slice of lettuce  17191
+put a piece of chilled lettuce on the floor in front of the kitchen window 17192
+put a chilled slice of lettuce in the garbage can  17193
+cut a slice of lettuce then throw away the lettuce in the garbage can 17194
+drop a cold slice of lettuce in front of the window 17195
+throw away the cooled piece of lettuce 17196
+put cold lettuce in a garbage can  17197
+put a slice of lettuce on the floor by the kitchen window 17198
+slice some lettuce cool it off in the refrigerator and discard it 17199
+move a spray bottle from the top of a toilet to a garbage can 17234
+place the spray bottle in the recycling bin 17235
+put a bottle in the trash can 17236
+put a spray bottle in the recycle bin  17237
+move the cleaner from the toilet to the trash bin 17238
+throw away a spray bottle 17239
+put a microwaved slice of potato on the counter 17474
+put a heated potato slice in a bin 17475
+throw away a heated slice of potato 17476
+cook the potato slice in the microwave and do not put the cooked potato slice on the counter 17477
+put a cooked slice of potato in a trash bin 17478
+place a cooked potato slice in a bin 17479
+throw a heated slice of potato in the trash can 17480
+slice a potato cook a slice in a microwave to throw it away 17481
+put a cooked potato slice and a knife in the bin 17482
+put two bottles in the bin to the right of the toilet 17625
+move two spray bottles from the toilet to the garbage 17626
+trash the spray bottles from the toilet tank 17627
+put two bottles in a trash can 17628
+move two spray bottles to a red bin 17629
+put two bottle in the bin to the right of the toilet 17630
+place two green bottles into red bin 17631
+place two spray bottles into the trash 17632
+put two spray bottles in a red thing 17633
+place a microwaved piece of apple into the trash can 17907
+put a cooked piece of apple into a bin 17908
+throw away a microwaved apple slice 17909
+throw away a slice of cold lettuce  18150
+place a chilled slice of lettuce in the rubbish bin 18151
+put a slice of chilled lettuce in a garbage bin 18152
+slice a potato refrigerate it place it in the green bin 18175
+throw out a chilled slice of potato into the recycling bin  18176
+slice the potato chill it and put in the recycling bin 18177
+put a chilled slice of potato in the recycling can 18178
+put the chilled slice potato in the trash bin 18179
+place a cold potato slice in the green bin 18180
+throw the microwaved potato in the trash can  18369
+throw away a heated potato 18370
+throw away a heated up potato 18371
+heat the potato in the microwave put the potato in the trash bin 18372
+put a heated potato in the trash can  18373
+put a cooked potato in the trash can 18374
+put cooked potato in the trash can 18375
+place a microwaved potato inside of the garbage bin 18376
+cook the potato and throw it out 18377
+put a heated potato in the bin 18378
+throw out a hot potato 18379
+put the chilled wine bottle in the trash bin 18386
+put a chilled bottle in a trash bin 18387
+put a chilled wine bottle in the trash can 18388
+put a chilled bottle inside a red container 18389
+return the wine bottle to the red trash can chilled 18390
+place the wine bottle in the fridge to put it in the trash can 18391
+was to throw the bottle of wine in the trash 18392
+throw a cold wine bottle in the recycle bin 18393
+put a chilled slice of potato in the trash can 18394
+put a refrigerated potato slice into a trash can  18395
+ throw a slice of potato into the trash
+ 18396
+pick up knife cut potato place potato in fridge place potato into trash can 18397
+place a cold potato slice in a waste basket 18398
+slice a potato cool a slice and put it in the bin 18399
+put a cold potato slice in the garbage can 18400
+put a chilled slice of potato in the trash can 18401
+pick up knife cut potato put into fridge remove from fridge place into trash can  18402
+put a cooked slice of tomato in a bin 18410
+throw away a cooked sliced tomato in the trash can  18411
+cut a microwaved slice of tomato to place in the trash 18412
+put a slice of heated tomato in the trash can 18413
+put a heated slice of tomato into the green recycling bin 18414
+cut and cook a tomato and put it into the trash 18415
+putting a slice of tomato in the trash 18416
+put the heated tomato slice in the recycling bin  18417
+place cooked tomato slice into a green bin 18418
+put a heated potato in the trash bin  18419
+throw away the fruit you microwave from the refrigerator 18420
+place microwaved coconut in green can 18421
+put a cooked egg in the trash 18422
+put a heated potato in the trash can  18423
+place the warmed up plum inside the green bin 18424
+place the warmed plum inside the green bin 18425
+throw a cooked egg in the trash can 18426
+put a heated potato in the green trash can  18427
+throw out two apples 18512
+throw away green apples from the sink 18513
+place two green apples into the trash can 18514
+put 2 apples in a bin 18515
+move two green apples to a grey trash can 18516
+place two apples inside of the garbage bin 18517
+wash and egg before throwing it away 18518
+put a cleaned egg in the recycling bin  18519
+put a clean egg in the garbage 18520
+put a washed egg in the trash 18521
+placed the clean egg inside the recycling bin 18522
+place a rinsed egg into a recycling bin 18523
+put a clean egg in a green bin 18524
+move an egg to the green trash can 18525
+place a washed egg in the recycling bin 18526
+put the egg into the recycling bin  18527
+throw away the egg 18528
+place the washed egg inside the recycling bin 18529
+throw away a rinsed egg 18530
+wash an egg from the recycling bin 18531
+wash the egg inside the recycling bin 18532
+put a washed egg in a trash can 18533
+place a wet egg in the recycling bin 18534
+wash the egg from trash bin put it back in the trash bin 18535
+put a rinsed slice of tomato in a trash can 18567
+to clean a slice of tomato and place it in the trash can 18568
+throw out a washed slice of tomato  18569
+throw away washed slices of apple  18570
+throw away a washed apple slice 18571
+throw out a clean tomato slice in the garbage  18572
+put a clean slice of tomato in the trash 18573
+throw a clean piece of pepper away 18574
+moving a tomato slice to the trash can 18575
+warm an apple and throw it away 18646
+put a warm apple in the trash 18647
+put a heated apple in the white bin  18648
+put a cooked apple in a trash bin 18649
+place the warmed apple inside a bin 18650
+place a heated apple in a bin 18651
+place a cooked apple inside the waste basket 18652
+heat up an apple to put into the trash can 18653
+place a heated apple in a container 18654
+place a heated potato in a bin 18664
+put a warm potato in the trash 18665
+throw out a heated potato in the trash can 18666
+place a heated potato in a garbage bin 18667
+cook a potato and then throw it away in the garbage can 18668
+put cooked potato in the trash can 18669
+place a cooked potato in the rubbish bin 18670
+put a cooked potato in a trash bin 18671
+put a heated potato in a small black bin 18672
+place a soap dispenser inside the garbage 18721
+put a soap dispenser in the trash 18722
+place bottle of hand soap in the trash can 18723
+put a soap dispenser in the garbage 18724
+move soap bottle from dresser to trash can 18725
+put a bottle of lotion in a red bin 18726
+put a soap dispenser in the trash 18727
+pick up soap container and throw it in the trash  18728
+place a bottle in a waste basket 18729
+chill the tomato in the fridge then throw it away 18872
+put the chilled tomato in the trash bin 18873
+place a chilled tomato in a garbage bin 18874
+place a heated egg in the garbage 18878
+trash a cooked egg 18879
+place microwaved egg in white bin 18880
+heat up the egg and throw it away 18881
+put heated egg inside trash bin 18882
+put a heated egg in the trash can  18883
+heat up an egg in the microwave and put in the trash 18884
+place a cooked egg in a garbage bin 18885
+heat an egg and place it in the trash bin 18886
+place the cooled lettuce inside of the garbage bin 18914
+put cold lettuce in the trash 18915
+put chilled lettuce in the trash  18916
+put a cold head of lettuce in the garbage 18917
+move lettuce from sink to refrigerator chill and move lettuce to garbage 18918
+place a chilled head of lettuce in a bin 18919
+put a chilled lettuce in the trash can  18920
+place a green vegetable in the bin 18921
+discard a dirty refrigerated head of lettuce 18922
+move a spray bottle to the trash bin 18997
+throw away a spray bottle 18998
+picking up the white bottle from the counter and placing it in the metal trash can  18999
+move a spray bottle to the trash bin 19000
+take the spray bottle from the sink put it in the trash 19001
+pick up the spray bottle and put it in the silver trash can 19002
+put the spray bottle in the garbage can 19003
+put the white spray bottle in the trash can 19004
+move a spray bottle to the trash can 19005
+put a cold slice of lettuce in the trash 19187
+place a chilled piece of lettuce into the trash can by the window 19188
+place chilled melon slice in trash can 19189
+place a cold lettuce slice in the bin 19190
+cut a head of lettuce chill a slice of lettuce in the refrigerator throw the lettuce in the trash can 19191
+slice a lettuce put it in the refrigerator into the trash can 19192
+putting two spray bottles in the trash can 19298
+put two bottles in the trash can 19299
+move two spray bottles to a bathroom waste bin 19300
+put two spray bottles in the trash can 19301
+move two yellow spray bottles into a small green bin 19302
+move spray bottles from back of toilet to garbage can 19303
+place a chilled tomato in a blue bin 19410
+put chilled tomato in trash bin 19411
+put the tomato in the fridge and then in the recycle 19412
+throw away a chilled apple slice 19455
+throw away a slice of apple from the table thats been chilled 19456
+put a chilled slice of apple in the trash can 19457
+trash a cold slice of apple 19458
+put a chilled slice of apple in the trash can 19459
+throw away a chilled apple slice 19460
+put a chilled piece of sliced apple in a silver bin 19461
+put cold piece of apple inside the garbage can 19462
+chill an apple slice in the fridge to throw it away in the trash can 19463
+put two glass bottles in  a small trash can 19632
+place two win bottles in a bin 19633
+throw away two wine bottles in the trash can  19634
+place two bottles inside of the can 19635
+recycle two wine bottles 19636
+put the two bottles inside the bin next to the fridge 19637
+place the bottle into the trash can 19725
+move soap bottle from back of toilet to trash can 19726
+throw away a bottle of lotion 19727
+put a bottle of lotion in a small red bin 19728
+put liquid soap in the garbage 19729
+throw away the soap dispenser 19730
+put a bottle in a trash can 19731
+to move a bottle from the cabinet to the red bin  19732
+put the lotion bottle in the trash can 19733
+put a cleaned bar of soap in a garbage bin 19761
+put a washed pink soap into a green garbage can 19762
+place a wet soap in the trash can 19763
+put wet soap in the trash can 19764
+put the cleaned soap bar in the green trash bin 19765
+place a washed bar of soap in a bin 19766
+put chilled lettuce in the trash can 19831
+put a chilled head of lettuce in the bin 19832
+place cooled off lettuce into a bin  19833
+throw away a head of lettuce from the fridge 19834
+cool the cabbage from the island in the refrigerator put the cabbage in the trash can 19835
+put lettuce in a bin 19836
+refrigerate a head of lettuce place it in the green bin 19837
+move a vegetable to the fridge and then the trash 19838
+put chilled lettuce in the trash can 19839
+place the two lotion bottles from the sink counter into the black bin next to the wall 19952
+put the pump bottles in the trash bin 19953
+putting two bottles of soap in the trash can 19954
+to move two bottles on the sink to the trash can 19955
+put two pumper bottles into bin 19956
+move two bottles of lotion into a small black bin 19957
+place the two handwash containers inside the black bin  19958
+place the two soap bottles on the vanity in the trash bin 19959
+move two bottles of lotion from the counter to a small black bin 19960
+place a clean bar of soap into a small green trash can 20301
+use a bar of soap 20302
+to use the soap and throw it away 20303
+place a cleaned soap bar into a rubbish bin 20304
+pick up soap use it throw into trash 20305
+put the right soap in the trash can  20306
+throw away a rinsed bar of soap into a green wastebasket 20307
+put clean soap in a waste basket 20308
+clean the bar soap inside the green bin 20309
+to put a heated slice of tomato in the trash can 20358
+to put a heated slice of tomato in a bin 20359
+put a microwaved slice of tomato in the trash can  20360
+slice a tomato cook a slice 20361
+put the warm slice tomato in the trash bin 20362
+put a cooked slice of tomato in a trash bin 20363
+place a warmed potato inside a grey bin 20441
+put a microwaved potato in the trash can 20442
+place a cooked potato in the garbage 20443
+put a cooked egg in the garbage 20450
+throw out the heated egg in the trash can  20451
+to heat up the egg inside the blue bin 20452
+put a heated egg in the trash can  20453
+warm up an egg to throw it away 20454
+place a microwaved egg inside the garbage bin 20455
+throw away a microwaved egg 20456
+put a heated egg in the trash can  20457
+heat up the egg inside the bin 20458
+put a heated apple in the trash can  20597
+to heat up an apple and put it inside of the black bin  20598
+put a heated apple in the bin 20599
+take a apple and heat it put it back when finished 20600
+put a heated apple in a black bin 20601
+heat up an apple from the trash can in the microwave to put it back 20602
+put the lettuce in the fridge for 7 seconds throw the lettuce in the trash 20703
+place cooled lettuce inside of the garbage bin 20704
+put a chilled head of lettuce in the garbage 20705
+chill a head of lettuce and throw it away 20706
+place a head of lettuce in a garage bin 20707
+throw away the head of lettuce 20708
+to chill a head of lettuce and place in the waste basket  20709
+put the chilled lettuce in the garbage can 20710
+put the head of lettuce into the fridge take it out and throw it in the trashcan  20711
+to heat a potato slice and place it in the trash can 20748
+throw the cooked potato into the trash 20749
+throw away a piece of cooked potato 20750
+cut a potato up heat a slice and throw it away 20751
+throw away a heated slice of potato  20752
+heat up a sliced potato and place into the trash can 20753
+pick up knife cut potato put in fridge remove from fridge place in trash can  20754
+put a knife in the refrigerator and a cold potato slice in the garbage  20755
+chill a potato slice in the fridge to throw away in the trash can 20756
+put a knife in the fridge and a cold potato slice in the trashcan 20757
+to cool a potato slice and place it in the trash can 20758
+slice a potato cool a slice an throw it into the bin 20759
+put a heated egg in the trash can  20825
+put cooked egg in the trash can 20826
+place a heated egg in a bin 20827
+place a cooked egg in a trash bin 20828
+throw away a heated egg 20829
+place a heated egg in a bin 20830
+put a microwaved egg in the garbage 20831
+place a heated egg in a bin 20832
+place a heated egg in a garbage bin 20833
+put a knife and two slices of bread into a trash can 20849
+to put two slices of bread from two different loaves into the trash can 20850
+put several items in the trash can 20851
+to put an apple slice in the trash can 20998
+put a knife in the microwave remove the apple then throw the apple away 20999
+place a cold apple slice in the green can 21000

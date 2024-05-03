@@ -1,0 +1,1425 @@
+put a pot in a sink 61
+move a pot to the sink 62
+move a pot from a counter top to a sink 63
+put a pot with a knife in it in a sink 64
+carry a pot with a knife to the sink 65
+put pot with knife in the sink 66
+put the pan and spatula in the sink 98
+grab the pan and spatula from the table put them in the sink 99
+put a pan with a spatula in the sink 100
+put a metal pan with a spatula in it into the sink 101
+put the spatula and pan in the sink to be washed 102
+put a fry pan containing a spatula into the kitchen sink 103
+put a pan with a spatula in the sink 104
+put a skillet with a spatula in it in a sink 105
+put the spatula and pan in the sink 106
+place a plate with a spoon on it inside of the sink 286
+place a plate with a ladle into the sink 287
+put the plate from the fridge with the ladle on it in the sink 288
+place the plate with the spoon in the sink 289
+put a grey plate with a large metal spoon on it into the sink basin 290
+place a plate with a spoon on it inside the kitchen sink 291
+put the bowl with spoon in the sink  292
+place the bowl with the spoon in it into the sink 293
+put plate with spoon in the sink 294
+ put the fork into a cup of hot water and put it into the sink 295
+put the mug with fork in the sink 296
+move a fork and mug to the sink 297
+put the mug with a fork in it in the sink 298
+place a mug with a fork inside a sink 299
+put a fork into a white mug to put into the sink 300
+to put a fork in a cup plus set it in the sink 301
+place a coffee mug with a fork in the sink 302
+put mug and fork into kitchen sink 303
+put the cooked egg in the kitchen sink 356
+place a cooked egg inside the sink 357
+put cooked egg into sink 358
+place a cooked egg in a sink 359
+put a warm egg in the sink 360
+put a cooked egg in the sink 361
+slice a potato cool a potato slice 469
+put the chilled slice potato in the sink 470
+put a slice of cold potato in the sink 471
+slice potato to put in fridge and sink 472
+put a cold slice of potato in the sink 473
+put the chilled sliced potato in the sink 474
+put the chilled  slice potato in the sink 475
+place a cold potato in the sink 476
+put a cold potato slice in the sink  477
+put a warm potato in the sink  478
+put a heated potato in the sink  479
+place a cooked potato in the sink 480
+place a cooked potato in the sink 481
+heat and place a potato in the sink 482
+cook a potato in the microwave and put it in the sink to cool 483
+put a heated potato in the sink  484
+cook a potato from the counter and put it in the sink 485
+place a hot potato in the sink 486
+slice two potatoes and place the slices in the sink 565
+cut a potato and put a slice in the sink 566
+put two slice of potato in the sink 567
+put two slices of potato in the sink 568
+put two slices of potato in the sink 569
+place two potato slices in the sink one from the refrigerator and one from a counter 570
+put two slices of potato in the sink 571
+slice two potatoes put two slices and the knife in the sink 572
+put two slices of potato in a sink 573
+place a spoon in a sink 726
+put a spoon in front of the sink 727
+put a spoon in the sink 728
+put a spoon in the sink  729
+put the spoon in sink  730
+put a spoon in the sink 731
+put a spoon in the sink  732
+put the spoon in the kitchen sink 733
+put a spoon on the counter in front of the sink 734
+place a mug with a spoon in it in the sink 804
+place a cup with a spoon in it into the sink 805
+place a black cup with the spoon in the sink 806
+place a mug with a spoon in a sink 807
+put a cup with a spoon in it in a sink 808
+place a cup with a spoon in the sink 809
+put a cup with a spoon in it in the sink 810
+put a glass with a spoon inside of it into the sink 811
+to put a fork on a plate and put the plate in the sink  896
+put a plate with fork on it in the left sink  897
+put a pan with a fork in a sink 898
+place a plate with a fork on it inside the left side kitchen sink 899
+place the fork and plate inside the kitchen sink  900
+put a plate with a fork on it in the sink 901
+place a plate with a fork on it in a sink 902
+put a plate with a fork on it in the left sink basin 903
+clean up a fork and a pan and put them into the sink 904
+move ladle to bowl place in sink 905
+place a bowl with a spoon inside it in the kitchen sink 906
+put a bowl with a spoon in the sink  907
+put a glass bowl with a golden spoon into the kitchen sink 908
+put a bowl with a spoon in it in the sink  909
+moving a serving spoon in a bowl to the kitchen sink 910
+put a bowl with a spoon in it in the sink  911
+put a spoon in a bowl into the sink 912
+place a bowl with a spoon in it inside the sink 913
+put a cooled bowl in the sink 1321
+put a chilled bowl in the sink 1322
+chill a bowl in the fridge  1323
+put a chilled bowl in the sink 1324
+place a cooled bowl in the left sink 1325
+put a chilled bowl in the leftmost sink basin 1326
+take a bowl to the fridge 1327
+put the bowl with spoon on the sink 1328
+place a cooled bowl with a fork in the sink 1329
+put a chilled pan in the sink 1330
+cool the bowl with fork in the refrigerator put them in the sink 1331
+chill the bowl with the fork and set it in the sink 1332
+place chilled lettuce in sink 1391
+put a cold head of lettuce in the sink 1392
+put a chilled lettuce head in kitchen sink 1393
+place cooled lettuce inside of the kitchen sink 1394
+pick up a head of lettuce refrigerate it place it in the sink 1395
+place a cold head of lettuce in the sink 1396
+place a chilled head of lettuce in a sink 1397
+chill a head of lettuce and place it in the sink 1398
+place cold lettuce into a sink  1399
+place a cooled potato in a sink 1400
+put a chilled potato in the sink  1401
+putting an egg in the sink 1402
+place a cooled egg inside of the sink 1403
+place a cooled egg inside of the kitchen sink 1404
+put a chilled egg in the sink 1405
+put a potato in the sink  1406
+put a cold brown ball in the kitchen sink 1407
+place a brown ball inside the kitchen sink 1408
+put a chilled egg in the sink 1409
+slice a tomato cook a slice in the microwave 1581
+put a slice of cooked tomato in a sink 1582
+putting a hot sliced tomato in the sink 1583
+place a heated slice of tomato in the kitchen sink 1584
+place a heated tomato slice in the sink 1585
+place a warm tomato slice in the sink 1586
+slice a tomato cook it and bring it to the sink 1587
+place a heated slice of tomato in the sink 1588
+place a heated slice of tomato in the kitchen sink 1589
+place a fork and cup under the sink faucet 1654
+move a cup and fork to the sink 1655
+move a pan from the counter to the sink 1656
+move a cup and fork over to the sink basin 1657
+place a fork from the counter into a cup from a cabinet into the sink 1658
+put a cup with a knife in the sink 1659
+put a cup with a fork in it in the sink 1660
+put the cup with fork in the kitchen sink 1661
+put a fork in a cup and place them both in the sink 1662
+move a white rag from under the sink on the left to the sink basin 1771
+put a rag in the sink  1772
+put a white towel into the sink furthest to the left 1773
+put a cloth in the sink 1774
+put a rag in the sink 1775
+move a towel to the sink 1776
+stand a spoon up in a pan and place in the sink 1819
+move a ladle and pan to the sink 1820
+to put a spoon in a pan and put the pan in the sink  1821
+put a spoon and pan in the sink 1822
+putting a pan and spoon in the kitchen sink 1823
+put a metal pan with a large spoon in it in the sink basin 1824
+place a cup with a knife in it on the ledge of the sink 1856
+pick up knife and cup from table move to sink 1857
+move a knife in a cup to the gray counter 1858
+put a knife in the cup and put both in the sink 1859
+pick up knife and cup move them both to the sink 1860
+put a glass with a butter knife in it in the sink 1861
+put a plate with knife in the left sink  1871
+place a plate with a knife on it in the sink 1872
+put a pan with a butter knife in it in the sink 1873
+put knife on plate and move to sink 1874
+put a plate with a knife on it in the sink 1875
+place a plate with a knife on it in a sink 1876
+put a ladle pan and knife into a kitchen sink basin 1877
+put a pan containing a knife and ladle in the sink 1878
+place the plate along with the knife and scoop in the right sink 1879
+put a cup with a knife in it in the sink 2271
+put a green cup with a knife in it in the left sink basin 2272
+move a knife and glass to the sink 2273
+place a cup with a knife in it in a sink 2274
+place a knife in a cup in the sink 2275
+put the green cup with the knife in it in the sink 2276
+move the green bowl with the knife inside of it to the left sink 2277
+get the butter knife in an ice cream bowl and put in small sink 2278
+put a green cup with knife in the left sink  2279
+put a cold pan in the sink 2331
+put a chilled pan in the sink 2332
+put the pan into the sink 2333
+put a chilled metal pan in the sink 2334
+put a cold fry pan in the sink  2335
+place a cold pan in the sink 2336
+chill the pan in the fridge and put it in the sink 2337
+put a cold pan in the sink 2338
+chill a pan and put it in the sink 2339
+put a heated wine glass in the sink 2502
+put heated goblet into sink 2503
+put a warm wine glass in the sink 2504
+put a heated wine glass in the sink 2505
+place a warmed wine glass in the sink 2506
+put a warmed glass in the sink 2507
+place a heated cup in the kitchen sink  2508
+place a heated chalice into a sink 2509
+put a heated cup in the sink  2510
+place a slice of heated tomato in a sink 2568
+put a heated slice of tomato in the sink  2569
+cook a slice of tomato 2570
+put a heated tomato slice in the sink  2571
+to heat a tomato slice and place it in the sink 2572
+put a cooked tomato slice in the sink 2573
+cut the stalk off of the tomato on the right 2691
+cut a tomato with a knife 2692
+slice with a knife a tomato in the sink 2693
+get a knife to cut a tomato 2694
+remove the stem from a tomato using a knife 2695
+pick up a knife turn a tomato over  2696
+cut a tomato in half 2697
+cut a tomato that is in a sink into two pieces 2698
+slice a tomato in a sink basin with a knife 2699
+put a mug with a fork inside into the sink 2775
+place a mug with a fork in it in the sink 2776
+place a mug and fork in the sink 2777
+put the black cup with a fork inside it to the sink next to the orange cup  2778
+put the mug with a fork in it in the sink  2779
+place a mug with a fork in it in the sink 2780
+place the mug with the fork in the sink 2781
+place a cup with a fork in it in the sink on the right 2782
+put a mug with a fork in it in the sink  2783
+put a bowl with a spoon in it in the sink  2847
+take a spoon and place in a blue bowl then place the bowl in the sink 2848
+put a bowl into the sink  2849
+place a bowl with a spoon in it in the kitchen sink on the right 2850
+put a bowl with a spoon in the sink 2851
+move spoon into bowl move bowl and spoon into sink 2852
+move the pot with a spoon in it to the sink 2853
+place a bowl with a spoon inside the sink 2854
+place a bowl with a spoon in a sink 2855
+put a cup with a spoon in it in the sink 2928
+put the mug with spoon into the kitchen sink 2929
+place a bowl with a spoon in it in the sink 2930
+find a bowl and spoon and place them in the sink 2931
+cleaning up dirty dishes  2932
+put the mug with spoon into the kitchen sink 2933
+place a cup with a spoon in it in the sink 2934
+place a chilled bowl with a spoon in it inside the sink 2935
+put the bowl with the spoon in it into the sink 2936
+put a chilled cup containing a spoon in the sink  2937
+take dishes to the sink 2938
+place a cup with a spoon in it in the sink 2939
+put a cup with a spoon in it in the sink 2940
+place a bowl with a spoon in it inside the sink 2941
+place a bowl with a spoon inside under the faucet in the sink 2942
+putting dirty dishes in the sink 2943
+put a cup with a spoon in it in the sink 2944
+to put a slice of lettuce in a pot as well as place them in the sink 3097
+slice the lettuce bring a slice of lettuce in pot on the stove bring pot to sink 3098
+place the pot with the lettuce in the sink 3099
+preparing lettuce and putting it in the sink 3100
+slice a lettuce put a slice on a pot put the pot inside the sink 3101
+put a pot with lettuce inside it into the sink 3102
+put a lettuce slice in a pot in the sink 3103
+preparing lettuce and putting it in the sink 3104
+slice the lettuce put it inside the pot onto the sink 3105
+put a cooked potato slice in the sink 3518
+put a cooked slice of potato in the sink 3519
+warm a slice of potato  in the microwave 3520
+cook a potato slice in microwave and put it in a sink 3521
+put a heated slice of potato inside the sink 3522
+cook a slice of potato 3523
+put a hot potato slice in the sink 3524
+put a cooked slice of potato in the sink 3525
+put a cooked slice of potato in the sink 3526
+place a spoon into a sink 3560
+put the spoon in the sink 3561
+put a spoon in the sink  3562
+take the spoon next to the bowl put it in the sink 3563
+ to put a spoon in the sink  3564
+place the spoon in the sink 3565
+put a spoon in the sink 3566
+put a spoon in the sink 3567
+move a spoon from the counter top to the sink basin 3568
+move a metal spoon to the sink basin 3569
+to put the spoon in the sink  3570
+move the spoon and the cup to the sink 3751
+put a cup with a spoon in it into the sink 3752
+place a cup with a spoon in it in the kitchen sink 3753
+place spoon in cup to place in sink 3754
+put the glass with spoon in the sink 3755
+put a cup with a spoon in it in the sink  3756
+place a cup with a spoon in a sink 3757
+put a spoon and goblet into the sink basin 3758
+put a spoon and cup into the sink 3759
+put the glass in the sink  4188
+place a cooled cup inside of the kitchen sink 4189
+get glass put into fridge  place into sink afterwards  4190
+put a chilled glass on the edge of the sink  4191
+place a cooled cup in the sink 4192
+place the cooled glass cup in the sink 4193
+put a heated cup in the sink 4236
+put a warmed glass in the sink 4237
+put the warmed up vase in the sink 4238
+put a heated glass in the sink  4239
+to take the glass from the microwave to put it in the sink 4240
+place a warmed glass in the sink 4241
+put a plate containing a knife in the sink  4681
+put the plate with the knife on it in the sink  4682
+put plate and knife into sink 4683
+place the knife and plate in the sink 4684
+place the white plate with the knife on it in the sink 4685
+move a knife and plate to the sink 4686
+put a plate with a knife on it in the sink 4687
+place a plate with a knife in a sink 4688
+move a plate and knife to the sink  4689
+take the cup and fork to the sink to be washed 4741
+move a bowl beneath the fork in the sink  4742
+put a cup with fork in the sink 4743
+place a bowl with a fork in it in a sink 4744
+place an orange bowl with a fork in it into the sink basin 4745
+place a fork in a cup to take it back to the sink 4746
+place a cooked tomato in the sink 5082
+put a heated tomato in the sink 5083
+put a warm tomato in the sink 5084
+put a microwaved tomato in the sink 5085
+heat a tomato and place it in the sink 5086
+put a cooked tomato into a sink basin 5087
+put a microwaved tomato in the sink  5088
+put the cooked tomato in the sink 5089
+put a heated tomato in the sink 5090
+heat up a piece of slice tomato 5131
+put a cooked tomato slice in the sink 5132
+place a microwaved pepper slice inside of the sink 5133
+place a cooked tomato slice into the sink 5134
+place a microwaved red pepper slice inside the sink 5135
+preparing a tomato to eat 5136
+place a heated tomato slice in the sink 5137
+put a cooked slice of tomato in the sink 5138
+transfer a tomato slice cooked in the microwave to the sink 5139
+put a heated potato in the sink 5155
+warm a potato in the microwave then put it in the sink 5156
+put a hot potato in a sink basin 5157
+put a warm potato in the sink 5158
+place microwaved potato in sink 5159
+place a heated potato in a sink 5160
+heat a potato and place it in the sink 5161
+put a microwaved potato into the sink 5162
+heat a potato and put it in a sink 5163
+put a spoon in a pan and take them to the sink 5414
+place a pan with a spoon in a sink 5415
+to put a knife in a pan as well as move them to the sink 5416
+put a spoon in a pan into the sink 5417
+put plate and spoon in sink 5418
+put a pan with spoon in the sink  5419
+take the pan off of the stove and put it in the sink 5420
+put a spoon in a pan and put the pan inside of the sink  5421
+to put a spoon in a pan plus move them to the sink 5422
+put a mug with a knife in it in the sink  5601
+gather a knife and cup to place in the sink 5602
+to put a knife and cup in the sink  5603
+put the butter knife in the black bowl put the bowl in the sink 5604
+place a knife inside a cup then take the cup to the sink 5605
+put a bowl with a knife in the sink 5606
+place a cup with a knife in it in a sink 5607
+to move the dishes to the sink 5608
+place a glass with a knife in a sink 5609
+put forks into the sink and clean them up 5688
+put two forks into a kitchen sink 5689
+put two forks in the sink 5690
+move two forks to a sink 5691
+move two forks to the sink 5692
+put two forks in a sink 5693
+put two forks in the sink 5694
+to move two forks to the sink  5695
+clean up forks and put them into the sink 5696
+put a sponge inside a pan in the sink 5753
+to put a sponge in a pot as well as place them in the sink 5754
+drop a pan with a spoon in it on the sink 5755
+put the green sponge in the pan put the pan in the sink 5756
+put a pot with a sponge in it in a sink 5757
+put a square dish and sponge into a sink basin 5758
+put a pan containing a sponge in the sink 5759
+place a pot with a green object inside in the sink 5760
+place the pan along with the green sponge from the bin into the sink 5761
+place a chilled tomato in a sink 5958
+to cool a tomato  5959
+chill a tomato in the fridge then put it on the counter 5960
+put a chilled tomato in the sink  5961
+cool the tomato in the refrigerator put the tomato in the sink 5962
+to move the tomato from the fridge into the sink 5963
+put a cooled tomato in a sink 5964
+cool the tomato in the refrigerator put the tomato in the sink 5965
+chill tomato in fridge then put in sink 5966
+put a chilled black bowl in the sink 5976
+put a cold bowl in the sink 5977
+put a chilled bowl into the sink 5978
+put chilled bowl in sink basin 5979
+place a chilled bowl in a sink 5980
+put a cold bowl in the sink 5981
+put a chilled bowl in the sink 5982
+place a cool bowl into the left sink 5983
+put a cold bowl in the sink 5984
+put a chilled apple in the sink 6039
+put a chilled apple in the sink 6040
+to move the apple to the fridge finally back to the sink 6041
+put a cold apple in the sink 6042
+cool the apple in the refrigerator put it back in the sink 6043
+put a chilled  apple in the sink 6044
+put a chilled apple in the sink  6045
+put the apple in fridge 6046
+place a chilled apple in a sink 6047
+put a chilled apple in the sink 6048
+put a chilled apple in the sink  6049
+to take an apple put it in the fridge to move it to the sink 6050
+put a cold apple in the sink 6051
+chill a slice of cabbage in the fridge place in the sink afterwards 6052
+to cool a lettuce slice plus place it in the sink 6053
+putting cold sliced lettuce in the sink 6054
+to cool a lettuce slice plus place it in the sink 6055
+put a chilled slice of lettuce in the sink 6056
+put a chilled slice of lettuce in the sink 6057
+place a slice of chilled lettuce in the sink 6058
+put a chilled cabbage slice in the sink 6059
+put cold lettuce in the sink 6060
+place a yellow knife and a cool slice of lettuce in the sink 6061
+cutting up lettuce chilling it placing it in the sink 6062
+use a knife to slice lettuce  cool lettuce in the fridge followed by a rinse in the sink 6063
+place a chilled slice of lettuce in the sink 6064
+put a cold slice of lettuce in the sink 6065
+slice the lettuce take a slice put it on the fridge then on the sink 6066
+place a chilled slice of lettuce in the sink 6067
+putting sliced cabbage in a sink 6068
+to cut a piece of vegetable as well as place it in the sink 6069
+placing a sliced cabbage in the sink 6070
+place sliced lettuce in to the sink 6087
+put a chilled slice of lettuce in the sink  6088
+place a chilled slice of lettuce in the sink 6089
+slice a potato put it in the fridge and wash a slice 6090
+cut a head of cabbage then chill a slice before putting it in the sink 6091
+put a chilled piece of lettuce in a sink 6092
+put a slice of lettuce inside the sink 6093
+place chilled lettuce in a sink 6094
+place a chilled piece of lettuce in a sink 6095
+place soap in the sink 6378
+to move two bars of soap to the sink  6379
+put two bars of soap in the sink  6380
+place two pink sponges in tub 6381
+place soap in the tub 6382
+place two bars of soap in the bathtub 6383
+place soap in the sink 6384
+place bars of soap in a sink 6385
+putting two bars of soap in the sink 6386
+put the mug with spoon in the kitchen sink 6564
+put the mug with spoon in the sink 6565
+put a mug with a spoon in it in the sink 6566
+put a mug with spoon in the sink  6567
+place a mug with a spoon in a sink 6568
+put a spoon in a cup in the sink 6569
+put the mug with spoon in the sink 6570
+move a coffee cup with a spoon to the sink 6571
+move a mug and spoon to the sink  6572
+put the chilled potato in the sink 6760
+put a cool potato in the sink 6761
+put cooked chilled potato in the sink 6762
+put a chilled potato in the left sink  6763
+put chilled potato inside kitchen sink 6764
+put a cold potato in the left sink basin 6765
+put a slice of apple and knife in a pot in the sink 6913
+put a pot with an apple and a knife in the sink 6914
+put the pot of knife and slice of apple in the sink 6915
+to put a piece of apple in a pot plus move them to the sink 6916
+slice apple put in pot and put in sink 6917
+drop a pot with a  slice of apple in it in the sink 6918
+put a chilled slice of potato in a sink leaving the slicing knife in the fridge 6987
+put a refridgerated potato slice in the sink 6988
+put a cold potato slice in the sink 6989
+put a chilled slice of potato in a sink 6990
+place a cold potato slice in the sink 6991
+put a cold slice of potato in a sink 6992
+put a cold slice of potato in a sink 6993
+put a chilled slice of potato in the sink 6994
+cut a potato chill a potato slice in the fridge put the potato slice in the sink 6995
+put a cold slice of potato in the sink  6996
+put two soap together in the sink 7171
+put two soap bars in sink 7172
+put two soap bars in the sink 7173
+put two bars of soap into the leftmost sink basin 7174
+put the two soap together in the sink 7175
+put two bars of soap in the sink 7176
+put two bars of soap in a sink 7177
+place two bars of soap inside the bathroom sink on the left 7178
+place two bars of soap in a sink 7179
+put a spoon in a bowl in the sink  7216
+picking up a spoon to put in the sink 7217
+put a spoon in the sink 7218
+move one metal spoon from the kitchen table to the sink 7219
+put a spoon in the sink 7220
+move the spoon from the white table to the sink 7221
+put a spoon in the sink  7222
+put the spoon in the kitchen sink 7223
+place the spoon inside the sink 7224
+put forks in the sink 7234
+move two forks from the counter top to the sink 7235
+place two forks into the sink 7236
+move two forks to the sink 7237
+put two forks in the sink 7238
+collecting dirty forks 7239
+put the two forks in the sink  7240
+move two forks to the sink 7241
+put two forks in the sink 7242
+put two forks into the sink 7243
+place two forks into a sink 7244
+put a cup containing a spoon in the sink 7296
+move a cup from a table to a sink 7297
+place a cup in the sink 7298
+put a brown cup and spoon in the sink 7299
+put a cup in the sink 7300
+put a cup in the sink 7301
+putting a cold egg in the sink 7608
+put a chilled egg in the sink 7609
+put chilled egg in sink 7610
+put a cold egg in the left sink basin 7611
+put the chilled egg in the sink 7612
+place a chilled egg in a sink 7613
+put an egg in the fridge then the sink 7614
+place a chilled egg in a sink 7615
+put a chilled egg in the left side of the sink 7616
+to chill a pan and put it in the sink  7725
+remove the frying pan from the counter and put it into the sink 7726
+place pan in the sink 7727
+place a chilled pan in a sink 7728
+put a chilled pan in the sink  7729
+put the chilled pan in the sink 7730
+place a cold pan in the sink 7731
+place a chilled pan in a sink 7732
+put a chilled pan in the sink 7733
+place a rag in one of the bathroom sinks 7941
+put a cloth in a sink 7942
+put a red cloth into the sink 7943
+move a rag from a cabinet to the sink 7944
+put the red rag under the sink into the sink basin 7945
+move a red rag into a sink 7946
+place a towel in a sink 7947
+put a wash cloth in the sink 7948
+move the red rag from the inside the cabinet to the sink 7949
+take the yellow knife and plate from under the sink put them in the sink 8138
+place a knife on a pan in the sink 8139
+place the plate with knife in the sink 8140
+put a plate with a knife in the sink 8141
+washing the dirty dishes 8142
+move the pan from under the sink to the sink 8143
+put a knife with a plate in the sink 8144
+put a pan with a knife in it in to a sink 8145
+move a pan with a knife to the sink  8146
+bring lettuce to the fridge to get cold to clean it in the sink 8433
+put chilled cabbage in a sink 8434
+refrigerate the lettuce and then place it in the sink 8435
+put a chilled head of lettuce in the sink 8436
+place a chilled head of lettuce into a sink 8437
+place green melon to chill in refrigerator place chilled melon in sink 8438
+put chilled lettuce in the sink  8439
+put a cold head of lettuce in the sink 8440
+put a chilled head of lettuce in the sink basin 8441
+put a chilled head of lettuce in a sink 8494
+put a chilled head of lettuce in the kitchen sink 8495
+to move a head of lettuce from the kitchen table to the sink 8496
+put a head of chilled lettuce in the sink 8497
+place chilled lettuce in sink 8498
+put a chilled head of lettuce in the sink 8499
+place a chilled head of lettuce inside a sink 8500
+place a chilled head of lettuce in a sink 8501
+put a cold head of lettuce in the sink 8502
+put a cold plate in the sink 8538
+put a chilled plate back into the sink where it came from  8539
+put a warmed plate in the sink 8540
+place a cooled plate in the sink 8541
+put a cold plate in the sink 8542
+get the plate in the fridge going to the sink 8543
+putting the plate from the sink to the fridge putting it back to the sink 8544
+put a plate in the refrigerator place it back in the sink 8545
+put a cold plate in the sink 8546
+put cooked potato slice in the sink 8637
+to heat a slice of potato and place it in the sink 8638
+put a cooked potato slice in to the sink 8639
+to heat a slice of potato and place it in the sink 8640
+put a cooked potato slice in to the sink 8641
+cook a potato slice and place it in the sink 8642
+place a cooked potato in a sink 8643
+to heat a slice of potato and place it in the sink 8644
+put a heated slice of a potato inside the sink 8645
+put a cold slice of lettuce in a sink 8646
+move a cold piece of lettuce to the sink by a knife 8647
+put a piece of cold lettuce in the sink 8648
+put cold lettuce in a sink 8649
+put a chilled slice of lettuce in the sink  8650
+to cool a slice of lettuce and place it in the sink 8651
+pick up the rags from the bathtub and move them to the sink 9060
+move two rags from the bathtub to the sink  9061
+put two red cloths in to the sink 9062
+place two red towels in the sink 9063
+move two clothes to the sink 9064
+place two rags in the sink 9065
+to chill a head of lettuce and put it in the sink  9114
+put a frozen head of lettuce into the kitchen sink 9115
+chill the lettuce before putting it in the sink 9116
+put a cold head of lettuce in the sink  9117
+chill the lettuce in the fridge then put it in the sink 9118
+retrieve cabbage from the table put in fridge retrieve cabbage from fridge put in the sink 9119
+put a heated potato in the kitchen sink 9120
+put a cooked potato in the sink 9121
+place a hot potato in a sink 9122
+heat a potato from a sink 9123
+put a heated potato in the kitchen sink 9124
+put a heated potato in the sink 9125
+put a heated potato in the sink 9126
+put cooked potato in the sink 9127
+place a heated potato in a sink 9128
+place a cold pan in the sink 9238
+put a chilled pot in the sink 9239
+put a chilled pot into a sink 9240
+chill a pot and place it in the sink 9241
+put a cooled pot in a sink 9242
+put a cold pot in the sink 9243
+move the pot into the sink 9244
+put a cooled pot in a sink 9245
+place a chilled pot into a sink 9246
+place a microwaved apple inside of the kitchen sink 9268
+put a warm apple in the sink 9269
+place a heated apple in a sink 9270
+put a warm apple in the sink 9271
+place a microwaved apple inside the sink 9272
+put a hot apple in a sink 9273
+put heated apple in the sink 9274
+place a warm apple in the sink 9275
+put the cooked apple in the sink 9276
+heat a cup and place it in the sink 9277
+pick up mug heat in microwave put into sink 9278
+take a mug heat it and put it back 9279
+put a warm mug in the sink 9280
+put a heated mug in the sink 9281
+warm the mug for cleaning in the sink 9282
+warm a mug in the microwave put it into the sink 9283
+place microwaved mug in sink 9284
+put a hot coffee mug in the sink 9285
+put a cold tomato slice in the sink 10009
+place chilled tomato slice in sink 10010
+chill a slice of tomato place in the sink 10011
+put a chilled tomato slice in the sink 10012
+chill a tomato slice then put it back in the sink 10013
+put a chilled slice of tomato in the right side of the sink 10014
+place a heated tomato slice in the sink 10090
+put a cooked slice of tomato in the sink 10091
+put a cooked tomato slice in the sink 10092
+place a cooked tomato slice in the sink 10093
+put a cooked slice of tomato in a sink 10094
+place the warm slice of tomato in the sink 10095
+place a towel in a sink 10162
+place a towel in the left sink 10163
+move a white towel from its hanger to the lefthand sink 10164
+put a wash cloth in the left sink 10165
+move a towel to the lefthand sink 10166
+place a towel inside a sink 10167
+to move a towel from the wall to the left side of the sink 10168
+put a hand towel in the sink  10169
+put a towel in a sink 10170
+put a towel in the sink 10174
+place a hand towel in a sink 10175
+get the towel ready to use 10176
+put a towel in the sink 10177
+get a towel to put in to the sink 10178
+place a towel in the sink 10179
+put a towel in the sink 10180
+heat the egg with microwave put the egg in the sink 10603
+put a cooked egg in the sink  10604
+put a microwaved egg in the sink 10605
+cook the egg in the microwave put the cooked egg in the sink on the left 10606
+put a heated egg in the sink on the left  10607
+put a cooked egg in the sink 10608
+place a heated egg in the kitchen sink 10609
+put a heated egg in the sink  10610
+place a microwaved egg inside of the sink 10611
+drop a cooked potato slice in the sink 10653
+place a microwaved slice of potato into the sink  10654
+put a cooked slice of potato in the sink 10655
+put a cooked piece of potato in the sink 10656
+pick up knife cut potato place knife in sink cook potato in microwave place potato in sink 10657
+to heat a potato slice and place it in the sink 10658
+slice a potato cook a potato slice 10673
+place a hot potato slice in the sink 10674
+slice a potato cook a slice in the microwave 10675
+put a slice of cooked potato in the sink 10676
+slice a potato heat it up put it in the sink 10677
+put a cooked slice of potato in a sink 10678
+put a heated potato slice in the sink 10679
+slice the potato followed by cook in the microwave 10680
+putting a sliced potato in the sink 10681
+put a slice of microwaved potato in the sink 10682
+slice a potato to heat the slice place potato in sink 10683
+put a cooked slice of potato in a sink 10684
+put a cooked slice of potato in a sink 10685
+put a potato slice in the sink 10686
+put a warm potato slice in the sink  10687
+put a knife in a cup in the sink  11061
+place a cup containing a knife in the sink 11062
+put a butter knife in a wooden cup in the sink 11063
+put a mug with a knife in to the sink 11552
+place a cup with a knife in the sink 11553
+put the mug with knife in the kitchen sink 11554
+put a mug with a knife in to the sink 11555
+move a mug containing a knife from a table to a sink 11556
+place a mug with a knife in it in the sink 11557
+put a mug with a knife in to the sink 11558
+place a mug containing a knife into the sink  11559
+put a knife in a mug in the sink 11560
+put cup and knife into sink 11570
+clean up the butter knife and cup into the sink 11571
+move the cup and knife to the sink  11572
+put cup and knife into sink 11573
+put a cup with a butter knife in it in the sink 11574
+to put the knife  in the cup in  the sink 11575
+to put a knife in a mug and put the mug in the sink  11576
+put a knife and a glass in the sink 11577
+put a cup and knife into a sink 11578
+put a plate and knife stack in to the sink 11579
+place a plate with a knife in a sink 11580
+move a pan and knife to the sink 11581
+to put the dishes in the sink 11582
+place a plate and a knife in a sink 11583
+put a plate with a knife on it in to the sink 11584
+put the plate with knife in the sink 11585
+place a bowl with a knife in the sink 11586
+move a plate and knife to the sink 11587
+to heat a tomato slice and place it in the sink 11861
+put a knife and a warm tomato slice in the sink  11862
+put a cooked slice of tomato in a sink 11863
+slice a tomato and place a warmed up slice near the sink 11864
+put cooked tomato in the sink 11865
+put a cooked slice of tomato in the sink 11866
+put a cooked slice of tomato in the sink 11867
+slice a tomato cook a slice of it 11868
+place a microwaved piece of tomato in the sink 11869
+to put a heated piece of apple in the sink with a knife 11966
+put a hot apple slice in the sink 11967
+put a microwaved slice of apple in the sink  11968
+put a cooked piece of apple in a sink 11969
+place a heated slice of apple in the kitchen sink 11970
+place a cooked apple slice in the sink 11971
+put hot tomato in a sink  12001
+warm up tomato slice and knife to put tomato in sink 12002
+put a microwaved tomato slice into the sink 12003
+place the microwaved tomato slice in the sink 12004
+slice a tomato cook a slice in the microwave put it in the sink 12005
+place a warm tomato slice into a sink basin 12006
+place a cooked slice of tomato in the sink 12007
+put a heated slice of tomato in the sink 12008
+slice a warn tomato to place in the sink 12009
+place a cooked apple slice in the sink 12019
+put a cooked piece of apple in the sink 12020
+place a warm slice of apple in the sink 12021
+slice the apple put knife slice of apple in the microwave set slice of apple in sink 12022
+place a cooked apple slice in the sink 12023
+put a cooked piece of apple in a sink 12024
+place the slice of apple in the sink 12025
+place cooked one third apple into the sink 12026
+put a cooked piece of apple in a sink 12027
+move a white towel from its hanger to the sink basin 12079
+put a towel into a bathroom sink 12080
+move the towel from the towel rack to the sink 12081
+place a towel in a sink 12082
+put a white towel in the sink 12083
+place a towel in the sink 12084
+move towel from place on wall to center of sink 12085
+place a towel in a sink 12086
+put a towel in the sink 12087
+put a mug with a butter knife in it into the sink 12158
+put the mug with knife in the kitchen sink 12159
+place a mug with a knife in it in a sink 12160
+clean up a knife and a mug then put them into the sink 12161
+put the knife from the table inside of the coffee mug and place it inside of the sink 12162
+place a mug with a knife in a sink 12163
+gather together the knife and white mug so they can go in the kitchen sink 12164
+put a mug containing a knife in the sink 12165
+put mug and knife in sink 12166
+move a knife in a martini glass to the sink 12185
+put a glass with knife in the sink  12186
+put the butter knife in the wine glass put the glass in the sink 12187
+find a glass and knife and place them in the sink 12188
+put a knife in a cup then move both to the sink 12189
+put a cup with a knife in the sink 12190
+place a glass with a knife in it in the sink 12191
+put a cup with a knife in it in the sink 12192
+place a glass with a knife in it in the sink 12193
+put two potatoes in the sink 12296
+place two potatoes in the sink 12297
+place two potato tubers in the sink 12298
+place potato in the sink 12299
+put both potatoes in the sink  12300
+put potatoes into the two sinks  12301
+put the eggs from the counter and microwave in the sink 12302
+clean up potatos and put them into the sink 12303
+move two potatoes into the left sink 12304
+place microwaved apple in sink 12378
+put a microwaved apple into a sink 12379
+to heat an apple and place it in the sink 12380
+putting a hot apple in the sink 12381
+put a heated apple in the sink 12382
+put a microwaved apple in the sink 12383
+place a cooked apple into a sink 12384
+put a microwaved apple in the sink 12385
+place microwaved apple in sink 12386
+heat a potato and replace it 12414
+to heat a potato plus return it to the sink 12415
+put cooked potato into kitchen sink 12416
+place a heated potato in a sink 12417
+place a cooked potato in a sink 12418
+heat a potato and place it in the sink 12419
+to heat a plate and put it in the sink  12456
+place the hot plate in the sink  12457
+heat a plate to put in the sink 12458
+place a warm plate in the sink 12459
+put a warm plate in the sink  12460
+place a black plate in the sink 12461
+put a warm plate in the sink 12462
+put a heated plate in the sink 12463
+place the plate in the sink 12464
+slice and cook a potato slice 12465
+put a heated potato slice in the left basin of the kitchen sink 12466
+slice a potato heat a slice put it in the sink 12467
+place a cooked slice of potato in the sink  12468
+cook a potato in the microwave put it in the sink 12469
+put a heated piece of sliced potato in a sink 12470
+place a slice of cooked potato in the sink 12471
+place microwaved potato slice in left sink 12472
+heat a potato slice and put it in the sink 12473
+cool the cabbage in the refrigerator put the cabbage in the left sink 12498
+put chilled lettuce in a sink  12499
+drop a cold lettuce in the sink 12500
+place a chilled head of lettuce in a sink 12501
+move lettuce to fridge to cool then move it to the sink 12502
+place a cooled head of lettuce in a sink basin 12503
+put a head of lettuce in the sink 12504
+put a chilled head of lettuce in the sink 12505
+place a chilled head of lettuce in a sink 12506
+put a heated tomato in the sink 12516
+heat a tomato and place it in the sink 12517
+get tomato from garbage can cook tomato in the microwave put tomato into sink basin 12518
+put a warmed tomato in the sink 12519
+put a heated tomato in the sink 12520
+heat a tomato and place it in the sink 12521
+put a heated tomato in the sink 12522
+put a heated tomato in the sink 12523
+place a heated tomato in the kitchen sink  12524
+place the over cooked potato slice into the sink  12525
+put a slice of cooked potato in a sink 12526
+cook a slice of potato on the stove and place it in the sink when done 12527
+put a cooked slice of potato in a sink 12528
+place a slice of cooked potato in to the sink 12529
+place a microwaved potato slice inside of the sink 12530
+place a hot potato slice in the sink 12531
+put a cooked potato next to the fork in the sink  12532
+to cut a potato heat a slice as well as place it in the sink 12533
+to cut plus head a potato slice as well as set it in the sink 12534
+put a hot potato slice in the sink 12535
+place a microwaved potato slice in the sink 12536
+place a microwaved piece of potato into the sink 12537
+put a browned slice of potato in the sink 12538
+place a warm apple slice in the sink 12584
+cut an apple cook a piece of it 12585
+put a cooked slice of apple in the sink 12586
+put a heated piece of apple in the sink  12587
+heat up a slice of apple in the microwave and place in the sink 12588
+to heat a piece of an apple and put it in the sink  12589
+put and plate with a spatula into the sink 12729
+move a spatula and pan to the kitchen sink 12730
+put the spatula on the plate put the plate in the sink 12731
+put a plate with a spatula on it in the sink 12732
+put the pan and spatula in the sink 12733
+move a pan and spatula to the sink 12734
+move a plate and spatula to the sink 12735
+put a plate with a spatula on it in the sink 12736
+place round plate with spatula in sink 12737
+heat up an egg in the microwave to put back in the sink 12959
+put a heated egg in the sink 12960
+place a heated egg inside a sink 12961
+put a heated egg in the sink 12962
+put heated egg inside sink 12963
+put a heated egg in the sink 12964
+put heated egg in sink basin 12965
+heat the egg and place it in the sink 12966
+put a cooked egg in the sink 12967
+place chilled lettuce in sink 12996
+place chilled lettuce in a sink 12997
+put a chilled head of lettuce in the sink 12998
+chill some lettuce and put it in the sink 12999
+put a cold head of lettuce in the sink 13000
+put a cold lettuce in the sink 13001
+put cold lettuce in the sink 13002
+put a chilled head of lettuce in the sink 13003
+place a chilled head of lettuce in the kitchen sink  13004
+move a gold goblet from the counter to the sink 13210
+put the goblet in the kitchen sink 13211
+put a goblet into the sink 13212
+put a golden cup in the sink 13213
+put a wooden goblet in the sink 13214
+put a cup in the sink 13215
+put a skillet with a spoon in it into the sink 13216
+put a pan with the spoon in it in a sink 13217
+put a plan with a spoon in the sink 13218
+place the skillet with the spoon in it in the sink 13219
+put the pan with spoon in the sink 13220
+place a spoon on the table and a pan in the sink 13221
+place a pan with a spoon in the sink 13222
+place a frying pan and a spoon inside the sink 13223
+put a spoon in a pan and put them both in the sink 13224
+to cool a plate plus place it in the sink 13522
+put a chilled plate in the sink 13523
+put a cold plate in the sink 13524
+put a cold plate in the sink 13525
+place a chilled plate in a fridge 13526
+put a cold plate in the sink 13527
+put chilled plate in the sink 13528
+put chilled plate in sink 13529
+put a chilled grey plate in the sink 13530
+put a chilled apple in the sink 13657
+put the chilled apple in the sink 13658
+put a chilled apple in the sink 13659
+place a chilled apple in a sink 13660
+put a cold apple in the sink 13661
+put a cold apple in the sink  13662
+put a cold apple in the sink  13663
+chill an apple and place it in the sink 13664
+place a chilled apple in the sink 13665
+place a cup with a knife in it inside the kitchen sink on the right 13795
+put a glass with a knife in it in the sink 13796
+put a glass with a knife in the sink  13797
+put a knife in a glass and put them in the sink 13798
+carry a glass with a knife in it to the sink 13799
+put a glass with a knife in it in the sink 13800
+place dirty dishes in the sink  13801
+place a glass cup with a knife in it into the sink 13802
+put a cup with a knife in the sink 13803
+put knife glass in the sink 13804
+put dirty dishes in the sink  13805
+move a knife and glass to the sink 13806
+put a glass with a knife inside of it in the sink 13807
+put a slice of lettuce inside the sink 14186
+slice lettuce chill knife place chilled lettuce slice in sink 14187
+put a cold slice of lettuce in the sink 14188
+slice a head of lettuce chill a slice put the slice in front of the sink 14189
+put a cold slice of lettuce in the sink  14190
+put the chilled slice cabbage in front of the sink 14191
+place a cold lettuce slice in the sink 14192
+put the chilled sliced cabbage in the sink 14193
+place a slice of chilled lettuce in the sink 14194
+place a large pot in a sink 14282
+put the black pot into the sink 14283
+move the pot from the kitchen island to the sink 14284
+move the pot from the island to the sink 14285
+move a large pot from the counter top to the sink 14286
+move a pot from the counter to the sink 14287
+move a pot to the sink 14288
+put the pot into the kitchen sink 14289
+move the pot from the table to the sink 14290
+put a pot in the sink  14291
+place two white towels in sink 14368
+put the two towels on the sink 14369
+put two towels in a sink 14370
+to place two towels in the sink 14371
+put two towels in sink basin 14372
+place both hand towels in the sink 14373
+put two wash cloths in the sink 14374
+put two towels in the sink 14375
+place two towels in sink 14376
+pick up a glass from the sink put in fridge and take it back out and put it back in the sink  14623
+put a cold wine glass in the sink 14624
+put a chilled wooden cup in the sink basin 14625
+put a chilled wine glass in the sink 14626
+put the chilled wine glass in the sink 14627
+put a cold cup in the sink 14628
+place a cooled cup down inside of the kitchen sink 14629
+put a cold cup in the sink 14630
+chill the goblet and put it in the sink  14631
+move two knives to the sink 14779
+move two knives into the sink 14780
+put two knives in the sink 14781
+place two knives into the sink 14782
+move two knives to a sink 14783
+place two butter knives in the sink  14784
+to move two knives to the sink  14785
+put two knives in a sink 14786
+move two butterknives into a sink 14787
+put a pan in the sink with a scoop on it 15218
+put a frying pan with an ice cream scoop in it in the frying pan 15219
+drop a pan with a spoon in it inside the sink 15220
+put ladle into frying pan put both into sink basin 15221
+put a pan with a scoop on it inside the sink 15222
+put a frying pan with an ice cream scoop in it in the sink 15223
+get ladle and frying pan put both into kitchen sink basin 15224
+put a frying pan with a scoop in the sink 15225
+put a pan with a golden spoon in it in the sink 15226
+put the fork in the pan put the pan in the sink 15637
+put a frying pan and fork into the kitchen sink basin 15638
+place a pan with a fork in it in the sink 15639
+put the pan and fork into the sink 15640
+place a pan with a fork into the sink 15641
+place a pan with a fork in it into the sink 15642
+putting dirty dishes in the sink 15643
+put the dirty utensils in the sink 15644
+put the pan with a fork in the sink 15645
+put the pan with fork in the kitchen sink 15646
+fetch a pan and fork and place them in the sink 15647
+put a fork resting in a pan in the sink 15648
+put a frying pan and fork into the kitchen sink 15649
+place the dishes into the sink 15650
+put the fork and the pan in the kitchen sink 15651
+put a fork in a pan in the sink 15652
+place a circle pan with a fork in it in the sink 15653
+place a pot with a fork in it in the sink 15654
+place a chilled head of lettuce in a sink 15810
+put chilled lettuce in a sink 15811
+place cold lettuce in the sink 15812
+put chilled lettuce in the sink  15813
+put a chilled head of lettuce in a sink 15814
+place chilled lettuce in the sink 15815
+putting cabbage in the sink 15816
+put a cold head of lettuce in the sink  15817
+put the chilled cabbage in the sink 15818
+put a cooked potato in the sink 15847
+put a cooked potato in a sink 15848
+heat up a potato in the microwave to put in the sink 15849
+put a heated potato in the sink 15850
+place a heated potato in a sink 15851
+place a microwaved potato inside the right side sink 15852
+put a bowl with a spoon in it in the sink 16193
+put a bowl containing a spoon inside the sink 16194
+put a bowl with a spoon in it in the sink  16195
+put a bowl with a spoon in it in the sink 16196
+move a bowl and spoon to the sink 16197
+place a bowl with a spoon in the sink 16198
+put the bowl with the spoon in it in the sink  16199
+place a bowl and spoon inside the sink 16200
+put spoon and bowl in sink 16201
+drop a cooked egg in the sink 16274
+put a cooked egg in the sink 16275
+place a warm egg in the sink 16276
+place a cooked egg in the sink 16277
+cook the egg from the sink put the cooked egg in the sink 16278
+cook an egg in the microwave 16279
+put the cooked egg in the sink 16280
+cook the egg put it back in the sink  16281
+place a microwaved egg inside of the sink 16282
+put a chilled mug in the fridge 16305
+put a cold mug in the sink 16306
+to cool the cup  16307
+place a chilled mug in the sink on the right 16308
+place a cold mug in the sink 16309
+put a chilled mug in the sink 16310
+place a cold mug in a sink 16311
+put the chilled mug in the kitchen sink 16312
+to chill a mug  16313
+put the chilled mug in the kitchen sink 16314
+cool the cup with the refrigerator put the cup in the sink 16315
+putting a mug in the sink 16316
+place two bottles from the fridge into the sink 16317
+move two bottles from refrigerator to the sink 16318
+place two containers in the sink 16319
+place two glasses in a sink 16320
+put two vases in sink 16321
+put two vases in the sink 16322
+put two carafes in the sink 16323
+put two vases in the sink 16324
+gathering containers to fill with cold water  16325
+slice the lettuce put it in the fridge put it in the sink 16375
+put a refridgerated lettuce slice in the sink 16376
+put a slice of cold lettuce in a sink 16377
+move a chilled piece of lettuce to the sink 16378
+putting sliced lettuce in the sink 16379
+drop a cold lettuce head in the sink 16380
+chill a cut lettuce slice in the refrigerator put it in the sink 16381
+slice a head of cabbage chill one slice place in sink 16382
+slice a lettuce put inside a refrigerator and into the sink 16383
+put two heads of lettuce in the sink 16667
+move the two heads of lettuce from the kitchen table to the sink 16668
+putting two lettuce plants in the sink 16669
+put two heads of lettuce into a kitchen sink 16670
+put two heads of lettuce in the sink 16671
+move the heads of lettuce into the sink 16672
+place two heads of lettuce in a sink 16673
+place two heads of lettuce in the sink 16674
+put two heads of lettuce in the sink 16675
+put a chilled glass in the sink 16701
+place a chilled cup in the sink 16702
+chill a glass then place it in the sink 16703
+put a cold glass in the sink 16704
+place the glass cup from the counter to the sink 16705
+place cup in fridge 16706
+put a chilled glass in the sink 16707
+place a glass from the white counter top into the sink 16708
+place a glass into a sink 16709
+put a chilled glass in the sink 16710
+cool the glass off in the refrigerator put the glass in the sink 16711
+put the chilled glass in the sink 16712
+cool the bowl in the refrigerator put the bowl in the sink 16713
+put a chilled glass in the sink 16714
+place the glass cup into the sink 16715
+put a glass in the sink 16716
+put the cup in the sink  16717
+put the mug with knife in the sink 16951
+place a mug with a knife in it in a sink 16952
+gather white mug with knife it in to be placed in the sink 16953
+put a measuring cup containing a knife in the sink 16954
+move a knife in a mug to the sink 16955
+put a glass with a knife in it in the sink 16956
+put a mug with a large metal knife in it in the sink 16957
+place a cup with a knife in it in the sink  16958
+put a mug with a knife in it inside a sink basin 16959
+put a chilled tomato in the sink 17071
+place a cold tomato in the sink 17072
+put a cold tomato in the sink 17073
+put a cold tomato in the sink 17074
+put a cooled tomato in a sink 17075
+put a chilled tomato in the sink 17076
+put chilled lettuce into the sink 17107
+chill a head of lettuce and place it in the sink 17108
+put cold lettuce in the sink 17109
+chill the lettuce in the fridge and put it in the sink 17110
+put cold lettuce in the sink 17111
+put the chilled cabbage in the sink 17112
+put cold lettuce in the sink 17113
+put a chilled head of lettuce in the sink 17114
+chill the lettuce from the table then put it in the sink 17115
+put a cooled tomato slice in the sink 17128
+put a cooked slice of tomato on a plate in the sink 17129
+chill a slice of tomato and return it to the sink 17130
+putting a tomato slice in the sink 17131
+place a chilled tomato slice on the plate in the sink 17132
+put a chilled slice of bread in the sink  17133
+put a cooled slice of bread in the sink 17134
+move a piece of chilled tomato to the sink 17135
+putting a tomato slice in the sink 17136
+cut a tomato chill a tomato slice in the refrigerator put the tomato slice in the sink 17137
+put a mug holding a spoon into a kitchen sink 17300
+put a mug with a spoon in it in the sink  17301
+put a spoon in a mug and put them in the sink 17302
+put a mug in the sink with a spoon in it 17303
+put a spoon in to a coffee mug in the sink 17304
+put a mug with a spoon inside it in a sink 17305
+put a mug with a spoon in it in a sink 17306
+put the mug with the spoon in the sink 17307
+put a mug with a spoon in it in the sink  17308
+place two towels inside the sink  17309
+move two towels to a sink 17310
+drop two towels in the sink 17311
+put two towels in the sink  17312
+grab two towel from the holders put them in the sink 17313
+place two towels in the sink 17314
+put two towels into the sink 17315
+put the hand towels in the left sink 17316
+grab two towel and put them in the sink 17317
+put a cup with a fork in it in the sink 17378
+put a cup with fork in the sink  17379
+put a cup with a fork in it in the sink 17380
+place a cup with a fork in it in a sink 17381
+put a cup with a fork in the sink  17382
+put a fork in a cup in the sink 17383
+put a cold cup with a fork in it into the sink  17384
+put a spoon in a cup and put them both in the sink 17385
+put a bowl with a fork in it in the sink 17386
+put a microwaved slice of apple in the sink 17492
+slice an apple and warm it up 17493
+ cook the apple and  put it in the sink
+
+ 17494
+put a microwaved slice of apple in the sink  17495
+put the cooked apple slice in the kitchen sink 17496
+place a cooked section of apple into the sink 17497
+put a cooked slice of apple in the sink 17498
+put a heated apple piece in the sink  17499
+to heat a piece of apple plus place it in the sink 17500
+take the yellow knife and put it in the sink 17580
+place a knife in a sink 17581
+put a knife in the sink 17582
+place a knife in a sink 17583
+put a large metal knife in the sink 17584
+move knife from counter to sink 17585
+move the chefs knife from the black table to the kitchen sink 17586
+put the knife on the table in the sink 17587
+take the yellow knife from the kitchen table put it in the sink 17588
+put a pan in the sink 17589
+move a pan to the sink 17590
+take a pan to the sink 17591
+take the plate from the counter and put it in the sink 17592
+put the pan in the sink 17593
+
+put a plate in the sink 17594
+put a plate in the sink 17595
+move a plate from the counter to the sink 17596
+place a pan in a sink basin 17597
+put a pan in the sink with a spoon in it 17616
+place a pan with a spoon in it inside a sink basin 17617
+put the pan with spoon in the sink 17618
+put the spoon in the pan put the pan in the sink 17619
+place a pan and a spoon in the sink 17620
+place the knife thats in the pan in the sink 17621
+place a fry pan with a spoon inside it in the kitchen sink  17622
+bring a clean spoon to a plate for use empty both the plate and spoon in the sink 17623
+put a plate with a fork inside the sink 17624
+put a glass with a fork in it in the sink 17643
+put a wine glass and fork in the sink 17644
+put a cup with a fork in it in a sink 17645
+place glass with fork in left sink 17646
+put a wine glass with a fork in it in the sink 17647
+move a fork and glass to the sink 17648
+place a glass with a fork in it into the left sink basin 17649
+put a cup with fork in it in the left sink  17650
+put a glass and fork into the kitchen sink 17651
+put two heads of lettuce in the sink 17686
+put two heads of lettuce in the sink 17687
+put 2 lettuce heads in the sink 17688
+put two lettuce into the sink 17689
+place two lettuce into the sink 17690
+put two heads of lettuce in the sink 17691
+put two heads of lettuce in the sink 17692
+put two heads of lettuce in the sink 17693
+to move two heads of lettuce from the table to the sink  17694
+cook the potato and place it in sink 18089
+place a microwaved potato in the sink 18090
+place the heated potato in the sink 18091
+put a cooked potato in a sink 18092
+place a cooked pear in a sink 18093
+heat the potato with microwave put it in the sink 18094
+put a cooked potato in the sink 18095
+heat up a potato place the heated potato in the sink 18096
+cook a potato found next to the sink in the microwave 18097
+put a mug with a knife in it in the sink 18232
+get a cup with a knife in it inside the sink 18233
+put a cup holding a knife into the kitchen sink 18234
+place the cup with a knife in the sink 18235
+put the mug with knife in the sink  18236
+place a mug with a large metal knife in it into the kitchen sink 18237
+move the mug with the knife in it to the kitchen sink  18238
+the robot will comb for the knife with introduce an coffee mug matching color 18239
+grab knife place into mug place in sink for cleaning 18240
+put the mug with knife in the sink 18549
+place a bowl with a knife in the sink 18550
+place a glass with a knife in it in a sink 18551
+drop a glass cup with a knife in it in the sink 18552
+put a glass with a butter knife in it in the sink 18553
+put a wine glass with a knife in to the sink 18554
+put a glass with a butter knife in it in the sink 18555
+place a glass cup with a knife in it in the sink 18556
+move a knife and wine glass to the sink  18557
+place a heated potato slice in a sink 18655
+put a hot sliced potato in sink 18656
+place microwaved potato slice in sink 18657
+slice and heat a potato chip 18658
+putting a hot potato slice in the sink 18659
+place a cooked slice of potato in a sink 18660
+put a cooked slice of potato in the middle of the sink 18661
+put the cut and cooked potato slice back in the sink it came from 18662
+place microwaved potato slice in sink 18663
+move a pot and sponge to the sink 18746
+put  pan containing a sponge in the sink 18747
+place a pan with a sponge in it in the sink on the right 18748
+place a pot with a sponge in a sink 18749
+put a pot containing a sponge in the sink 18750
+put the pot with sponge in the sink 18751
+put a mug with a fork in it in the sink  18779
+put a cup with a fork in it in the sink 18780
+place a cup containing a fork in the sink 18781
+gather glass  fork from refrigerator to place in the sink  18782
+put the cup with fork into the kitchen sink 18783
+put a cup with a fork in it in the sink 18784
+put the dirty fork in a cup to place it in the sink 18785
+place the fork and cup in the sink 18786
+put a cup with a fork in it in the sink 18787
+move two towels from the wall to the sink 18812
+put two towels in the sink 18813
+place two towels on the sink 18814
+put the hand towels in the sink 18815
+hang two towels in the sink 18816
+place two towels in the sink 18817
+put the hand towels in the sink 18818
+place two towels in the sink 18819
+move two towels to the sink 18820
+place a microwaved apple slice inside of the sink 18857
+to heat a piece of apple as well as put it in the sink 18858
+putting a sliced apple into the sink 18859
+putting an apple in the sink 18860
+place a piece of cooked apple into the sink 18861
+put a cooked piece of apple in a sink 18862
+place a cooked apple slice down inside of the kitchen sink 18863
+putting a apple slice in the sink 18864
+put a cooked apple in the sink  18865
+put a slice of cooked apple into the sink 18866
+place a microwaved apple in the sink 18867
+slice an apple with a knife heat one slice and return everything to the kitchen sink 18868
+put a piece of cooked apple in a sink 18869
+put cooked apple into the sink  18870
+place a microwaved slice of apple in the kitchen sink 18871
+put a cooled egg into a sink basin 18875
+move a chilled egg to the kitchen sink  18876
+put a chilled egg in the sink  18877
+put a chilled slice of lettuce in the sink 19181
+place a cold lettuce head in the sink 19182
+to cool a lettuce slice plus place it on the counter to the left of the fridge 19183
+to cool a lettuce slice plus place it on the counter to the left of the fridge 19184
+put a chilled slice of lettuce in the sink 19185
+place a cold slice of lettuce in the sink 19186
+move the knife in front of the sink to the sink 19283
+place a knife in a sink 19284
+move a knife to the sink 19285
+move a knife to the sink basin 19286
+place a knife in the sink 19287
+put a knife in the sink 19288
+gather together the spoon and glass to place in the sink 19289
+to put a martini glass and spoon in the sink  19290
+put spoon into glass take both and put into sink basin 19291
+put the spoon in the martini glass into the sink  19292
+put a cocktail glass with a spoon in it into the sink basin 19293
+put a glass with a spoon in the sink 19294
+place glass with spoon in sink 19295
+put a spoon in a glass in a sink 19296
+put a mug with a spoon in it in the sink 19297
+to put a knife and a potato slice a pot as well as move them to the sink 19413
+slice a potato and place it in a pot for cooking preparation  19414
+put the pot with the knife and potato slice into the sink 19415
+to put a potato slice in a pot and place it in the sink 19416
+slice the potato and place it in the stove top pot bring the filled pot to the sink 19417
+putting a pot with a potato slice in it in the sink 19418
+move the pot with a potato slice from the freezer to the sink 19419
+putting a pot with a potato slice in it in the sink 19420
+slice a potato put a slice into the pot 19421
+put a heated piece of sliced apple in the sink 19422
+place microwaved apple slice in sink 19423
+put a warmed piece of apple in a sink 19424
+put a heated piece of apple in the sink  19425
+to heat an apple and place it in the sink 19426
+put a cooked apple slice into the sink 19427
+put a cooked piece of apple in a sink 19428
+place a hot apple in the sink 19429
+cut an apple cook a piece of the apple 19430
+put heated apple in sink 19440
+put a heated apple in the left sink  19441
+put cooked apple in the sink 19442
+put a heated plate in the sink  19647
+heat a plate and place it in the sink 19648
+put a warm plate in the kitchen sink  19649
+put the hot plate in the sink  19650
+heat a plate and place it in the sink 19651
+cook the dish in the cupboard and put it in the sink 19652
+put a head of chilled lettuce in the sink 19800
+put a chilled piece of lettuce into the kitchen sink  19801
+put chilled lettuce from the table in the sink 19802
+put the chilled lettuce in the sink  19803
+put chilled lettuce in the sink  19804
+put chilled lettuce in the sink 19805
+put chilled lettuce in the sink 19806
+put a chilled lettuce in the sink  19807
+put a chilled head of lettuce from the table into the sink 19808
+put chilled lettuce in the sink 19809
+take lettuce to the fridge followed by the sink 19810
+put chilled lettuce in the sink from the table 19811
+put cold lettuce in the sink 19812
+put cold lettuce in the sink  19813
+place a chilled lettuce in the sink  19814
+put a heated tomato in the sink  19864
+put a heated tomato in the sink 19865
+place a cooked tomato in the sink 19866
+slice a potato in a sink with a knife 19897
+cut the round fruit in the sink with the knife 19898
+to cut the avocado in the sink  19899
+slice a vegetable from the fridge in the sink 19900
+slice a cooked potato in the sink 19901
+cut the avocado in the microwave in half 19902
+slice up a sweet potato in the leftmost sink basin 19903
+put a heated apple in the sink  20039
+put a cooked apple in the sink 20040
+put a warmed apple in the sink 20041
+put a cooked apple in the kitchen sink 20042
+put a heated apple in the sink  20043
+heat the apple put the apple in the sink 20044
+place a cooked apple into the sink 20045
+heat the apple with microwave put it in the sink 20046
+put a cooked apple into the sink 20047
+put a microwaved apple in a sink  20048
+place a chilled bowl in a sink 20343
+place the chilled bowl in the sink 20344
+chill a cup and place it in the sink 20345
+place the chilled bowl in the left sink 20346
+to cool a bowl plus place it in the sink 20347
+put a chilled bowl in the sink  20348
+place a chilled mug in the sink 20349
+put a chilled wooden cup in the sink 20350
+put a cold bowl in the sink 20351
+put a wine glass with a fork in it in the sink 20582
+put a glass with a fork in the sink 20583
+putting away clean dishes gathering dirty dishes 20584
+move a glass and fork from the countertop to the sink 20585
+put a cup with a fork in it inside a sink basin 20586
+move a glass and fork to the sink 20587
+put a cup with a fork in the sink 20588
+put a martini glass containing a fork in the kitchen sink 20589
+place the fork in the martini glass in to the sink 20590
+put a sponge and pan in a sink 20646
+put a pan with a sponge in it in the sink 20647
+put the sponge in the pan and put the pan in the sink  20648
+put a pan containing a sponge in the sink  20649
+take a sponge out of the cabinet to put in a pan and place in the sink 20650
+put a pan with sponge in it in the sink  20651
+put a bowl with a spoon in it in the sink 20897
+put a bowl with a spoon in it into the leftmost sink basin 20898
+put a bowl with a spoon in it in the sink 20899
+put the bowl and spoon in the sink to be washed 20900
+put a bowl with a spoon in it in the sink 20901
+put a bowl with a spoon in the sink 20902
+put a bowl with a spoon in it and knife sticking out of it into the rightmost sink basin 20903
+move a spoon and bowl from the table to the sink 20904
+put the spoon in the bowl put the bowl in the sink 20905
+take the dirty dishes to the sink 20936
+put the bowl in the sink  20937
+put a bowl with a spoon in it in the sink 20938
+place a bowl with a spoon in it inside the sink 20939
+place a bowl with a spoon in it into the sink 20940
+put a bowl with a spoon inside the sink 20941
+to put a bowl with a ladle in it in the sink 20942
+place a glass bowl with a spoon in it in the sink 20943

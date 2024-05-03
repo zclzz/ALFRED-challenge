@@ -1,0 +1,1211 @@
+===================================================
+episode # is 0
+goal instruction is toexamine a grey bowl in the light of a lamp[SEP]turn right and begin walking across the room then hang a right and walk up to the end table to the left of the couch[SEP]pick up the grey bowl off of the end table[SEP]turn left and take a step forward then turn right to face the lamp[SEP]turn on the small lamp on the end table
+number of steps taken is 467
+list of actions are [('Bowl', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 1
+goal instruction is toexamine a bowl by the light of a lamp[SEP]turn right walk passed the coffee table and then turn left towards the green lamp on the table[SEP]pick up the bowl on the table[SEP]turn left to face the lamp[SEP]turn on the lamp
+number of steps taken is 114
+list of actions are [('Bowl', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 2
+goal instruction is tograb the grey bowl on the corner table turn on the lamp[SEP]turn right walk to the shelf turn right walk to the corner table[SEP]grab the grey bowl on the table[SEP]turn left and walk until corner table is at the center of the view[SEP]turn on the lamp on the table
+number of steps taken is 162
+list of actions are [('Bowl', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 3
+goal instruction is tograb the grey bowl on the corner table turn on the lamp[SEP]turn right walk to the shelf turn right walk to the corner table[SEP]grab the grey bowl on the table[SEP]turn left and walk until corner table is at the center of the view[SEP]turn on the lamp on the table
+number of steps taken is 218
+list of actions are [('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject'), ('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 4
+goal instruction is toput 2 dog decorations front to back on the edge of the right side of the table [SEP]turn around walk straight go to the brown couch walk between the couch and the table to the shelf on top of the couch [SEP]pick up the dog decoration from on top of the shelf [SEP]turn around and go to the table in front of the couch [SEP]put the dog on the edge of the right side of the table [SEP]walk to the right turn right at the end of the table walk toward the wall turn right to go to the table [SEP]pick up another dog decoration from on top of the table [SEP]turn around go to the left walk pass between the couch and the table and turn right to face the table again [SEP]put the dog decoration at the back of the other dog on the table 
+number of steps taken is 157
+list of actions are [('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject'), ('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 5
+goal instruction is toto move two statues to the living room table[SEP]turn around and walk to the right around the living room table and turn left and look up to face the statue on the shelf above the couch[SEP]pick up the statue on the shelf above the couch[SEP]turn around to face the living room table[SEP]place the statue on the right side of the living room table[SEP]turn right and walk across the room to face the table to the left of the chair[SEP]pick up the statue on the table[SEP]turn around and walk around to face the living room table[SEP]place the statue beside the first statue on the living room table
+number of steps taken is 174
+list of actions are [('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject'), ('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 6
+goal instruction is toput a heated mug in a cabinet[SEP]turn right to face the cabinet[SEP]open the bottom left cabinet closest to the wall and take the mug[SEP]turn right go to the microwave[SEP]put the mug into the microwave turn on the microwave take the mug from the microwave[SEP]go backwards a little from the microwave[SEP]open the cabinet above the microwave put the mug in the cabinet in front of the left salt shaker
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Cup', 'PickupObject'), ('Microwave', 'CloseObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 7
+goal instruction is toput the heated mug in the cabinet above the microwave [SEP]turn to the cabinet on the right [SEP]open up the bottom cabinet and pick up the mug in there [SEP]bring the mug to the microwave[SEP]heat the mug in the microwave for a few seconds [SEP]take the mug out of the microwave[SEP]open the cabinet above the microwave and put the mug in there 
+number of steps taken is 173
+list of actions are [('Mug', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Mug', 'PickupObject'), ('Microwave', 'CloseObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 8
+goal instruction is toplace the warmed up cup in the cabinet above the microwave[SEP]turn right to face the white cabinet[SEP]open the lower cabinet to take out the cup[SEP]turn right and walk towards the wall look up to find the microwave on the left of you[SEP]open the microwave place the cup in it heat it up and take the cup out of microwave[SEP]look up at the cabinet above the microwave[SEP]open the cabinet place the cup inside and close the cabinet
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Cup', 'PickupObject'), ('Microwave', 'CloseObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 9
+goal instruction is toplace the warmed up cup in the cabinet above the microwave[SEP]turn right to face the white cabinet[SEP]open the lower cabinet to take out the cup[SEP]turn right and walk towards the wall look up to find the microwave on the left of you[SEP]open the microwave place the cup in it heat it up and take the cup out of microwave[SEP]look up at the cabinet above the microwave[SEP]open the cabinet place the cup inside and close the cabinet
+number of steps taken is 33
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('BathtubBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 10
+goal instruction is toplace the warmed up cup in the cabinet above the microwave[SEP]turn right to face the white cabinet[SEP]open the lower cabinet to take out the cup[SEP]turn right and walk towards the wall look up to find the microwave on the left of you[SEP]open the microwave place the cup in it heat it up and take the cup out of microwave[SEP]look up at the cabinet above the microwave[SEP]open the cabinet place the cup inside and close the cabinet
+number of steps taken is 56
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('BathtubBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 11
+goal instruction is towash the sink out[SEP]turn to the right and take one step then turn to the left and walk to the bathtub[SEP]pick up the pink soap that is in the bathtub[SEP]turn around and take two steps then turn left and walk to the sink[SEP]put the soap in the sink then turn on the faucet for three seconds then turn the water off and pick up the soap [SEP]turn around and take one step then turn right and walk across the room[SEP]put the soap down in the bathtub
+number of steps taken is 125
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('BathtubBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 12
+goal instruction is tomove the spatula from the counter to the sink[SEP]turn left walk straight to the end cabinet[SEP]grab the spatula on the counter[SEP]turn around to the sink[SEP]put the spatula in the sink
+number of steps taken is 148
+list of actions are [('Spatula', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 13
+goal instruction is toplace a spatula inside of the sink[SEP]walk forwards and turn left to go down the kitchen isle then turn right to face the kitchen counter to the right of the fridge[SEP]grab the spatula off of the counter top there[SEP]turn around and walk to the kitchen sink ahead[SEP]place the spatula inside of the sink
+number of steps taken is 119
+list of actions are [('Spatula', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 14
+goal instruction is toplace a spatula inside of the sink[SEP]walk forwards and turn left to go down the kitchen isle then turn right to face the kitchen counter to the right of the fridge[SEP]grab the spatula off of the counter top there[SEP]turn around and walk to the kitchen sink ahead[SEP]place the spatula inside of the sink
+number of steps taken is 122
+list of actions are [('Spatula', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 15
+goal instruction is tomoving keys into a cardboard box on a sofa[SEP]head straight to the end table[SEP]grab the cardboard box at the bottom of the table[SEP]turn around and go to the sofa that has keys on it[SEP]put the box on the sofa[SEP]move slightly to the left[SEP]grab the keys off of the sofa[SEP]move slightly to the right[SEP]put the keys in the box on the sofa
+number of steps taken is 153
+list of actions are [('KeyChain', 'PickupObject'), ('Box', 'PutObject'), ('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 16
+goal instruction is toput the keys in with the box on the sofa[SEP]go to the end table in front across the room[SEP]pick up the empty box under the table[SEP]turn around and go to the right front side of the sofa with a checkered cushion[SEP]place the empty box on the sofa seat[SEP]move over left and face the sofa[SEP]pick up the keys on the sofa seat next to the box[SEP]move over right to the front of the box[SEP]place the keys in the box and close the box
+number of steps taken is 200
+list of actions are [('KeyChain', 'PickupObject'), ('Box', 'PutObject'), ('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 17
+goal instruction is toplace a box and a set of keys in the box on the sofa[SEP]turn to the left and take a step and turn to the right and go to the table[SEP]pick up the box from underneath the table[SEP]turn to the right twice and take a few steps and turn to the left and go to the sofa and turn to the right and take a few steps and turn left facing the sofa[SEP]put the box on top of the sofa[SEP]turn to the left and take a step and turn to the right facing the sofa[SEP]pick up a set of keys from the sofa[SEP]turn to the right and take a step and turn to the left facing the box on the sofa[SEP]put the set of keys in the box
+number of steps taken is 162
+list of actions are [('KeyChain', 'PickupObject'), ('Box', 'PutObject'), ('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 18
+goal instruction is toput two potatoes in the microwave[SEP]turn to the counter against the wall[SEP]pick up the potato[SEP]go to the microwave above the oven[SEP]open microwave door and place potato inside and close the door[SEP]turn around and go to the counter on the left[SEP]pick up the potato on the left[SEP]turn around and go back to the microwave on the left[SEP]open microwave door place potato to the left of the other potato and close the door
+number of steps taken is 159
+list of actions are [('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 19
+goal instruction is toput two potatoes in the microwave[SEP]move forward then turn right to face the counter with the toaster on it[SEP]pick up the potato on the counter[SEP]go to the microwave to your right[SEP]put potato in the microwave[SEP]turn left go forward then turn left to face the kitchen island[SEP]pick up the left most potato on the kitchen island in front the spoon[SEP]turn left go forward then turn left to return to the microwave[SEP]put the potato in the microwave to the left of the other potato
+number of steps taken is 1000
+list of actions are [('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 20
+goal instruction is toput two potatoes in a microwave [SEP]go forward then turn to the right go forward to the counter where the toaster is [SEP]pick up the potato that is on the counter [SEP]turn around go forward turn to the left go forward turn to the left to face the microwave raise the potato up[SEP]put the potato inside the microwave and close the door [SEP]turn to the left go forward turn to the left at the counter where the two potatoes are [SEP]pick up the leftmost potato from the counter [SEP]turn to the left go to the wall turn to the left raise the potato up[SEP]put the potato inside the microwave to the left of the other potato close the door 
+number of steps taken is 1000
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 21
+goal instruction is tolook at the computer under the lamp light[SEP]go to the right end of the couch[SEP]pick up the computer from the couch[SEP]take the computer to the lamp[SEP]turn on the lamp
+number of steps taken is 269
+list of actions are [('Laptop', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 22
+goal instruction is toturn on table lamp while holding closed laptop[SEP]walk to face couch with laptop[SEP]close and pick up laptop from couch[SEP]walk to face table lamp[SEP]turn on table lamp
+number of steps taken is 124
+list of actions are [('Laptop', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 23
+goal instruction is topick up a computer and turn a lamp on[SEP]go right and then right again and turn to the left to face the computer on the couch[SEP]close the computer and pick it up from the couch[SEP]move to the right and turn to face the small table with the lamp[SEP]turn the lamp on
+number of steps taken is 131
+list of actions are [('Laptop', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 24
+goal instruction is toto wash a bar of soap and place it on the left back side of the sink[SEP]step to the right to face the cabinet below the right side of the sink[SEP]pick up the bar of soap under the right side of the sink[SEP]step to the left to face the left side of the sink[SEP]wash the bar of soap in the sink and remove it[SEP]walk around the left side of the sink to face the side of the left sink[SEP]place the bar of soap on the back of the sink on the left edge
+number of steps taken is 243
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 25
+goal instruction is toput a clean bar of soap on the counter[SEP]turn right and walk to the wall then turn left and walk up to the counter[SEP]open the rightmost cabinet door below the counter and take out the bar of soap then close the door[SEP]turn left and walk towards the shower then turn right to face the sink[SEP]put the bar of soap in the leftmost sink and turn the water on after a couple seconds turn off the water and remove the now clean bar of soap[SEP]turn left and walk over to the shower then turn right and walk up to the wall turn right to face the counter[SEP]put the clean bar of soap on the counter to the left of the white spray bottle
+number of steps taken is 274
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 26
+goal instruction is toplace the wet soap on the counter by the spray bottle [SEP]turn to the right and go to the sink next to the wall[SEP]open the cabinet door on the right next to the wall and get the pink soap[SEP]turn to the left and go to the sink closest to shower [SEP]place the soap in the sink in front of you and turn the water on[SEP]pick up the soap in the sink[SEP]turn to the left and go to the wall between counter and shower and place the soap behind the spray bottle
+number of steps taken is 191
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 27
+goal instruction is toput a knife and a warm apple slice in the sink [SEP]turn around and walk through the kitchen then turn right at the counter top above the dishwasher [SEP]pick up the butter knife on the counter that is in front of the yellow knife [SEP]turn to your right and walk out of the main kitchen area then turn left and go to the table across from you [SEP]cut the apple on the back of the table behind the pump bottle into slices [SEP]turn around and go back to the sink then turn to your right into the main kitchen area and turn towards the sink on your right [SEP]place the knife in the sink to the right of the egg [SEP]turn to your right and walk out of the main kitchen area and turn to your right then go back to the table across from you [SEP]pick up one of the apple slices on the back of the table [SEP]turn around and go past the sink then turn to your right to step back into the main kitchen area again and turn to the microwave above the stove to your left [SEP]place the apple slice in the microwave heat it up then remove the apple slice from the microwave [SEP]turn around and go back to the sink [SEP]place the apple slice in the sink to the right of the knife 
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Apple', 'SliceObject'), ('SinkBasin', 'PutObject'), ('AppleSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('AppleSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 28
+goal instruction is toput a piece of heated apple in the sink [SEP]turn around and go to the counter above the dishwasher [SEP]pick up the gray knife on the counter [SEP]turn left and go to the round table with a gray cover[SEP]cut the red apple on the top of the table [SEP]turn around and go to the sink on the right [SEP]place the knife in the sink [SEP]turn right and go back to the round table with the cut apple on top[SEP]pick up one piece of the apple [SEP]turn around the go to the microwave above the stove [SEP]remove the apple after heating in the microwave [SEP]turn around and go back to the sink [SEP]place the apple piece in the sink 
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Apple', 'SliceObject'), ('SinkBasin', 'PutObject'), ('AppleSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('AppleSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 29
+goal instruction is toplace a microwaved slice of apple in the sink[SEP]turn left and walk to the coffee machine on the bench[SEP]pick up the silver knife to the right of the coffee machine[SEP]turn right and walk towards wall then turn left to the white table[SEP]slice the red apple with the knife[SEP]turn around and walk forward then turn right and walk to the sink[SEP]place the knife in the sink[SEP]turn around and walk back to the white table[SEP]pick up a slice of apple[SEP]turn around and walk towards door then turn left and walk to stove[SEP]open microwave and place apple slice inside then close door and turn on for four seconds then open door and remove apple slice[SEP]turn around and walk to the sink in the center island[SEP]place apple slice in the sink
+number of steps taken is 333
+list of actions are [('Knife', 'PickupObject'), ('Apple', 'SliceObject'), ('SinkBasin', 'PutObject'), ('AppleSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('AppleSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 30
+goal instruction is towash a fork and put it on a table[SEP]walk to the kitchen counter on the left of the stove[SEP]grab a fork from the counter[SEP]walk to the kitchen sink behind you[SEP]put the fork in the sink wash it then grab it[SEP]walk to the kitchen table on your right[SEP]place the fork on the table
+number of steps taken is 134
+list of actions are [('Fork', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Fork', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 31
+goal instruction is toput a clean fork on the table[SEP]walk to the counter in front of you then take a step to your left then take a step forward then turn left and walk to the counter[SEP]pick up the fork thats in front of you[SEP]turn around and walk to the sink[SEP]wash the fork in the sink and then pick it back up and shut off the water[SEP]turn right and take two steps then turn left and walk to the small table[SEP]put the fork on the table to the left of the pepper and under the sponge
+number of steps taken is 142
+list of actions are [('Fork', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Fork', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 32
+goal instruction is toput a clean fork on a table[SEP]go left to stand in front of the counter to the left of the stove[SEP]pick the fork up from the counter[SEP]turn around and face the sink[SEP]put the fork in the sink and turn the water on and then off and pick the fork up from the sink[SEP]turn to the right and then to the left to face the round table[SEP]put the fork down on the table
+number of steps taken is 434
+list of actions are [('Fork', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Fork', 'PickupObject'), ('SideTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 33
+goal instruction is toput a microwaved apple by the coffee machine[SEP]turn and go to the sink[SEP]pick up an apple in the sink[SEP]turn and go to the microwave [SEP]heat up the apple in the microwave [SEP]turn and go to the coffee machine[SEP]put the apple on the counter by the coffee machine
+number of steps taken is 666
+list of actions are [('Apple', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Apple', 'PickupObject'), ('Microwave', 'CloseObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 34
+goal instruction is toplace a heated apple on a counter[SEP]walk to the sink on the left[SEP]pick up the red apple from inside the sink[SEP]turn around walk to the black stove ahead and look up at the microwave[SEP]put the apple inside the microwave heat it remove it and close the door[SEP]turn right and walk to the counter with the coffee maker on the right[SEP]put the heated apple on the counter in front of the coffee maker
+number of steps taken is 181
+list of actions are [('Apple', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Apple', 'PickupObject'), ('Microwave', 'CloseObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 35
+goal instruction is toplace microwaved apple in front of coffee maker[SEP]turn left face sink with apple to the left[SEP]pick up red apple from counter[SEP]turn around go to microwave above stove[SEP]open microwave put apple in microwave microwave apple open microwave pick up apple close microwave[SEP]turn around go to counter with coffee maker to the left[SEP]place apple on counter in front of coffee maker
+number of steps taken is 248
+list of actions are [('Apple', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Apple', 'PickupObject'), ('Microwave', 'CloseObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 36
+goal instruction is toplace microwaved apple in front of coffee maker[SEP]turn left face sink with apple to the left[SEP]pick up red apple from counter[SEP]turn around go to microwave above stove[SEP]open microwave put apple in microwave microwave apple open microwave pick up apple close microwave[SEP]turn around go to counter with coffee maker to the left[SEP]place apple on counter in front of coffee maker
+number of steps taken is 99
+list of actions are [('Book', 'PickupObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 37
+goal instruction is toplace microwaved apple in front of coffee maker[SEP]turn left face sink with apple to the left[SEP]pick up red apple from counter[SEP]turn around go to microwave above stove[SEP]open microwave put apple in microwave microwave apple open microwave pick up apple close microwave[SEP]turn around go to counter with coffee maker to the left[SEP]place apple on counter in front of coffee maker
+number of steps taken is 236
+list of actions are [('Book', 'PickupObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 38
+goal instruction is topick up the brown book and put it in the black cabinet[SEP]circle around the white bed to the left and stop between the bed and the wall[SEP]pick up the brown book on the white bed[SEP]turn around and walk to the black cabinets[SEP]open the first cabinet door and place the book inside the cabinet closing the door behind it
+number of steps taken is 172
+list of actions are [('Book', 'PickupObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 39
+goal instruction is tomove two newspapers from the desk to the arm chair seat [SEP]turn around and go to the wooden desk in the right corner of the room [SEP]pick up the news paper on the right side of the desk[SEP]turn around to go to the front of the first arm chair on the left [SEP]place the newspaper on the left of the keys on the chair seat [SEP]turn left to go back to the desk with the newspaper [SEP]pick up the newspaper on the left side of the desk [SEP]turn around and go back to the front of the first arm chair on the left[SEP]place the newspaper on the right of the first newspaper on the chair seat 
+number of steps taken is 1000
+list of actions are [('Newspaper', 'PickupObject'), ('ArmChair', 'PutObject'), ('Newspaper', 'PickupObject'), ('ArmChair', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 40
+goal instruction is toplace 2 newspapers on the arm chair[SEP]turn left and head towards small desk in the corner[SEP]pick up the newspaper on the right[SEP]move to the right and face the arm chair[SEP]place newspaper to the left of the keys[SEP]go back to the desk[SEP]pick up the newspaper on the left[SEP]move to the right and face the arm chair[SEP]place the newspaper to the right of the other newspaper
+number of steps taken is 1001
+list of actions are [('Newspaper', 'PickupObject'), ('ArmChair', 'PutObject'), ('Newspaper', 'PickupObject'), ('ArmChair', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 41
+goal instruction is toput two newspapers on a chair [SEP]turn to your left and walk through between the couch and coffee table turn left and go to the end of the room then turn right and go to the table across from you [SEP]pick up the newspaper on the right side of the table [SEP]go to the front of the chair to your right [SEP]place the newspaper on the chair to the left of the keys [SEP]turn to the left and go back to the table on your right [SEP]pick up the newspaper on the right side of the table [SEP]go back to the front of the chair to your right [SEP]place the newspaper to the right of the other one on the chair 
+number of steps taken is 1000
+list of actions are [('Newspaper', 'PickupObject'), ('ArmChair', 'PutObject'), ('Newspaper', 'PickupObject'), ('ArmChair', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 42
+goal instruction is toput a spatula in the sink[SEP]turn left and walk to the counter then take two steps to your left[SEP]pick up the spatula thats to the left of the toaster[SEP]turn left and walk to the sink thats on your left and stand facing it[SEP]put the spatula in the sink
+number of steps taken is 119
+list of actions are [('Spatula', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 43
+goal instruction is toplace the dirty spatula in the kitchen sink[SEP]turn around turn left walk straight turn right to face the stove[SEP]grab the spatula on top of the counter[SEP]turn left walk straight turn left to face the kitchen sink and walk to the sink[SEP]place the spatula in the sink
+number of steps taken is 119
+list of actions are [('Spatula', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Spatula', 'PickupObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 44
+goal instruction is tomove the spatula to the sink [SEP]turn left and go to the counter by the stove[SEP]pick up the spatula by the toaster [SEP]turn around and go to the sink[SEP]put the spatula in the sink 
+number of steps taken is 148
+list of actions are [('Spatula', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 45
+goal instruction is toplace a pot filled with water on a stove [SEP]turn to your right then walk towards the stove and turn to face it [SEP]pick up the pot from the back left burner of the stove[SEP]turn around and walk to the sink [SEP]fill the pot with water [SEP]turn around and walk back to the stove [SEP]place the pot on the back left burner 
+number of steps taken is 265
+list of actions are [('Pot', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Pot', 'PickupObject'), ('StoveBurner', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 46
+goal instruction is toplace a clean pot on the burner[SEP]move to the right facing the oven with the pot on top of the stove[SEP]pick up the pot on top of the stove[SEP]turn around then walk straight to the kitchen sink[SEP]place the pot in the sink turn on the water to clean the pot then remove it from the sink[SEP]carry the pot back to the stove top[SEP]place the pot on the back left burner on top of the stove
+number of steps taken is 220
+list of actions are [('Pot', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Pot', 'PickupObject'), ('StoveBurner', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 47
+goal instruction is toto fill a pot with water and place it back on its original burner[SEP]turn around and step to the left to face the stove[SEP]pick up the pot on the back left burner[SEP]turn around and step forward to face the sink[SEP]fill the pot with water and then pick it up[SEP]turn around and step forward to face the stove[SEP]place the water filled pot on the back left burner
+number of steps taken is 318
+list of actions are [('Pot', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Pot', 'PickupObject'), ('StoveBurner', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 48
+goal instruction is tomove two clocks to a wooden dresser[SEP]turn left and walk towards the bed then hang a left and walk up to the white table[SEP]pick up the rightmost clock off of the white table[SEP]turn right and walk over to the left side of the wooden dresser[SEP]put the clock on top of the wooden dresser to the left of the mug[SEP]turn right and walk towards the bed then hang a right and walk over to the white table[SEP]pick up the clock off of the white table[SEP]turn right and walk over to the left side of the wooden dresser[SEP]put the clock on top of the dresser behind the phone
+number of steps taken is 1000
+list of actions are [('AlarmClock', 'PickupObject'), ('Dresser', 'PutObject'), ('AlarmClock', 'PickupObject'), ('Dresser', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 49
+goal instruction is tomove two clocks from a desk to a dresser[SEP]go to the desk[SEP]pick up a clock from the desk[SEP]go to the dresser[SEP]place the clock on top of the dresser[SEP]go to the desk[SEP]pick up a clock from the desk[SEP]go to the dresser[SEP]place the clock on the dresser to the left of the first clock
+number of steps taken is 1000
+list of actions are [('AlarmClock', 'PickupObject'), ('Dresser', 'PutObject'), ('AlarmClock', 'PickupObject'), ('Dresser', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 50
+goal instruction is toput two clocks on a dresser[SEP]turn around go forward to the desk[SEP]take the clock on the right from the desk[SEP]turn right go forward turn left after passing the desk go forward to the wall turn right go forward to the dresser[SEP]put the clock on the dresser to the left of the mug[SEP]turn around go back to the desk where the clock came from[SEP]take the other clock from the desk[SEP]turn right go forward turn left after passing the desk go forward to the wall turn right go forward to the dresser[SEP]put the clock on the dresser behind the cell phone
+number of steps taken is 1002
+list of actions are [('AlarmClock', 'PickupObject'), ('Dresser', 'PutObject'), ('AlarmClock', 'PickupObject'), ('Dresser', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 51
+goal instruction is toput two clocks on a dresser[SEP]turn around go forward to the desk[SEP]take the clock on the right from the desk[SEP]turn right go forward turn left after passing the desk go forward to the wall turn right go forward to the dresser[SEP]put the clock on the dresser to the left of the mug[SEP]turn around go back to the desk where the clock came from[SEP]take the other clock from the desk[SEP]turn right go forward turn left after passing the desk go forward to the wall turn right go forward to the dresser[SEP]put the clock on the dresser behind the cell phone
+number of steps taken is 107
+list of actions are [('SoapBottle', 'PickupObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 52
+goal instruction is tothrow away a soap bottle into the garbage can[SEP]walk straight and turn left towards the sink[SEP]pick up the soap bottle on the counter[SEP]turn around and walk straight then turn left towards the garbage can[SEP]put the soap bottle inside the garbage can
+number of steps taken is 190
+list of actions are [('SoapBottle', 'PickupObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 53
+goal instruction is toput pumper bottle in green bin[SEP]walk to face sink[SEP]pick up pumper bottle from near sink[SEP]turn around to face green bin[SEP]put bottle in green bin
+number of steps taken is 159
+list of actions are [('SoapBottle', 'PickupObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 54
+goal instruction is toplace a microwaved tomato slice inside of the fridge[SEP]move to the right a bit and face the kitchen counter you were originally facing[SEP]grab the butter knife off of the kitchen counter[SEP]move to the left a bit and face the same kitchen counter again[SEP]cut up the tomato on the kitchen counter[SEP]move to the left a bit and face the kitchen stove[SEP]place the butter knife inside of the microwave[SEP]move to the right a bit and face the kitchen counter again[SEP]pick up a tomato slice off of the kitchen counter[SEP]move to the left again enough so that you can face the stove[SEP]place the slice of tomato inside of the microwave let it cook then take it back out[SEP]turn right and walk to the end of the room then face the refrigerator on the right side[SEP]place the tomato slice inside of the fridge
+number of steps taken is 278
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 55
+goal instruction is toput a cooked slice of tomato in a fridge[SEP]go a step to the right while facing the counter[SEP]take the knife from the counter[SEP]go left to the counter area with the tomato[SEP]cut the tomato into slices[SEP]go to the oven to the left[SEP]put the knife in the microwave above the oven[SEP]go right to the tomato on the counter[SEP]take a piece of tomato from the counter[SEP]go right to the tomato on the counter[SEP]cook the tomato in the microwave take the tomato from the microwave[SEP]turn right go to the wall turn right to the fridge[SEP]put the tomato on the middle shelf of the right compartment of the fridge
+number of steps taken is 180
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 56
+goal instruction is toplace a microwaved tomato slice in the fridge[SEP]look at the knife on the counter[SEP]pick up the knife on the counter[SEP]turn left and approach the tomato on the counter[SEP]slice the tomato on the counter[SEP]turn left and then right to face the microwave[SEP]place the knife in the microwave[SEP]turn right and go back to the tomato[SEP]take a slice of tomato[SEP]turn left and walk back to the microwave[SEP]place the tomato in the microwave turn it on then remove the tomato[SEP]turn right and go back to the fridge[SEP]open the doors place the tomato inside then close the doors
+number of steps taken is 164
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 57
+goal instruction is tomove an apple from the table to the sink[SEP]turn around and walk over to the table with the gray tablecloth on your left [SEP]pick up the apple that is on the table [SEP]turn around and head over to the kitchen sink [SEP]place the apple in the sink to the right of the potato 
+number of steps taken is 448
+list of actions are [('Apple', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 58
+goal instruction is toput an apple in the sink[SEP]turn around and then go to the table on your left[SEP]pick up the apple from the table[SEP]turn around and go to the sink on your right[SEP]put the apple back in the sink
+number of steps taken is 223
+list of actions are [('Apple', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Apple', 'PickupObject'), ('Fridge', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 59
+goal instruction is tomove an apple from the round table to the sink[SEP]turn around and go to the round table[SEP]pick up the apple on the round table [SEP]turn around and go to the sink[SEP]put the apple in the sink
+number of steps taken is 152
+list of actions are [('Apple', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 60
+goal instruction is toput a knife in a pot from the stove to place on the circular table[SEP]turn around and walk towards the fridge stopping to face the countertop in front of it[SEP]pick up the knife from the countertop[SEP]turn left to walk towards the stove[SEP]put the knife in the flattest circular pot on the stove[SEP]put up the pot with the knife from the stove[SEP]make a left to walk around the counter towards the circular table[SEP]put the pot with the knife on top of the table
+number of steps taken is 536
+list of actions are [('Knife', 'PickupObject'), ('Pot', 'PutObject'), ('Pot', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 61
+goal instruction is toput the knife into the pan put the pan on the table[SEP]turn right go forward a bit turn right go forward turn left at the end of the counter[SEP]pick up the knife on the counter[SEP]turn left go forward turn right in front of the stove[SEP]put the knife in the pan on the stove[SEP]pick up the pan from the stove[SEP]turn left go forward turn left go to the table[SEP]put the pan on the table
+number of steps taken is 1001
+list of actions are [('Knife', 'PickupObject'), ('Pan', 'PutObject'), ('Pan', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 62
+goal instruction is toto put a knife in a pan and place it on the kitchen table[SEP]turn around and walk across the room and turn left to face the counter[SEP]pick up the knife on the counter[SEP]take a step to the left to face the stove[SEP]place the knife on the front right burner[SEP]pick up the pan with a knife in it on the stove[SEP]turn left and walk across the room then turn left and walk forward to face the kitchen table[SEP]place the pan with the knife on it on the kitchen table
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Pan', 'PutObject'), ('Pan', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 63
+goal instruction is toput two pencils on top of drawers[SEP]turn around go to the table[SEP]pick up a pencil on the table[SEP]move a bit to the right[SEP]put the pencil on top of the drawers under the table[SEP]move a bit to the left[SEP]pick up a pencil on the table[SEP]move a bit to the right[SEP]put the pencil on top of the drawers under the table
+number of steps taken is 169
+list of actions are [('Pencil', 'PickupObject'), ('Dresser', 'PutObject'), ('Pencil', 'PickupObject'), ('Dresser', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 64
+goal instruction is toput two pencils on top of drawers[SEP]turn right go forward to the wall turn right go forward to the table[SEP]take the closest pencil from the table[SEP]move back from the table and to the right face the table[SEP]put the pencil on the right closest corner on top of the drawers below the table[SEP]move forward and to the left back to the table[SEP]take the pencil from the table[SEP]move back from the table and to the right face the table[SEP]put the pencil on the right closest corner on top of the drawers below the table
+number of steps taken is 242
+list of actions are [('Pencil', 'PickupObject'), ('Dresser', 'PutObject'), ('Pencil', 'PickupObject'), ('Dresser', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 65
+goal instruction is tomove two pencils to a cabinet beneath the table[SEP]turn around and cross the room to the white table[SEP]pick up the pencil closest to you from the table[SEP]back up a step from the table while carrying the pencil[SEP]place the pencil on top of the small cabinet beneath the table[SEP]step closer to the table[SEP]pick up the remaining pencil from the table[SEP]move a step back from the table again [SEP]place the other pencil on top of the cabinet beneath the white table
+number of steps taken is 879
+list of actions are [('Pencil', 'PickupObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject'), ('Pencil', 'PickupObject'), ('Cabinet', 'OpenObject'), ('Cabinet', 'PutObject'), ('Cabinet', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 66
+goal instruction is toturn on a lamp while holding the disk[SEP]move around to the cupboard[SEP]pick up the disk on the cupboard[SEP]turn around and head to the table[SEP]turn on the lamp on the table
+number of steps taken is 122
+list of actions are [('CD', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 67
+goal instruction is toinspect a cd by lamp light[SEP]turn around and walk to the white desk then turn right and walk to the dresser[SEP]pick up the cd thats in front of you on the dresser[SEP]turn left and walk to the wall then turn left and walk to the desk[SEP]turn on the light thats on the desk
+number of steps taken is 103
+list of actions are [('CD', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 68
+goal instruction is tolook at a disk under the lamp light[SEP]go to the dresser[SEP]pick up the disk from the dresser[SEP]take the disk to the lamp[SEP]turn on the lamp
+number of steps taken is 110
+list of actions are [('CD', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 69
+goal instruction is toplace a bowl holding a knife and potato slice into the microwave[SEP]turn left and go to face the grey round table[SEP]pick up the knife on the grey round table[SEP]turn around and move to the sink at the end of the counter[SEP]slice the potato in the sink with the knife[SEP]turn around and head to face the bowl to the left of the lettuce on the other counter[SEP]place the knife in the bowl to the left of the lettuce[SEP]turn around and go back to the sink[SEP]pick up a potato slice in the sink[SEP]turn around and move to face the bowl with the knife in it[SEP]place the potato slice in the bowl with the knife in it[SEP]pick up the bowl on the counter holding the potato slice and knife[SEP]turn left and go to the microwave above the stove[SEP]place the bowl with the knife and potato slice in the microwave
+number of steps taken is 250
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Bowl', 'PutObject'), ('Bowl', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 70
+goal instruction is tomoving a bowl knife and slice of potato to the microwave[SEP]turn left and go to the small table[SEP]pick up the knife on the table[SEP]turn left and go around to the front of the sink[SEP]slice the potato in the sink[SEP]turn around and move to the counter in front and to the right[SEP]put the knife in the bowl[SEP]turn around and go back to the sink to the right[SEP]pick up a slice of potato from inside the sink[SEP]turn around and go back to the counter thats ahead and to the right[SEP]put the slice of potato in the bowl[SEP]pick up the bowl with the knife and potato inside[SEP]turn to the left and go to the stove[SEP]open the microwave place the bowl with the knife and potato inside close the door
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Bowl', 'PutObject'), ('Bowl', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 71
+goal instruction is tomicrowave the knife with potato slices[SEP]turn to the left walk to the table on the right[SEP]pick up the knife from the table[SEP]turn around then turn right walk to the sink on the right[SEP]slice the potato that is in the sink[SEP]turn to the left walk to the counter on the left that has the bowl[SEP]place the knife in the bowl[SEP]turn to the left walk back to the sink on the left[SEP]pick up a slice of potato from the sink[SEP]turn to the left walk back to the bowl with the knife in it on the left[SEP]place the potato slice in the bowl on the counter[SEP]pick up the bowl that contains the knife and the potato from on the counter[SEP]turn to the left walk to the microwave that is above the stove on the right[SEP]open the microwave place the bowl potato slice and knife inside and shut the door
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 72
+goal instruction is torinse off a tomato slice and cook it in the microwave[SEP]look down and turn left then walk straight then turn right towards the counter[SEP]pick up the butter knife in front of the other knife[SEP]turn left walk straight then turn left towards the sink and walk straight[SEP]cut the tomato near the sink with the knife[SEP]put the knife into the sink[SEP]pick up a tomato slice off of the counter[SEP]put the tomato slice into the sink and fill the sink with water then drain the water and pick up the tomato slice[SEP]turn left and walk straight towards the wall and turn left and walk straight towards the oven and look up[SEP]open the microwave and put the tomato slice inside and close the door
+number of steps taken is 155
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 73
+goal instruction is toput a clean tomato slice in the microwave [SEP]turn to the counter to your left [SEP]pick up the butter knife from the edge of the counter [SEP]turn to your left and go to the sink at the end of the kitchen on your left [SEP]cut the tomato on the covered portion of the sink into slices [SEP]place the knife in the sink [SEP]pick up one of the tomato slices [SEP]place the tomato slice in the sink to the right of the knife turn the water on rinse the tomato slice off turn the water off and remove the tomato slice from the sink [SEP]turn to your left and go to the microwave above the oven at the end  of the kitchen on your right[SEP]place the tomato slice in the microwave 
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 74
+goal instruction is toplace a clean tomato in the microwave[SEP]turn left and face the counter with the toaster on your right[SEP]take the silver knife from the counter in front of you[SEP]turn left then face the sink on your left[SEP]slice the tomato on the counter in front of you[SEP]place the knife in the sink in front of you[SEP]take a tomato slice from the counter in front of you[SEP]wash the tomato slice in the sink in front of you and take it out[SEP]turn left and face the microwave above you on your left[SEP]place the tomato slice in the microwave in front of you and close it
+number of steps taken is 139
+list of actions are [('Tomato', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Tomato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 75
+goal instruction is toplace a clean tomato in the microwave[SEP]turn left and face the counter with the toaster on your right[SEP]take the silver knife from the counter in front of you[SEP]turn left then face the sink on your left[SEP]slice the tomato on the counter in front of you[SEP]place the knife in the sink in front of you[SEP]take a tomato slice from the counter in front of you[SEP]wash the tomato slice in the sink in front of you and take it out[SEP]turn left and face the microwave above you on your left[SEP]place the tomato slice in the microwave in front of you and close it
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 76
+goal instruction is toplace a microwaved slice of potato into the trash can[SEP]head towards the door then right towards the sink[SEP]pick up the knife inside the sink[SEP]turn around then right towards the wall turn left towards the counter top[SEP]cut the potato on the counter top [SEP]turn left then head towards the stove[SEP]place the knife into the microwave located above the stove[SEP]turn right then head towards the wall then left towards the counter top[SEP]pick up a potato slice from the counter top[SEP]turn left then head towards the stove turn right towards the microwave[SEP]place the potato slice into the microwave close the door then turn it on[SEP]turn left then head towards wall right towards the door then left towards the trash can[SEP]place the potato slice into the trash can
+number of steps taken is 392
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 77
+goal instruction is totrash a cooked potato slice[SEP]move right to the sink[SEP]pick up the knife from the sink[SEP]turn left to the table[SEP]slice the potato on the table[SEP]turn around to the oven[SEP]drop the knife in the oven[SEP]move right to the table[SEP]pick up a potato slice[SEP]head left to the oven [SEP]place the potato in the oven to cook and then take it out[SEP]move left to the bin[SEP]trash the slice in the bin
+number of steps taken is 372
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 78
+goal instruction is totrash a cooked potato slice[SEP]move right to the sink[SEP]pick up the knife from the sink[SEP]turn left to the table[SEP]slice the potato on the table[SEP]turn around to the oven[SEP]drop the knife in the oven[SEP]move right to the table[SEP]pick up a potato slice[SEP]head left to the oven [SEP]place the potato in the oven to cook and then take it out[SEP]move left to the bin[SEP]trash the slice in the bin
+number of steps taken is 36
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 79
+goal instruction is toputting a wet soap on a toilet[SEP]walk to the sink on your right[SEP]grab the soap bar that is to the right of the sink[SEP]put the soap in the sink and then wet it with water then grab the soap out of the sink[SEP]turn around an walk to the toilet[SEP]place the soap on top of the back of the toilet
+number of steps taken is 125
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 80
+goal instruction is toputting a wet soap on a toilet[SEP]walk to the sink on your right[SEP]grab the soap bar that is to the right of the sink[SEP]put the soap in the sink and then wet it with water then grab the soap out of the sink[SEP]turn around an walk to the toilet[SEP]place the soap on top of the back of the toilet
+number of steps taken is 50
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 81
+goal instruction is toto move a knife and a cup to the table [SEP]turn around and walk to the counter to the left of the stove [SEP]pick up the knife on the edge of the counter [SEP]move to the front of the stove and look up at the microwave [SEP]open the microwave door place the knife in the cup in the microwave [SEP]take the cup out of the microwave and shut the door [SEP]walk to the table to the left of the room [SEP]place the cup down on the table in front of the apple 
+number of steps taken is 1000
+list of actions are [('ButterKnife', 'PickupObject'), ('Cup', 'PutObject'), ('Cup', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 82
+goal instruction is toplace a glass containing a knife on the table [SEP]turn to your right and walk across the kitchen to the small counter on your right just past the stove [SEP]pick up the butter knife on the edge of the counter [SEP]move to your right so that you are directly in front of the stove and microwave [SEP]put the butter knife in the glass that is in the microwave [SEP]remove the glass with the butter knife in it from the microwave [SEP]turn to your left and walk towards the window then turn left at the window and walk to the table across from you [SEP]put the glass with the knife inside it on the table in front of the silverware on the right side of the table 
+number of steps taken is 1000
+list of actions are [('ButterKnife', 'PickupObject'), ('Cup', 'PutObject'), ('Cup', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 83
+goal instruction is toput the glass with knife on the table[SEP]turn around to your left then  walk straight head to the counter top beside the left side of the stove[SEP]pick up the knife in front of the mug on the counter top[SEP]turn right then move slightly face the microwave above the stove[SEP]open the microwave then put the knife in the glass[SEP]pick up the glass with knife in the microwave then close the microwave[SEP]turn to your left then walk forward turn left then face the table[SEP]put the glass with knife on the edge of the table
+number of steps taken is 1000
+list of actions are [('ButterKnife', 'PickupObject'), ('Cup', 'PutObject'), ('Cup', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 84
+goal instruction is toput the glass with knife on the table[SEP]turn around to your left then  walk straight head to the counter top beside the left side of the stove[SEP]pick up the knife in front of the mug on the counter top[SEP]turn right then move slightly face the microwave above the stove[SEP]open the microwave then put the knife in the glass[SEP]pick up the glass with knife in the microwave then close the microwave[SEP]turn to your left then walk forward turn left then face the table[SEP]put the glass with knife on the edge of the table
+number of steps taken is 66
+list of actions are [('Cloth', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cloth', 'PickupObject'), ('BathtubBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 85
+goal instruction is toput the glass with knife on the table[SEP]turn around to your left then  walk straight head to the counter top beside the left side of the stove[SEP]pick up the knife in front of the mug on the counter top[SEP]turn right then move slightly face the microwave above the stove[SEP]open the microwave then put the knife in the glass[SEP]pick up the glass with knife in the microwave then close the microwave[SEP]turn to your left then walk forward turn left then face the table[SEP]put the glass with knife on the edge of the table
+number of steps taken is 99
+list of actions are [('Cloth', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cloth', 'PickupObject'), ('BathtubBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 86
+goal instruction is torinse the washcloth in the sink and put it back in the tub[SEP]walk to the tub[SEP]take the washcloth out of the tub[SEP]turn right and go to the sink[SEP]put the washcloth in the sink wash it and pick it back up[SEP]go back to the tub[SEP]put the washcloth back in the tub
+number of steps taken is 121
+list of actions are [('Cloth', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cloth', 'PickupObject'), ('BathtubBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 87
+goal instruction is tocook a bread slice in a microwave and put it in a recycling bin [SEP]turn right and walk to the sink on your left[SEP]pick up the  knife from the sink[SEP]turn left and go to the bread loaf on the counter on your left [SEP]cut the bread loaf into slices[SEP]turn left and stop at the microwave above the stove[SEP]open the microwave door put the knife in and close the door[SEP]turn right and go to the bread on the counter on your left[SEP]pick up one slice of bread[SEP]turn left and go back to the microwave[SEP]open the microwave door put the bread slice in close the door and cook for 7 minutes open the microwave door take out the bread slice and close the door[SEP]turn left and go to the recycling bin at the corner next to the door[SEP]put the bread slice in the recycling bin
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Bread', 'SliceObject'), ('SinkBasin', 'PutObject'), ('BreadSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('BreadSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 88
+goal instruction is topick up knife cut bread cook bread in microwave place in trash can[SEP]turn right straight left to the sink[SEP]pick up knife from the sink[SEP]turn left turn left turn right straight left to the counter[SEP]cut the bread with the knife[SEP]turn around turn right turn right to the microwave[SEP]open door place knife on shelf close door[SEP]turn right straight left to the counter[SEP]pick up bread from the counter[SEP]turn around turn right turn right to the microwave[SEP]open door place bread on shelf close door cook open door remove bread close door[SEP]turn left turn right walk straight turn left to the trash can[SEP]place bread in to the trash can
+number of steps taken is 1002
+list of actions are [('Knife', 'PickupObject'), ('Bread', 'SliceObject'), ('SinkBasin', 'PutObject'), ('BreadSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('BreadSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 89
+goal instruction is tothrow out a heated slice of bread in the recycling bin [SEP]turn right and go to the sink on the left [SEP]pick up the gray knife on the sink [SEP]turn left and go to the counter on the right of the stove [SEP]slice the bread on the counter between the tomato and blue plate [SEP]turn left and go to the microwave above the stove [SEP]place the gray knife inside the microwave[SEP]turn right and go back to the counter with the sliced bread[SEP]pick up the end piece of the bread[SEP]turn left and go back to the front of the microwave [SEP]remove the bread after heating it next to the metal knife in the microwave [SEP]turn left and go to the recycling bin in the right corner across the room [SEP]place the bread in the recycling bin
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Bread', 'SliceObject'), ('SinkBasin', 'PutObject'), ('BreadSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('BreadSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 90
+goal instruction is toput a chilled mug on the coffee maker[SEP]move to the coffee maker ahead of you[SEP]pick up the mug from the coffee maker[SEP]move to the fridge to the left of you[SEP]chill the mug in the fridge for a moment[SEP]move to the coffee maker to the right of the fridge[SEP]put the mug on the coffee maker
+number of steps taken is 159
+list of actions are [('Mug', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Mug', 'PickupObject'), ('Fridge', 'CloseObject'), ('CoffeeMachine', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 91
+goal instruction is tochill a coffee mug[SEP]locate the coffee mug in the coffee machine[SEP]pick up the coffee mug from the coffee machine [SEP]go to the refrigerator to the left [SEP]place the coffee mug inside the refrigerator to chill it and then take it out[SEP]take the coffee mug back to the coffee machine to the right[SEP]place the coffee mug on the coffee machine
+number of steps taken is 1000
+list of actions are [('Mug', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Mug', 'PickupObject'), ('Fridge', 'CloseObject'), ('CoffeeMachine', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 92
+goal instruction is toput a cooled mug on a coffee machine[SEP]bend down toward the mug on the coffee machine[SEP]pick up the mug from the coffee machine[SEP]turn around and walk to the refrigerator on the right[SEP]place the mug on the top shelf of the refrigerator for a few seconds and take it back out[SEP]turn right and walk back to the coffee machine[SEP]place the mug on the coffee machine
+number of steps taken is 610
+list of actions are [('Mug', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Mug', 'PickupObject'), ('Fridge', 'CloseObject'), ('CoffeeMachine', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 93
+goal instruction is tocool off an egg using the fridge[SEP]turn around and walk to the opposite wall then turn left and face the trash can[SEP]take the egg from the trash can[SEP]turn left and walk to the fridge[SEP]put the egg in the fridge for ten seconds then take it back out[SEP]turn around and walk back to the trash can in the corner[SEP]put the egg in the trash can
+number of steps taken is 192
+list of actions are [('Egg', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Egg', 'PickupObject'), ('Fridge', 'CloseObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 94
+goal instruction is toput a chilled egg in the trash can in the corner [SEP]move to the trash can in the corner[SEP]pick up the egg in the trash can[SEP]bring the egg to the fridge[SEP]chill the egg in the fridge[SEP]bring the chilled egg to the trash can in the corner[SEP]put the chilled egg in the trash can in the corner 
+number of steps taken is 169
+list of actions are [('Egg', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Egg', 'PickupObject'), ('Fridge', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 95
+goal instruction is totake the white ball from the trash can put it inside the refrigerator  return the ball back to the can in the corner where you got it[SEP]turn to your right and go to the hexagonal shaped urncan in the corner[SEP]pick up the white ball from inside the hexagonal shaped can[SEP]take the ball to the refrigerator behind you[SEP]open the refrigerator door set the ball inside beside the head of lettuce close the door to the refrigerator open the door to the refrigerator pick ball up again[SEP]shut the door to the refrigerator carry the ball back to the hexagon shaped can where you got it[SEP]place the ball back in the can
+number of steps taken is 1000
+list of actions are [('BaseballBat', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('BaseballBat', 'PickupObject'), ('Fridge', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 96
+goal instruction is toput a heated tomato slice on the table[SEP]turn right and walk to the counter on the left with knives a potato and a kettle[SEP]pick up the knife from the front of the counter[SEP]turn left and carry the knife to a counter with a tomato and bread[SEP]slice the tomato to the right of the loaf of bread[SEP]turn right and walk to the table[SEP]set the knife down on the table with the handle up[SEP]turn left and walk to the counter with the tomato and the loaf of bread[SEP]pick up a slice of tomato[SEP]carry the tomato to the microwave to the right of the counter[SEP]put the slice of tomato in the microwave and turn it on  take the tomato slice out[SEP]turn left and walk toward the window then turn left and walk to the table[SEP]put the tomato slice in front of the knife on the table
+number of steps taken is 1002
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 97
+goal instruction is tocut and cook a tomato put the tomato on the round table[SEP]turn right and walk past the stove then turn left to face the counter with the kettle[SEP]pick up the closest knife from the counter[SEP]turn left and walk to the counter on the left side of the stove with the loaf of bread[SEP]slice the tomato on the counter next to the bread[SEP]turn around and walk to the round table with a table cloth on it[SEP]stick the knife point side down into the top of table[SEP]turn around and walk to the counter to the left of the stove with the tomato on it[SEP]pick up a piece of tomato from the counter[SEP]turn and face the stove to your right[SEP]cook the piece of tomato in the microwave above the stove then remove the tomato from the microwave[SEP]turn left then left again and walk to the round table with the table cloth on it[SEP]put the tomato on the table near the knife
+number of steps taken is 1002
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 98
+goal instruction is toput a piece of cooked pepper on the gray table[SEP]cross the kitchen and face the counter on the left[SEP]pick up the knife thats closest to the edge of the counter[SEP]bring the knife with you and go face counter on the left of the stove[SEP]slice the red pepper sitting to the right of the bread with the knife[SEP]bring the knife to the small gray table on the far side of the room[SEP]put the knife down on the gray table[SEP]go back over to where you sliced the pepper[SEP]pick up a piece of the pepper from the counter[SEP]bring the pepper with you and move to the right then look up and face the microwave[SEP]put the pepper in the microwave and cook it then take it out again[SEP]bring the cooked pepper over to the gray table where you put the knife[SEP]put the pepper down on the table in front of the knife
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('TomatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 99
+goal instruction is toput a piece of cooked pepper on the gray table[SEP]cross the kitchen and face the counter on the left[SEP]pick up the knife thats closest to the edge of the counter[SEP]bring the knife with you and go face counter on the left of the stove[SEP]slice the red pepper sitting to the right of the bread with the knife[SEP]bring the knife to the small gray table on the far side of the room[SEP]put the knife down on the gray table[SEP]go back over to where you sliced the pepper[SEP]pick up a piece of the pepper from the counter[SEP]bring the pepper with you and move to the right then look up and face the microwave[SEP]put the pepper in the microwave and cook it then take it out again[SEP]bring the cooked pepper over to the gray table where you put the knife[SEP]put the pepper down on the table in front of the knife
+number of steps taken is 90
+list of actions are [('Laptop', 'PickupObject'), ('Bed', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 100
+goal instruction is toput a computer on the bed[SEP]go to the dresser across from the bed[SEP]take the computer from the dresser[SEP]go to the left side of the bed[SEP]place the computer on the bed and next to the cell phone
+number of steps taken is 184
+list of actions are [('Laptop', 'PickupObject'), ('Bed', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 101
+goal instruction is tomove the tablet on the dresser to the bed[SEP]walk around the bed to the front of the dresser[SEP]grab the tablet above the pencil[SEP]walk around the bed to the left side of the bed[SEP]place the tablet on the bed
+number of steps taken is 156
+list of actions are [('CellPhone', 'PickupObject'), ('Bed', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 102
+goal instruction is toexamine a watch with a lamp[SEP]turn around walk to the table[SEP]turn the lamp on[SEP]pick up the watch that is on the table
+number of steps taken is 112
+list of actions are [('Watch', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 103
+goal instruction is toexamine a watch with a lamp[SEP]turn around walk to the table[SEP]turn the lamp on[SEP]pick up the watch that is on the table
+number of steps taken is 35
+list of actions are [('Watch', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 104
+goal instruction is toexamine a watch with a lamp[SEP]turn around walk to the table[SEP]turn the lamp on[SEP]pick up the watch that is on the table
+number of steps taken is 29
+list of actions are [('Watch', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 105
+goal instruction is toget tomato cold then put it in the sink[SEP]turn around walk to window turn left walk to table and chair[SEP]lift tomato from right side of table[SEP]turn around turn left then turn right to go to refrigerator[SEP]open refrigerator place tomato on second shelf down on right side  shut refrigerator  wait a few seconds  open refrigerator and pick up tomato  shut refrigerator[SEP]turn right go until reach end of sink on left[SEP]place tomato in the right side of the sink
+number of steps taken is 164
+list of actions are [('Tomato', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Tomato', 'PickupObject'), ('Fridge', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 106
+goal instruction is toput the cold tomato in the sink[SEP]turn to your right walk straight towards the window then turn left going to the table[SEP]pick up the tomato on the table[SEP]turn around to your left then right head to the fridge on your right[SEP]open the fridge put in and out the tomato then close the fridge[SEP]turn to your right then walk straight then face to your left at the sink[SEP]put the tomato in the sink
+number of steps taken is 1000
+list of actions are [('Tomato', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Tomato', 'PickupObject'), ('Fridge', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 107
+goal instruction is toput a tomato in the sink[SEP]walk across the room and turn left to face the gray table[SEP]pick the tomato up from the table[SEP]walk around the room and turn to face the fridge[SEP]put the tomato in the fridge and close the door and then open the door and take the tomato out and shut the door[SEP]go right and the to the left to face the sink[SEP]put a chilled tomato in the sink
+number of steps taken is 1000
+list of actions are [('Tomato', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 108
+goal instruction is toput a heated egg on a round table[SEP]turn left and walk over to the counter then hang a right and walk across the room to the round table[SEP]pick up the egg off of the table[SEP]turn around and walk towards the door then hang a right and walk over to the stove and look up at the microwave[SEP]open the microwave and put the egg inside then heat it up for a couple seconds and take it out[SEP]turn left and walk back over to the round table[SEP]put the heated egg on the table to the right of the large metal knife
+number of steps taken is 1000
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Egg', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 109
+goal instruction is toto heat an egg and put it on the table [SEP]walk to the small table ahead of you [SEP]pick up the egg in front of the butter knife [SEP]turn around walk to the stove look up at the microwave above the stove [SEP]open the microwave door place the egg inside the microwave heat up the egg take the egg out of the microwave close the microwave door [SEP]turn left turn left at the window walk to the small table ahead of you [SEP]put the egg down on the table to the right of the pen 
+number of steps taken is 1002
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Egg', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 110
+goal instruction is toheat up the egg on the table using the microwave[SEP]move forward to the round table[SEP]pick up the egg from the table[SEP]turn left twice move forward turn right move forward to the microwave and turn left to face it[SEP]heat the egg in the microwave and remove it[SEP]turn to the left move forward turn to the left again and walk to the table[SEP]put the egg on the table
+number of steps taken is 1001
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Egg', 'PickupObject'), ('Microwave', 'CloseObject'), ('SideTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 111
+goal instruction is toheat the tomato and set it in the sink[SEP]turn right to near the toaster[SEP]pick up the tomato off of the counter[SEP]go to the microwave on the right[SEP]open the microwave heat the tomato and take the tomato out[SEP]turn left and take the tomato to the sink[SEP]set the tomato in the sink
+number of steps taken is 155
+list of actions are [('Tomato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Tomato', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 112
+goal instruction is toput a heated tomato in the sink[SEP]move to the counter space to the right of the cook top[SEP]pick up a tomato from the counter[SEP]move to the microwave to the right of you[SEP]heat the tomato in the  microwave and retrieve it closing the door[SEP]move to the sink across from the cook top[SEP]place the tomato inside the sink
+number of steps taken is 174
+list of actions are [('Tomato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Tomato', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 113
+goal instruction is toput a cooked tomato in a sink [SEP]turn to the right and go to the counter where the toaster is [SEP]pick up the tomato that is on the counter next to the toaster [SEP]go to the right and raise the tomato up to the microwave [SEP]put the tomato in the microwave turn it on to cook remove the tomato when it is done cooking [SEP]turn to the left go forward turn to the sink that will be on the left [SEP]put the cooked tomato in the sink 
+number of steps taken is 203
+list of actions are [('Tomato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Tomato', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 114
+goal instruction is toput a clean vase on the table[SEP]turn left turn right walk to counter turn left to face counter[SEP]open cabinet above counter take out clear vase[SEP]turn left walk to sink turn to face sink[SEP]put vase in sink fill sink with water empty sink take out vase[SEP]walk to round table beside the sink[SEP]put vase on table
+number of steps taken is 1000
+list of actions are [('Vase', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Vase', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 115
+goal instruction is toplace a clean glass on a table[SEP]cross the room and walk to the counter on the left with the tea kettle on it[SEP]open the cabinet above the tea kettle on the counter pick up the dirty glass from inside the cabinet and close the door[SEP]turn around hang a right at the black dishwasher and walk to the sink on the left[SEP]put the dirty glass in the sink rinse it for a few seconds and pick up the clean glass[SEP]turn right and hang a left at the wall to reach the gray round table[SEP]put the clean glass on the round table in between the potato and the silver knife
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cup', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 116
+goal instruction is tomove a washed glass from the cupboard to the table [SEP]turn and go to the cabinet above the counter[SEP]take the glass out of the counter [SEP]turn and go to the sink[SEP]wash the glass in the sink and pick up the glass [SEP]turn and go to the table[SEP]put the glass on the table 
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cup', 'PickupObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 117
+goal instruction is toput a cooled cup down on the table[SEP]turn around and face the table with the white cup[SEP]pick the white cup up from the table[SEP]turn to the right and stand in front of the fridge[SEP]put the cup in the left side and shut the door and then open it and take the cup out[SEP]go left and stand next to the table[SEP]put the cup down onto the corner of the table to the left
+number of steps taken is 201
+list of actions are [('Cup', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Cup', 'PickupObject'), ('Fridge', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 118
+goal instruction is toput a chilled mug on the corner of a table[SEP]turn around and go to the table behind you[SEP]pick up the white mug from the right side of the table and tilt the apple onto its side[SEP]turn right and go to the fridge[SEP]put the mug on a shelf in the fridge and close the door then take the mug back out and reclose the fridge[SEP]turn left and go forward until the end of the table is on your left[SEP]reach forward and put the mug on the back right corner of the table
+number of steps taken is 132
+list of actions are [('Mug', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Mug', 'PickupObject'), ('Fridge', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 119
+goal instruction is tochill or cool down mug followed by drinking it[SEP]turn around and walk to the corner of the desk[SEP]pick up the white coffee mug on the desk[SEP]turn around and open the refrigerator[SEP]place the mug in the refrigerator chill and then remove it[SEP]turn around and take a drink from the mug[SEP]place the mug back on the desk
+number of steps taken is 1000
+list of actions are [('Mug', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject'), ('Fridge', 'OpenObject'), ('Mug', 'PickupObject'), ('Fridge', 'CloseObject'), ('SideTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 120
+goal instruction is tochill or cool down mug followed by drinking it[SEP]turn around and walk to the corner of the desk[SEP]pick up the white coffee mug on the desk[SEP]turn around and open the refrigerator[SEP]place the mug in the refrigerator chill and then remove it[SEP]turn around and take a drink from the mug[SEP]place the mug back on the desk
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 121
+goal instruction is tocut potatoes in the sink[SEP]turn around and face the counter to the right of the stove[SEP]pick up the knife from the counter[SEP]bringing the knife with you move back the way you came and face the kitchen sink[SEP]put the knife in the sink and wash it then pick it up again[SEP]put the knife back in the sink[SEP]go to the left and face the red microwave[SEP]open the microwave and take the potato out of it[SEP]bring the potato with you and go to face the sink again[SEP]put the potato in the sink[SEP]pick up the clean knife from the sink[SEP]use the knife to slice the potato[SEP]put the knife back in the sink[SEP]take a step right and face the counter to the right of the sink[SEP]pick up the potato on the far side of the counter behind the coffee maker[SEP]bring the potato with you to the sink[SEP]put the potato in the sink[SEP]pick up the knife from the sink[SEP]use the knife to cut the second potato in the sink
+number of steps taken is 1001
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 122
+goal instruction is toslice and wash food[SEP]turn left walk to the counter behind you[SEP]put the knife in your hand[SEP]walk back to the sink [SEP]place the knife in the sink and wash it pick the knife back up[SEP]place the knife back in the sink[SEP]turn left walk to the microwave on your left[SEP]open the microwave door pick the food up with your hand[SEP]turn left walk the food back to the sink[SEP]place the food in the sink[SEP]pick the knife up with your hand[SEP]slice the food with the knife[SEP]place the knife back in the sink[SEP]turn right walk to the counter next to the coffee maker[SEP]pick up the food with your hand[SEP]turn left walk back to the sink[SEP]place the food in the sink[SEP]pick up the knife with your hand[SEP]slice the food in the sink
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Tomato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('TomatoSliced', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('TomatoSliced', 'PickupObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 123
+goal instruction is toplace a cooked egg into the sink [SEP]move forward then turn to your left to face the kitchen sink [SEP]pick up the egg that is to the left of the other egg inside the sink [SEP]turn to your left walk forward until you reach the wall then turn left to face the microwave [SEP]cook the egg in the microwave before taking it back out [SEP]turn to your left and walk back over to the kitchen sink [SEP]place the egg back in the sink to the left of the other egg 
+number of steps taken is 146
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Egg', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 124
+goal instruction is toput a warmed egg in the sink[SEP]turn to the left and face the sink[SEP]pick the egg on the left up out of the sink[SEP]go left and then left to face the microwave[SEP]put the egg in the microwave and shut the door and then open the door and take the egg out and shut the door[SEP]go left and then turn left to face the sink[SEP]put the egg in the sink
+number of steps taken is 472
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Egg', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 125
+goal instruction is toput a cooked egg in a sink[SEP]go forward turn left at the sink go to the sink[SEP]take the left egg from the sink[SEP]turn left go to the wall turn left go to the oven [SEP]cook the egg in the microwave above the egg take the egg from the microwave[SEP]turn left go forward turn left at the sink go to the sink[SEP]put the egg to the left of the other egg in the sink
+number of steps taken is 154
+list of actions are [('Egg', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Egg', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 126
+goal instruction is tomove the statue from the wall to the coffee table[SEP]turn around face the sofa[SEP]grab the statue on the wall[SEP]turn around to the coffee table[SEP]put the status down on the table
+number of steps taken is 116
+list of actions are [('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 127
+goal instruction is tomove a dog from a shelf to the coffee table[SEP]turn to face the couch look up to the shelf with a dog on it[SEP]take the dog down from the shelf it is on[SEP]turn around face the coffee table behind you[SEP]put the dog on to the coffee table
+number of steps taken is 126
+list of actions are [('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 128
+goal instruction is tomove the dog statue from the shelf to the coffee table[SEP]turn around and walk toward the fireplace then look up at the shelf[SEP]pick up the dog statue from the shelf[SEP]turn around and look down[SEP]place the dog statue on the coffee table
+number of steps taken is 126
+list of actions are [('Statue', 'PickupObject'), ('CoffeeTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 129
+goal instruction is toplace a cleaned glass cup on the top right shelf inside the fridge[SEP]walk towards the counter behind you and look up at the cabinet above the tomato[SEP]take out the glass cup from the cabinet[SEP]take a step to the right towards the sink[SEP]place the cup in the sink wash it and pick it back up[SEP]turn left and walk towards the fridge to your right[SEP]place the cup on the top right shelf in the fridge
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cup', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 130
+goal instruction is toput a clean vase in the fridge[SEP]turn and walk across the room to the counter above the dishwasher[SEP]open the cabinet above the tomato take out the dirty vase in the cabinet and close the cabinet[SEP]turn and walk to the sink on the left[SEP]clean the dirty vase off in the sink[SEP]take the clean vase out of the sink and walk across the room to the fridge[SEP]open the fridge put the clean vase in the fridge and close the fridge
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cup', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 131
+goal instruction is totake a clean vase to the fridge[SEP]turn around and face the counter to the left of the sink[SEP]open the cupboard above the counter and take out the vase[SEP]go to the right and face the sink[SEP]put the case in the sink and turn the water on and then turn the water off and take the vase out[SEP]walk towards the fridge and face the fridge[SEP]open the fridge and put the vase on the top shelf and then shut the fridge door
+number of steps taken is 1000
+list of actions are [('Cup', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Cup', 'PickupObject'), ('Fridge', 'OpenObject'), ('Fridge', 'PutObject'), ('Fridge', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 132
+goal instruction is totake a clean vase to the fridge[SEP]turn around and face the counter to the left of the sink[SEP]open the cupboard above the counter and take out the vase[SEP]go to the right and face the sink[SEP]put the case in the sink and turn the water on and then turn the water off and take the vase out[SEP]walk towards the fridge and face the fridge[SEP]open the fridge and put the vase on the top shelf and then shut the fridge door
+number of steps taken is 84
+list of actions are [('Apple', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Apple', 'PickupObject'), ('CounterTop', 'PutObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 133
+goal instruction is toplace a warmed apple in the recycling bin[SEP]approach the counter to the left of the stove[SEP]pick up the apple from the counter[SEP]approach the microwave above the stove[SEP]put the apple in the microwave turn the microwave on and wait before removing the apple [SEP]turn to your left and walk to the recycling bin[SEP]place the apple in the recycling bin
+number of steps taken is 184
+list of actions are [('Apple', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Apple', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 134
+goal instruction is toplace a microwaved apple in a garbage can[SEP]walk forward slightly and turn right towards the counter top[SEP]pick up the apple from the counter top[SEP]turn right and walk to the microwave above the stove top[SEP]microwave the apple for a few seconds then take it out and close the microwave[SEP]turn left and walk to the blue garbage can in the corner of the room[SEP]put the apple in the garbage can
+number of steps taken is 158
+list of actions are [('Apple', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Apple', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 135
+goal instruction is toplace a cardboard box with a credit card inside on the couch[SEP]turn around and walk to the end of the room then turn left to face the brown table against the wall[SEP]pick up the cardboard box from the table[SEP]turn around and walk over to the couch on the left side of the room against the wall[SEP]place the cardboard box on top of the couch[SEP]turn around and face the coffee table[SEP]grab the credit card off of the coffee table[SEP]turn around and face the cardboard box on the couch[SEP]place the credit card inside of the cardboard box on the couch and close the box
+number of steps taken is 148
+list of actions are [('CreditCard', 'PickupObject'), ('Box', 'PutObject'), ('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 136
+goal instruction is toconceal a credit card in a cardboard box[SEP]turn around to go to the wall behind you at the wall turn right to face the desk under the painting[SEP]pick up the cardboard box that is under the desk[SEP]turn right and go past the left of the coffee table to the right end of the brown sofa[SEP]place the open box on the sofa[SEP]turn around to the left to go to the coffee table behind you[SEP]pick up the credit card from the near right corner of the coffee table[SEP]turn around to your left and go back to the box on the end of the sofa[SEP]place the credit card in the box and close the box
+number of steps taken is 406
+list of actions are [('CreditCard', 'PickupObject'), ('Box', 'PutObject'), ('Box', 'PickupObject'), ('ArmChair', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 137
+goal instruction is toplace a box with a credit card in it on a couch[SEP]turn around and walk straight and go to the right corner of the room[SEP]pick up the box off the floor[SEP]turn right walk around the coffee table and go to the far end of the couch[SEP]place the box on the rightmost couch cushion[SEP]turn around and take a step right facing the coffee table[SEP]pick up the credit card on the table[SEP]turn around and walk back to the box on the couch[SEP]place the credit card in the box on the couch
+number of steps taken is 132
+list of actions are [('CreditCard', 'PickupObject'), ('Box', 'PutObject'), ('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 138
+goal instruction is toplace a box with a credit card in it on a couch[SEP]turn around and walk straight and go to the right corner of the room[SEP]pick up the box off the floor[SEP]turn right walk around the coffee table and go to the far end of the couch[SEP]place the box on the rightmost couch cushion[SEP]turn around and take a step right facing the coffee table[SEP]pick up the credit card on the table[SEP]turn around and walk back to the box on the couch[SEP]place the credit card in the box on the couch
+number of steps taken is 66
+list of actions are [('SprayBottle', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 139
+goal instruction is toplace a box with a credit card in it on a couch[SEP]turn around and walk straight and go to the right corner of the room[SEP]pick up the box off the floor[SEP]turn right walk around the coffee table and go to the far end of the couch[SEP]place the box on the rightmost couch cushion[SEP]turn around and take a step right facing the coffee table[SEP]pick up the credit card on the table[SEP]turn around and walk back to the box on the couch[SEP]place the credit card in the box on the couch
+number of steps taken is 66
+list of actions are [('SprayBottle', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 140
+goal instruction is toput a bottle on the back of a toilet[SEP]go forward and turn left to face the white shelf[SEP]pick up the purple bottle from the shelf[SEP]turn around and face the toilet[SEP]put the bottle on the back of the toilet
+number of steps taken is 116
+list of actions are [('SoapBottle', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 141
+goal instruction is tomove spray bottle from shelf to back of toilet[SEP]walk towards tub turn left walk forward[SEP]pick up spray bottle from bottom shelf[SEP]turn left walk towards the door turn left walk across the room[SEP]put the spray bottle on the back of the toilet
+number of steps taken is 127
+list of actions are [('SprayBottle', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 142
+goal instruction is tomove spray bottle from shelf to back of toilet[SEP]walk towards tub turn left walk forward[SEP]pick up spray bottle from bottom shelf[SEP]turn left walk towards the door turn left walk across the room[SEP]put the spray bottle on the back of the toilet
+number of steps taken is 66
+list of actions are [('SprayBottle', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 143
+goal instruction is tomove spray bottle from shelf to back of toilet[SEP]walk towards tub turn left walk forward[SEP]pick up spray bottle from bottom shelf[SEP]turn left walk towards the door turn left walk across the room[SEP]put the spray bottle on the back of the toilet
+number of steps taken is 66
+list of actions are [('SprayBottle', 'PickupObject'), ('Toilet', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 144
+goal instruction is toput two pencils in the top left drawer of the dresser[SEP]walk over to the bookshelf[SEP]take the pencil from the shelf[SEP]take the pencil to the dresser[SEP]put the pencil in the top drawer on the left[SEP]approach the top of the dresser[SEP]pick up the pencil from the top of the dresser[SEP]approach the left side of dresser again[SEP]put the pencil in the top drawer on the left next to the first pencil
+number of steps taken is 181
+list of actions are [('Pencil', 'PickupObject'), ('Drawer', 'OpenObject'), ('Drawer', 'PutObject'), ('Drawer', 'CloseObject'), ('Pencil', 'PickupObject'), ('Drawer', 'OpenObject'), ('Drawer', 'PutObject'), ('Drawer', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 145
+goal instruction is toplace two pencils inside a cabinet drawer[SEP]turn around step forward and turn left to face the shelves[SEP]pick up the pencil on the left side of the upper shelf[SEP]turn around and walk forward then hang left to face a storage cabinet[SEP]open the top drawer of the cabinet and place the pencil inside then close the drawer[SEP]step forward to get closer to the cabinet[SEP]pick up the pencil in the upper center of the cabinet[SEP]turn around step forward then turn around again to face the cabinet[SEP]open the upper left drawer and place the pencil inside then close the drawer
+number of steps taken is 179
+list of actions are [('Pencil', 'PickupObject'), ('Drawer', 'OpenObject'), ('Drawer', 'PutObject'), ('Drawer', 'CloseObject'), ('Pencil', 'PickupObject'), ('Drawer', 'OpenObject'), ('Drawer', 'PutObject'), ('Drawer', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 146
+goal instruction is toput two pencils into the drawer[SEP]turn around go forward a bit turn left to the shelf unit[SEP]pick up the pencil on the shelf unit[SEP]turn around go forward turn right at the dresser[SEP]put the pencil into the top left drawer[SEP]turn up to the top of dresser[SEP]pick up the pencil on the dresser[SEP]turn around go forward a bit turn around[SEP]put the pencil into the top left drawer
+number of steps taken is 180
+list of actions are [('Pencil', 'PickupObject'), ('Drawer', 'OpenObject'), ('Drawer', 'PutObject'), ('Drawer', 'CloseObject'), ('Pencil', 'PickupObject'), ('Drawer', 'OpenObject'), ('Drawer', 'PutObject'), ('Drawer', 'CloseObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 147
+goal instruction is tolook at the coffee cup in the lamp light[SEP]turn to the right and take one step then turn to the right and walk to the dresser [SEP]pick up the coffee cup on the dresser [SEP]turn around and walk to the table [SEP]turn on the lamp 
+number of steps taken is 115
+list of actions are [('Mug', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 148
+goal instruction is topick up a cup and turn on a lamp[SEP]turn around and face the brown dresser[SEP]pick the cup up from the dresser[SEP]turn around and face the white table with the lamp[SEP]turn the lamp on the table on
+number of steps taken is 103
+list of actions are [('Mug', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 149
+goal instruction is toturn on the desk lamp[SEP]turn around and go to the dark brown dresser against the wall [SEP]pick up the coffee mug between the pencil and the keys on the dresser [SEP]turn around and go to the end of the white desk behind you [SEP]turn on the lamp in the right corner of the desk closest to you 
+number of steps taken is 503
+list of actions are [('Pen', 'PickupObject'), ('FloorLamp', 'ToggleObjectOn')]
+success is probably True
+===================================================
+===================================================
+episode # is 150
+goal instruction is toturn on the desk lamp[SEP]turn around and go to the dark brown dresser against the wall [SEP]pick up the coffee mug between the pencil and the keys on the dresser [SEP]turn around and go to the end of the white desk behind you [SEP]turn on the lamp in the right corner of the desk closest to you 
+number of steps taken is 123
+list of actions are [('Laptop', 'PickupObject'), ('Bed', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 151
+goal instruction is toplace a closed laptop on the bed[SEP]turn right and move past the bed and face the dresser in the corner of the room[SEP]close the lid of the laptop and pick up the laptop from the top of the dresser[SEP]turn right move toward the green rubbish bin then turn right and move to the light switch on the wall turn right and face the head of the bed[SEP]place the laptop near the edge of the bed between the two books
+number of steps taken is 133
+list of actions are [('Laptop', 'PickupObject'), ('Bed', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 152
+goal instruction is toplace a closed laptop on the bed[SEP]turn right and move past the bed and face the dresser in the corner of the room[SEP]close the lid of the laptop and pick up the laptop from the top of the dresser[SEP]turn right move toward the green rubbish bin then turn right and move to the light switch on the wall turn right and face the head of the bed[SEP]place the laptop near the edge of the bed between the two books
+number of steps taken is 41
+list of actions are [('Laptop', 'PickupObject'), ('Bed', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 153
+goal instruction is toplace a newspaper on a shelf[SEP]turn around and veer right to the far end of the couch[SEP]pick up the newspaper near the laptop on the couch[SEP]turn right and walk to the shelving unit against the wall[SEP]place the newspaper on the bottom shelf near the center
+number of steps taken is 150
+list of actions are [('Newspaper', 'PickupObject'), ('Shelf', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 154
+goal instruction is toput the newspaper on the shelf[SEP]turn around and walk just past the coffee table then turn right between the couch and the coffee table and go to the end of the couch on your left[SEP]pick up the newspaper to the left of the laptop on the couch [SEP]turn around and go to the shelving unit across the room [SEP]place the newspaper on the middle of the bottom shelf in front of you
+number of steps taken is 231
+list of actions are [('Newspaper', 'PickupObject'), ('Shelf', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 155
+goal instruction is tomove newspaper from couch to shelf[SEP]turn around walk forward one step turn right walk to the end of the couch turn left to face couch[SEP]pick up the newspaper that is on the couch[SEP]turn right take a step turn right walk past coffee table turn right turn left walk to shelves[SEP]put newspaper on the bottom shelf
+number of steps taken is 172
+list of actions are [('Newspaper', 'PickupObject'), ('Shelf', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 156
+goal instruction is totake a potato heat it place it on the table[SEP]turn to your left and walk between the ends of the two counters nearest the window to stand at the sink[SEP]pick up the potato from the sink[SEP]turn around and walk to the front of the stove look up to the microwave oven above the stove[SEP]open the microwave door place the potato in the microwave to the right of the apple close the door turn the microwave on when the microwave stops running open the door remove the potato close the door[SEP]turn to your left and walk in the direction of the window hang a left to the table with the gray table cloth[SEP]place the potato on the table to the left of the egg
+number of steps taken is 1000
+list of actions are [('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Potato', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 157
+goal instruction is toput a cooked potato on the table[SEP]turn around and walk to the sink thats in front of you to the left[SEP]pick up the potato thats in front of you in the sink[SEP]turn around and walk to the stove[SEP]look up and cook the in the microwave then take it back out and close the door[SEP]turn left and take two steps then turn left and walk to the small circular table[SEP]put the potato on the table to the left of the egg
+number of steps taken is 1000
+list of actions are [('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Potato', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 158
+goal instruction is toheat a potato and place it on the table[SEP]turn around then turn left and face the sink on the right[SEP]pick up the potato from inside the sink[SEP]hold the potato and turn around to the stove look up to the microwave [SEP]open the microwave and place the potato inside shut the door and then open it take out the potato[SEP]carry the potato and turn to the left turn left again to move to the round table[SEP]place the potato on the table to the left side
+number of steps taken is 1000
+list of actions are [('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Potato', 'PickupObject'), ('Microwave', 'CloseObject'), ('DiningTable', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 159
+goal instruction is toheat a potato and place it on the table[SEP]turn around then turn left and face the sink on the right[SEP]pick up the potato from inside the sink[SEP]hold the potato and turn around to the stove look up to the microwave [SEP]open the microwave and place the potato inside shut the door and then open it take out the potato[SEP]carry the potato and turn to the left turn left again to move to the round table[SEP]place the potato on the table to the left side
+number of steps taken is 140
+list of actions are [('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 160
+goal instruction is toget an empty box and put it on the couch[SEP]walk across the room to the tv and turn to your left to face the box on the floor[SEP]pick the box up from the floor[SEP]take the box to the front of brown sofa[SEP]set the box on the center of the couch
+number of steps taken is 326
+list of actions are [('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 161
+goal instruction is totake the box near the tv put it on the couch[SEP]head straight to the tv in the corner[SEP]pick up the box from the floor next to the tv[SEP]turn around head across the living room[SEP]put the box on the couch
+number of steps taken is 175
+list of actions are [('Box', 'PickupObject'), ('Sofa', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 162
+goal instruction is totake the box near the tv put it on the couch[SEP]head straight to the tv in the corner[SEP]pick up the box from the floor next to the tv[SEP]turn around head across the living room[SEP]put the box on the couch
+number of steps taken is 108
+list of actions are [('Tomato', 'PickupObject'), ('Microwave', 'OpenObject'), ('CounterTop', 'PutObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Tomato', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 163
+goal instruction is tothrow out a tomato [SEP]turn around and walk across the room then turn right to face the fridge [SEP]open the fridge and take the tomato out of the fridge [SEP]turn to the right then walk a few steps to the stove then turn right to face the stove [SEP]place the tomato in the microwave above the stove then turn the microwave on for a few seconds then remove the tomato [SEP]turn to the left and walk towards the trash can [SEP]put the tomato in the trash 
+number of steps taken is 239
+list of actions are [('Tomato', 'PickupObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 164
+goal instruction is tocook the tomato and throw it away[SEP]turn around head towards the fridge and face the fridge[SEP]open the fridge and take the tomato out then close the door[SEP]turn to the right and head towards the stove then face the stove[SEP]look up at the microwave place the tomato in the microwave close the door cook the tomato and now take it out[SEP]turn to the left and head towards the recycle bin[SEP]place the tomato in the recycle bin
+number of steps taken is 477
+list of actions are [('Tomato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Tomato', 'PickupObject'), ('Microwave', 'CloseObject'), ('GarbageCan', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 165
+goal instruction is tocook the tomato and throw it away[SEP]turn around head towards the fridge and face the fridge[SEP]open the fridge and take the tomato out then close the door[SEP]turn to the right and head towards the stove then face the stove[SEP]look up at the microwave place the tomato in the microwave close the door cook the tomato and now take it out[SEP]turn to the left and head towards the recycle bin[SEP]place the tomato in the recycle bin
+number of steps taken is 223
+list of actions are [('Kettle', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Kettle', 'PickupObject'), ('StoveBurner', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 166
+goal instruction is toplace a clean tea pot on the stove[SEP]turn around and face the stove to your right[SEP]take the tea pot from the stove in front of you[SEP]turn around and face the sink in front of you[SEP]wash the tea pot in the sink in front of you and take it out[SEP]turn around and face the stove in front of you[SEP]place the tea pot on the stove in front of you
+number of steps taken is 916
+list of actions are [('Kettle', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Kettle', 'PickupObject'), ('StoveBurner', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 167
+goal instruction is toplace a clean tea pot on the stove[SEP]turn around and face the stove to your right[SEP]take the tea pot from the stove in front of you[SEP]turn around and face the sink in front of you[SEP]wash the tea pot in the sink in front of you and take it out[SEP]turn around and face the stove in front of you[SEP]place the tea pot on the stove in front of you
+number of steps taken is 129
+list of actions are [('Kettle', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('Kettle', 'PickupObject'), ('StoveBurner', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 168
+goal instruction is toget bar of soap wet and place on shelf[SEP]turn to your right and go to the tub[SEP]pick up the pink bar of soap that is in the center of the tub[SEP]with the soap in hand turn and go to the sink[SEP]place the bar of soap in the sink and turn the water on  get the soap wet then turn the water off and pick up the bar of soap[SEP]with the bar of soap in hand turn and  go to the counter that is to the left of the tub with the yellow wash rag on it[SEP]place the bar of soap on the shelf below the counter
+number of steps taken is 189
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('Shelf', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 169
+goal instruction is topick soap up from tub wash soap in sink put soap on box in front of sink[SEP]turn right and go to tub[SEP]pick up soap from tub[SEP]turn around go straight until reach sink on left  turn left to face sink  proceed to sink[SEP]put soap in sink fill sink with water empty water  pick up soap[SEP]turn around go half way the length of the tub on right[SEP]put soap on box on floor in front of sink
+number of steps taken is 162
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('CounterTop', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 170
+goal instruction is topick soap up from tub wash soap in sink put soap on box in front of sink[SEP]turn right and go to tub[SEP]pick up soap from tub[SEP]turn around go straight until reach sink on left  turn left to face sink  proceed to sink[SEP]put soap in sink fill sink with water empty water  pick up soap[SEP]turn around go half way the length of the tub on right[SEP]put soap on box on floor in front of sink
+number of steps taken is 1002
+list of actions are [('SoapBar', 'PickupObject'), ('SinkBasin', 'PutObject'), ('Faucet', 'ToggleObjectOn'), ('Faucet', 'ToggleObjectOff'), ('SoapBar', 'PickupObject'), ('Cart', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 171
+goal instruction is toput cooked potato in the sink[SEP]turn to the right go forward hang a left and go to the right side of the small round table[SEP]pick up the butter knife that is on the table[SEP]go around to the front side of the table [SEP]cut the potato at the back of the table into slices[SEP]turn around go forward hang a right and go to the sink on the right[SEP]put the knife in the sink[SEP]turn to the right go forward hang a left and go to the round table[SEP]pick up a slice of potato from the table[SEP]turn around go forward hang a right go to the microwave that is above the stove on the left[SEP]put the potato in the microwave and turn it on to cook remove the potato when it is done cooking[SEP]turn around and go to the sink[SEP]put the potato in the sink
+number of steps taken is 1000
+list of actions are [('Potato', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('Potato', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================
+===================================================
+episode # is 172
+goal instruction is toheat up a potato slice in the microwave to put in the sink[SEP]make a left hanging a left around the sink to reach the small round table[SEP]pick up the knife on the small round table[SEP]turn to face the potato on the small round table[SEP]slice the potato with the knife[SEP]turn right to walk to the sink[SEP]put the knife in the sink[SEP]turn left to walk to the small round table[SEP]pick up a potato slice from the table[SEP]turn around to walk to the microwave over the stove[SEP]heat up the potato slice in the microwave removing it afterwards[SEP]turn around to face the sink[SEP]put the potato slice in the sink
+number of steps taken is 1000
+list of actions are [('Knife', 'PickupObject'), ('Potato', 'SliceObject'), ('SinkBasin', 'PutObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'OpenObject'), ('Microwave', 'PutObject'), ('Microwave', 'CloseObject'), ('Microwave', 'ToggleObjectOn'), ('Microwave', 'ToggleObjectOff'), ('Microwave', 'OpenObject'), ('PotatoSliced', 'PickupObject'), ('Microwave', 'CloseObject'), ('SinkBasin', 'PutObject')]
+success is probably True
+===================================================

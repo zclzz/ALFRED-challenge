@@ -1,0 +1,525 @@
+put a chilled glass on the middle wooden shelf  1380
+put a cold glass on a shelf 1381
+put a chilled glass on the shelf 1382
+put the chilled glass on the shelf  1383
+put a cooled glass on the shelf 1384
+put a refridgerated wine glass on the brown shelf 1385
+put away a glass cup on a shelf 1386
+putting a wine glass on the brown shelf 1387
+cool the wine glasses on the counter in the refrigerator move it to the shelf 1388
+place a chilled glass on the shelf 1389
+place a chilled glass on a wooden shelf 1390
+place the rinsed green cup filled with water back into the microwave 1449
+place a cup full of water in to the microwave 1450
+place a cup full of water in to the microwave 1451
+put a cup in the microwave to warm it 1452
+put the washed green cup in the microwave 1453
+put a clean green tumbler into the microwave 1454
+rinse a cup and microwave it 1455
+put a clean glass in a microwave 1456
+put a clean cup in the microwave 1457
+clean a cup to place it in the microwave 1458
+put the rinsed green glass into the microwave 1459
+grab the green cup by the stove wash the cup put it in the microwave 1460
+put a warm glass in the cabinet 1497
+put a hot glass in a cabinet 1498
+dry the glass  and put it in the cabinet  1499
+put a hot glass inside a cabinet 1500
+put a heated glass in the cabinet 1501
+put a glass away in the cupboard 1502
+place a heated cup in a cabinet 1503
+warm a cup from the sink before putting it away in the cabinet 1504
+put heated glass in cabinet 1505
+put a chilled green cup in the microwave 1506
+put a chilled cup in the microwave  1507
+to remove the cup from the fridge to place in the microwave 1508
+put a cold cup in the microwave 1509
+put a cold cup in the microwave  1510
+put a chilled cup in the microwave  1511
+put a cold green cup into the microwave 1512
+put a chilled cup in the microwave 1513
+put the chilled cup in the microwave 1514
+place a glass on a shelf 1946
+place a cleaned wine glass on the shelf 1947
+place cleaned glass on brown shelves 1948
+put a clean glass on the shelf 1949
+put a clean glass on the shelf 1950
+put a clean glass on the brown shelf with a bowl and a sponge  1951
+place a washed glass on a shelf 1952
+put a clean glass cup in the dish rack 1953
+place a clean glass on a shelf 1954
+put a heated wine glass in the sink 2502
+put heated goblet into sink 2503
+put a warm wine glass in the sink 2504
+put a heated wine glass in the sink 2505
+place a warmed wine glass in the sink 2506
+put a warmed glass in the sink 2507
+place a heated cup in the kitchen sink  2508
+place a heated chalice into a sink 2509
+put a heated cup in the sink  2510
+put a hot wine glass in a cabinet 2583
+take the wine glass warm it up in the microwave and put it away 2584
+put the heated glass in the cabinet 2585
+place a warm glass in the cabinet  2586
+put a warm wine glass in the cabinet 2587
+put a hot wine glass in a cabinet 2588
+put the glasses away on the shelf 3236
+place two glasses on a shelf 3237
+to move two glasses from the cabinet above the wine bottle to the second shelf from the bottom of the shelves 3238
+to move two glass to the second shelf from the top of the shelves 3239
+put two glasses on the shelf 3240
+move two glasses to a shelf 3241
+to put the cups away  3242
+place two glass cups on the shelf 3243
+put two cups on the shelf 3244
+put a warm cup in the cupboard 3398
+put a heated cup in the lower cabinet right of the sink  3399
+warm a cup in the microwave then put it in the cabinet 3400
+place the microwaved green cup inside of the cabinet beneath the sink to the right 3401
+put a warm cup in the cupboard 3402
+put a heated green cup in a cabinet 3403
+heat a cup and put it away in a cabinet 3404
+to heat the mug and place it in the cabinet  3405
+cook green cup in microwave put cup in cupboard 3406
+put a heated glass in the cabinet about the microwave 3461
+put a heated cup in the cabinet above the sink 3462
+put a warm cup in the cupboard 3463
+put the warm glass in the cabinet above the microwave 3464
+heat the glass and put it away in the cupboard 3465
+put a warm glass in the cabinet 3466
+to heat up a vase and put it in the cabinet  3467
+put a heated vase in the cabinet 3468
+put a hot cup in the cabinet above the microwave 3469
+put a cold cup in the cupboard 3527
+place a microwaved cup inside the cupboard to the top left of the microwave 3528
+place a glass in a cabinet 3529
+put a chilled wooden cup in an upper cabinet 3530
+place a chilled cup in a cabinet 3531
+chill a gold cup in the fridge to put back in the cabinet above the microwave 3532
+put a chilled cup away in the cabinet above the microwave  3533
+put goblet in kitchen cabinet 3534
+chill a bowl in the fridge then put it into the cabinet 3535
+put the glass in the sink  4188
+place a cooled cup inside of the kitchen sink 4189
+get glass put into fridge  place into sink afterwards  4190
+put a chilled glass on the edge of the sink  4191
+place a cooled cup in the sink 4192
+place the cooled glass cup in the sink 4193
+put a heated cup in the sink 4236
+put a warmed glass in the sink 4237
+put the warmed up vase in the sink 4238
+put a heated glass in the sink  4239
+to take the glass from the microwave to put it in the sink 4240
+place a warmed glass in the sink 4241
+take the empty glasses from the fridge and table and put them next to the sink on the counter 4973
+to move two glasses to the counter beside the sink 4974
+move two glasses to a kitchen counter 4975
+put two grey glasses on the counter next to the lettuce 4976
+put two glasses on a counter 4977
+put two glasses on the counter  4978
+move two glasses to the counter  4979
+put two glasses on a counter 4980
+move two cups to the left of the sink 4981
+to heat a cup and place it in the cabinet  5183
+put the heated cup in the cabinet 5184
+put a heated cup in the cabinet 5185
+heat the black cup 5186
+put a warm mug in the cupboard 5187
+put the heated cup in the cabinet 5188
+put an empty glass in the cabinet above the store 5931
+put a filled cup in the right cabinet above the stove 5932
+put a cup filled with water in the cupboard 5933
+get a cup from the freezer wash it put it in the cupboard 5934
+fill a cup from the freezer with water to put away in a cabinet 5935
+make a glass of water and put it away 5936
+put a chilled cup of water in the cupboard 5937
+fill a cup from the freezer with water put it in the cabinet over the stove 5938
+get a glass from the fridge fill it with water for a pot then put it away 5939
+take a bowl out of the sink cool it in the refrigerator and warm it in the microwave 6120
+take the bowel chill it in the fridge heat it up in the microwave 6121
+put a cold bowl in the microwave 6122
+to cool a bowl in the fridge and place it back in the microwave 6123
+put the chilled cup in the microwave 6124
+put a chilled wooden bowl in the microwave 6125
+put a chilled bowl into a microwave 6126
+chill a cup and place it in the microwave 6127
+put a chilled cup inside microwave 6128
+to clean a glass and put it on the shelf  6459
+put a clean glass on a shelf 6460
+fill the glass with water and put it in the cabinet 6461
+place a washed glass on a shelf 6462
+clean a glass cup and place it on the shelf 6463
+drop a clean glass cup on the shelf 6464
+place a cleaned cup on a shelf 6465
+clean a glass and put it on the shelf 6466
+put a clean glass on the shelf 6467
+put a heated cup on the counter left of the stove  6931
+place a microwaved cup down on the kitchen counter 6932
+take a cup from the cabinet microwave it for three seconds put cup on counter top 6933
+heat up a cup  6934
+leave the glass back on the counter after it has been microwaved  6935
+microwave a black cup 6936
+put a heated cup on the counter left of the stove  6937
+place a warmed cup on a counter 6938
+place a heated cup on top of the kitchen counter 6939
+put a heated black glass on a shelving unit 7575
+heat a glass and move it to the table 7576
+place a heated cup on a shelf 7577
+place a black heated mug on the black table 7578
+to warm up a mug  7579
+take black glass heat in microwave and put on black shelves in kitchen 7580
+put the chilled glass on the table 7697
+put a chilled glass on a table 7698
+chill a drinking glass in the refrigerator and put it on the brown table 7699
+put the chilled  glass on the table 7700
+move bowl to table 7701
+to cool a glass in the fridge and place it on the kitchen table 7702
+get cup from sink chill in refrigerator put cup on table 7703
+place a chilled cup on a table 7704
+chill a cup and place it on the table 7705
+microwave a glass  place it on the shelf 7715
+place a heated glass on a shelf 7716
+put a warm glass on the shelf 7717
+put the heated glass on the shelf  7718
+put a heated glass on the wooden rack  7719
+place a hot glass cup on the shelf 7720
+place a warm glass cup on the wooden shelf 7721
+putting away a container  7722
+put a heated glass on the shelf  7723
+relocate the glass cup from the sink to the wooden rack 7724
+put a heated glass in the cabinet under the sink 7767
+place a heated cup into a cabinet  7768
+put a heated cup in the cabinet under the sink 7769
+put the heated glass in the kitchen cabinet 7770
+heat the glass and put it back in the cupboard 7771
+put a heated cup in the cabinet under the sink 7772
+heat a glass and put it in the cabinet 7773
+place a hot glass in the cupboard 7774
+put a heated glass in a kitchen cabinet 7775
+to heat a cup and put it on the counter next to the sink  7830
+put a cold glass on the counter 7831
+put the warm cup on the sink counter 7832
+heat a cup and place it on the counter 7833
+put a heated white cup on the counter 7834
+pick up cup from sink warm in microwave put on counter 7835
+put a heated mug on the counter above the dishwasher  7836
+put a heated mug on the counter 7837
+heat a cup and place it on a countertop 7838
+place a heated cup on top of the wooden shelves 8467
+place a heated cup on a shelf 8468
+place a heated cup onto the top shelf of the wooden shelving unit 8469
+put a warm cup on the shelf  8470
+put a hot cup on top of the brown shelf in the corner of the kitchen 8471
+moving a bowl to the shelf 8472
+place a microwaved cup on the brown shelf 8473
+place a heated cup on the shelf 8474
+place a heated cup on a shelf 8475
+put heated glass away in cabinet 8717
+heat up a cup from the cabinet next to the fridge to put it away over the microwave 8718
+put a heated cup in a cabinet  8719
+put a heated grey cup in an upper cabinet 8720
+heat up a cup from the freezer and put it in a cabinet 8721
+put a warm cup in the cabinet 8722
+heat up the cup in the microwave and put it back in the cupboard 8723
+put a warm cup in the cabinet  8724
+put a warm cup in the cupboard 8725
+put a warm wine glass on the counter 9286
+take the cup to the microwave and heat it up and after it is done place it on the counter 9287
+place a heated cup on a counter 9288
+place a heated cup on the counter top 9289
+put a warmed goblet on kitchen counter top 9290
+microwave the glass and place it on the kitchen counter  9291
+place a heated cup on a counter 9292
+to heat a glass and put it on the edge of the counter  9293
+place a microwaved cup down on the kitchen counter 9294
+place a heated cup into the refrigerator 10000
+put a warm cup in the fridge 10001
+put a heated cup in the fridge 10002
+put a heated cup in the fridge 10003
+put a heated cup in the fridge 10004
+place a heated glass in a fridge 10005
+place a hot cup in the fridge 10006
+place a heated cup into a fridge 10007
+place a heated glass in a fridge 10008
+place a heated cup inside the refrigerator 10688
+put a hot cup in the fridge 10689
+place a hot cup in the fridge 10690
+put a warm cup in the fridge 10691
+place a warm wine glass in the refrigerator  10692
+heat and then chill a glass 10693
+put a warm wine glass in the refrigerator  10694
+place a hot mug in the fridge 10695
+move wine glass on counter to the microwave move the wine glass from microwave to refrigerator 10696
+get the green cup warm it in the microwave then put it on the corner of the counter 11239
+heat a green cup in the microwave 11240
+cook a empty cup and return it to the cart 11241
+place a warm cup on the counter where the microwave is 11242
+place a heated glass on a counter 11243
+put a warm cup on the counter 11244
+put a warm cup on the counter 11245
+put a heated cup on the table left of the microwave  11246
+get a cup from the table warm it in the microwave then place it on the counter 11247
+move two brown cups into the microwave 12590
+place the two gold cups inside the microwave 12591
+to gather two cups and put them in the microwave 12592
+place two cups in a microwave 12593
+put two cups in the microwave 12594
+to gather two orange cups as well as place them in the microwave 12595
+place two cups in the microwave 12596
+place two glasses in a microwave 12597
+place to gold glasses in the microwave  12598
+place a heated cup in a fridge 12608
+put a heated white cup in the fridge 12609
+place a warm cup in the refrigerator  12610
+put a microwaved cup into the fridge 12611
+put a hot cup inside the fridge  12612
+place a heated cup in a fridge 12613
+put a white cup into the refrigerator and close the refrigerator door  12614
+to heat a cup as well as place it in the fridge 12615
+place a heated cup in a fridge 12616
+put a warmed glass in the cabinet 12986
+place the microwaved liquid in the cup in the cabinet 12987
+place a microwaved cup in the cupboard 12988
+put a glass in the microwave put the glass in a cupboard 12989
+put the heated cup in the kitchen cabinet 12990
+find a cup in a cabinet microwave it place it inside a different cabinet 12991
+put a warmed glass in the cabinet 12992
+put the heated cup in the kitchen cabinet 12993
+put the hot cup in the cabinet  12994
+warm up a cup to put it away 12995
+put a chilled glass in the microwave 13077
+place a cooled cup inside the microwave 13078
+to cool a cup in the fridge and place it in the microwave 13079
+place a cooled cup inside the microwave 13080
+put a chilled cup in the microwave  13081
+warm a chilled cup from the cabinet in the microwave 13082
+put a cold glass in the microwave 13083
+put a cold cup in the microwave 13084
+put a chilled cup in the microwave 13085
+to chill a glass and put it in the cabinet  13130
+put a cold cup in the cabinet 13131
+place a chilled glass in a cabinet 13132
+put a cold glass in the cabinet 13133
+place a glass in a cabinet 13134
+chill a glass and put it in the cabinet 13135
+put a cold tumbler into a kitchen cupboard 13136
+putting a cold cup in a cabinet 13137
+put a clean glass in the cabinet 13138
+move a gold goblet from the counter to the sink 13210
+put the goblet in the kitchen sink 13211
+put a goblet into the sink 13212
+put a golden cup in the sink 13213
+put a wooden goblet in the sink 13214
+put a cup in the sink 13215
+place two cups in a microwave 13609
+drop two cups inside the microwave oven 13610
+place two brown glasses in the microwave 13611
+put two wine glasses in the microwave  13612
+move two wine glasses to the microwave  13613
+place two cups in the microwave 13614
+microwave the glasses 13615
+move two glasses from the sink to the microwave  13616
+put two cups in the microwave 13617
+put a chilled glass with fork in the right cabinet under the sink  14114
+place a cold glass cup in the sink 14115
+move a cup and fork to the cabinet 14116
+place a cooled cup in the cabinet 14117
+place a chilled glass in a cupboard 14118
+put a chilled glass in the cabinet under the sink  14119
+put a cooled cup underneath the kitchen sink 14120
+put a chilled glass in the right cabinet under the sink  14121
+place the chilled glass in the cabinet below the sink 14122
+pick up a glass from the sink put in fridge and take it back out and put it back in the sink  14623
+put a cold wine glass in the sink 14624
+put a chilled wooden cup in the sink basin 14625
+put a chilled wine glass in the sink 14626
+put the chilled wine glass in the sink 14627
+put a cold cup in the sink 14628
+place a cooled cup down inside of the kitchen sink 14629
+put a cold cup in the sink 14630
+chill the goblet and put it in the sink  14631
+put the heated glass on the table 14988
+put a heated glass on the table  14989
+put a heated glass on the kitchen island 14990
+place a heated glass on a table 14991
+put a heated martini glass on to the table 14992
+move a glass from a cabinet to a table  14993
+put a warm martini glass on the kitchen island  14994
+place a martini glass on the table 14995
+place a heated glass on a table 14996
+fill a cup with water and place in the microwave 15369
+put a filled cup of water in the microwave  15370
+take a cup from the microwave and fill with water place it back in the microwave 15371
+fill a cup with water and place it in the microwave 15372
+fill a cup with water and put it in the microwave 15373
+place a cup of water in a microwave 15374
+microwave and chill a martini glass 15433
+heat a chilled martini glass  15434
+place a heated glass in a fridge 15435
+put a heated glass in the fridge  15436
+microwave a empty glass place the glass into the refrigerator 15437
+place a hot glass cup in the fridge 15438
+place a hot glass cup in the fridge 15439
+put a warm martini glass in the refrigerator  15440
+heat a glass and place it in the fridge 15441
+put a heated green cup on the counter 16384
+put a warm cup on the counter 16385
+place a microwaved cup down on the kitchen counter space 16386
+place a heated cup onto a counter 16387
+place a hot cup on a counter top 16388
+put the heated cup on the counter 16389
+taking the orange cup to place it on the brown shelf 16686
+put the cup from the table onto the shelf 16687
+chill orange cup place on shelves 16688
+put the chilled cup on the wooden shelf 16689
+chill a cup in a refrigerator 16690
+make a bowl cold by putting it in the refrigerator 16691
+cool down a cup from the shelf 16692
+place a chilled up on the shelf 16693
+place a chilled cup on a shelf  16694
+put a chilled glass in the sink 16701
+place a chilled cup in the sink 16702
+chill a glass then place it in the sink 16703
+put a cold glass in the sink 16704
+place the glass cup from the counter to the sink 16705
+place cup in fridge 16706
+put a chilled glass in the sink 16707
+place a glass from the white counter top into the sink 16708
+place a glass into a sink 16709
+put a chilled glass in the sink 16710
+cool the glass off in the refrigerator put the glass in the sink 16711
+put the chilled glass in the sink 16712
+cool the bowl in the refrigerator put the bowl in the sink 16713
+put a chilled glass in the sink 16714
+place the glass cup into the sink 16715
+put a glass in the sink 16716
+put the cup in the sink  16717
+put a clean mug on the table 17038
+put a cleaned green cup next to the microwave  17039
+to clean the green glass  17040
+put a cold wet cup on the left edge of the cabinet beside the fridge  17041
+place a clean cup near the microwave 17042
+rinse a glass and set it down on a table 17043
+put the washed cup on the dark cabinet 17044
+put a clean cup on the counter 17045
+put a clean cup on a table 17046
+get a chalice warm it in the microwave then put it back where it came from 17225
+place a warmed wine glass in the cabinet 17226
+cook the ice cream cup and put it in the cabinet 17227
+put a heated green cup in the upper cabinets 17228
+put heated cup into cabinet 17229
+place green glass in cupboard 17230
+place a hot cup inside the cupboard 17231
+place a warmed up green cup in the cabinet 17232
+put a heated cup in the cabinet above the microwave  17233
+putting a cup in a cabinet 17483
+place a hot cup in the shelf above the oven 17484
+heat a cup and put it away in a cabinet 17485
+put the heated cup in the kitchen cabinet 17486
+place a warm cup in a cabinet 17487
+microwave a cup prior to putting it away 17488
+warm a cup up and put it away in cupboard 17489
+put a heated cup in a cabinet 17490
+heat a glass and put it in a cabinet 17491
+put a glass in the cupboard 17547
+take the wine glass from the microwave and put it in the cabinet 17548
+put chilled glass in cabinet next to stove 17549
+ put the glass on the floor to the left of the stove
+ 17550
+to chill a martini glass and put it in the cabinet  17551
+put a cold martini glass in the cabinet  17552
+put a chilled glass in the cabinet left of stove  17553
+place a chilled glass in a cabinet 17554
+move glass from upper cupboard to lower cupboard 17555
+put a chilled wine glass on a table 18113
+put the chilled wine glass on the table 18114
+put a cold wine glass on the table 18115
+put a chilled wine glass on the table 18116
+to chill a wine glass and put it on the table  18117
+put a chilled glass on the table left of the potato  18118
+put a cold champagne  glass on the table 18119
+put chilled glass on table 18120
+place a chilled wine glass on the table 18121
+put a warmed glass in the cupboard 18428
+to heat a glass and put in the cabinet  18429
+move a goblet on the shelf to the microwave oven then into the cupboard 18430
+cool the glass from the shelf so you can return it to a lower shelf 18688
+chill the glass in the fridge and return it to the shelf 18689
+chill a glass and put it away on the shelf 18690
+put a chilled glass on the second to the lowest shelf in the corner of the kitchen  18691
+chill a glass and put it on the shelf 18692
+put a chilled cup on a shelf 18693
+put a chilled glass on a shelf 18694
+put the cold glass on the shelf 18695
+put a chilled cup on the wooden self 18696
+clean a glass off from the fridge and put it into the microwave 18848
+to wash a glass as well as place it in the fridge 18849
+place a rinsed glass inside a microwave 18850
+put a clean glass in the microwave 18851
+put a glass inside the microwave 18852
+put washed glass in microwave 18853
+put a clean drinking glass in the microwave  18854
+putting a clean glass in the microwave 18855
+place a rinsed glass in a microwave 18856
+put the glass on the small black table  19503
+cool down the ice cream cup place next to bowl 19504
+place a chilled blender onto the top of a black shelving unit 19505
+put the black cup in the fridge for seven seconds put it on small black table 19506
+place a chilled cup on a table 19507
+put a chilled cup on the small black table  19508
+to place a heated cup inside a cabinet 19855
+put heated glass away in kitchen cabinet 19856
+put a heated cup away in a cabinet over the sink  19857
+place a microwaved cup inside of the kitchen cabinet 19858
+put the heated container in the cabinet 19859
+place a heated cup in a cabinet 19860
+put a cup with a fork stuck through its side in an upper cabinet 19861
+place a heated cup in a cabinet 19862
+place a warm bowl into a cabinet  19863
+place a chilled bowl in a sink 20343
+place the chilled bowl in the sink 20344
+chill a cup and place it in the sink 20345
+place the chilled bowl in the left sink 20346
+to cool a bowl plus place it in the sink 20347
+put a chilled bowl in the sink  20348
+place a chilled mug in the sink 20349
+put a chilled wooden cup in the sink 20350
+put a cold bowl in the sink 20351
+place to cups inside of a drawer 20543
+put two cups in the cupboard 20544
+robot is cleaning up cups around the kitchen and putting them away 20545
+putting two mugs in a cabinet 20546
+put two cups in the cabinet above the microwave 20547
+put two cups in the kitchen cabinet  20548
+place two chilled glasses in a cabinet 20549
+gather two black cups from the refrigerator to be placed in a cabinet under the sink 20550
+place two cold cups in the cupboard under the sink 20551
+place a heated glass cup in the refrigerator 20552
+place a microwaved cup inside of the fridge 20553
+place a heated cup in a fridge 20554
+put a warm cup in the refrigerator  20555
+place a microwaved cup inside of the fridge 20556
+place a heated glass in a fridge 20557
+microwave bowl put bowl inside the cupboard  20621
+heat a bowl in the microwave 20622
+put a heated cup in the cabinet above the toaster 20623
+place a bowl into a cabinet 20624
+warm up a bowl to put it away 20625
+put a heated bowl in the cabinet left of the mirror  20626
+put a warmed cup in a cabinet 20627
+put away brown bowl 20628
+place the warm cup in the cabinet above the toaster 20629
+put a hot treated cup away in the microwave 20630
+to chill a bowl and put it in the cabinet above the fridge  20712
+put chilled cup in cabinet 20713
+put a brown bowl into the rightside cabinet above a refrigerator 20714
+to cool a bowl plus place it in the right cabinet above the fridge 20715
+put a cold bowl in the cabinet over the refrigerator 
+ 20716
+put a cooled bowl in a cupboard 20717
+place a chilled cup containing a sponge in the microwave 20843
+put a chilled mug with sponge in the microwave 20844
+cool the sponge and cup from the cabinet with refrigerator put them in the microwave 20845
+place a chilled mug in a microwave 20846
+place a cooled cup inside of the microwave 20847
+put a chilled cup in the microwave  20848

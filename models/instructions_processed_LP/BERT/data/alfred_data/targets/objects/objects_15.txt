@@ -1,0 +1,198 @@
+examine a box by the light of a floor lamp 128
+carry a box to the lamp and turn it on 129
+hold a box and turn on the lamp 130
+pick up a box and turn a lamp on 131
+pick up an empty cardboard box turn on the tall lamp 132
+carry a box while turning on a lamp 133
+examine the box under the light of the floor lamp 134
+pick up a box and turn on a lamp 135
+turn on the living room lamp  136
+place a box on a desk 146
+move an empty cardboard box to a desk 147
+put a box on a desk  148
+put a box on a desk 149
+place a box on a desk 150
+put a box on a desk 151
+to move an empty box from the floor to a desk 152
+move a cardboard box to the wooden desk 153
+place an empty box on the desk 154
+move a box from the floor to the table 1663
+drop a carton on the table 1664
+move a box from under the table to the top of the table 1665
+set the box on the table 1666
+put a box on a table 1667
+move a box from the floor to the table 1668
+put a box on a table 1669
+put the box under the table on top of the table 1670
+put the box on top of the table 1671
+examine a box by the light of a small lamp 1681
+examine a box with the lamp 1682
+pick up the box and turn on the light 1683
+inspect a box by lamp light 1684
+to pick up a box and turn on a lamp  1685
+examine the box with the lamp 1686
+look at a box by the light of a lamp 1687
+examine a box by the light of a small lamp 1688
+carry a box while turning on a lamp 1689
+pick up the box and turn the light on 1738
+pick up a box and turn a lamp on 1739
+hold a box and turn on a lamp 1740
+pick up box from shelves turn on table lamp 1741
+examine a box using the light of a lamp 1742
+take the white box from under the tv turn on the lamp 1743
+pick a box up and turn on a lamp 1744
+examine an empty box by the light of a table lamp 1745
+examine a box with a lamp 1746
+look at a box under the light of a lamp 1810
+examine a box by the light of a small lamp 1811
+carry a cardboard box to a wooden end table and turn on the lamp 1812
+turn on a lamp while holding a cardboard box 1813
+turn on the living room lamp  1814
+examine a box by the light of a small lamp 1815
+pick up the box and turn the lamp on that is on the brown side table 1816
+look at an empty cardboard box under a lit lamp 1817
+examine the box by the light of the lamp 1818
+inspect a box in the light of the floor lamp 2769
+take a box from the coffee table to the lamp by the door and turn it on 2770
+carry an empty box to the lamp 2771
+examine an empty box by the light of a floor lamp 2772
+examine a cardboard box using the light from a floor lamp 2773
+examine the box by the lamp 2774
+turn on desk lamp with box in hand 3589
+retrieve box from floor turn on desk lamp 3590
+turn on the desk lamp  3591
+turning on a lamp while holding a cardboard box 3592
+examine a cardboard box using the light of a lamp 3593
+examine a box by the light of the lamp on the desk  3594
+turn on the desk lamp 3595
+turn on the lamp on the dresser to inspect the empty box 3596
+examine the cardboard box under light of the desk lamp 3597
+put a box on a couch 3613
+place a box on a couch 3614
+move an empty box from the floor to a sofa 3615
+place a box on a couch 3616
+put the box between the cushion and the remote 3617
+put box on couch 3618
+place the box onto the coffee table 6372
+move box from floor to coffee table 6373
+put the cardboard box on the coffee table 6374
+put a box on a table 6375
+put a box on the coffee table 6376
+place a box on the coffee table 6377
+examine a cardboard box using the light of a lamp  8033
+examine an opened box by lamp light 8034
+turn on a lamp with a box in hand 8035
+turn on a lamp while holding a box 8036
+examine a box by the light of a small lamp 8037
+turn on the bedroom lamp  8038
+turn on a night table lamp while holding a box 8039
+examine an empty carton by the light of a table lamp 8040
+pick up a box and turn a lamp on 8041
+examine a box in the light 8042
+examine the box under the light of the floor lamp 8043
+examine the box in the light of the tall lamp in the corner  8044
+examine an empty box by the light of a floor lamp 8045
+inspect a box near a lit lamp 8046
+turn on the lamp  8047
+grab the box from the sofa turn on the lamp on the table by the window 9539
+inspect a cardboard box by lamplight 9540
+turn on the lamp with an empty box in hand 9541
+turn on the lamp while carrying a box 9542
+place two boxes on the coffee table 10537
+place two boxes down on top of the coffee table 10538
+put two boxes on the coffee table 10539
+place 2 cardboard boxes on the table 10540
+put two boxes on the coffee table 10541
+move two cardboard boxes to a coffee table 10542
+take the box from the table put it on the couch 13243
+put the box on the couch 13244
+move a box from the coffee table to the sofa 13245
+move an empty box from a coffee table to a sofa 13246
+move an empty box to the green sofa 13247
+move a box from the coffee table to the couch 13248
+move a box from the coffee table to the couch 13249
+move the box from the coffee table to the couch 13250
+put a box on a couch 13251
+examine a cardboard box better by turning off the light from a floor lamp 13261
+grab the box on the table turn off the floor lamp by the sofa 13262
+examine the box next to the light of a tall lamp 13263
+examine a cardboard box in the dark 13264
+turn off the lamp while holding the box 13265
+turn off the lamp next to the red sofa while carrying a box 13266
+carry a box on the table to the light flip the switch to turn off the light 13267
+move a box from the table to the chair 15077
+move an empty box to the chair 15078
+place a box on a chair 15079
+move a box from the couch to the chair 15080
+put a box on the right hand chair 15081
+move an empty box to the chair 15082
+place a box on a chair 15083
+pick up the box on the large sofa going to the small sofa 15084
+pick up a cardboard box from a sofa and move it to a different chair 15085
+walk by a bed pick up an empty box turn on a light 15511
+grab the box in the corner turn on the night stand 15512
+inspect a box in front of a lit lamp 15513
+examine a box by the light of a lamp 15514
+turn on the lamp on the desk while holding a box 15515
+examine a box in the light of a lamp 15516
+examine an open empty box by the light of a table lamp 15517
+turn on a lamp after picking up a box from the floor 15518
+turn on the lamp on the dresser  15519
+move a box to the tv stand 18256
+put the box from the floor onto the tv stand 18257
+move a box to the dresser 18258
+put a cardboard box on a table  18259
+move the box from the couch to the tv stand  18260
+put a box on the tv stand 18261
+put two boxes on the small table 18842
+move two cardboard boxes on to the coffee table from the dining table 18843
+move two boxes on the dining table to the coffee table  18844
+place two boxes on a table 18845
+clean up boxes and place them on the table 18846
+move the boxes from the dining table and the sofa to the coffee table  18847
+put a box on a chair  19734
+move an empty box from a table to an armchair 19735
+place the box that was on the brown shelf on the green chair
+ 19736
+put a cardboard box on the green chair  19737
+move an empty box to the chair 19738
+move an empty box from a table to an armchair 19739
+transfer the box from a red dresser on to the green chair 19740
+place an empty box and statue on the sofa seat 19741
+move a box from the shelf to the chair 19742
+pick up the box and turn on the lamp 20127
+use the lamp to see inside the box  20128
+examine a cardboard box in the light of a small lamp 20129
+examine a box in the light of the lamp on the table  20130
+inspect a box by lamp light 20131
+pick up a box and turn on a lamp 20132
+walk from one room to another to pick up a brown box ending by turning the lamp on bright    20133
+pick up the box and turn on the lamp 20134
+pick up a box and turn on the lamp  20135
+pick up the empty box from the couch place it on the black armchair 20136
+move a box from a sofa to a couch 20137
+place a box on a chair 20138
+put a box on the chair 20139
+pick up the box and put it in the black chair 20140
+move a box to a couch 20141
+place a small box on top of a chair in the corner of the room 20142
+move the empty box from the couch to the armchair 20143
+move a box from a sofa to a couch 20144
+turn on a desk lamp with a box in hand 20483
+turn on the desk lamp  20484
+examine a box by the light of a small lamp 20485
+get an empty box from under the desk and look at it with the lamp on 20486
+inspect a box by lamp light 20487
+examine a box with a lamp 20488
+carry a box while turning on a lamp 20489
+inspect a box by lamp light 20490
+turn on the desk lamp 20491
+take the box from the kitchen table put it on the red couch 20963
+move an empty box to the sofa 20964
+put a box on the couch 20965
+move a box from the floor to the couch 20966
+move the box from the floor to the couch 20967
+put a box on the right side of the couch  20968
+move an empty box to the sofa 20969
+move a cardboard box from a kitchen table to a couch 20970
+put a box on the couch next to the laptop 20971

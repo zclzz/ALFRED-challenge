@@ -1,0 +1,520 @@
+look at a cloth by the light of a lamp 633
+to see the towel in the light 634
+pick a towel up turn a light on 635
+examine the white rag by the light of the lamp on the desk  636
+examine the cloth by the light  637
+examine a white towel next to the light of a desk lamp 638
+inspect a cloth in the lamp light 639
+retrieve a cloth and bring it to a lit desk  640
+remove the purple rag from the sink bowl and place the rag next to the spray bottle 641
+place a clean wash cloth on the bathroom sink counter 642
+put rag on bathroom counter 643
+put a purple rag next to the sink 644
+to move a rag from in the sink to the right of the sink 645
+place a towel on a counter 646
+put a purple rag on the counter right of the sink  647
+move a towel to the bathroom counter top 648
+move the rag from the sink to the counter 649
+put two rags on the shelf 1756
+pick up two cloths on the floor and place on cabinet 1757
+put black and yellow cloth on the top shelf  1758
+to move two rags from the counter to the shelf  1759
+to place two rags that are black and white onto two shelves 1760
+move two cloths to the shelf 1761
+put two rags yellow and black on a shelf 1762
+move two rags to a shelf 1763
+put two rags on the floor on the shelves  1764
+move a white rag from under the sink on the left to the sink basin 1771
+put a rag in the sink  1772
+put a white towel into the sink furthest to the left 1773
+put a cloth in the sink 1774
+put a rag in the sink 1775
+move a towel to the sink 1776
+place cleaned red rag on right side of toilet tank 1919
+put a cleaned red cloth on the top of a toilet 1920
+put a rinsed cloth on the toilet 1921
+place the wet napkin on the back of the toilet 1922
+wash a handkerchief to put on the toilet tank 1923
+place a clean cloth on top of the toilet 1924
+wash the cloth in the sink put the cloth on the toilet 1925
+clean the dirty cloth put it on the tank 1926
+move a cleaned washcloth to the back of the toilet tank 1927
+clean dirty rag put rag in bottom dresser drawer 1970
+put a clean rag in a dresser 1971
+put the cleaned rag in the bottom white drawer  1972
+wash the dirty cloth from the tub put it in the bottom drawer of the cabinet 1973
+place a clean cloth in the bottom drawer of the bathroom cabinet 1974
+clean the rag from the bath tub and put it in the towel dresser 1975
+put a clean rag in a bottom dresser drawer 1976
+clean the dirty towel to place inside the dresser 1977
+put the cleaned rag in the bottom drawer  1978
+put two cloth in the tub 1979
+to place two tissues into the sink 1980
+put two cloth in the tub 1981
+put wash rags in the tub 1982
+move two white rags into the tub 1983
+collecting tissues to put in the bath tub 1984
+place two rags inside the bathtub 1985
+pick up tissues drop them in the tub 1986
+drop two rags into a bath tub 1987
+move dirty towels to the bathtub  1988
+place two cloths inside of the bath tub 1989
+put two rags in the sink 1990
+move two wash cloths to the water in the bath tub  1991
+put two rags in a bath tub 1992
+put a cloth in the drawer 2754
+to put away the white cloth  2755
+put the white cloth in the bathroom drawer 2756
+put the rag in the drawer 2757
+move the cloth from the vanity to the bottom drawer 2758
+put a white wash cloth in the drawer 2759
+move two purple rags to the toilet tank 2966
+move two wash rags to the back of the toilet 2967
+putting two rags on top of the toilet 2968
+put two purple rags on the back of the toilet 2969
+to move two rags to the back of the toilet  2970
+move two purple rags to the toilet tank 2971
+put two pieces of purple fabric on top of the toilet tank 2972
+put two purple cloths on top of the toilet 2973
+drop two pieces of cloth on the toilet 2974
+place a web cloth in the tub 2975
+put a cleaned rag in the tub 2976
+place a clean rag into the tub 2977
+put the washed rag into the bath tub 2978
+place a clean towel in the tub 2979
+put a clean wet rag in the bath tub  2980
+put a cleaned washcloth in the tub 3888
+put the cleaned rag in the bathtub 3889
+clean a dirty rag in the bathtub  3890
+replace a dirty rag from the bathtub with a clean one 3891
+put a cleaned cloth in a bath tub 3892
+place a wet rag in a bath tub 3893
+place a clean cloth inside the bath tub 3894
+place clean red rag in bathtub 3895
+clean a cloth and place it in the bath tub 3896
+clean up a rag inside the tub and put it on the shelf  3969
+place a towel on a wire shelf 3970
+move a black rag from the bathtub to the metal shelf 3971
+put a rag on the metal rack  3972
+pick up the black clothing from the toilet and bring to the cart 3973
+move a cloth to the storage cart 3974
+move a cloth from a bath tub basin to a steel rack 3975
+put a black rag on the silver rack 3976
+put one of the wash clothes on the metal rack  3977
+clean the dirty towel on top of the dresser 4015
+put a washed rag on the cabinet  4016
+put a cleaned cloth on the white shelf  4017
+rinse out the washcloth and place it on the dresser 4018
+place a clean cloth on top of the dresser 4019
+put the cleaned rag on top of the white dresser  4020
+get a wash rag wet to put on the dresser 4021
+place a wet clean towel on top of the white cabinet in the bathroom 4022
+place the clean towel on the dresser 4023
+put a cloth on the back of a toilet 4423
+put a rag on the back of the toilet 4424
+put the rag on the toilet 4425
+put a rag on the toilet tank lid  4426
+place a towel on the back of a toilet 4427
+move rag from tub to back of toilet 4428
+place a clean wash cloth on top of the toilet 4828
+put a clean rag on the toilet 4829
+put a cleaned rag on the toilet tank lid  4830
+put a clean purple rag on top of the toilet tank 4831
+put clean cloth on toilet 4832
+place a wet cloth on the water closet 4833
+put a cleaned rag on the toilet tank lid  4834
+place a clean towel on the toilet basin 4835
+put a clean rag on the back of the toilet  4836
+put a clean cloth on top of the toilet 4867
+place clean rags on the toilet tank 4868
+clean a dirty shirt using the sink 4869
+place a cleaned rag on top of a toilet 4870
+put a cleaned rag on the toilet tank lid  4871
+place a clean cloth on top of the toilet 4872
+take a dirty towel from the tub to clean it 4873
+get the wash rag get it wet to place it on the back of the toilet 4874
+clean the rag on the right put it on the toilet lid  4875
+put two rags on the end table 4909
+place two purple rags on black table 4910
+to move two purple rags and place them on the black table  4911
+put the purple cloths on the small table 4912
+put two rags on the table  4913
+put two rags on the end table across from the toilet 4914
+take two purple rags from the bath tub and put them on the table 4915
+place two cloths on the table 4916
+put away clean rags 4917
+move a cloth from the floor to a shelf 5321
+move a rag from the floor to a shelf 5322
+get the rag from the floor and put it on the shelf 5323
+pick up the black rag and put it next to the black mug 5324
+move a rag from the floor to a shelf 5325
+take the black cloth from the desk put it on the desk shelf 5326
+put a gray rag on the shelf 5327
+put a black cloth in a cubby 5328
+place a towel on a shelf 5329
+take the rags out of of the tub and to the hamper 6345
+put two rags on the shelf to the right of the sink 6346
+pick up two green rags from the bath tub and place them on a shelf under the towel rack 6347
+move two cloths from the tub to a bathroom shelf 6348
+put the green cloths on the small white cabinet 6349
+move two wash cloths from the tub to the top of the cabinet  6350
+put two rags on the shelf to the right of the sink 6351
+move two wash cloths from the tub to the cabinet 6352
+to move two green rags to the white shelf next to the sink  6353
+put a cleaned rag in the tub  7413
+put a clean wash cloth in the tub 7414
+the pick up a dirty towel and wash it 7415
+clean the rag and put it in the tub 7416
+rinse off a dirty rag and put it into the bath tub 7417
+place a clean rag in a bathtub 7418
+place a rag in one of the bathroom sinks 7941
+put a cloth in a sink 7942
+put a red cloth into the sink 7943
+move a rag from a cabinet to the sink 7944
+put the red rag under the sink into the sink basin 7945
+move a red rag into a sink 7946
+place a towel in a sink 7947
+put a wash cloth in the sink 7948
+move the red rag from the inside the cabinet to the sink 7949
+turn on a light as you hold a green washcloth 8023
+pick up the green cloth by the window turn on the lamp on the night stand 8024
+examine the green cloth under the light of the table lamp 8025
+turn on the table light  8026
+examine a green rag in the light of a lamp 8027
+turn on the lamp on the nightstand while carrying a green rag 8028
+pick up cloth and turn on a lamp 8029
+examine the green cloth under light of the table lamp 8030
+pick up the green cloth on the floor turn on the lamp on the night stand 8031
+take a green rag to the left bedside lamp to turn it on 8032
+place a towel on a toilet tank 8078
+place a wash cloth above the toilet 8079
+place a red rag on the toilet tank 8080
+move a rag to the back of the toilet  8081
+move a wash cloth to the back end of a toilet seat  8082
+put a cloth on the back of the toilet 8083
+put the cloth on top of toilet tank 8084
+move a red towel to the toilet tank 8085
+put a wash cloth on the toilet 8086
+put a clean rag on a dresser 8322
+put a clean rag on a dresser 8323
+put a clean rag on the dresser 8324
+to wash the rag 8341
+to clean a rag and place it on the counter between the two sinks 8342
+take the rag from the cabinet wash it for 3 seconds 8343
+get dirty cloth out of cupboard clean it off put on counter 8344
+put a cleaned rag on the counter  8345
+put a clean purple rag on the counter 8346
+rinse a cloth and place it behind the sink 8347
+to clean a purple rag and place it on the counter  8348
+put a wet wash cloth on the counter 8349
+put a clean tissue onto a shelf 8953
+place a clean rag on the shelf below the counter 8954
+put a cleaned rag on a shelf 8955
+put a clean cloth on the shelf 8956
+put the clean cloth on the second layer of the drawer 8957
+place a clean rag on a shelf 8958
+put a rinsed cloth on the shelf under the counter 8959
+place a clean cloth in the bathroom shelf 8960
+put a clean white rag on a shelf below a white table 8961
+rinse out the wash cloth and put it in the bath tub  8980
+put a washed handkerchief into a bath tub 8981
+clean a cloth and place it in the bath tub 8982
+put a clean rag in the tub 8983
+to clean a rag and put it in the tub  8984
+put a clean rag in the tub 8985
+rinse out one of the wash cloths in the bathtub and put it back  8986
+put a clean red rag into the tub 8987
+put clean cloth in the tub 8988
+put the washed rag on the top of the toilet tank 9012
+rinse a cloth and put it on the toilet tank 9013
+place a clean towel on a toilet tank 9014
+put the washed rag on the toilet 9015
+put a clean rag on the toilet tank 9016
+move a washed rag to the toilet 9017
+rinse a cloth and place it on the toilet tank 9018
+place a cleaned cloth on top of the toilets water tank 9019
+place a clean rag on a toilet tank 9020
+pick up the rags from the bathtub and move them to the sink 9060
+move two rags from the bathtub to the sink  9061
+put two red cloths in to the sink 9062
+place two red towels in the sink 9063
+move two clothes to the sink 9064
+place two rags in the sink 9065
+put a rinsed cloth in a cabinet 9084
+clean a rag put it away 9085
+put a cleaned rag in the left cabinet  9086
+place a clean washcloth inside of the cabinet 9087
+put a clean rag into the cabinet 9088
+washed the red towel to place it in the cabinet 9089
+place a rag on a table 9458
+put a rag on the black table 9459
+place washcloth to dry on table 9460
+place a towel on an end table 9461
+put a purple rag on the black table 9462
+put purple rag on bathroom table 9463
+move a purple rag to the black table 9464
+put a rag on the black table 9465
+put a rag on a table 9466
+place a clean cloth on top of the toilet 9657
+put a clean black rag on the toilet tank 9658
+put a washed rag on the toilet 9659
+put a clean black rag on the toilet tank 9660
+put a clean wash cloth on the toilet 9661
+put a cleaned cloth on the top of a toilet 9662
+place a rinsed towel on a toilet tank 9663
+rinse and rag then put it on the back of the toilet 9664
+put a washed rag on a toilet tank 9665
+place a rinsed towel on a toilet tank 9666
+putting a clean rag on the toilet 9667
+place a washed green rag on top of the toilet tank 9668
+rinse a cloth and put it in the drawer 9711
+put a cleaned rag in the drawer under the right sink  9712
+put a clean cloth in to the drawer 9713
+put in the clean cloth in the drawer 9714
+put a wet wash cloth in the drawer 9715
+put a clean yellow rag in a drawer 9716
+put the washed rag in the drawer  9735
+place a washed rag in a cabinet 9736
+put a clean rag away 9737
+put a cleaned rag away in a drawer  9738
+put washed rag in bathroom drawer 9739
+drop a clean piece of cloth in the drawer 9740
+rinse a cloth and place it in the bath tub 10275
+put a wet cloth in the tub 10276
+put clean rag in the tub 10277
+put a clean cloth in the tub 10278
+put a clean purple rag in the tub 10279
+place a clean purple cloth in a bath tub 10280
+put a rinsed cloth in the bath tub 10281
+put a clean rag in the tub from one of the cabinets 10282
+put a clean purple rag in the tub 10283
+place a clean rag in a tub 10359
+put a clean rag in the tub 10360
+clean a cloth and place it in the bath tub 10361
+put a clean rag in the tub 10362
+place a clean rag in a tub 10363
+put a cleaned cloth in a bath tub 10364
+put a cleaned cloth in a bath tub 10365
+place a clean rag in a tub 10366
+put washed rag in bath tub basin 10367
+place a clean rag in a bathtub 10886
+place a rinsed towel in a tub 10887
+wash the cloth from the tub put it back in the tub 10888
+place one red wet cloth in to the bath tub 10889
+put a clean red rag in the tub 10890
+put a cleaned rag in the tub 10891
+rinse off a cloth and put it away in a drawer 10989
+rinse the wash cloth and store it away in a drawer 10990
+rinse off a dirty rag put it inside of the bottom drawer of the sink table 10991
+put a clean rag in the drawer 10992
+put a clean rag in the drawer under the sink on the right 10993
+put a clean red rag in a drawer 10994
+clean a wash cloth in the sink and store it in a drawer 10995
+put a clean red rag in the right hand vanity drawer 10996
+put a clean cloth in a drawer 10997
+put two cloth under the shelf 11480
+move the wash cloths to the shelf 11481
+move two tissues to a shelf 11482
+move to white rags to a shelf 11483
+move two towels to a lower shelf in the bathroom 11484
+place two rags on the second shelf from the bottom of the shelves of a desk 11485
+move two cloths to a shelf 11486
+move two towels to an underneath shelf 11487
+put two dirty cloths on to the shelf under the counter 11488
+put a clean rag in the bath tub 12257
+place a web rag in the tub 12258
+put the clean rag in the tub 12259
+put a clean rag in the tub 12260
+put a cleaned rag in the tub  12261
+put a cleaned rag in the tub 12262
+rinse a pink rag and put it in the dresser 12305
+put the washed pink cloth in the drawer 12306
+to clean a rag and place it  in the second cabinet from the left of the top row of the dresser 12307
+rinse a pink rag from the bathtub to put in a drawer 12308
+put a clean rag in a drawer 12309
+place a clean rag in a cabinet 12310
+put a cleaned cloth in a drawer 12311
+place a clean rag in a cabinet 12312
+put a clean cloth in to the drawer 12313
+pick up the dirty pink rag rinse it in the sink return it 12447
+clean the dirty towel on the metal rack 12448
+put a cleaned rag on the metal rack  12449
+put a clean cloth on a metal shelf 12450
+clean a cloth towel 12451
+clean the rag put it on the metal rack  12452
+put a clean rag on the top shelf of a barred rack 12453
+wash the pink towel on the shelf put it back on the shelf 12454
+clean a red cloth 12455
+examine a cloth by the light of a desk lamp 12690
+turn on the bed lamp while holding a cloth 12691
+look at the rag in the light  12692
+examine a towel with a lamp 12693
+inspect a cloth by lamp light 12694
+carry a napkin while turning on a lamp 12695
+put a cleaned rag in the tub  12864
+put a wet wash cloth in the tub 12865
+put a clean towel in the tub 12866
+put a cleaned cloth in a bath tub 12867
+wash the yellow cloth 12868
+put a wet yellow rag inside the bath tub 12869
+rinse a rag to put in the bathtub 12870
+place a clean cloth inside of the bath tub 12871
+wash the cloth 12872
+put a clean washcloth in the bathtub  12873
+clean a dirty green cloth and place it in the bathtub 12874
+place a wet washcloth in the tub 12875
+clean the rag to place it back in the tub 12876
+put a clean rag in the tub 12877
+place a cleaned wash cloth back in the tub  12878
+place a clean green cloth in the bathtub 12879
+place a washed rag in a bathtub 12880
+put a clean rag in the bathtub 12881
+place rags in the drawer 13421
+move two cloths to the drawer 13422
+place two rags into a drawer 13423
+place two rags inside the vanity drawer 13424
+put two rags in the bathroom drawer  13425
+put two red clothes in a drawer under the counter to the right of the sink 13426
+pick up two rags and place in the vanity drawer 13427
+move two red rags into a drawer 13428
+put two clothes into the drawer 13429
+move two cloths from cabinets to the back of the toilet 14039
+put the red towels on the toilet 14040
+move the red rags from the cabinet to the top of the toilet tank 14041
+place two cloths on the back of the toilet 14042
+place two rags onto the top of the toilet  14043
+put two cloths on the back of the toilet 14044
+move two rags from the tub to a small white dresser 14359
+to move two dirty rags to the table to the right of the sink 14360
+place two black cloths on the dresser 14361
+put two rags on top of a cabinet 14362
+put two rags on the white table  14363
+place two pieces of cloth on the cupboard
+
+ 14364
+place two rags from the bath tub on the small white table to the right of the sink 14365
+move two black rags to a small white dresser 14366
+to move two rags from the bath tub to the small white table to the right of the sink 14367
+put a yellow cloth in to the bath tub 14698
+put a yellow rag in the tub 14699
+move the wash cloth from the sink to the bath tub  14700
+move a yellow rag from the sink to the bathtub 14701
+pick up the cloth in sink and put it in the tub 14702
+move a towel from the sink to the tub 14703
+wash the cloth from the tub in the sink put it back in the tub 15560
+put a clean cloth in to the bath tub 15561
+put a cleaned rag in the tub 15562
+place a clean rag in the middle of the tub 15563
+clean the dirty cloth put back on the tub 15564
+rinse a washcloth and take it to the bath tub 15565
+wash the cloth in the sink on the left 15729
+clean a rag and put it back on the counter 15730
+put clean cloth on the middle counter 15731
+rinse a cloth and place it on the counter 15732
+wash cloth with water 15733
+place a wet wash cloth on the counter by the spray bottle  15734
+rinse the rag removed from the tub 15735
+wash cloth then place on counter 15736
+soak a hand towel in the sink 15737
+put two rags in the drawer in the cabinet 16574
+place two towels in a bathroom drawer 16575
+to move two rags to the bottom drawer  16576
+place two towels in a drawer 16577
+pick up cloths and place them in drawer 16578
+move wash rags to drawer 16579
+to move two pink rags to the drawer  16580
+put two clothes into drawer 16581
+put two tissues into a drawer 16582
+put a wet wash cloth on the toilet 16978
+put a cleaned rag on the toilet tank lid  16979
+put a washed rag on toilet tank 16980
+place a clean cloth on top of the back side of the toilet 16981
+place a clean rag on a toilet tank 16982
+put a clean black rag on the toilet tank 16983
+put a clean rag on the back of the toilet 16984
+place a clean rag on a toilet tank 16985
+put the clean cloth on the tank 16986
+place a clean cloth on top of the back side of the toilet 16987
+rinse a white rag from the bathtub to put it on the lid of the toilet tank 16988
+place a clean rag on top of the toilet 16989
+put the clean cloth on the toilet tank 16990
+place a clean wash cloth on top of the back side of the toilet 16991
+put a clean wash cloth on the toilet 16992
+to clean a rag to put back into the tub 17020
+clean cloth and return to tub 17021
+put a clean towel in the tub 17022
+put a cleaned rag in the tub  17023
+to clean a rag as well as put it back in the bath tub 17024
+throw a rinsed washcloth back into the bathtub it came from 17025
+put a cleaned rag in a drawer under the right sink  17327
+place a clean towel in a drawer 17328
+soak the towel and place it inside the drawer 17329
+put the wet rag in the drawer  17330
+soak a cloth and put it away 17331
+put a rinsed cloth in the drawer below the rightmost sink 17332
+put a wash clean cloth in a cabinet 17333
+rinse a cloth and put it away in the drawer 17334
+wash the yellow cloth put it in the drawer 17335
+put the cleaned cloth on the metal shelf 17456
+put a clean rag on the top shelf of a shelving unit 17457
+put a clean rag on the rack 17458
+put a wet towel on top of the wire rack 17459
+place a clean rag on top of the metal rack 17460
+put a wet cloth on a shelf 17461
+put a wet wash cloth on the shelf 17462
+put a clean towel on a shelf 17463
+place a clean black towel on the metal rack 17464
+put two clothes on the dresser 18585
+move two rags from the floor to the dresser  18586
+place a green and white rag on top of a dresser 18587
+put two rags on a dresser  18588
+place two towels on a dresser 18589
+move the laundry on the floor onto the dresser 18590
+moving two rags from the floor to the dresser 18591
+move two rags to a dresser 18592
+pick the rags up off the floor and place them on the dresser 18593
+put a clean rag in the drawer  18752
+place a rinsed towel in a drawer 18753
+putting a clean rag in a drawer 18754
+wash the green rag for 4 seconds put the rag in the drawer 18755
+pick up dirty cloth from counter wash cloth put in drawer 18756
+put a cloth in a drawer 18757
+place a cloth in the tub 19525
+place a cloth in a bath tub 19526
+take the towel from the cabinet to put it in the tub 19527
+put a rag in the tub 19528
+put a black rag in a tub 19529
+move the cloth from the sink to the tub 19530
+place a rag in the tub 19531
+put a rag in the tub  19532
+place a black cloth inside the bathtub 19533
+wash a dirty tissue and put it back where it was 19569
+place a clean towel on the bathroom cabinet on the right side 19570
+clean a cloth and place it on the sink 19571
+put the clean cloth on the right side of sink counter 19572
+put a cleaned rag on the counter right of the sink  19573
+place a clean rag on a counter 19574
+taking a dirty rag and cleaning it off to put away 19776
+washing a dirty rag  19777
+put a clean washcloth on the back of the toilet 19778
+put a clean purple cloth on the lid of the toilet tank 19779
+place a clean cloth on the toilet 19780
+place a clean cloth on top of the toilet cistern 19781
+place a clean purple cloth on top of the bathroom toilet 19782
+place a cleaned rag on top of a toilet 19783
+put a clean rag on a toilet tank 19784
+place a rinsed towel inside a tub 20652
+rinse a rag off in the sink and put it inside of the tub 20653
+put a cleaned cloth in a bath tub 20654
+to wash a rag and place it in the bath tub 20655
+rinse a cloth and place it in the bath tub 20656
+place a clean rag in the tub 20657
+place a rinsed towel in a tub 20658
+replace a dirty rag from the bathtub with a clean one 20659
+rinse the rag and put it in the tub  20660
+put a clean cloth on the back of the toilet 20697
+put the clean cloth on the toilet tank 20698
+put a washed rag on the toilet 20699
+clean a cloth and place it on the toilet tank 20700
+put a clean wash cloth on the toilet 20701
+place a rinsed towel on a toilet tank 20702
