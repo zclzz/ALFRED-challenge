@@ -17,12 +17,11 @@ PLease make sure that you are using **Python 3.6** and **AI2THOR ver. 2.1.0**.
 ### Dataset
 
 
-PLease download the [dataset](https://github.com/askforalfred/alfred/tree/master/data) from here.
+Please download the [dataset](https://github.com/askforalfred/alfred/tree/master/data) from here.
 
-   - Follow the instructions in the [FILM](https://github.com/soyeonm/FILM) repo to get started ensuring that that your files are structured in a similar manner
+   - Follow the instructions in the [FILM](https://github.com/soyeonm/FILM) repo to get started ensuring that your files are structured in a similar manner
 
-   - The last step asks to create a soft link from `json_2.1.0` to `alfred_data_all`. However, in our experience we had to link from `alfred_feat_2.1.0`. The target folder is still the same, though (`json_2.1.0`).
-
+   - The last step asks to create a soft link from `json_2.1.0` to `alfred_data_all`. However, in my experience I had to link from `alfred_feat_2.1.0`.
      ```bash
      # before
      ln -s $ALFRED_ROOT/data/json_2.1.0 $FILM/alfred_data_all
@@ -47,7 +46,7 @@ PLease download the [dataset](https://github.com/askforalfred/alfred/tree/master
 
 ## Training / Evaluation
 
-My agent relies on the pre-trained segmentation models, however the large language models for language understanding were self-trained and fine tuned.
+My agent relies on the pre-trained segmentation models, however, the large language models for language understanding were self-trained and fine-tuned.
 
 If you plan on using some pre-trained language models trained by FILM, please follow the instructions below:
 
