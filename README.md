@@ -1,8 +1,8 @@
 # Using Natural Language to Command Embodied Artificial Intelligence
 
 [Strategic Task Execution: Integrating Large Language Models, POMDP, and Customized Reordering Policy for Sequence Selection
-](https://zclzz.github.io/alfred_blog/)<br />
-[Chao Zhou Lim](https://zclzz.github.io/portfolio/), advised by Dr. Kim Jung-Jae and Dr. Goh Shen Tat<br />
+](https://chaozhoulim.com/projects/fyp/)<br />
+[Chao Zhou Lim](www.chaozhoulim.com), advised by Dr. Kim Jung-Jae and Dr. Goh Shen Tat<br />
 
 ![example](./miscellaneous/coffee_edited-ezgif.com-optimize.gif)
 
