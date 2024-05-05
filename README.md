@@ -33,14 +33,14 @@ Please download the [dataset](https://github.com/askforalfred/alfred/tree/master
    - After this step, `alfred_data_all` directory should look like this:
 
       ```bash
-   alfred_data_all
-      └── json_2.1.0
-       ├── tests_unseen
-          ├── tests_seen
-          ├── valid_unseen
-          ├── tests_seen
-          ├── trial_T2019...
-          └── ...
+      alfred_data_all
+         └── json_2.1.0
+          ├── tests_unseen
+             ├── tests_seen
+             ├── valid_unseen
+             ├── tests_seen
+             ├── trial_T2019...
+             └── ...
       ```
 
 
