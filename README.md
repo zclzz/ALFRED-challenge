@@ -62,6 +62,10 @@ If you plan on using some pre-trained language models trained by FILM, please fo
       mv Pretrained_Models_FILM/new_best_model.pt models/semantic_policy/best_model_multi.pt
       ```
 
+## Evaluations
+
+Follow the evaluation steps from the Prompter's repo. As the evaluation simulation process takes up high compute resources, I have written a shell script to manually run one episode at a time for evaluation on the validation sets.
+
 ## Acknowledgements
 
 My agent's system is based on [Prompter's repository](https://github.com/hitachi-rd-cv/prompter-alfred) and [FILM's repository](https://github.com/soyeonm/FILM).
