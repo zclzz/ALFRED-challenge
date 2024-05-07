@@ -4,7 +4,7 @@
 ](https://chaozhoulim.com/projects/fyp/)<br />
 [Chao Zhou Lim](www.chaozhoulim.com), advised by Dr. Kim Jung-Jae and Dr. Goh Shen Tat<br />
 
-![example](./miscellaneous/example_gif.gif)
+![example](./miscellaneous/example.gif)
 
 
 
